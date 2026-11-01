@@ -21,6 +21,10 @@ SITEMAPS = {
     "Primal Gourmet": ["https://cookprimalgourmet.com/post-sitemap.xml"],
     "The Mediterranean Dish": ["https://www.themediterraneandish.com/post-sitemap.xml", "https://www.themediterraneandish.com/post-sitemap2.xml"],
     "Real Food with Jessica": ["https://www.realfoodwithjessica.com/post-sitemap.xml"],
+    "Jamie Geller (kosher)": ["https://jamiegeller.com/post-sitemap.xml", "https://jamiegeller.com/post-sitemap2.xml", "https://jamiegeller.com/post-sitemap3.xml", "https://jamiegeller.com/post-sitemap4.xml"],
+    "Feel Good Foodie": ["https://feelgoodfoodie.net/recipe-sitemap.xml", "https://feelgoodfoodie.net/recipe-sitemap2.xml"],
+    "Eating Bird Food": ["https://www.eatingbirdfood.com/post-sitemap.xml", "https://www.eatingbirdfood.com/post-sitemap2.xml"],
+    "Fed & Fit": ["https://fedandfit.com/post-sitemap.xml", "https://fedandfit.com/post-sitemap2.xml"],
 }
 KEYS = {
     "sweet3": r"smoothie|shake|energy-ball|energy-bite|date-ball|bliss-ball|protein-ball|stuffed-date|fruit-salad|nice-cream|popsicle|frozen-banana|chia-pudding|larabar|fruit-platter|baked-apple|poached",
