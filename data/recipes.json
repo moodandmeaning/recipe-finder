@@ -2,6 +2,604 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "southwest-stuffed-sweet-potatoes-cashew-sauce",
+      "url": "https://detoxinista.com/southwest-stuffed-sweet-potatoes/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2023/11/southwest-stuffed-sweet-potatoes.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 60,
+      "totalMinutes": 70,
+      "servings": 4,
+      "nutrition": {
+        "calories": 528,
+        "protein": 17
+      },
+      "en": {
+        "title": "Southwest Stuffed Sweet Potatoes with Cashew 'Cheese' Sauce",
+        "description": "Baked sweet potatoes filled with spiced black beans, peppers and spinach, drizzled with a creamy, tangy cashew and green chile sauce.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Prick the sweet potatoes, rub with a little oil, and bake on a lined sheet about 60 minutes until very tender.",
+          "Blend the cashews, lemon juice, green chiles, salt, water and jalapeños until silky.",
+          "With 15 minutes left, sauté the onion and pepper in 1 tbsp oil for 5–8 minutes. Add the spices, beans, spinach and salt and cook until the spinach wilts.",
+          "Split the potatoes, fill them with the bean mixture and drizzle with the cashew sauce."
+        ],
+        "whyFits": "The 'cheese' sauce is made from cashews, so there's no dairy. Vegetables and legumes with very little oil. No grains or sugar.",
+        "ingredients": [
+          "4 medium sweet potatoes",
+          "1 tbsp extra virgin olive oil, plus more for the potatoes",
+          "½ large red onion, diced",
+          "1 red bell pepper, diced",
+          "½ tsp ground cumin",
+          "½ tsp chili powder",
+          "½ tsp dried oregano",
+          "1 can (400 g) black beans, drained and rinsed",
+          "2 cups baby spinach, roughly chopped",
+          "½ tsp fine sea salt",
+          "1 cup raw unsalted cashews (sauce)",
+          "1½ tbsp lemon juice (sauce)",
+          "1 can (115 g) green chiles with their juice (sauce)",
+          "¾ tsp fine sea salt (sauce)",
+          "6 tbsp water (sauce)",
+          "6 pickled jalapeño slices (sauce)"
+        ]
+      },
+      "he": {
+        "title": "בטטות ממולאות בשעועית שחורה עם רוטב ״גבינה״ מקשיו",
+        "description": "בטטות אפויות ממולאות בשעועית שחורה מתובלת, פלפלים ותרד, עם רוטב קרמי וחמצמץ של קשיו וצ׳ילי ירוק.",
+        "ingredients": [
+          "4 בטטות בינוניות",
+          "כף שמן זית, ועוד לבטטות",
+          "½ בצל סגול גדול, קצוץ",
+          "פלפל אדום, קצוץ",
+          "½ כפית כמון טחון",
+          "½ כפית אבקת צ׳ילי",
+          "½ כפית אורגנו יבש",
+          "קופסת שעועית שחורה (400 גרם), מסוננת ושטופה",
+          "2 כוסות עלי תרד, קצוצים גס",
+          "½ כפית מלח ים דק",
+          "כוס קשיו טבעי לא מלוח (לרוטב)",
+          "1½ כפות מיץ לימון (לרוטב)",
+          "קופסת צ׳ילי ירוק עם הנוזל (115 גרם, לרוטב)",
+          "¾ כפית מלח ים דק (לרוטב)",
+          "6 כפות מים (לרוטב)",
+          "6 פרוסות חלפיניו כבוש (לרוטב)"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. דוקרים את הבטטות, מורחים מעט שמן ואופים בתבנית מרופדת כשעה עד שהן רכות מאוד.",
+          "טוחנים קשיו, מיץ לימון, צ׳ילי ירוק, מלח, מים וחלפיניו עד שהרוטב חלק לגמרי.",
+          "15 דקות לפני סוף האפייה, מאדים בצל ופלפל בכף שמן 5–8 דקות. מוסיפים תבלינים, שעועית, תרד ומלח ומבשלים עד שהתרד מתרכך.",
+          "חוצים את הבטטות, ממלאים בתערובת השעועית ומזלפים מעל את רוטב הקשיו."
+        ],
+        "whyFits": "רוטב ה״גבינה״ עשוי מקשיו, כך שאין בו חלב. ירקות וקטניות עם מעט מאוד שמן. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "roasted-cabbage-steaks-chermoula-walnuts",
+      "url": "https://www.themediterraneandish.com/cabbage-steaks-with-green-chermoula-and-toasted-walnuts/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/12/TMD-Cabbage-Steaks-Leads-01-Horizontal-Edited-1.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "totalMinutes": 50,
+      "servings": 6,
+      "nutrition": {
+        "calories": 190,
+        "protein": 3
+      },
+      "en": {
+        "title": "Roasted Cabbage Steaks with Green Chermoula and Walnuts",
+        "description": "Thick slices of cabbage roasted until tender and caramelized, topped with a zesty herb chermoula and toasted walnuts.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and line a sheet pan with oiled foil.",
+          "Cut the cabbage through the core into 2.5 cm thick slices (6–7 'steaks').",
+          "Brush both sides with olive oil, season with salt and pepper, and roast 25 minutes. Flip and roast 10 minutes more.",
+          "Pulse the parsley, cilantro, garlic, spices, salt, lemon zest, juice of ½ lemon and the olive oil into a coarse sauce. Adjust with more lemon or oil.",
+          "Toast the walnuts in a dry pan 3–5 minutes. Spoon the chermoula over the cabbage and sprinkle with walnuts."
+        ],
+        "whyFits": "Vegetables, herbs, nuts and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 large head of cabbage",
+          "Extra virgin olive oil",
+          "1 ¼ teaspoon kosher salt",
+          "1 teaspoon freshly ground black pepper",
+          "1 packed cup fresh parsley (ends trimmed)",
+          "1 packed cup fresh cilantro (ends trimmed)",
+          "2 garlic cloves",
+          "1 teaspoon ground coriander",
+          "1/4 teaspoon red pepper flakes",
+          "1/2 teaspoon sweet paprika",
+          "1/2 teaspoon ground ginger",
+          "1/4 teaspoons kosher salt",
+          "1 lemon",
+          "1/3 cup Extra virgin olive oil",
+          "1/4 cup walnut halves (chopped, to finish)"
+        ]
+      },
+      "he": {
+        "title": "״סטייקים״ של כרוב צלוי עם צ׳רמולה ירוקה ואגוזי מלך",
+        "description": "פרוסות עבות של כרוב צלוי עד שהוא רך ומקורמל, עם צ׳רמולה רעננה של עשבי תיבול ואגוזי מלך קלויים.",
+        "ingredients": [
+          "ראש כרוב גדול",
+          "שמן זית",
+          "1¼ כפית מלח גס",
+          "כפית פלפל שחור גרוס",
+          "כוס דחוסה פטרוזיליה",
+          "כוס דחוסה כוסברה",
+          "2 שיני שום",
+          "כפית כוסברה טחונה",
+          "¼ כפית צ׳ילי גרוס",
+          "½ כפית פפריקה מתוקה",
+          "½ כפית ג׳ינג׳ר טחון",
+          "¼ כפית מלח גס",
+          "לימון",
+          "⅓ כוס שמן זית",
+          "¼ כוס אגוזי מלך קצוצים, לסיום"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומרפדים תבנית בנייר כסף משומן.",
+          "חותכים את הכרוב דרך הלב לפרוסות בעובי 2.5 ס״מ (6–7 ״סטייקים״).",
+          "מברישים שמן זית משני הצדדים, מתבלים במלח ופלפל וצולים 25 דקות. הופכים וצולים עוד 10 דקות.",
+          "טוחנים במעבד מזון בפולסים פטרוזיליה, כוסברה, שום, תבלינים, מלח, גרידת לימון, מיץ מחצי לימון ושמן זית לרוטב גס. מתקנים בעוד לימון או שמן.",
+          "קולים את האגוזים במחבת יבשה 3–5 דקות. יוצקים את הצ׳רמולה על הכרוב ומפזרים אגוזים."
+        ],
+        "whyFits": "ירקות, עשבי תיבול, אגוזים ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cauliflower-rice-risotto-asparagus-mushrooms",
+      "url": "https://detoxinista.com/vegan-cauliflower-rice-risotto-with-asparagus-mushrooms/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2017/05/healthy-caulflower-rice-risotto-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 2,
+      "nutrition": {
+        "calories": 156,
+        "protein": 6
+      },
+      "en": {
+        "title": "Cauliflower Rice 'Risotto' with Asparagus and Mushrooms",
+        "description": "A creamy, risotto-style dish of riced cauliflower simmered in coconut milk with sautéed onion, mushrooms, asparagus and thyme.",
+        "steps": [
+          "Heat the oil in a large pan over medium heat. Cook the onion 5 minutes, then the mushrooms and asparagus 5 minutes more.",
+          "If needed, pulse cauliflower florets in a food processor until they look like rice.",
+          "Add the garlic, balsamic and thyme for 1 minute, then the cauliflower rice, coconut milk and 1 tsp salt.",
+          "Bring to a simmer, cover, and cook on low about 10 minutes until tender. Simmer off any extra liquid and season.",
+          "Serve with green onions and black pepper."
+        ],
+        "whyFits": "Cauliflower replaces rice and coconut milk replaces butter and parmesan. No grains, dairy or sugar.",
+        "ingredients": [
+          "1 tablespoon extra virgin olive oil",
+          "1 large yellow onion (diced)",
+          "8 ounces mushrooms (sliced)",
+          "12 ounces asparagus (cut into 1-inch pieces)",
+          "1 clove garlic",
+          "1 tablespoon high quality balsamic vinegar",
+          "1/2 teaspoon dried thyme (or 1 teaspoon fresh)",
+          "1 pound cauliflower rice",
+          "3/4 cup coconut milk",
+          "Fine sea salt",
+          "Sliced green onions (for garnish)",
+          "Black pepper (for garnish)"
+        ]
+      },
+      "he": {
+        "title": "״ריזוטו״ אורז כרובית עם אספרגוס ופטריות",
+        "description": "מנה קרמית בסגנון ריזוטו מאורז כרובית שמתבשל בחלב קוקוס עם בצל, פטריות, אספרגוס וטימין.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב גדול, קצוץ",
+          "225 גרם פטריות, פרוסות",
+          "340 גרם אספרגוס, בחתיכות של 2.5 ס״מ",
+          "שן שום",
+          "כף חומץ בלסמי איכותי",
+          "½ כפית טימין יבש (או כפית טרי)",
+          "450 גרם אורז כרובית",
+          "¾ כוס חלב קוקוס",
+          "מלח ים דק",
+          "בצל ירוק פרוס לקישוט",
+          "פלפל שחור לקישוט"
+        ],
+        "steps": [
+          "מחממים שמן במחבת רחבה על אש בינונית. מאדים בצל 5 דקות, ואז פטריות ואספרגוס עוד 5 דקות.",
+          "אם צריך, טוחנים פרחי כרובית במעבד מזון בפולסים עד שהם נראים כמו אורז.",
+          "מוסיפים שום, בלסמי וטימין לדקה, ואז אורז כרובית, חלב קוקוס וכפית מלח.",
+          "מביאים לבעבוע, מכסים ומבשלים על אש נמוכה כ-10 דקות עד שהכרובית רכה. מאדים נוזלים עודפים ומתקנים תיבול.",
+          "מגישים עם בצל ירוק ופלפל שחור."
+        ],
+        "whyFits": "כרובית במקום אורז, וחלב קוקוס במקום חמאה ופרמזן. בלי דגנים, חלב או סוכר."
+      }
+    },
+    {
+      "id": "zaalouk-moroccan-eggplant",
+      "url": "https://www.themediterraneandish.com/zaalouk-moroccan-eggplant-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/zaalouk-FINAL-17.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 81,
+        "protein": 2
+      },
+      "en": {
+        "title": "Zaalouk (Moroccan Eggplant and Tomato)",
+        "description": "Eggplant and tomatoes stewed with garlic, cumin, smoked paprika and fresh herbs, then mashed and finished with lemon.",
+        "steps": [
+          "Toss the eggplant cubes with salt and let them sit a few minutes. Wipe off the excess salt.",
+          "Heat 2 tbsp oil in a large lidded pan. Add the eggplant, tomatoes and garlic, season with salt and the spices, and cook about 5 minutes. Add the herbs and ⅓ cup water.",
+          "Bring to a boil, cover, and simmer on low about 20 minutes until very tender, adding water if it sticks.",
+          "Stir in the lemon juice and mash to the texture you like.",
+          "Serve warm or at room temperature, with a drizzle of olive oil, cilantro and pepper flakes."
+        ],
+        "whyFits": "Vegetables, spices and a little olive oil. Serve it with vegetables or as a side, not with the bread the original suggests. No dairy, grains or sugar. Keeps well for Shabbat.",
+        "ingredients": [
+          "1 medium globe eggplant (peeled and cut into 1 ½ inch cubes)",
+          "Kosher salt",
+          "2 tablespoons extra virgin olive oil",
+          "2 to 3 large tomatoes (diced)",
+          "3 large garlic cloves (minced)",
+          "2 teaspoons ground cumin",
+          "1 teaspoon smoked paprika",
+          "1 teaspoon crushed red pepper flakes",
+          "¼ cup chopped cilantro (more for garnish)",
+          "¼ cup chopped parsley",
+          "water",
+          "1 lemon (juice of)"
+        ]
+      },
+      "he": {
+        "title": "זעלוק (חצילים ועגבניות מרוקאי)",
+        "description": "חצילים ועגבניות מבושלים עם שום, כמון, פפריקה מעושנת ועשבי תיבול, מעוכים ומסתיימים בלימון.",
+        "ingredients": [
+          "חציל בינוני, קלוף ובקוביות של 4 ס״מ",
+          "מלח גס",
+          "2 כפות שמן זית",
+          "2–3 עגבניות גדולות, קצוצות",
+          "3 שיני שום גדולות, כתושות",
+          "2 כפיות כמון טחון",
+          "כפית פפריקה מעושנת",
+          "כפית צ׳ילי גרוס",
+          "¼ כוס כוסברה קצוצה, ועוד לקישוט",
+          "¼ כוס פטרוזיליה קצוצה",
+          "מים",
+          "מיץ מלימון אחד"
+        ],
+        "steps": [
+          "מערבבים את קוביות החציל עם מלח ומשאירים כמה דקות. מנגבים את המלח העודף.",
+          "מחממים 2 כפות שמן במחבת רחבה עם מכסה. מוסיפים חציל, עגבניות ושום, מתבלים במלח ובתבלינים ומבשלים כ-5 דקות. מוסיפים עשבי תיבול ו-⅓ כוס מים.",
+          "מביאים לרתיחה, מכסים ומבשלים על אש נמוכה כ-20 דקות עד שהכול רך מאוד, ומוסיפים מים אם נדבק.",
+          "מערבבים פנימה מיץ לימון ומועכים למרקם הרצוי.",
+          "מגישים חם או בטמפרטורת החדר, עם זילוף שמן זית, כוסברה וצ׳ילי."
+        ],
+        "whyFits": "ירקות, תבלינים ומעט שמן זית. מגישים עם ירקות או כתוספת, לא עם הלחם שהמקור מציע. בלי חלב, דגנים או סוכר. נשמר יפה לשבת."
+      }
+    },
+    {
+      "id": "whole-roasted-cauliflower",
+      "url": "https://detoxinista.com/whole-roasted-cauliflower/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2020/11/whole-roasted-cauliflower.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 60,
+      "totalMinutes": 70,
+      "servings": 6,
+      "nutrition": {
+        "calories": 88,
+        "protein": 2
+      },
+      "en": {
+        "title": "Whole Roasted Cauliflower",
+        "description": "A whole head of cauliflower brushed with garlic, lemon and olive oil and roasted until tender inside and golden outside.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) with the rack low. Trim the core flat and remove the leaves.",
+          "Mix 3 tbsp oil with the salt, garlic powder, lemon juice and pepper.",
+          "Brush half the mixture on the bottom of the cauliflower, then turn it upright and brush it all over with the rest.",
+          "Pour ¼ cup water into the pan and roast 60 minutes. Check the core with a knife and roast 15 minutes more if needed.",
+          "Rest 10 minutes, then cut into wedges."
+        ],
+        "whyFits": "One vegetable, olive oil and seasonings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 head cauliflower (2 to 3 pounds)",
+          "3 to 4 tablespoons olive oil",
+          "1 teaspoon fine sea salt",
+          "1 teaspoon garlic powder",
+          "1 teaspoon lemon juice",
+          "freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "כרובית שלמה צלויה",
+        "description": "ראש כרובית שלם מוברש בשום, לימון ושמן זית, צלוי עד שהוא רך מבפנים ומוזהב מבחוץ.",
+        "ingredients": [
+          "ראש כרובית (0.9–1.4 ק״ג)",
+          "3–4 כפות שמן זית",
+          "כפית מלח ים דק",
+          "כפית אבקת שום",
+          "כפית מיץ לימון",
+          "פלפל שחור גרוס"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות עם רשת נמוכה. מיישרים את הגבעול ומסירים את העלים.",
+          "מערבבים 3 כפות שמן עם מלח, אבקת שום, מיץ לימון ופלפל.",
+          "מברישים חצי מהתערובת על תחתית הכרובית, הופכים אותה וממרחים את השאר מכל הצדדים.",
+          "יוצקים ¼ כוס מים לתבנית וצולים 60 דקות. בודקים את הליבה בסכין, ואם צריך מוסיפים 15 דקות.",
+          "נותנים לנוח 10 דקות וחותכים לפלחים."
+        ],
+        "whyFits": "ירק אחד, שמן זית ותבלינים. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "shaved-king-oyster-mushroom-salad",
+      "url": "https://nomnompaleo.com/king-oyster-mushroom-salad-with-lemon-vegan-keto-whole30",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2021/08/800-MushroomSalad-aaDSC_7505.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 70,
+      "servings": 4,
+      "nutrition": {
+        "calories": 90,
+        "protein": 3
+      },
+      "en": {
+        "title": "Shaved Mushroom Salad with Lemon and Herbs",
+        "description": "Paper-thin king oyster mushrooms 'cooked' in lemon, olive oil and nutritional yeast, finished with chives and parsley.",
+        "steps": [
+          "Trim the mushroom bases and slice them paper-thin lengthwise (a mandoline helps).",
+          "Toss with the salt, pepper, lemon zest and juice, olive oil and nutritional yeast.",
+          "Cover and leave at least 1 hour at room temperature (or up to a day in the fridge) so the mushrooms soften.",
+          "Add the chives and parsley, toss, and adjust the seasoning."
+        ],
+        "whyFits": "Mushrooms, lemon, herbs and olive oil. Nutritional yeast gives a savory flavor without cheese. No dairy, grains or sugar.",
+        "ingredients": [
+          "½ pound king oyster mushrooms (or button mushrooms)",
+          "¾ teaspoon Diamond Crystal kosher salt",
+          "½ teaspoon Freshly ground black pepper",
+          "1½ teaspoons grated lemon zest",
+          "1 tablespoon freshly squeezed lemon juice",
+          "2 tablespoons extra virgin olive oil",
+          "1 tablespoon nutritional yeast",
+          "1 tablespoon minced chives",
+          "1 tablespoon minced Italian parsley"
+        ]
+      },
+      "he": {
+        "title": "סלט פטריות פרוסות דק עם לימון ועשבי תיבול",
+        "description": "פטריות מלך היער פרוסות דק מאוד ומשרות בלימון, שמן זית ושמרי בירה, עם עירית ופטרוזיליה.",
+        "ingredients": [
+          "225 גרם פטריות מלך היער (או שמפיניון)",
+          "¾ כפית מלח גס",
+          "½ כפית פלפל שחור גרוס",
+          "1½ כפית גרידת לימון",
+          "כף מיץ לימון",
+          "2 כפות שמן זית",
+          "כף שמרי בירה",
+          "כף עירית קצוצה",
+          "כף פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "חותכים את בסיס הפטריות ופורסים לאורך דק מאוד (במנדולינה).",
+          "מערבבים עם מלח, פלפל, גרידה ומיץ לימון, שמן זית ושמרי בירה.",
+          "מכסים ומשאירים לפחות שעה בטמפרטורת החדר (או עד יום במקרר) כדי שהפטריות יתרככו.",
+          "מוסיפים עירית ופטרוזיליה, מערבבים ומתקנים תיבול."
+        ],
+        "whyFits": "פטריות, לימון, עשבי תיבול ושמן זית. שמרי הבירה נותנים טעם עשיר בלי גבינה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "braised-red-cabbage-apple",
+      "url": "https://nomnompaleo.com/chez-panisse-braised-red-cabbage",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2011/04/Chez-Panisse-Braised-Red-Cabbage.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 123,
+        "protein": 2
+      },
+      "en": {
+        "title": "Braised Red Cabbage with Apple",
+        "description": "Thinly sliced red cabbage and onion braised with sherry vinegar and bay leaf, then sweetened only with grated apple.",
+        "steps": [
+          "Thinly slice the cabbage and onion.",
+          "Heat the fat in a large skillet over medium heat and sauté the onion about 5 minutes.",
+          "Add the cabbage, vinegar, bay leaf, salt, pepper and water. Bring to a boil, cover, and simmer on low 20 minutes.",
+          "Stir in the grated apple, cover, and cook 5 minutes more. Season to taste."
+        ],
+        "whyFits": "Vegetables sweetened only by apple, with no sugar. Olive oil works instead of the original's duck fat. No dairy or grains. Keeps well for Shabbat.",
+        "ingredients": [
+          "1 red cabbage, core removed, sliced very thin",
+          "1 medium onion, thinly sliced",
+          "3 tbsp olive oil (or kosher duck/chicken fat)",
+          "1 tbsp sherry vinegar",
+          "1 dried bay leaf",
+          "Kosher salt",
+          "Black pepper",
+          "½ cup water",
+          "1 apple, peeled and grated"
+        ]
+      },
+      "he": {
+        "title": "כרוב סגול מבושל עם תפוח",
+        "description": "כרוב סגול ובצל פרוסים דק, מבושלים עם חומץ שרי ועלה דפנה, וממותקים רק בתפוח מגורר.",
+        "ingredients": [
+          "כרוב סגול, בלי הלב, פרוס דק מאוד",
+          "בצל בינוני, פרוס דק",
+          "3 כפות שמן זית (או שומן ברווז/עוף כשר)",
+          "כף חומץ שרי",
+          "עלה דפנה יבש",
+          "מלח גס",
+          "פלפל שחור",
+          "½ כוס מים",
+          "תפוח, קלוף ומגורר"
+        ],
+        "steps": [
+          "פורסים דק את הכרוב והבצל.",
+          "מחממים את השומן במחבת רחבה על אש בינונית ומאדים את הבצל כ-5 דקות.",
+          "מוסיפים כרוב, חומץ, עלה דפנה, מלח, פלפל ומים. מביאים לרתיחה, מכסים ומבשלים על אש נמוכה 20 דקות.",
+          "מערבבים פנימה את התפוח המגורר, מכסים ומבשלים עוד 5 דקות. מתקנים תיבול."
+        ],
+        "whyFits": "ירקות שממותקים רק בתפוח, בלי סוכר. שמן זית מתאים במקום שומן הברווז שבמקור. בלי חלב ובלי דגנים. נשמר יפה לשבת."
+      }
+    },
+    {
+      "id": "simple-roasted-butternut-squash",
+      "url": "https://therealfooddietitians.com/roasted-butternut-squash/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2016/10/Roasted-Butternut-Squash_LowRes-017-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 98,
+        "protein": 2
+      },
+      "en": {
+        "title": "Simple Roasted Butternut Squash",
+        "description": "Golden, caramelized cubes of butternut squash roasted with a little oil, salt and pepper. Great on its own or added to salads.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and line a large baking sheet with parchment.",
+          "Peel the squash, halve it, scoop out the seeds, and cut it into 1.5–2.5 cm cubes.",
+          "Spread on the sheet, drizzle with the oil, season with salt and pepper, and toss.",
+          "Roast 30–35 minutes, stirring halfway, until golden. Sprinkle with thyme or rosemary if you like."
+        ],
+        "whyFits": "One vegetable and a little oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 medium to large butternut squash, cubed (7-8 cups)",
+          "2 tablespoons avocado oil or olive oil",
+          "½ teaspoon fine salt",
+          "¼ teaspoon black pepper",
+          "Optional for garnish: fresh thyme or chopped fresh rosemary"
+        ]
+      },
+      "he": {
+        "title": "דלעת ערמונים צלויה בפשטות",
+        "description": "קוביות דלעת ערמונים זהובות ומקורמלות, צלויות עם מעט שמן, מלח ופלפל. טובות לבד או בתוך סלטים.",
+        "ingredients": [
+          "דלעת ערמונים בינונית-גדולה, בקוביות (7–8 כוסות)",
+          "2 כפות שמן אבוקדו או זית",
+          "½ כפית מלח דק",
+          "¼ כפית פלפל שחור",
+          "לקישוט (לא חובה): טימין או רוזמרין טרי"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומרפדים תבנית גדולה בנייר אפייה.",
+          "מקלפים את הדלעת, חוצים, מוציאים גרעינים וחותכים לקוביות של 1.5–2.5 ס״מ.",
+          "מפזרים בתבנית, מזלפים שמן, מתבלים במלח ופלפל ומערבבים.",
+          "צולים 30–35 דקות, מערבבים באמצע, עד להזהבה. אפשר לפזר טימין או רוזמרין."
+        ],
+        "whyFits": "ירק אחד ומעט שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "butternut-eggplant-broccoli-stir-fry",
+      "url": "https://downshiftology.com/recipes/butternut-squash-and-eggplant-stir-fry/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2021/09/Butternut-Squash-Eggplant-Stir-Fry-main-1.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 210,
+        "protein": 4
+      },
+      "en": {
+        "title": "Butternut Squash, Eggplant and Broccoli Stir-Fry",
+        "description": "Caramelized squash, eggplant and crisp broccoli tossed in a quick sauce of coconut aminos, balsamic, a little honey and sesame oil.",
+        "steps": [
+          "Stir together the coconut aminos, balsamic, honey and sesame oil.",
+          "Heat 2 tbsp oil in a wok or large pan over medium heat. Cook the squash with salt and pepper about 5 minutes until the edges caramelize.",
+          "Add the eggplant and 1 more tbsp oil for 2–3 minutes, then the broccoli, white parts of the green onion and garlic for 2–3 minutes more.",
+          "Add the sauce, the green onion greens and the thyme and toss well."
+        ],
+        "whyFits": "Coconut aminos replace soy sauce (which has wheat). Only 1 tbsp of honey for 4 servings. No dairy or grains.",
+        "ingredients": [
+          "3 tbsp extra virgin olive oil",
+          "2 cups diced butternut squash",
+          "½ tsp kosher salt",
+          "¼ tsp black pepper",
+          "1 eggplant, diced",
+          "2 cups broccoli florets",
+          "3 green onions, sliced (white and green parts separated)",
+          "3 garlic cloves",
+          "2 tsp fresh thyme leaves, roughly chopped",
+          "2 tbsp coconut aminos",
+          "1 tbsp balsamic vinegar",
+          "1 tbsp honey",
+          "1 tsp sesame oil"
+        ]
+      },
+      "he": {
+        "title": "מוקפץ דלעת, חציל וברוקולי",
+        "description": "דלעת מקורמלת, חציל וברוקולי פריך ברוטב מהיר של קוקוס אמינוס, בלסמי, מעט דבש ושמן שומשום.",
+        "ingredients": [
+          "3 כפות שמן זית",
+          "2 כוסות דלעת ערמונים בקוביות",
+          "½ כפית מלח גס",
+          "¼ כפית פלפל שחור גרוס",
+          "חציל, בקוביות",
+          "2 כוסות פרחי ברוקולי",
+          "3 בצלים ירוקים, פרוסים (לבן וירוק בנפרד)",
+          "3 שיני שום",
+          "2 כפיות עלי טימין טרי, קצוצים גס",
+          "2 כפות קוקוס אמינוס",
+          "כף חומץ בלסמי",
+          "כף דבש",
+          "כפית שמן שומשום"
+        ],
+        "steps": [
+          "מערבבים קוקוס אמינוס, בלסמי, דבש ושמן שומשום.",
+          "מחממים 2 כפות שמן בווק או מחבת גדולה על אש בינונית. מקפיצים את הדלעת עם מלח ופלפל כ-5 דקות עד שהשוליים מתקרמלים.",
+          "מוסיפים חציל ועוד כף שמן ל-2–3 דקות, ואז ברוקולי, החלק הלבן של הבצל הירוק ושום לעוד 2–3 דקות.",
+          "מוסיפים את הרוטב, ירוק הבצל והטימין ומערבבים היטב."
+        ],
+        "whyFits": "קוקוס אמינוס במקום רוטב סויה (שיש בו חיטה). רק כף דבש ל-4 מנות. בלי חלב ובלי דגנים."
+      }
+    },
+    {
       "id": "tomato-basil-balsamic-shallot-salad",
       "url": "https://nomnompaleo.com/tomato-and-basil-salad",
       "source": "Nom Nom Paleo",
