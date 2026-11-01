@@ -2,6 +2,2150 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "nourishing-green-soup-cashew-cream",
+      "url": "https://nomnompaleo.com/green-soup",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2025/01/1200-Green-Soup-aaDSC_0329.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "totalMinutes": 45,
+      "servings": 5,
+      "nutrition": {
+        "calories": 240,
+        "protein": 8
+      },
+      "en": {
+        "title": "Nourishing Green Soup with Cashew Cream",
+        "description": "A bright blended soup of broccoli, zucchini, green onion, spinach and ginger, topped with a lemony cashew cream.",
+        "steps": [
+          "Cashew cream: drain the soaked cashews and blend with ¼ cup water, 1 tbsp oil, lemon juice, garlic and ½ tsp salt until smooth. Set aside.",
+          "Heat 2 tbsp oil in a large pot over medium heat and cook the onion with ½ tsp salt 8–10 minutes until soft.",
+          "Stir in the garlic and ginger for 30 seconds, then add the broccoli, zucchini, green onions and apple. Pour in the broth with another ½ tsp salt.",
+          "Bring to a boil, then simmer 4–8 minutes until the vegetables are just tender. Off the heat, stir in the spinach until wilted but still bright green.",
+          "Blend until smooth (fill the blender only ⅔ full and vent the lid). Season to taste and serve with a spoon of cashew cream. In an Instant Pot, cook 1 minute at high pressure and release manually."
+        ],
+        "whyFits": "Green vegetables with a cashew cream instead of dairy. Use vegetable broth for a pareve soup. The only sweetness is half an apple. No dairy, grains or sugar.",
+        "ingredients": [
+          "½ cup raw cashews (soaked in 1 cup boiling water for at least 15 minutes)",
+          "1 tablespoon extra virgin olive oil",
+          "1 tablespoon lemon juice",
+          "1 small garlic clove",
+          "½ teaspoon Diamond Crystal kosher salt",
+          "2 tablespoons extra virgin olive oil",
+          "1 large onion (chopped)",
+          "Diamond crystal kosher salt",
+          "3 garlic cloves (roughly chopped)",
+          "1 tablespoon chopped fresh ginger",
+          "1 medium head of broccoli (or 10 ounces of frozen broccoli)",
+          "2 small zucchini (roughly chopped)",
+          "4 green onions (roughly chopped)",
+          "½ cup peeled and diced apple (Fuji, Honeycrip, or your favorite sweet and crisp apple will work)",
+          "4 cups chicken broth (bone broth, or vegetable broth (vegan)",
+          "5 cups baby spinach (lightly packed)",
+          "freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק ירוק מזין עם קרם קשיו",
+        "description": "מרק טחון וירוק של ברוקולי, קישוא, בצל ירוק, תרד וג'ינג'ר, ומעל קרם קשיו לימוני.",
+        "ingredients": [
+          "½ כוס קשיו טבעי (מושרה בכוס מים רותחים)",
+          "כף שמן זית כתית",
+          "כף מיץ לימון",
+          "שן שום קטנה",
+          "½ כפית מלח",
+          "2 כפות שמן זית כתית",
+          "בצל גדול קצוץ",
+          "מלח",
+          "3 שיני שום קצוצות גס",
+          "כף ג'ינג'ר טרי קצוץ",
+          "ראש ברוקולי בינוני (או 280 גרם קפוא)",
+          "2 קישואים קטנים קצוצים גס",
+          "4 בצלים ירוקים קצוצים גס",
+          "½ כוס תפוח קלוף וחתוך לקוביות",
+          "4 כוסות ציר (ירקות, עוף או ציר עצמות)",
+          "5 כוסות תרד בייבי",
+          "פלפל שחור גרוס"
+        ],
+        "steps": [
+          "קרם קשיו: מסננים את הקשיו המושרה וטוחנים עם ¼ כוס מים, כף שמן, מיץ לימון, שום ו-½ כפית מלח עד שהקרם חלק. מניחים בצד.",
+          "מחממים 2 כפות שמן בסיר גדול על אש בינונית ומבשלים את הבצל עם ½ כפית מלח 8–10 דקות עד שמתרכך.",
+          "מוסיפים שום וג'ינג'ר ל-30 שניות, ואז ברוקולי, קישואים, בצל ירוק ותפוח. מוסיפים את הציר ועוד ½ כפית מלח.",
+          "מביאים לרתיחה ומבשלים על אש קטנה 4–8 דקות, עד שהירקות רק מתרככים. מורידים מהאש ומערבבים פנימה את התרד, עד שהוא נובל אבל נשאר ירוק בוהק.",
+          "טוחנים עד שהמרק חלק (ממלאים את הבלנדר רק עד ⅔ ומשאירים פתח לאדים). מתבלים לפי הטעם ומגישים עם כף קרם קשיו. בסיר לחץ חשמלי: מבשלים דקה בלחץ גבוה ומשחררים את הלחץ ידנית."
+        ],
+        "whyFits": "ירקות ירוקים עם קרם קשיו במקום מוצרי חלב. עם ציר ירקות המרק פרווה. המתיקות היחידה מחצי תפוח. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cream-of-celery-leek-soup-coconut",
+      "url": "https://downshiftology.com/recipes/cream-of-celery-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2017/02/cream-of-celery-soup-dairy-free-11.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 220,
+        "protein": 3
+      },
+      "en": {
+        "title": "Creamy Celery and Leek Soup (No Cream)",
+        "description": "Celery, leek and onion simmered and blended with a splash of coconut milk into a silky, delicate soup.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion, leek and celery for 10 minutes. Add the garlic for another minute or two.",
+          "Add the stock and salt, bring to a boil, then cover and simmer on low for 20 minutes.",
+          "Off the heat, add the coconut milk and blend until as smooth or chunky as you like.",
+          "Serve topped with celery leaves, black pepper and paprika."
+        ],
+        "whyFits": "Vegetables blended with a little coconut milk instead of cream. Use vegetable stock for a pareve soup. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tbsp olive oil",
+          "1/2 medium onion (diced)",
+          "1 leek (cleaned, with white and light green parts diced)",
+          "8 stalks celery (diced)",
+          "3 garlic cloves (minced)",
+          "4 cups chicken or vegetable stock",
+          "1 tsp salt",
+          "1/3 cup full-fat coconut milk",
+          "Celery leaves, black pepper and paprika"
+        ]
+      },
+      "he": {
+        "title": "מרק קרם סלרי וכרישה (בלי שמנת)",
+        "description": "סלרי, כרישה ובצל שמתבשלים ונטחנים עם מעט חלב קוקוס למרק משיי ועדין.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "½ בצל בינוני קצוץ",
+          "כרישה (החלק הלבן והירוק הבהיר) קצוצה ושטופה",
+          "8 גבעולי סלרי קצוצים",
+          "3 שיני שום כתושות",
+          "4 כוסות ציר ירקות או עוף",
+          "כפית מלח",
+          "⅓ כוס חלב קוקוס מלא",
+          "עלי סלרי, פלפל שחור ופפריקה להגשה"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים את הבצל, הכרישה והסלרי 10 דקות. מוסיפים שום לעוד דקה-שתיים.",
+          "מוסיפים ציר ומלח, מביאים לרתיחה, מכסים ומבשלים על אש קטנה 20 דקות.",
+          "מורידים מהאש, מוסיפים את חלב הקוקוס וטוחנים עד למרקם הרצוי.",
+          "מגישים עם עלי סלרי, פלפל שחור ופפריקה."
+        ],
+        "whyFits": "ירקות שנטחנים עם מעט חלב קוקוס במקום שמנת. עם ציר ירקות המרק פרווה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "carrot-ginger-soup-cinnamon",
+      "url": "https://downshiftology.com/recipes/carrot-ginger-soup-crispy-shallots/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2019/10/Carrot-Ginger-Soup-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 30,
+      "cookMinutes": 30,
+      "totalMinutes": 60,
+      "servings": 4,
+      "nutrition": {
+        "calories": 190,
+        "protein": 3
+      },
+      "en": {
+        "title": "Carrot Ginger Soup",
+        "description": "Velvety blended carrots with lots of fresh ginger, garlic and a hint of cinnamon.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat and cook the onion 1–2 minutes until translucent.",
+          "Stir in the ginger and garlic for a minute, then add the carrots and cook 10 minutes, stirring often.",
+          "Add the broth, bay leaf, cinnamon and salt. Bring to a boil, cover and simmer on low 20–30 minutes until the carrots are soft.",
+          "Remove the bay leaf and blend until completely smooth. A swirl of coconut cream, toasted pine nuts or cilantro are nice on top."
+        ],
+        "whyFits": "Carrots, aromatics and broth with ½ tbsp oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tbsp avocado oil (or olive oil)",
+          "1 medium onion (diced)",
+          "3 cloves garlic (minced)",
+          "3 tablespoons ginger (minced or finely diced)",
+          "2 pounds carrots (peeled and chopped)",
+          "4 cups vegetable broth",
+          "1 bay leaf",
+          "1 teaspoon cinnamon",
+          "1 teaspoon salt"
+        ]
+      },
+      "he": {
+        "title": "מרק גזר וג'ינג'ר",
+        "description": "מרק גזר קטיפתי עם הרבה ג'ינג'ר טרי, שום ונגיעה של קינמון.",
+        "ingredients": [
+          "2 כפות שמן אבוקדו (או שמן זית)",
+          "בצל בינוני קצוץ",
+          "3 שיני שום כתושות",
+          "3 כפות ג'ינג'ר קצוץ דק",
+          "900 גרם גזר, קלוף וחתוך",
+          "4 כוסות ציר ירקות",
+          "עלה דפנה",
+          "כפית קינמון",
+          "כפית מלח"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית-גבוהה ומבשלים את הבצל 1–2 דקות עד שהוא שקוף.",
+          "מוסיפים ג'ינג'ר ושום לדקה, ואז את הגזר ומבשלים 10 דקות תוך ערבוב.",
+          "מוסיפים ציר, עלה דפנה, קינמון ומלח. מביאים לרתיחה, מכסים ומבשלים על אש קטנה 20–30 דקות עד שהגזר רך.",
+          "מוציאים את עלה הדפנה וטוחנים עד שהמרק חלק לגמרי. טעים מעל עם מעט קרם קוקוס, צנוברים קלויים או כוסברה."
+        ],
+        "whyFits": "גזר, ירקות ריחניים וציר עם חצי כף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "potato-leek-soup-thyme",
+      "url": "https://downshiftology.com/recipes/potato-leek-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2022/03/Potato-Leek-Soup-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 290,
+        "protein": 6
+      },
+      "en": {
+        "title": "Potato Leek Soup",
+        "description": "The classic creamy potato and leek soup with thyme and bay, made silky without any cream.",
+        "steps": [
+          "Trim the leeks, keeping the white and light green parts. Halve them lengthwise, slice, and rinse well in a colander to remove grit.",
+          "Heat the oil in a large pot over medium heat and cook the leeks 8–10 minutes until soft but not brown. Add the garlic for a minute.",
+          "Add the potatoes, salt, bay leaf, thyme and broth. Bring to a boil, then cover and simmer on low 15–20 minutes until the potatoes are tender.",
+          "Remove the bay leaf and thyme stems and blend to your preferred creaminess. Serve with chives and black pepper."
+        ],
+        "whyFits": "Potatoes, leeks and broth with ½ tbsp oil per serving. The potatoes make it creamy, so no cream is needed. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tablespoons extra-virgin olive oil",
+          "3 large leeks",
+          "2 garlic cloves (minced)",
+          "4 cups vegetable broth (or more for a thinner texture)",
+          "2 pounds Yukon Gold potatoes (peeled and diced into ½-inch pieces)",
+          "1 teaspoon kosher salt",
+          "1 bay leaf",
+          "2 sprigs of fresh thyme",
+          "freshly chopped chives and black pepper for garnish"
+        ]
+      },
+      "he": {
+        "title": "מרק תפוחי אדמה וכרישה",
+        "description": "מרק תפוחי אדמה וכרישה קרמי וקלאסי עם טימין ועלה דפנה, משיי בלי טיפת שמנת.",
+        "ingredients": [
+          "2 כפות שמן זית כתית",
+          "3 כרישות גדולות",
+          "2 שיני שום כתושות",
+          "4 כוסות ציר ירקות (או יותר, למרק דליל יותר)",
+          "900 גרם תפוחי אדמה צהובים, קלופים וחתוכים לקוביות של 1 ס\"מ",
+          "כפית מלח",
+          "עלה דפנה",
+          "2 ענפי טימין טרי",
+          "עירית קצוצה ופלפל שחור להגשה"
+        ],
+        "steps": [
+          "חותכים מהכרישות את החלק הירוק הכהה ומשאירים את הלבן והירוק הבהיר. חוצים לאורך, פורסים ושוטפים היטב במסננת מהחול.",
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים את הכרישה 8–10 דקות עד שהיא רכה אבל לא משחימה. מוסיפים שום לדקה.",
+          "מוסיפים תפוחי אדמה, מלח, עלה דפנה, טימין וציר. מביאים לרתיחה, מכסים ומבשלים על אש קטנה 15–20 דקות עד שתפוחי האדמה רכים.",
+          "מוציאים את עלה הדפנה וענפי הטימין וטוחנים למרקם הרצוי. מגישים עם עירית ופלפל שחור."
+        ],
+        "whyFits": "תפוחי אדמה, כרישה וציר עם חצי כף שמן למנה. תפוחי האדמה נותנים קרמיות, כך שאין צורך בשמנת. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "andalusian-gazpacho-cold-soup",
+      "url": "https://downshiftology.com/recipes/gazpacho/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2026/07/Gazpacho-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 30,
+      "cookMinutes": null,
+      "totalMinutes": 150,
+      "servings": 4,
+      "nutrition": {
+        "calories": 220,
+        "protein": 3
+      },
+      "en": {
+        "title": "Andalusian Gazpacho",
+        "description": "A smooth, chilled Spanish soup of ripe tomatoes, pepper, cucumber and onion, emulsified with olive oil. No bread.",
+        "steps": [
+          "Blend the tomatoes, pepper, cucumber, onion and garlic until completely smooth.",
+          "With the blender running, slowly drizzle in the olive oil so it turns silky and orange-red. Add the salt and sherry vinegar and blend again.",
+          "Chill at least 2 hours. Serve cold with a drizzle of olive oil. For the silkiest texture, strain it through a fine sieve before chilling."
+        ],
+        "whyFits": "Raw vegetables with about 1⅓ tbsp oil per serving. This version has no bread, unlike many gazpachos. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 pounds ripe red tomatoes (cut into chunks)",
+          "1 Anaheim or cubanelle pepper (stemmed, seeded, and cut into chunks)",
+          "1 medium cucumber (peeled and cut into chunks)",
+          "1 small white onion (peeled and cut into chunks)",
+          "1 small garlic clove",
+          "1 tablespoon sherry vinegar",
+          "1 teaspoon kosher salt",
+          "⅓ cup extra-virgin olive oil"
+        ]
+      },
+      "he": {
+        "title": "גספאצ'ו אנדלוסי",
+        "description": "מרק ספרדי קר וחלק של עגבניות בשלות, פלפל, מלפפון ובצל, עם שמן זית. בלי לחם.",
+        "ingredients": [
+          "900 גרם עגבניות אדומות בשלות, חתוכות לחתיכות",
+          "פלפל ירוק בהיר (אנהיים או קובנל), בלי גרעינים, חתוך",
+          "מלפפון בינוני, קלוף וחתוך",
+          "בצל לבן קטן, קלוף וחתוך",
+          "שן שום קטנה",
+          "כף חומץ שרי",
+          "כפית מלח",
+          "⅓ כוס שמן זית כתית מעולה"
+        ],
+        "steps": [
+          "טוחנים בבלנדר עגבניות, פלפל, מלפפון, בצל ושום עד שהתערובת חלקה לגמרי.",
+          "כשהבלנדר פועל, מזליפים לאט את שמן הזית, כך שהמרק נעשה משיי ובצבע כתום-אדום. מוסיפים מלח וחומץ שרי וטוחנים שוב.",
+          "מקררים לפחות שעתיים. מגישים קר עם מעט שמן זית מעל. למרקם הכי משיי, מסננים במסננת דקה לפני הקירור."
+        ],
+        "whyFits": "ירקות טריים עם כ-1⅓ כפות שמן למנה. בגרסה הזו אין לחם, לא כמו בהרבה גספאצ'ו. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "tomato-vegetable-white-bean-kale-soup",
+      "url": "https://minimalistbaker.com/tomato-and-vegetable-white-bean-soup/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2015/01/Veggie-white-bean-soup-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "totalMinutes": 60,
+      "servings": 6,
+      "nutrition": {
+        "calories": 220,
+        "protein": 9
+      },
+      "en": {
+        "title": "Tomato, Vegetable and White Bean Soup",
+        "description": "A hearty pot of vegetables, potatoes, white beans and kale in a herby fire-roasted tomato broth.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat. Add the onion, garlic and carrot, season with the salt, pepper and dried herbs, and stir.",
+          "Add the squash, potatoes, fire-roasted tomatoes, tomato sauce and stock. Bring to a simmer, then cover and cook on low 15 minutes.",
+          "Add the beans with a pinch more salt and pepper and cook at least 10 minutes more without letting it boil hard.",
+          "Stir in the kale, cover and cook 5 minutes. Taste and adjust."
+        ],
+        "whyFits": "Vegetables and legumes with 2 tbsp oil for 6 servings. Choose canned tomato sauce with no added sugar. We left out the bread the source serves with it. No dairy or grains.",
+        "ingredients": [
+          "2 Tbsp olive, avocado, or coconut oil",
+          "1 large white or yellow onion (diced)",
+          "3 cloves garlic (minced)",
+          "1 cup carrots (sliced)",
+          "1/2 tsp each sea salt and black pepper (plus more to taste)",
+          "1 tsp dried basil, oregano and garlic powder",
+          "1/2 pound red potatoes (quartered)",
+          "2 medium yellow squash or zucchini (sliced)",
+          "2 14.5-ounce cans fire-roasted tomatoes",
+          "1 15-ounce can tomato sauce",
+          "5 cups veggie stock (DIY or store-bought // add more salt if needed when using reduced sodium)",
+          "1 15-ounce can white beans (rinsed and drained)",
+          "3 cups kale (or other sturdy green // chopped)"
+        ]
+      },
+      "he": {
+        "title": "מרק עגבניות, ירקות ושעועית לבנה",
+        "description": "סיר משביע של ירקות, תפוחי אדמה, שעועית לבנה וקייל בציר עגבניות קלויות ועשבי תיבול.",
+        "ingredients": [
+          "2 כפות שמן זית, אבוקדו או קוקוס",
+          "בצל לבן או צהוב גדול, קצוץ",
+          "3 שיני שום כתושות",
+          "כוס גזר פרוס",
+          "½ כפית מלח ים ו-½ כפית פלפל שחור (ועוד לפי הטעם)",
+          "כפית מכל אחד: בזיליקום יבש, אורגנו ואבקת שום",
+          "225 גרם תפוחי אדמה אדומים, חתוכים לרבעים",
+          "2 קישואים או דלעת צהובה בינוניים, פרוסים",
+          "2 קופסאות (410 גרם) עגבניות קלויות",
+          "קופסת (425 גרם) רוטב עגבניות בלי תוספת סוכר",
+          "5 כוסות ציר ירקות (ביתי או קנוי)",
+          "קופסת (425 גרם) שעועית לבנה, שטופה ומסוננת",
+          "3 כוסות קייל (או ירוק עמיד אחר), קצוץ"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית. מוסיפים בצל, שום וגזר, מתבלים במלח, פלפל ותבלינים יבשים ומערבבים.",
+          "מוסיפים קישואים, תפוחי אדמה, עגבניות קלויות, רוטב עגבניות וציר. מביאים לבעבוע, מכסים ומבשלים על אש קטנה 15 דקות.",
+          "מוסיפים שעועית ועוד קמצוץ מלח ופלפל ומבשלים לפחות עוד 10 דקות, בלי רתיחה חזקה.",
+          "מוסיפים קייל, מכסים ומבשלים 5 דקות. טועמים ומתקנים."
+        ],
+        "whyFits": "ירקות וקטניות עם 2 כפות שמן ל-6 מנות. בוחרים רוטב עגבניות בלי סוכר. ויתרנו על הלחם שהמקור מגיש לצד. בלי חלב ודגנים."
+      }
+    },
+    {
+      "id": "sweet-potato-coconut-curry-soup-chickpeas",
+      "url": "https://minimalistbaker.com/sweet-potato-coconut-curry-soup/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2013/02/Sweet-Potato-Coconut-Curry-Soup-with-Spicy-Baked-Chickpeas-google.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 45,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 420,
+        "protein": 10
+      },
+      "en": {
+        "title": "Sweet Potato Coconut Curry Soup with Crispy Chickpeas",
+        "description": "A creamy, gently spicy blended sweet potato and coconut curry soup topped with oven-crisped spiced chickpeas.",
+        "steps": [
+          "Heat the oven to 200°C (400°F).",
+          "In a large pot over medium heat, cook the onion in ½ tbsp oil a few minutes, then add the garlic, ¼ tsp salt and a pinch of pepper.",
+          "Add the sweet potato, curry powder and cayenne and cook 5 minutes, stirring. Add ¼ tsp more salt and the coconut milk, cover, bring to a simmer and cook on low 25 minutes.",
+          "Meanwhile rinse, drain and dry the chickpeas, toss with 3 tbsp oil and the spices, spread on a tray and bake 25–30 minutes until crisp outside.",
+          "Taste the soup, adjust the seasoning, and blend until smooth. Serve topped with the chickpeas. Keeps several days in the fridge and a month in the freezer."
+        ],
+        "whyFits": "Sweet potato, light coconut milk and legumes. It's on the richer side (about 1 tbsp oil per serving), but whole-food. No dairy, grains or sugar.",
+        "ingredients": [
+          "1/2 Tbsp coconut or olive oil",
+          "1 medium white onion (diced)",
+          "4 cloves garlic minced",
+          "1 large sweet potato (peeled & cubed)",
+          "2 Tbsp yellow curry powder",
+          "1/4 tsp cayenne pepper (omit for less heat)",
+          "3/4 tsp sea salt (plus more to taste)",
+          "3 cups light coconut milk (canned is best)",
+          "1 15-oz. can chickpeas (1 can yields ~1 1/2 cups)",
+          "3 Tbsp avocado or coconut oil",
+          "1/2 tsp yellow curry powder",
+          "1/4 tsp sea salt",
+          "1/2 tsp garlic powder",
+          "1/2 tsp ginger powder",
+          "1 pinch cayenne pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק בטטה, קוקוס וקארי עם חומוס קריספי",
+        "description": "מרק בטטה וקוקוס בקארי, קרמי ופיקנטי בעדינות, ומעל גרגירי חומוס מתובלים ופריכים מהתנור.",
+        "ingredients": [
+          "½ כף שמן קוקוס או זית",
+          "בצל לבן בינוני, קצוץ",
+          "4 שיני שום כתושות",
+          "בטטה גדולה, קלופה וחתוכה לקוביות",
+          "2 כפות אבקת קארי צהובה",
+          "¼ כפית פלפל קאיין (או פחות)",
+          "¾ כפית מלח ים (ועוד לפי הטעם)",
+          "3 כוסות חלב קוקוס לייט (מקופסה)",
+          "קופסת (425 גרם) גרגירי חומוס",
+          "3 כפות שמן אבוקדו או קוקוס",
+          "½ כפית אבקת קארי צהובה",
+          "¼ כפית מלח ים",
+          "½ כפית אבקת שום",
+          "½ כפית ג'ינג'ר טחון",
+          "קמצוץ פלפל קאיין"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות.",
+          "בסיר גדול על אש בינונית מבשלים את הבצל ב-½ כף שמן כמה דקות, ואז מוסיפים שום, ¼ כפית מלח וקמצוץ פלפל.",
+          "מוסיפים בטטה, קארי וקאיין ומבשלים 5 דקות תוך ערבוב. מוסיפים עוד ¼ כפית מלח ואת חלב הקוקוס, מכסים, מביאים לבעבוע ומבשלים על אש קטנה 25 דקות.",
+          "בינתיים שוטפים, מסננים ומייבשים את החומוס, מערבבים עם 3 כפות שמן והתבלינים, מפזרים בתבנית ואופים 25–30 דקות עד שהגרגירים פריכים מבחוץ.",
+          "טועמים את המרק, מתקנים תיבול וטוחנים עד שהוא חלק. מגישים עם החומוס מעל. נשמר כמה ימים במקרר וחודש במקפיא."
+        ],
+        "whyFits": "בטטה, חלב קוקוס לייט וקטניות. מעט עשיר יותר (כף שמן בערך למנה), אבל מזון מלא. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "roasted-tomato-garlic-basil-soup",
+      "url": "https://detoxinista.com/roasted-tomato-soup-dairy-free/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2013/03/roasted-tomato-soup-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "totalMinutes": 75,
+      "servings": 8,
+      "nutrition": {
+        "calories": 120,
+        "protein": 3
+      },
+      "en": {
+        "title": "Roasted Tomato and Garlic Soup with Basil",
+        "description": "Tomatoes and whole garlic cloves roasted until jammy, then blended with sweet onions, basil and sage.",
+        "steps": [
+          "Heat the oven to 230°C (450°F). On a large rimmed tray, toss the tomatoes, vinegar, garlic, 2 tbsp oil and ¼ tsp salt. Arrange the tomatoes skin side down and roast about 45 minutes until soft.",
+          "In a large pot, heat the other 2 tbsp oil over medium heat and cook the onions about 10 minutes until very soft. Add the basil and sage for a minute.",
+          "Blend the onions and herbs with the roasted tomatoes, garlic and pan juices until smooth, adding up to 1 cup water if needed.",
+          "Return to the pot with 1–2 cups water, season with about 1 tsp salt and ½ tsp pepper and simmer 10 minutes. Keeps 5 days in the fridge."
+        ],
+        "whyFits": "Roasted vegetables and herbs with ½ tbsp oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "4 pounds ripe tomatoes (sliced in half)",
+          "2 tablespoons balsamic vinegar",
+          "12 large garlic cloves",
+          "4 tablespoons extra-virgin olive oil (divided)",
+          "Salt & pepper (to taste)",
+          "2 medium-size red onions (diced)",
+          "1/4 cup chopped fresh basil",
+          "1 tablespoon finely chopped fresh sage"
+        ]
+      },
+      "he": {
+        "title": "מרק עגבניות ושום צלויים עם בזיליקום",
+        "description": "עגבניות ושיני שום שלמות שנצלות עד שהן מתקתקות ורכות, ואז נטחנות עם בצל רך, בזיליקום ומרווה.",
+        "ingredients": [
+          "1.8 ק\"ג עגבניות בשלות, חצויות",
+          "2 כפות חומץ בלסמי",
+          "12 שיני שום גדולות",
+          "4 כפות שמן זית כתית מעולה (מחולק)",
+          "מלח ופלפל לפי הטעם",
+          "2 בצלים סגולים בינוניים, קצוצים",
+          "¼ כוס בזיליקום טרי קצוץ",
+          "כף מרווה טרייה קצוצה דק"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות. בתבנית גדולה עם שוליים מערבבים עגבניות, חומץ, שום, 2 כפות שמן ו-¼ כפית מלח. מסדרים את העגבניות כשהקליפה למטה וצולים כ-45 דקות עד שהן רכות.",
+          "בסיר גדול מחממים את 2 כפות השמן הנותרות על אש בינונית ומבשלים את הבצל כ-10 דקות עד שהוא רך מאוד. מוסיפים בזיליקום ומרווה לדקה.",
+          "טוחנים את הבצל ועשבי התיבול עם העגבניות, השום ונוזלי התבנית עד שהמרק חלק. אם צריך, מוסיפים עד כוס מים.",
+          "מחזירים לסיר עם 1–2 כוסות מים, מתבלים בכפית מלח ו-½ כפית פלפל בערך ומבשלים 10 דקות. נשמר 5 ימים במקרר."
+        ],
+        "whyFits": "ירקות צלויים ועשבי תיבול עם חצי כף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "creamy-arugula-potato-soup-vegan",
+      "url": "https://detoxinista.com/creamy-vegan-arugula-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2016/10/vegan-arugula-soup.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 170,
+        "protein": 4
+      },
+      "en": {
+        "title": "Creamy Arugula and Potato Soup",
+        "description": "A peppery, bright green soup of potatoes, celery and fresh arugula, blended with a little coconut milk.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion and celery about 8 minutes until tender. Add the garlic for a minute.",
+          "Add the potatoes, water or broth and salt, bring to a boil and simmer until the potatoes are tender.",
+          "Add the arugula and stir about 3 minutes until bright green.",
+          "Blend until smooth (vent the blender lid), stir in the coconut milk and season with pepper."
+        ],
+        "whyFits": "Vegetables and potatoes with a little coconut milk and only 1 tbsp oil for 4 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tablespoon extra-virgin olive oil",
+          "1 yellow onion (chopped)",
+          "2 stalks celery (chopped)",
+          "3 cloves garlic (minced)",
+          "1 pound yukon gold potatoes (chopped into 1-inch chunks)",
+          "4 cups water or vegetable broth",
+          "1 1/2 teaspoons fine sea salt",
+          "3 cups fresh arugula",
+          "1/2 cup coconut milk",
+          "Freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק רוקט ותפוחי אדמה קרמי",
+        "description": "מרק ירוק ובוהק עם חריפות עדינה, של תפוחי אדמה, סלרי ורוקט טרי, טחון עם מעט חלב קוקוס.",
+        "ingredients": [
+          "כף שמן זית כתית מעולה",
+          "בצל צהוב קצוץ",
+          "2 גבעולי סלרי קצוצים",
+          "3 שיני שום כתושות",
+          "450 גרם תפוחי אדמה צהובים, חתוכים לקוביות של 2.5 ס\"מ",
+          "4 כוסות מים או ציר ירקות",
+          "1½ כפיות מלח ים דק",
+          "3 כוסות רוקט טרי",
+          "½ כוס חלב קוקוס",
+          "פלפל שחור גרוס"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים בצל וסלרי כ-8 דקות עד שהם רכים. מוסיפים שום לדקה.",
+          "מוסיפים תפוחי אדמה, מים או ציר ומלח, מביאים לרתיחה ומבשלים עד שתפוחי האדמה רכים.",
+          "מוסיפים את הרוקט ומערבבים כ-3 דקות עד שהוא ירוק בוהק.",
+          "טוחנים עד שהמרק חלק (משאירים פתח לאדים במכסה הבלנדר), מערבבים פנימה את חלב הקוקוס ומתבלים בפלפל."
+        ],
+        "whyFits": "ירקות ותפוחי אדמה עם מעט חלב קוקוס וכף שמן בלבד ל-4 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "detox-vegetable-lentil-soup-turmeric-ginger",
+      "url": "https://detoxinista.com/detox-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2024/12/best-detox-soup-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 170,
+        "protein": 10
+      },
+      "en": {
+        "title": "Turmeric-Ginger Vegetable Lentil Soup",
+        "description": "A warming, golden soup of carrots, celery, lentils, garlic, ginger and turmeric, finished with cilantro and lemon.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat and cook the onion, carrots and celery about 5 minutes until softened.",
+          "Add the garlic, ginger, turmeric and thyme and stir a minute, then add the water right away so the garlic doesn't burn.",
+          "Add the lentils, 1 tsp salt and the pepper. Bring to a boil, then cover and simmer about 30 minutes until the lentils are tender.",
+          "Stir in the remaining salt, the cilantro and lemon juice. Add coconut milk for creaminess if you like. Keeps 5 days in the fridge or 3 months frozen."
+        ],
+        "whyFits": "Vegetables and lentils with just 1 tbsp oil for 6 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tablespoon extra-virgin olive oil",
+          "1 yellow onion (chopped)",
+          "3 carrots (chopped)",
+          "3 celery stalks (chopped)",
+          "5 garlic cloves (minced)",
+          "1 inches fresh ginger (minced )",
+          "1½ teaspoons ground turmeric",
+          "1 ½ teaspoons dried thyme (or 1 teaspoon freshly chopped rosemary)",
+          "6 cups water",
+          "1 cup dry green or brown lentils",
+          "2 teaspoons fine sea salt",
+          "½ teaspoon ground black pepper",
+          "½ cup fresh cilantro (chopped)",
+          "1 tablespoon freshly squeezed lemon juice (or to taste)",
+          "½ to 1 cup full-fat coconut milk (optional for creaminess)"
+        ]
+      },
+      "he": {
+        "title": "מרק ירקות ועדשים עם כורכום וג'ינג'ר",
+        "description": "מרק מחמם בצבע זהב של גזר, סלרי, עדשים, שום, ג'ינג'ר וכורכום, ובסוף כוסברה ולימון.",
+        "ingredients": [
+          "כף שמן זית כתית מעולה",
+          "בצל צהוב קצוץ",
+          "3 גזרים קצוצים",
+          "3 גבעולי סלרי קצוצים",
+          "5 שיני שום כתושות",
+          "2.5 ס\"מ ג'ינג'ר טרי קצוץ",
+          "1½ כפיות כורכום",
+          "1½ כפיות טימין יבש (או כפית טרי קצוץ)",
+          "6 כוסות מים",
+          "כוס עדשים ירוקות או חומות יבשות",
+          "2 כפיות מלח ים דק",
+          "½ כפית פלפל שחור",
+          "½ כוס כוסברה טרייה קצוצה",
+          "כף מיץ לימון סחוט טרי (או לפי הטעם)",
+          "½–1 כוס חלב קוקוס מלא (לא חובה, לקרמיות)"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית-גבוהה ומבשלים בצל, גזר וסלרי כ-5 דקות עד שהם מתרככים.",
+          "מוסיפים שום, ג'ינג'ר, כורכום וטימין ומערבבים דקה, ומיד מוסיפים את המים כדי שהשום לא יישרף.",
+          "מוסיפים עדשים, כפית מלח ופלפל. מביאים לרתיחה, מכסים ומבשלים כ-30 דקות עד שהעדשים רכות.",
+          "מוסיפים את יתרת המלח, כוסברה ומיץ לימון. אם רוצים קרמיות, מוסיפים חלב קוקוס. נשמר 5 ימים במקרר או 3 חודשים במקפיא."
+        ],
+        "whyFits": "ירקות ועדשים עם כף שמן בלבד ל-6 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "fennel-potato-soup",
+      "url": "https://www.themediterraneandish.com/fennel-soup/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/11/Mediterranean-Dish-Fennel-Soup-LEAD-6.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 40,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 240,
+        "protein": 5
+      },
+      "en": {
+        "title": "Fennel and Potato Soup",
+        "description": "A smooth, gently anise-scented soup of slow-cooked fennel, onion, fennel seeds and potato.",
+        "steps": [
+          "Heat the oil in a heavy pot over medium heat. Add the onion, fennel and fennel seeds and cook, stirring now and then, about 15 minutes until translucent. Add the garlic for a minute.",
+          "Add the potatoes and stock, season with salt and pepper, bring to a boil and simmer 15–20 minutes until the potatoes are tender.",
+          "Blend until smooth.",
+          "Serve with a drizzle of olive oil, black pepper and fennel fronds."
+        ],
+        "whyFits": "Vegetables and potatoes with ½ tbsp oil per serving. Use vegetable stock for a pareve soup. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tablespoons extra virgin olive oil (plus more for drizzling)",
+          "1 large onion (diced)",
+          "2 large or 3 small fennel bulbs (diced, plus fennel fronds for serving (optional)",
+          "1 teaspoon fennel seeds",
+          "3 garlic cloves (minced)",
+          "1 pound Yukon gold potatoes (peeled and diced into 1/2-inch cubes)",
+          "4 cups (32 ounces) chicken stock ( or vegetable stock)",
+          "Kosher salt",
+          "Freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק שומר ותפוחי אדמה",
+        "description": "מרק חלק בניחוח אניס עדין של שומר מבושל לאט, בצל, זרעי שומר ותפוחי אדמה.",
+        "ingredients": [
+          "2 כפות שמן זית כתית מעולה (ועוד להגשה)",
+          "בצל גדול קצוץ",
+          "2 ראשי שומר גדולים או 3 קטנים, קצוצים (שומרים את העלים לקישוט)",
+          "כפית זרעי שומר",
+          "3 שיני שום כתושות",
+          "450 גרם תפוחי אדמה צהובים, קלופים וחתוכים לקוביות",
+          "4 כוסות ציר עוף או ירקות",
+          "מלח",
+          "פלפל שחור גרוס"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר כבד על אש בינונית. מוסיפים בצל, שומר וזרעי שומר ומבשלים כ-15 דקות, מערבבים מדי פעם, עד שהם שקופים. מוסיפים שום לדקה.",
+          "מוסיפים תפוחי אדמה וציר, מתבלים במלח ופלפל, מביאים לרתיחה ומבשלים 15–20 דקות עד שתפוחי האדמה רכים.",
+          "טוחנים עד שהמרק חלק.",
+          "מגישים עם מעט שמן זית, פלפל שחור ועלי שומר."
+        ],
+        "whyFits": "ירקות ותפוחי אדמה עם חצי כף שמן למנה. עם ציר ירקות המרק פרווה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mediterranean-vegetable-chickpea-soup-lime",
+      "url": "https://www.themediterraneandish.com/mediterranean-homemade-vegetable-soup/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/01/vegetable-soup-recipe-10.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 240,
+        "protein": 9
+      },
+      "en": {
+        "title": "Mediterranean Vegetable Soup with Chickpeas",
+        "description": "A colorful, chunky soup of mushrooms, zucchini, carrots, potatoes, chickpeas and tomatoes, warmly spiced and finished with lime and parsley.",
+        "steps": [
+          "Heat 1 tbsp oil in a large pot over medium-high heat and cook the mushrooms 3–5 minutes. Set them aside on a plate.",
+          "Add a little more oil if needed, then the chopped parsley stems (save the leaves), onion, garlic, celery, carrots, zucchini and potatoes. Stir in the coriander, turmeric and paprika and season with salt and pepper.",
+          "Add the chickpeas, tomatoes, bay leaves, thyme and broth. Boil 5 minutes, then partly cover and simmer on medium-low 15 minutes.",
+          "Return the mushrooms for a few minutes. Stir in the parsley leaves, lime zest and juice, remove the bay leaves and serve, topped with pine nuts if you like."
+        ],
+        "whyFits": "Vegetables and legumes with very little oil. Use vegetable broth for a pareve soup. We left out the bread the source suggests. No dairy, grains or sugar.",
+        "ingredients": [
+          "Extra Virgin Olive oil,",
+          "8 ounces sliced baby bella mushrooms",
+          "1 bunch flat-leaf parsley (washed and dried, stems and leaves separated and chopped)",
+          "1 medium yellow or red onion (chopped)",
+          "2 garlic cloves (chopped)",
+          "2 celery ribs (chopped)",
+          "2 carrots (peeled and chopped)",
+          "2 medium zucchini (tops removed and sliced into rounds or half-moons, or diced)",
+          "2 golden potatoes (peeled and small diced)",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon sweet paprika",
+          "Salt",
+          "Black pepper",
+          "1 (15-ounce) can chickpeas (rinsed and drained)",
+          "1 (32-ounce) can whole peeled tomatoes",
+          "2 bay leaves",
+          "1/2 teaspoon dried thyme",
+          "6 cups low-sodium vegetable or chicken broth",
+          "Zest of 1 lime",
+          "Juice of 1 lime",
+          "1/3 cup toasted pine nuts (optional)"
+        ]
+      },
+      "he": {
+        "title": "מרק ירקות ים-תיכוני עם גרגירי חומוס",
+        "description": "מרק צבעוני עם חתיכות פטריות, קישואים, גזר, תפוחי אדמה, חומוס ועגבניות, מתובל בחום ומסתיים בליים ופטרוזיליה.",
+        "ingredients": [
+          "שמן זית כתית מעולה",
+          "225 גרם פטריות בייבי בלה פרוסות",
+          "צרור פטרוזיליה (מפרידים גבעולים ועלים)",
+          "בצל צהוב או סגול בינוני, קצוץ",
+          "2 שיני שום קצוצות",
+          "2 גבעולי סלרי קצוצים",
+          "2 גזרים, קלופים וקצוצים",
+          "2 קישואים בינוניים, פרוסים לעיגולים",
+          "2 תפוחי אדמה צהובים, קלופים וחתוכים לקוביות קטנות",
+          "כפית כוסברה טחונה",
+          "½ כפית כורכום",
+          "½ כפית פפריקה מתוקה",
+          "מלח",
+          "פלפל שחור",
+          "קופסת (425 גרם) גרגירי חומוס, שטופים ומסוננים",
+          "קופסת (900 גרם) עגבניות שלמות קלופות",
+          "2 עלי דפנה",
+          "½ כפית טימין יבש",
+          "6 כוסות ציר ירקות או עוף דל נתרן",
+          "גרידה מליים אחד",
+          "מיץ מליים אחד",
+          "⅓ כוס צנוברים קלויים (לא חובה)"
+        ],
+        "steps": [
+          "מחממים כף שמן בסיר גדול על אש בינונית-גבוהה ומקפיצים את הפטריות 3–5 דקות. מעבירים לצלחת.",
+          "מוסיפים עוד מעט שמן אם צריך, ואז את גבעולי הפטרוזיליה הקצוצים (שומרים את העלים), בצל, שום, סלרי, גזר, קישואים ותפוחי אדמה. מוסיפים כוסברה, כורכום ופפריקה ומתבלים במלח ופלפל.",
+          "מוסיפים חומוס, עגבניות, עלי דפנה, טימין וציר. מרתיחים 5 דקות, ואז מכסים חלקית ומבשלים על אש בינונית-נמוכה 15 דקות.",
+          "מחזירים את הפטריות לכמה דקות. מוסיפים עלי פטרוזיליה, גרידה ומיץ ליים, מוציאים את עלי הדפנה ומגישים, עם צנוברים מעל אם רוצים."
+        ],
+        "whyFits": "ירקות וקטניות עם מעט מאוד שמן. עם ציר ירקות המרק פרווה. ויתרנו על הלחם שהמקור מציע. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "fall-harvest-root-vegetable-soup",
+      "url": "https://jamiegeller.com/recipes/fall-harvest-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/harvest-soup.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 4,
+      "nutrition": {
+        "calories": 330,
+        "protein": 5
+      },
+      "en": {
+        "title": "Fall Harvest Soup (Leek, Parsnip, Sweet Potato and Apple)",
+        "description": "A thick, naturally sweet blended soup of leeks, onions, parsnips, sweet potatoes, potato and apple with ginger and nutmeg.",
+        "steps": [
+          "In a large pot over medium heat, cook the leeks, onions, ginger, garlic, nutmeg, a pinch of salt and pepper in the olive oil, uncovered, stirring lightly, until the onions and leeks start to brown.",
+          "Add the apples, parsnips, sweet potatoes and potato and stir.",
+          "Add about 4 cups of water, just enough to cover. Cover, bring to a boil, then simmer on medium-low 20–25 minutes.",
+          "Take off the heat and blend until smooth. Season with salt and pepper. Keeps 5 days in the fridge and freezes well."
+        ],
+        "whyFits": "Root vegetables and fruit with 3 tbsp oil for 4 servings. Sweetness only comes from the vegetables and apples. No dairy, grains or sugar. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "3 large leeks (cleaned and small diced)",
+          "2 yellow onions (small diced)",
+          "2 tablespoon fresh ginger (minced)",
+          "1 garlic clove (minced)",
+          "2 teaspoons nutmeg",
+          "kosher salt",
+          "coarse black pepper",
+          "3 tbsp extra virgin olive oil",
+          "2 Gala apples (peeled and diced)",
+          "2 parsnips (peeled and chopped)",
+          "2 sweet potatoes (peeled and chopped)",
+          "1 large yukon gold potato (peeled and chopped)"
+        ]
+      },
+      "he": {
+        "title": "מרק קציר סתווי (כרישה, פסטרנק, בטטה ותפוח)",
+        "description": "מרק סמיך ומתקתק באופן טבעי של כרישה, בצל, פסטרנק, בטטה, תפוח אדמה ותפוח עם ג'ינג'ר ומוסקט.",
+        "ingredients": [
+          "3 כרישות גדולות, שטופות וקצוצות קטן",
+          "2 בצלים צהובים קצוצים קטן",
+          "2 כפות ג'ינג'ר טרי קצוץ",
+          "שן שום כתושה",
+          "2 כפיות אגוז מוסקט",
+          "מלח כשר",
+          "פלפל שחור גרוס",
+          "3 כפות שמן זית כתית מעולה",
+          "2 תפוחי גאלה, קלופים וחתוכים לקוביות",
+          "2 פסטרנקים, קלופים וקצוצים",
+          "2 בטטות, קלופות וקצוצות",
+          "תפוח אדמה צהוב גדול, קלוף וקצוץ"
+        ],
+        "steps": [
+          "בסיר גדול על אש בינונית מבשלים כרישה, בצל, ג'ינג'ר, שום, מוסקט, קמצוץ מלח ופלפל בשמן הזית, בלי מכסה ותוך ערבוב קל, עד שהבצל והכרישה מתחילים להשחים.",
+          "מוסיפים תפוחים, פסטרנק, בטטות ותפוח אדמה ומערבבים.",
+          "מוסיפים כ-4 כוסות מים, בדיוק כדי לכסות. מכסים, מביאים לרתיחה ומבשלים על אש בינונית-נמוכה 20–25 דקות.",
+          "מורידים מהאש וטוחנים עד שהמרק חלק. מתבלים במלח ופלפל. נשמר 5 ימים במקרר ומוקפא היטב."
+        ],
+        "whyFits": "ירקות שורש ופרי עם 3 כפות שמן ל-4 מנות. המתיקות רק מהירקות והתפוחים. בלי חלב, דגנים או סוכר. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "chilled-pea-mint-soup",
+      "url": "https://jamiegeller.com/recipes/chilled-pea-and-mint-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/chilled-pea-and-mint-soup.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 0,
+      "totalMinutes": 35,
+      "servings": 8,
+      "nutrition": {
+        "calories": 90,
+        "protein": 5
+      },
+      "en": {
+        "title": "Chilled Pea and Mint Soup",
+        "description": "A five-minute, vivid green summer soup of sweet peas, fresh mint and garlic, served cold.",
+        "steps": [
+          "Pulse the peas, mint, garlic, olive oil and salt in a food processor until finely chopped.",
+          "With the machine running, slowly add the broth and water and blend until smooth.",
+          "Chill 30 minutes to 2 hours. Garnish with mint."
+        ],
+        "whyFits": "Peas and herbs with ¼ tbsp oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 bag frozen peas (thawed (10-ounce bags)",
+          "½ cup packed mint leaves (plus extra for garnish)",
+          "2 cloves garlic",
+          "2 tablespoon extra virgin olive oil",
+          "½ teaspoon kosher salt",
+          "2 cup vegetable broth",
+          "1 cup water"
+        ]
+      },
+      "he": {
+        "title": "מרק אפונה ונענע קר",
+        "description": "מרק קיץ ירוק ובוהק שמוכן בחמש דקות, של אפונה מתוקה, נענע טרייה ושום, מוגש קר.",
+        "ingredients": [
+          "2 שקיות (280 גרם כל אחת) אפונה קפואה, מופשרת",
+          "½ כוס עלי נענע דחוסים (ועוד לקישוט)",
+          "2 שיני שום",
+          "2 כפות שמן זית כתית מעולה",
+          "½ כפית מלח",
+          "2 כוסות ציר ירקות",
+          "כוס מים"
+        ],
+        "steps": [
+          "טוחנים במעבד מזון בפולסים אפונה, נענע, שום, שמן ומלח עד שהכול קצוץ דק.",
+          "כשהמכשיר פועל, מוסיפים לאט את הציר והמים וטוחנים עד שהמרק חלק.",
+          "מקררים בין חצי שעה לשעתיים. מקשטים בנענע."
+        ],
+        "whyFits": "אפונה ועשבי תיבול עם רבע כף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "paprika-cauliflower-potato-soup",
+      "url": "https://jamiegeller.com/recipes/paprika-and-cauliflower-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/featured-image-8.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 170,
+        "protein": 4
+      },
+      "en": {
+        "title": "Spicy Paprika Cauliflower Soup",
+        "description": "Cauliflower and potatoes blended with plenty of paprika and a kick of cayenne. Creamy with no milk or cream.",
+        "steps": [
+          "Parboil the cauliflower in a large pot of boiling water about 4 minutes, then drain and cool slightly.",
+          "In another pot, bring the broth to a boil, add the potatoes and simmer, covered, at least 15 minutes until soft.",
+          "In a skillet, heat the oil and cook the onion and garlic about 3 minutes until lightly golden. Add the cauliflower and cook 5 minutes, breaking it up a little.",
+          "Add the cauliflower mixture to the soup with the paprika, cayenne, red pepper flakes and black pepper and cook 5 minutes.",
+          "Blend until creamy, reheat and serve with parsley. Can be made up to a week ahead."
+        ],
+        "whyFits": "Vegetables with 4 tbsp oil for 6 servings. Blending makes it creamy without dairy. Use vegetable broth for a pareve soup. No grains or sugar.",
+        "ingredients": [
+          "1 large cauliflower (separated into florets)",
+          "2 baking potatoes (peeled and diced small)",
+          "1 onion (diced)",
+          "1 tablespoon garlic (mince)",
+          "1 teaspoon crushed red peppers",
+          "1/4 cup olive oil",
+          "4 cup chicken broth chicken",
+          "2 tablespoons paprika",
+          "2 teaspoons cayenne",
+          "2 teaspoons kosher salt",
+          "2 teaspoons or more black pepper",
+          "1 bunch parsley (chopped for garnish)"
+        ]
+      },
+      "he": {
+        "title": "מרק כרובית פיקנטי עם פפריקה",
+        "description": "כרובית ותפוחי אדמה טחונים עם הרבה פפריקה ונגיעה חריפה של קאיין. קרמי בלי חלב ובלי שמנת.",
+        "ingredients": [
+          "כרובית גדולה, מפורקת לפרחים",
+          "2 תפוחי אדמה לאפייה, קלופים וחתוכים לקוביות קטנות",
+          "בצל קצוץ",
+          "כף שום כתוש",
+          "כפית פתיתי צ'ילי",
+          "¼ כוס שמן זית",
+          "4 כוסות ציר (עוף או ירקות)",
+          "2 כפות פפריקה",
+          "2 כפיות קאיין",
+          "2 כפיות מלח כשר",
+          "2 כפיות פלפל שחור (או יותר)",
+          "צרור פטרוזיליה קצוצה לקישוט"
+        ],
+        "steps": [
+          "מבשלים את הכרובית בסיר גדול של מים רותחים כ-4 דקות, מסננים ומצננים מעט.",
+          "בסיר אחר מביאים את הציר לרתיחה, מוסיפים תפוחי אדמה ומבשלים מכוסה לפחות 15 דקות עד שהם רכים.",
+          "במחבת מחממים את השמן ומזהיבים בצל ושום כ-3 דקות. מוסיפים את הכרובית ומבשלים 5 דקות, תוך שבירה קלה.",
+          "מוסיפים את תערובת הכרובית למרק עם פפריקה, קאיין, צ'ילי ופלפל שחור ומבשלים 5 דקות.",
+          "טוחנים עד שהמרק קרמי, מחממים ומגישים עם פטרוזיליה. אפשר להכין עד שבוע מראש."
+        ],
+        "whyFits": "ירקות עם 4 כפות שמן ל-6 מנות. הטחינה נותנת קרמיות בלי מוצרי חלב. עם ציר ירקות המרק פרווה. בלי דגנים או סוכר."
+      }
+    },
+    {
+      "id": "celery-root-potato-soup",
+      "url": "https://jamiegeller.com/recipes/celery-root-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/celery-root-soup.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 12,
+      "cookMinutes": 28,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 130,
+        "protein": 3
+      },
+      "en": {
+        "title": "Celery Root Soup",
+        "description": "A silky, earthy soup of celery root, onion and a little potato. Simple and elegant.",
+        "steps": [
+          "Heat the oil in a medium pot over medium-high heat and cook the onion, celery root and potato 8–10 minutes until they start to soften.",
+          "Add the salt and garlic powder and cook 2 minutes more.",
+          "Add 2 cups stock, bring to a boil, then cover and simmer until the vegetables are very soft, about 15 minutes.",
+          "Blend until smooth, adding more stock to reach the thickness you like. Serve with a drizzle of olive oil and a sprinkle of paprika."
+        ],
+        "whyFits": "Root vegetables with 2 tbsp oil for 6 servings. No dairy, grains or sugar. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "2 tablespoons olive oil (plus more for garnish (optional)",
+          "1 large onion (coarsely chopped)",
+          "1 large celery root (about 1 ½ pounds, peeled and coarsely chopped)",
+          "1 small baking potato (peeled and coarsely chopped)",
+          "1 teaspoon kosher salt",
+          "1/2 teaspoon garlic powder",
+          "2 to 3 cups vegetable stock (divided)",
+          "Paprika for garnish (optional)"
+        ]
+      },
+      "he": {
+        "title": "מרק סלרי ראשי",
+        "description": "מרק משיי וארצי של סלרי ראשי, בצל ומעט תפוח אדמה. פשוט ואלגנטי.",
+        "ingredients": [
+          "2 כפות שמן זית (ועוד להגשה)",
+          "בצל גדול קצוץ גס",
+          "סלרי ראשי גדול (כ-700 גרם), קלוף וקצוץ גס",
+          "תפוח אדמה קטן לאפייה, קלוף וקצוץ גס",
+          "כפית מלח כשר",
+          "½ כפית אבקת שום",
+          "2–3 כוסות ציר ירקות (מחולק)",
+          "פפריקה להגשה (לא חובה)"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר בינוני על אש בינונית-גבוהה ומבשלים בצל, סלרי ראשי ותפוח אדמה 8–10 דקות עד שהם מתחילים להתרכך.",
+          "מוסיפים מלח ואבקת שום ומבשלים עוד 2 דקות.",
+          "מוסיפים 2 כוסות ציר, מביאים לרתיחה, מכסים ומבשלים כ-15 דקות עד שהירקות רכים מאוד.",
+          "טוחנים עד שהמרק חלק, ומוסיפים עוד ציר לסמיכות הרצויה. מגישים עם מעט שמן זית ופפריקה."
+        ],
+        "whyFits": "ירקות שורש עם 2 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "quick-pepper-tomato-soup",
+      "url": "https://jamiegeller.com/recipes/pepper-tomato-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2020/09/jamie-jax-test-kitchen-headshot-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 8,
+      "nutrition": {
+        "calories": 60,
+        "protein": 2
+      },
+      "en": {
+        "title": "Quick Pepper and Tomato Soup",
+        "description": "An easy weeknight soup of sweet pepper strips, tomatoes, onion, garlic and oregano, made with freezer and pantry staples.",
+        "steps": [
+          "In a large pot over medium-high heat, cook the onion in the oil about 10 minutes until soft and golden. Add the garlic for a minute.",
+          "Add the pepper strips, diced tomatoes, tomato sauce, oregano and broth or water.",
+          "Bring to a boil, then simmer about 20 minutes until the peppers are very soft. Season with salt and pepper.",
+          "Serve chunky, or blend part or all of it for a smoother soup."
+        ],
+        "whyFits": "Vegetables with just 1 tbsp oil for 8 servings. Choose tomato sauce with no added sugar. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 bag (450 g) frozen bell pepper strips",
+          "1 can (400 g) diced tomatoes (fire-roasted if possible)",
+          "1 can (225 g) tomato sauce or purée, no sugar added",
+          "1 tbsp dried oregano",
+          "1 large onion, diced",
+          "2 garlic cloves, minced",
+          "1 tbsp olive oil (for the onion)",
+          "4 cups pareve broth or water",
+          "Salt and pepper to taste"
+        ]
+      },
+      "he": {
+        "title": "מרק פלפלים ועגבניות מהיר",
+        "description": "מרק קל לאמצע השבוע של רצועות פלפל מתוק, עגבניות, בצל, שום ואורגנו, ממוצרים מהמקפיא והמזווה.",
+        "ingredients": [
+          "שקית (450 גרם) רצועות פלפל קפואות",
+          "קופסת (400 גרם) עגבניות קצוצות (רצוי קלויות)",
+          "קופסת (225 גרם) רוטב או רסק עגבניות בלי תוספת סוכר",
+          "כף אורגנו יבש",
+          "בצל גדול קצוץ",
+          "2 שיני שום כתושות",
+          "כף שמן זית (לבצל)",
+          "4 כוסות ציר פרווה או מים",
+          "מלח ופלפל לפי הטעם"
+        ],
+        "steps": [
+          "בסיר גדול על אש בינונית-גבוהה מבשלים את הבצל בשמן כ-10 דקות עד שהוא רך וזהוב. מוסיפים שום לדקה.",
+          "מוסיפים רצועות פלפל, עגבניות, רוטב עגבניות, אורגנו וציר או מים.",
+          "מביאים לרתיחה ומבשלים כ-20 דקות עד שהפלפלים רכים מאוד. מתבלים במלח ופלפל.",
+          "מגישים עם חתיכות, או טוחנים חלק מהמרק או את כולו למרקם חלק יותר."
+        ],
+        "whyFits": "ירקות עם כף שמן בלבד ל-8 מנות. בוחרים רוטב עגבניות בלי סוכר. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "roasted-pumpkin-red-pepper-sage-soup",
+      "url": "https://jamiegeller.com/recipes/roasted-pumpkin-and-red-pepper-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2020/09/jamie-jax-test-kitchen-headshot-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 130,
+      "totalMinutes": 150,
+      "servings": 8,
+      "nutrition": {
+        "calories": 190,
+        "protein": 3
+      },
+      "en": {
+        "title": "Roasted Pumpkin and Red Pepper Soup with Sage",
+        "description": "Sweet roasted pumpkin and red peppers blended with onion, garlic and potato into a velvety orange soup.",
+        "steps": [
+          "Heat the oven to 190°C (375°F). Halve the pumpkin, rub the inside with 2 tbsp oil, tuck the sage leaves inside and roast on a tray about 1½ hours until the flesh is tender.",
+          "Rub the peppers with 1 tbsp oil and roast about 30 minutes, then peel and seed them.",
+          "Scoop out the pumpkin flesh. In a large pot, cook the onion, garlic and potatoes in the remaining oil, then add the pumpkin and peppers and cook 5 more minutes.",
+          "Add the water or broth, bring to a boil and simmer on low 30 minutes.",
+          "Let it cool a little, blend until smooth, and season with salt, pepper and paprika."
+        ],
+        "whyFits": "Roasted vegetables with under 1 tbsp oil per serving. No dairy, grains or sugar. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "1 pumpkin (about 2 kg)",
+          "2 red bell peppers",
+          "1 onion, chopped",
+          "2–3 garlic cloves, peeled and chopped",
+          "2 medium potatoes, peeled and cubed",
+          "10 sage leaves",
+          "6–7 cups water or broth",
+          "Salt, pepper and paprika to taste",
+          "7 tbsp olive oil (divided)"
+        ]
+      },
+      "he": {
+        "title": "מרק דלעת ופלפל אדום צלויים עם מרווה",
+        "description": "דלעת ופלפלים אדומים צלויים ומתוקים שנטחנים עם בצל, שום ותפוח אדמה למרק כתום וקטיפתי.",
+        "ingredients": [
+          "דלעת (כ-2 ק\"ג)",
+          "2 פלפלים אדומים",
+          "בצל קצוץ",
+          "2–3 שיני שום קלופות וקצוצות",
+          "2 תפוחי אדמה בינוניים, קלופים וחתוכים לקוביות",
+          "10 עלי מרווה",
+          "6–7 כוסות מים או ציר",
+          "מלח, פלפל ופפריקה לפי הטעם",
+          "7 כפות שמן זית (מחולק)"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות. חוצים את הדלעת, מורחים את הפנים ב-2 כפות שמן, מכניסים פנימה את עלי המרווה וצולים בתבנית כשעה וחצי, עד שהבשר רך.",
+          "מורחים את הפלפלים בכף שמן וצולים כ-30 דקות, ואז מקלפים ומוציאים גרעינים.",
+          "מוציאים את בשר הדלעת. בסיר גדול מבשלים בצל, שום ותפוחי אדמה ביתרת השמן, ואז מוסיפים את הדלעת והפלפלים ומבשלים עוד 5 דקות.",
+          "מוסיפים מים או ציר, מביאים לרתיחה ומבשלים על אש קטנה 30 דקות.",
+          "מצננים מעט, טוחנים עד שהמרק חלק ומתבלים במלח, פלפל ופפריקה."
+        ],
+        "whyFits": "ירקות צלויים עם פחות מכף שמן למנה. בלי חלב, דגנים או סוכר. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "moroccan-split-pea-soup-herbs",
+      "url": "https://jamiegeller.com/recipes/moroccan-pea-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/morroconpeasoupjpeg.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "totalMinutes": 75,
+      "servings": 8,
+      "nutrition": {
+        "calories": 280,
+        "protein": 14
+      },
+      "en": {
+        "title": "Moroccan Split Pea Soup with Herbs",
+        "description": "A thick, comforting soup of split peas simmered with lots of celery, carrots, onion, parsley, cilantro and turmeric, then blended.",
+        "steps": [
+          "Put everything except the salt and pepper into a wide, heavy pot and bring to a boil.",
+          "Lower to medium and simmer, covered, about 1 hour.",
+          "Season with salt and pepper and blend until creamy. Adjust the thickness with water and taste for seasoning."
+        ],
+        "whyFits": "Legumes, vegetables and herbs with about ⅔ tbsp oil per serving. Good protein. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 large onions (quartered )",
+          "8 ribs of celery (peeled and cut in large chunks)",
+          "3 large carrots (cut in large chunks)",
+          "1 pound bag green or yellow split peas (picked over and rinsed)",
+          "1 large bunch flat parsley (stems and leaves)",
+          "1 bunch cilantro (stems cut off)",
+          "1/3 cup olive oil",
+          "1 teaspoon turmeric",
+          "12 cups water",
+          "Salt and pepper to taste"
+        ]
+      },
+      "he": {
+        "title": "מרק אפונה מרוקאי עם עשבי תיבול",
+        "description": "מרק סמיך ומנחם של אפונה יבשה שמתבשלת עם הרבה סלרי, גזר, בצל, פטרוזיליה, כוסברה וכורכום, ואז נטחנת.",
+        "ingredients": [
+          "2 בצלים גדולים, חתוכים לרבעים",
+          "8 גבעולי סלרי, קלופים וחתוכים לחתיכות גדולות",
+          "3 גזרים גדולים, חתוכים לחתיכות גדולות",
+          "שקית (450 גרם) אפונה יבשה ירוקה או צהובה, נקייה ושטופה",
+          "צרור גדול פטרוזיליה (גבעולים ועלים)",
+          "צרור כוסברה (בלי הגבעולים)",
+          "⅓ כוס שמן זית",
+          "כפית כורכום",
+          "12 כוסות מים",
+          "מלח ופלפל לפי הטעם"
+        ],
+        "steps": [
+          "שמים הכול חוץ ממלח ופלפל בסיר רחב וכבד ומביאים לרתיחה.",
+          "מנמיכים לאש בינונית ומבשלים מכוסה כשעה.",
+          "מתבלים במלח ופלפל וטוחנים עד שהמרק קרמי. מתקנים את הסמיכות עם מים וטועמים."
+        ],
+        "whyFits": "קטניות, ירקות ועשבי תיבול עם כשני שליש כף שמן למנה. עשיר בחלבון. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "zucchini-eggplant-ratatouille-soup",
+      "url": "https://jamiegeller.com/recipes/zucchini-eggplant-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/featured-image-5.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 4,
+      "nutrition": {
+        "calories": 150,
+        "protein": 4
+      },
+      "en": {
+        "title": "Zucchini and Eggplant Soup (Ratatouille Soup)",
+        "description": "A ratatouille in a bowl: zucchini, eggplant, pepper and tomatoes with basil and thyme. Good hot or cold, chunky or blended.",
+        "steps": [
+          "In a large saucepan, cook the onion and garlic in the oil about 3 minutes, then add the eggplant, zucchini and pepper and cook 5 minutes more, stirring.",
+          "Add the tomatoes with their juice, then the basil, thyme, stock, cayenne, salt and pepper.",
+          "Bring to a boil, then simmer 15–20 minutes.",
+          "Serve chunky right away, or blend for a smooth soup. Serve hot or chilled, with a little balsamic vinegar and fresh basil on top."
+        ],
+        "whyFits": "Vegetables with ½ tbsp oil per serving. Use vegetable stock for a pareve soup. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 :tablespoons olive oil",
+          "1 :red onion (chopped)",
+          "2 :teaspoons garlic (chopped)",
+          "1 :large zucchini (chopped)",
+          "1 :small eggplant (chopped (about a cup)",
+          "1 :red bell pepper (chopped)",
+          "2 :pounds fresh or canned tomatoes (peeled and chopped)",
+          "2 :teaspoons dried basil",
+          "1/4 :dried thyme",
+          "2 :cups chicken stock",
+          "cayenne:pepper to taste",
+          "1 :teaspoon salt",
+          "1/8 :teaspoon freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק קישואים וחצילים (מרק רטטוי)",
+        "description": "רטטוי בקערה: קישוא, חציל, פלפל ועגבניות עם בזיליקום וטימין. טעים חם או קר, עם חתיכות או טחון.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "בצל סגול קצוץ",
+          "2 כפיות שום קצוץ",
+          "קישוא גדול קצוץ",
+          "חציל קטן קצוץ (כוס בערך)",
+          "גמבה קצוצה",
+          "900 גרם עגבניות טריות או מקופסה, קלופות וקצוצות",
+          "2 כפיות בזיליקום יבש",
+          "¼ כפית טימין יבש",
+          "2 כוסות ציר (ירקות או עוף)",
+          "פלפל קאיין לפי הטעם",
+          "כפית מלח",
+          "⅛ כפית פלפל שחור גרוס"
+        ],
+        "steps": [
+          "בסיר גדול מבשלים בצל ושום בשמן כ-3 דקות, ואז מוסיפים חציל, קישוא ופלפל ומבשלים עוד 5 דקות תוך ערבוב.",
+          "מוסיפים את העגבניות עם הנוזלים, ואז בזיליקום, טימין, ציר, קאיין, מלח ופלפל.",
+          "מביאים לרתיחה ומבשלים 15–20 דקות.",
+          "מגישים מיד עם חתיכות, או טוחנים למרק חלק. מגישים חם או קר, עם מעט חומץ בלסמי ובזיליקום טרי מעל."
+        ],
+        "whyFits": "ירקות עם חצי כף שמן למנה. עם ציר ירקות המרק פרווה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "parsnip-jerusalem-artichoke-soup-olive-oil",
+      "url": "https://jamiegeller.com/recipes/parsnip-olive-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/parsnip-soupjpg.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 32,
+      "totalMinutes": 42,
+      "servings": 10,
+      "nutrition": {
+        "calories": 180,
+        "protein": 2
+      },
+      "en": {
+        "title": "Parsnip and Jerusalem Artichoke Soup with Black Olive Oil",
+        "description": "A creamy, nutty soup of parsnips, Jerusalem artichokes and fennel, finished with a drizzle of blended Kalamata olive oil.",
+        "steps": [
+          "Warm the oil in a large pot and cook the onion 5–10 minutes until translucent. Add the garlic and fennel for 2 minutes.",
+          "Add the parsnips, Jerusalem artichokes and water or broth and simmer until the vegetables are soft.",
+          "Blend until smooth, in batches in a blender for the silkiest result.",
+          "For the black olive oil, blend the olives, balsamic, olive oil and salt until pourable.",
+          "Serve the soup with a swirl of the olive oil and chopped parsley."
+        ],
+        "whyFits": "Root vegetables with under 1 tbsp oil per serving (counting the olive drizzle). No dairy, grains or sugar. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "3 - 4 tablespoons extra virgin olive oil (such as Colavita)",
+          "1 sweet or Vidalia onion (chopped)",
+          "4 garlic cloves (sliced)",
+          "1 fennel bulb (cubed)",
+          "2 large or 4 small parsnips (peeled and chopped)",
+          "2 cups Jerusalem artichokes (washed and thinly sliced)",
+          "3 quarts water or vegetable broth",
+          "Garnish: Black Olive Oil and chopped parsley",
+          "½ cup pitted Kalamata olives",
+          "1 teaspoon balsamic vinegar",
+          "¼ cup extra virgin olive oil",
+          "Pinch sea salt",
+          "Garnish: chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "מרק פסטרנק וארטישוק ירושלמי עם שמן זיתים שחורים",
+        "description": "מרק קרמי ואגוזי של פסטרנק, ארטישוק ירושלמי ושומר, ומעל זילוף של שמן זית טחון עם זיתי קלמטה.",
+        "ingredients": [
+          "3–4 כפות שמן זית כתית מעולה",
+          "בצל מתוק קצוץ",
+          "4 שיני שום פרוסות",
+          "ראש שומר, חתוך לקוביות",
+          "2 פסטרנקים גדולים או 4 קטנים, קלופים וקצוצים",
+          "2 כוסות ארטישוק ירושלמי, שטוף ופרוס דק",
+          "3 ליטר מים או ציר ירקות",
+          "להגשה: שמן זיתים שחורים ופטרוזיליה קצוצה",
+          "½ כוס זיתי קלמטה מגולענים",
+          "כפית חומץ בלסמי",
+          "¼ כוס שמן זית כתית מעולה",
+          "קמצוץ מלח ים",
+          "לקישוט: פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול ומבשלים את הבצל 5–10 דקות עד שהוא שקוף. מוסיפים שום ושומר ל-2 דקות.",
+          "מוסיפים פסטרנק, ארטישוק ירושלמי ומים או ציר ומבשלים עד שהירקות רכים.",
+          "טוחנים עד שהמרק חלק. בבלנדר, במנות, יוצא הכי משיי.",
+          "לשמן הזיתים השחורים: טוחנים זיתים, בלסמי, שמן זית ומלח עד שהתערובת נשפכת.",
+          "מגישים את המרק עם זילוף של שמן הזיתים ופטרוזיליה קצוצה."
+        ],
+        "whyFits": "ירקות שורש עם פחות מכף שמן למנה (כולל שמן הזיתים). בלי חלב, דגנים או סוכר. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "leek-shallot-potato-soup-thyme",
+      "url": "https://jamiegeller.com/recipes/leek-soup/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/potato-leek-soupjpg-2.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 6,
+      "cookMinutes": 24,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 180,
+        "protein": 4
+      },
+      "en": {
+        "title": "Leek and Shallot Soup with Thyme",
+        "description": "A quick, cozy blended soup of leeks, onion, shallots and potato, scented with fresh thyme.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat. Add the onion, shallots and leeks and cook 5 minutes, stirring.",
+          "Add the broth and thyme, cover and bring to a boil.",
+          "Add the potato, salt and pepper, stir and cook 20 minutes.",
+          "Blend until smooth and adjust the seasoning."
+        ],
+        "whyFits": "Vegetables with ½ tbsp oil per serving. Use vegetable broth for a pareve soup. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tablespoons canola oil",
+          "1 medium onion (coarsely chopped)",
+          "2 shallots (coarsely chopped)",
+          "2 leeks (halved lengthwise, rinsed, and sliced)",
+          "1 32-ounce box broth, chicken or vegetable",
+          "2 tablespoons fresh thyme leaves or 2 teaspoons dried",
+          "1 large potato (peeled and coarsely chopped)",
+          "1 teaspoon kosher salt",
+          "1 teaspoon freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק כרישה ושאלוט עם טימין",
+        "description": "מרק טחון, מהיר ונעים של כרישה, בצל, שאלוט ותפוח אדמה, בניחוח טימין טרי.",
+        "ingredients": [
+          "2 כפות שמן קנולה",
+          "בצל בינוני קצוץ גס",
+          "2 שאלוטים קצוצים גס",
+          "2 כרישות, חצויות לאורך, שטופות ופרוסות",
+          "קרטון (950 מ\"ל) ציר עוף או ירקות",
+          "2 כפות עלי טימין טרי (או 2 כפיות יבש)",
+          "תפוח אדמה גדול, קלוף וקצוץ גס",
+          "כפית מלח כשר",
+          "כפית פלפל שחור גרוס"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית-גבוהה. מוסיפים בצל, שאלוט וכרישה ומבשלים 5 דקות תוך ערבוב.",
+          "מוסיפים ציר וטימין, מכסים ומביאים לרתיחה.",
+          "מוסיפים תפוח אדמה, מלח ופלפל, מערבבים ומבשלים 20 דקות.",
+          "טוחנים עד שהמרק חלק ומתקנים תיבול."
+        ],
+        "whyFits": "ירקות עם חצי כף שמן למנה. עם ציר ירקות המרק פרווה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "tomato-cabbage-vegetable-soup",
+      "url": "https://feelgoodfoodie.net/recipe/vegan-detox-cabbage-tomato-soup/",
+      "source": "Feel Good Foodie",
+      "sourceLang": "en",
+      "image": "https://feelgoodfoodie.net/wp-content/uploads/2020/01/Cabbage-Soup-11.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 110,
+        "protein": 3
+      },
+      "en": {
+        "title": "Tomato Cabbage Soup",
+        "description": "A light, filling soup of cabbage, carrots, celery and tomatoes with oregano and a pinch of cayenne.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion, celery and carrots about 8 minutes until softened.",
+          "Add the garlic, oregano, salt, pepper and cayenne and stir a minute.",
+          "Stir in the diced tomatoes and tomato paste, pour in the broth and bring to a boil.",
+          "Add the cabbage, cover and simmer 20 minutes until tender."
+        ],
+        "whyFits": "Vegetables with only 1 tbsp oil for 6 servings and about 110 calories a bowl. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 large onion (chopped)",
+          "3 celery stalks (chopped)",
+          "3 large carrots (chopped)",
+          "1 garlic clove (minced)",
+          "1 teaspoon oregano",
+          "¾ teaspoon salt",
+          "½ teaspoon black pepper",
+          "⅛ teaspoon cayenne pepper (or to taste)",
+          "1 (15-ounce ) canned diced tomatoes (low sodium)",
+          "¼ cup tomato paste",
+          "4 cups low-sodium vegetable broth",
+          "1 small green cabbage (chopped (about 7-8 cups)"
+        ]
+      },
+      "he": {
+        "title": "מרק כרוב ועגבניות",
+        "description": "מרק קליל ומשביע של כרוב, גזר, סלרי ועגבניות עם אורגנו וקמצוץ קאיין.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל גדול קצוץ",
+          "3 גבעולי סלרי קצוצים",
+          "3 גזרים גדולים קצוצים",
+          "שן שום כתושה",
+          "כפית אורגנו",
+          "¾ כפית מלח",
+          "½ כפית פלפל שחור",
+          "⅛ כפית פלפל קאיין (או לפי הטעם)",
+          "קופסת (425 גרם) עגבניות קצוצות דלות נתרן",
+          "¼ כוס רסק עגבניות",
+          "4 כוסות ציר ירקות דל נתרן",
+          "כרוב לבן קטן, קצוץ (7–8 כוסות)"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים בצל, סלרי וגזר כ-8 דקות עד שהם מתרככים.",
+          "מוסיפים שום, אורגנו, מלח, פלפל וקאיין ומערבבים דקה.",
+          "מוסיפים עגבניות ורסק, מוזגים את הציר ומביאים לרתיחה.",
+          "מוסיפים כרוב, מכסים ומבשלים 20 דקות עד שהוא רך."
+        ],
+        "whyFits": "ירקות עם כף שמן בלבד ל-6 מנות, וכ-110 קלוריות לקערה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cabbage-soup-apple-cider-thyme",
+      "url": "https://www.eatingbirdfood.com/cabbage-soup/",
+      "source": "Eating Bird Food",
+      "sourceLang": "en",
+      "image": "https://www.eatingbirdfood.com/wp-content/uploads/2024/01/cabbage-soup-hero-new.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 40,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 155,
+        "protein": 4
+      },
+      "en": {
+        "title": "Hearty Cabbage Soup",
+        "description": "Cabbage, carrots, celery and tomatoes simmered with thyme, a hint of cinnamon and a splash of cider vinegar. Sweet-and-sour, the old-fashioned way, but with no sugar.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion, carrots and celery about 7 minutes until softened.",
+          "Add the garlic, thyme, cinnamon, bay leaf, salt and pepper for 1–2 minutes, then add 1 tbsp vinegar to loosen the bits on the bottom.",
+          "Add the broth, applesauce, tomatoes and cabbage, bring to a boil, then cover and simmer about 30 minutes until the cabbage is tender.",
+          "Remove the bay leaf, stir in the remaining vinegar and season. Serve topped with parsley."
+        ],
+        "whyFits": "Vegetables with 1 tbsp oil for 4 servings. The gentle sweetness comes from unsweetened applesauce, not sugar. No dairy or grains.",
+        "ingredients": [
+          "1 Tablespoon olive oil",
+          "½ large yellow onion (chopped, about 1 cup)",
+          "3 large carrots (peeled and chopped, about 1 ½ cups)",
+          "2 stalks celery (chopped, about 1 cup)",
+          "3 cloves garlic (minced)",
+          "1 teaspoon dried thyme",
+          "¼ teaspoon cinnamon (optional)",
+          "1 bay leaf",
+          "½ teaspoon salt ( plus more to taste)",
+          "½ teaspoon ground black pepper ( plus more to taste)",
+          "2 Tablespoons apple cider vinegar (divided )",
+          "4 cups low sodium vegetable broth",
+          "⅓ cup unsweetened applesauce",
+          "1 28 oz can diced tomatoes",
+          "1 small green cabbage (about 1 pound, chopped into 1 ½ inch chunks)",
+          "fresh parsley (for garnish)"
+        ]
+      },
+      "he": {
+        "title": "מרק כרוב חמוץ-מתוק (בלי סוכר)",
+        "description": "כרוב, גזר, סלרי ועגבניות שמתבשלים עם טימין, נגיעה של קינמון ומעט חומץ תפוחים. חמוץ-מתוק כמו פעם, אבל בלי סוכר.",
+        "ingredients": [
+          "כף שמן זית",
+          "½ בצל צהוב גדול, קצוץ (כוס)",
+          "3 גזרים גדולים, קלופים וקצוצים (1½ כוסות)",
+          "2 גבעולי סלרי קצוצים (כוס)",
+          "3 שיני שום כתושות",
+          "כפית טימין יבש",
+          "¼ כפית קינמון (לא חובה)",
+          "עלה דפנה",
+          "½ כפית מלח (ועוד לפי הטעם)",
+          "½ כפית פלפל שחור טחון (ועוד לפי הטעם)",
+          "2 כפות חומץ תפוחים (מחולק)",
+          "4 כוסות ציר ירקות דל נתרן",
+          "⅓ כוס רסק תפוחים בלי סוכר",
+          "קופסת (800 גרם) עגבניות קצוצות",
+          "כרוב לבן קטן (כ-450 גרם), חתוך לקוביות של 4 ס\"מ",
+          "פטרוזיליה טרייה לקישוט"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים בצל, גזר וסלרי כ-7 דקות עד שהם מתרככים.",
+          "מוסיפים שום, טימין, קינמון, עלה דפנה, מלח ופלפל ל-1–2 דקות, ואז כף חומץ כדי לשחרר את מה שנדבק לתחתית.",
+          "מוסיפים ציר, רסק תפוחים, עגבניות וכרוב, מביאים לרתיחה, מכסים ומבשלים כ-30 דקות עד שהכרוב רך.",
+          "מוציאים את עלה הדפנה, מוסיפים את יתרת החומץ ומתבלים. מגישים עם פטרוזיליה."
+        ],
+        "whyFits": "ירקות עם כף שמן ל-4 מנות. המתיקות העדינה מרסק תפוחים בלי סוכר. בלי חלב ודגנים."
+      }
+    },
+    {
+      "id": "butternut-squash-leek-chickpea-soup",
+      "url": "https://overtimecook.com/2022/10/02/butternut-squash-and-leek-soup/",
+      "source": "overtimecook.com",
+      "sourceLang": "en",
+      "image": "http://overtimecook.com/wp-content/uploads/2022/10/butternut-squash-leek-soup-720x720.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 50,
+      "totalMinutes": 65,
+      "servings": 8,
+      "nutrition": {
+        "calories": 160,
+        "protein": 5
+      },
+      "en": {
+        "title": "Butternut Squash and Leek Soup",
+        "description": "A creamy blended soup of butternut squash, browned leeks, lots of garlic and chickpeas for extra body and protein.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat and cook the onion with half the salt about 5 minutes until soft.",
+          "Add the garlic, leeks and squash and cook about 5 minutes until the leeks start to brown.",
+          "Add the chickpeas, broth, water, pepper, thyme and the rest of the salt.",
+          "Cover, bring to a boil, then simmer 30–40 minutes until the squash is soft.",
+          "Blend for a few minutes until creamy."
+        ],
+        "whyFits": "Vegetables and legumes with 2 tbsp oil for 8 servings. Chickpeas make it creamy, with no dairy. No grains or sugar.",
+        "ingredients": [
+          "2 Tablespoons oil",
+          "1 onion diced",
+          "2 teaspoons kosher salt, divided",
+          "8 cloves garlic, chopped",
+          "3 large leeks cut in half ring slices",
+          "1 medium butternut squash peeled and cubed",
+          "1 can chickpeas, drained and rinsed",
+          "4 cups broth",
+          "4 cups water",
+          "1/2 teaspoon black pepper",
+          "1 teaspoon dried thyme"
+        ]
+      },
+      "he": {
+        "title": "מרק דלורית וכרישה",
+        "description": "מרק טחון וקרמי של דלורית, כרישה מוזהבת, הרבה שום וגרגירי חומוס שמוסיפים גוף וחלבון.",
+        "ingredients": [
+          "2 כפות שמן",
+          "בצל קצוץ",
+          "2 כפיות מלח כשר (מחולק)",
+          "8 שיני שום קצוצות",
+          "3 כרישות גדולות, חתוכות לחצאי טבעות",
+          "דלורית בינונית, קלופה וחתוכה לקוביות",
+          "קופסת גרגירי חומוס, מסוננים ושטופים",
+          "4 כוסות ציר",
+          "4 כוסות מים",
+          "½ כפית פלפל שחור",
+          "כפית טימין יבש"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית-גבוהה ומבשלים את הבצל עם חצי מהמלח כ-5 דקות עד שהוא רך.",
+          "מוסיפים שום, כרישה ודלורית ומבשלים כ-5 דקות עד שהכרישה מתחילה להשחים.",
+          "מוסיפים חומוס, ציר, מים, פלפל, טימין ויתרת המלח.",
+          "מכסים, מביאים לרתיחה ומבשלים 30–40 דקות עד שהדלורית רכה.",
+          "טוחנים כמה דקות עד שהמרק קרמי."
+        ],
+        "whyFits": "ירקות וקטניות עם 2 כפות שמן ל-8 מנות. החומוס נותן קרמיות בלי מוצרי חלב. בלי דגנים או סוכר."
+      }
+    },
+    {
+      "id": "healthy-vegetable-soup-cauliflower-green-beans",
+      "url": "https://www.wholesomeyum.com/vegetable-soup/",
+      "source": "Wholesome Yum - Easy healthy recipes. 10 ingredients or less.",
+      "sourceLang": "en",
+      "image": "https://www.wholesomeyum.com/wp-content/uploads/2019/02/wholesomeyum-Homemade-Vegetable-Soup-9.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 12,
+      "nutrition": {
+        "calories": 75,
+        "protein": 3
+      },
+      "en": {
+        "title": "30-Minute Healthy Vegetable Soup",
+        "description": "A big pot of light, chunky soup with peppers, cauliflower, green beans and tomatoes in an Italian-herb broth.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onions and peppers 7–10 minutes until the onions are translucent and starting to brown.",
+          "Add the garlic for a minute.",
+          "Add the cauliflower, green beans, tomatoes, broth, Italian seasoning, salt, pepper and bay leaves.",
+          "Bring to a boil, then cover and cook on medium-low 10–20 minutes until the vegetables are soft."
+        ],
+        "whyFits": "Vegetables with only 2 tbsp oil for 12 servings and about 75 calories a bowl. Use vegetable broth for a pareve soup. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tbsp Olive oil",
+          "1 large Onion (diced)",
+          "2 large Bell peppers (diced, the same size as onions)",
+          "4 cloves Garlic (minced)",
+          "1 medium head Cauliflower (cut into 1-inch florets)",
+          "2 cups Green beans (trimmed, cut into 1-inch pieces)",
+          "2 14.5-oz cans Diced tomatoes",
+          "8 cups Chicken broth, reduced sodium (or vegetable broth for vegetarian/vegan)",
+          "1 tbsp Italian seasoning",
+          "2 medium Bay leaves (optional)",
+          "Sea salt (optional, to taste)",
+          "Black pepper (optional, to taste)"
+        ]
+      },
+      "he": {
+        "title": "מרק ירקות בריא ב-30 דקות",
+        "description": "סיר גדול של מרק קליל עם חתיכות פלפלים, כרובית, שעועית ירוקה ועגבניות בציר עשבי תיבול איטלקיים.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "בצל גדול חתוך לקוביות",
+          "2 פלפלים גדולים חתוכים לקוביות",
+          "4 שיני שום כתושות",
+          "ראש כרובית בינוני, מפורק לפרחים של 2.5 ס\"מ",
+          "2 כוסות שעועית ירוקה, חתוכה לחתיכות של 2.5 ס\"מ",
+          "2 קופסאות (410 גרם) עגבניות קצוצות",
+          "8 כוסות ציר (עוף או ירקות) דל נתרן",
+          "כף תערובת תבלינים איטלקית",
+          "2 עלי דפנה (לא חובה)",
+          "מלח ים לפי הטעם",
+          "פלפל שחור לפי הטעם"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומבשלים בצל ופלפלים 7–10 דקות, עד שהבצל שקוף ומתחיל להשחים.",
+          "מוסיפים שום לדקה.",
+          "מוסיפים כרובית, שעועית ירוקה, עגבניות, ציר, תבלינים, מלח, פלפל ועלי דפנה.",
+          "מביאים לרתיחה, מכסים ומבשלים על אש בינונית-נמוכה 10–20 דקות עד שהירקות רכים."
+        ],
+        "whyFits": "ירקות עם 2 כפות שמן בלבד ל-12 מנות, וכ-75 קלוריות לקערה. עם ציר ירקות המרק פרווה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cream-of-cauliflower-curry-soup-coconut",
+      "url": "https://www.10dakot.co.il/recipe/מרק-קרם-כרובית/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2025/02/%E2%80%8F%E2%80%8FDSC_0062-%D7%A2%D7%95%D7%AA%D7%A7.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 3,
+      "nutrition": {
+        "calories": 150,
+        "protein": 3
+      },
+      "en": {
+        "title": "Cream of Cauliflower Soup with Curry",
+        "description": "A small batch of smooth cauliflower and potato soup with a touch of curry and coconut milk.",
+        "steps": [
+          "Heat the oil in a pot and cook the onion and garlic a few minutes until soft.",
+          "Add the cauliflower, potato, water, coconut milk and spices. Bring to a boil, cover and simmer about 20 minutes until very soft.",
+          "Blend until smooth and serve with cilantro. The source makes it in a heated soup blender: sauté, then the smooth-soup setting."
+        ],
+        "whyFits": "Vegetables with a little coconut milk instead of cream. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 small onion, quartered",
+          "2 garlic cloves, peeled",
+          "2 tbsp olive oil",
+          "3 cups cauliflower florets (about 3 cm)",
+          "1 small potato, cubed",
+          "2 cups (480 ml) water",
+          "¼ cup (60 ml) coconut milk",
+          "1 tsp salt, ½ tsp curry powder, a pinch of cumin, a pinch of black pepper",
+          "Cilantro for garnish"
+        ]
+      },
+      "he": {
+        "title": "מרק קרם כרובית בקארי",
+        "description": "כמות קטנה של מרק כרובית ותפוח אדמה חלק, עם נגיעה של קארי וחלב קוקוס.",
+        "ingredients": [
+          "בצל קטן חתוך לרבעים",
+          "2 שיני שום קלופות",
+          "2 כפות שמן זית",
+          "3 כוסות כרובית חתוכה לפרחים של כ-3 ס\"מ",
+          "תפוח אדמה קטן חתוך לקוביות",
+          "2 כוסות (480 מ\"ל) מים",
+          "רבע כוס (60 מ\"ל) חלב קוקוס",
+          "כפית מלח, חצי כפית אבקת קארי, קמצוץ כמון, קמצוץ פלפל שחור",
+          "כוסברה לקישוט"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר ומבשלים בצל ושום כמה דקות עד שהם רכים.",
+          "מוסיפים כרובית, תפוח אדמה, מים, חלב קוקוס ותבלינים. מביאים לרתיחה, מכסים ומבשלים כ-20 דקות עד שהכול רך מאוד.",
+          "טוחנים עד שהמרק חלק ומגישים עם כוסברה. במקור מכינים את המרק בבלנדר מחמם: תוכנית צריבה, ואז תוכנית מרק חלק."
+        ],
+        "whyFits": "ירקות עם מעט חלב קוקוס במקום שמנת. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "rich-vegetable-pea-potato-soup",
+      "url": "https://www.kikar.co.il/soups/155377",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/11/03/27e05e80-02d5-11ef-97a3-e12a00cf89de__h666_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "totalMinutes": 60,
+      "servings": 6,
+      "nutrition": {
+        "calories": 150,
+        "protein": 5
+      },
+      "en": {
+        "title": "Rich Vegetable Soup with Peas and Potatoes",
+        "description": "A chunky, homey soup of carrots, potatoes, peas, celery and red pepper with bay leaf and thyme.",
+        "steps": [
+          "Roughly chop the onion and garlic. Cut the celery, peppers, potatoes and carrots into even cubes.",
+          "Heat the oil in a large pot and cook the onion over medium-high heat about 5 minutes until translucent.",
+          "Add the garlic and carrots and stir until the garlic smells good.",
+          "Add the celery, bay leaf and thyme, season with salt and pepper and cook about 5 minutes.",
+          "Add the potatoes and peas, cover with water and bring to a boil uncovered.",
+          "Lower the heat, cover and cook 25 minutes more. Taste and adjust."
+        ],
+        "whyFits": "Vegetables with just 4 tsp oil for the whole pot. We left out the optional white wine. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 medium carrots",
+          "3 potatoes",
+          "2 red bell peppers (optional)",
+          "2 cups peas",
+          "2 celery stalks",
+          "1 bay leaf (optional)",
+          "1 large onion",
+          "2 medium garlic cloves",
+          "A pinch of dried thyme (optional)",
+          "4 tsp olive oil",
+          "Salt and black pepper",
+          "Water to cover"
+        ]
+      },
+      "he": {
+        "title": "מרק ירקות עשיר עם אפונה ותפוחי אדמה",
+        "description": "מרק ביתי עם חתיכות גזר, תפוחי אדמה, אפונה, סלרי ופלפל אדום, עם עלה דפנה וטימין.",
+        "ingredients": [
+          "2 גזרים בינוניים",
+          "3 תפוחי אדמה",
+          "2 פלפלים אדומים (לא חובה)",
+          "2 כוסות אפונה",
+          "2 גבעולי סלרי",
+          "עלה דפנה (לא חובה)",
+          "בצל גדול",
+          "2 שיני שום בינוניות",
+          "קמצוץ טימין מיובש (לא חובה)",
+          "4 כפיות שמן זית",
+          "מלח ופלפל שחור",
+          "מים לכיסוי"
+        ],
+        "steps": [
+          "קוצצים גס את הבצל והשום. חותכים את הסלרי, הפלפלים, תפוחי האדמה והגזר לקוביות שוות.",
+          "מחממים את השמן בסיר גדול ומבשלים את הבצל על אש בינונית-גבוהה כ-5 דקות עד שהוא שקוף.",
+          "מוסיפים שום וגזר ומערבבים עד שעולה ריח של שום.",
+          "מוסיפים סלרי, עלה דפנה וטימין, מתבלים במלח ופלפל ומבשלים כ-5 דקות.",
+          "מוסיפים תפוחי אדמה ואפונה, מכסים במים ומביאים לרתיחה בלי מכסה.",
+          "מנמיכים את האש, מכסים ומבשלים עוד 25 דקות. טועמים ומתקנים."
+        ],
+        "whyFits": "ירקות עם 4 כפיות שמן בלבד לכל הסיר. ויתרנו על היין הלבן (לא חובה במקור). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "steaming-vegetable-soup-zucchini-cilantro-celery",
+      "url": "https://www.kikar.co.il/soups/156437",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/11/16/c9da59e0-02d3-11ef-97a3-e12a00cf89de__h2877_w3744.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 70,
+      "totalMinutes": 90,
+      "servings": 6,
+      "nutrition": {
+        "calories": 110,
+        "protein": 3
+      },
+      "en": {
+        "title": "Steaming Pot of Vegetable Soup",
+        "description": "The classic Israeli Friday vegetable soup: carrots, potatoes and zucchini slow-cooked with whole garlic, cilantro and celery leaves.",
+        "steps": [
+          "Peel the carrots and potatoes. Wash the zucchini well, leave them unpeeled, and cut all the vegetables into similar cubes.",
+          "Finely chop the onion and the celery.",
+          "Heat a little oil in a large, deep pot and cook the onion until golden brown.",
+          "Add the carrots and celery, stir and season with salt. After about 3 minutes add the potatoes and zucchini and stir.",
+          "Add the water, whole garlic cloves, cilantro and celery leaves, season and bring to a boil.",
+          "Lower the heat as far as it goes and cook about an hour."
+        ],
+        "whyFits": "Just vegetables, herbs and a little oil. We left out the optional pearl barley the source adds for thickness (it's a grain). No dairy or sugar.",
+        "ingredients": [
+          "2 medium onions",
+          "2 carrots",
+          "3 potatoes",
+          "3 zucchini",
+          "½ bunch cilantro",
+          "½ bunch celery leaves",
+          "4 garlic cloves",
+          "1 liter water or broth",
+          "Salt",
+          "A little oil"
+        ]
+      },
+      "he": {
+        "title": "מרק ירקות מהביל",
+        "description": "מרק הירקות הקלאסי של יום שישי: גזר, תפוחי אדמה וקישואים מתבשלים לאט עם שיני שום שלמות, כוסברה ועלי סלרי.",
+        "ingredients": [
+          "2 בצלים בינוניים",
+          "2 גזרים",
+          "3 תפוחי אדמה",
+          "3 קישואים",
+          "½ חבילת כוסברה",
+          "½ חבילת עלי סלרי",
+          "4 שיני שום",
+          "ליטר מים או ציר",
+          "מלח",
+          "מעט שמן"
+        ],
+        "steps": [
+          "מקלפים את הגזר ותפוחי האדמה. שוטפים היטב את הקישואים, לא מקלפים, וחותכים את כל הירקות לקוביות דומות.",
+          "קוצצים דק את הבצל והסלרי.",
+          "מחממים מעט שמן בסיר גדול ועמוק ומטגנים את הבצל עד שהוא זהוב-חום.",
+          "מוסיפים גזר וסלרי, מערבבים ומתבלים במלח. אחרי כ-3 דקות מוסיפים תפוחי אדמה וקישואים ומערבבים.",
+          "מוסיפים מים, שיני שום שלמות, כוסברה ועלי סלרי, מתבלים ומביאים לרתיחה.",
+          "מנמיכים את האש ככל האפשר ומבשלים כשעה."
+        ],
+        "whyFits": "רק ירקות, עשבי תיבול ומעט שמן. ויתרנו על הגריסים שהמקור מוסיף לסמיכות (זה דגן). בלי חלב או סוכר."
+      }
+    },
+    {
+      "id": "velvety-artichoke-potato-soup-lemon",
+      "url": "https://www.kikar.co.il/soups/168346",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/04/13/31032530-02c4-11ef-97a3-e12a00cf89de__h619_w970.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "totalMinutes": 50,
+      "servings": 8,
+      "nutrition": {
+        "calories": 150,
+        "protein": 4
+      },
+      "en": {
+        "title": "Thick and Velvety Artichoke Soup",
+        "description": "A silky spring soup of artichoke hearts, onion and potato, brightened with lemon.",
+        "steps": [
+          "Peel the potatoes and cut them into medium cubes. Slice the onions into strips.",
+          "Heat the oil in a large pot and cook the onions until translucent.",
+          "Add the artichoke hearts, stir gently and season with the white pepper and salt.",
+          "Add the potatoes and the broth or water, cover and cook over medium heat until the vegetables are soft.",
+          "Stir in the lemon juice, taste and adjust.",
+          "Blend into a thick purée and bring back to a boil. Serve hot."
+        ],
+        "whyFits": "Vegetables with 5 tbsp oil for 8 servings. We left out the white rice the source suggests serving alongside. No dairy, grains or sugar.",
+        "ingredients": [
+          "8 cleaned artichoke hearts (fresh or frozen)",
+          "2 large white onions",
+          "3 potatoes",
+          "2.5 liters vegetable broth or water",
+          "Juice of 1 lemon",
+          "5 tbsp olive oil",
+          "½ tsp white pepper",
+          "1 tbsp salt"
+        ]
+      },
+      "he": {
+        "title": "מרק ארטישוק סמיך וקטיפתי",
+        "description": "מרק אביבי ומשיי של לבבות ארטישוק, בצל ותפוח אדמה, עם רעננות של לימון.",
+        "ingredients": [
+          "8 לבבות ארטישוק נקיים (טריים או קפואים)",
+          "2 בצלים לבנים גדולים",
+          "3 תפוחי אדמה",
+          "2.5 ליטר ציר ירקות או מים",
+          "מיץ מלימון סחוט",
+          "5 כפות שמן זית",
+          "½ כפית פלפל לבן",
+          "כף מלח"
+        ],
+        "steps": [
+          "מקלפים את תפוחי האדמה וחותכים לקוביות בינוניות. פורסים את הבצלים לרצועות.",
+          "מחממים את השמן בסיר גדול ומבשלים את הבצל עד שהוא שקוף.",
+          "מוסיפים לבבות ארטישוק, מערבבים בעדינות ומתבלים בפלפל לבן ומלח.",
+          "מוסיפים תפוחי אדמה וציר או מים, מכסים ומבשלים על אש בינונית עד שהירקות רכים.",
+          "מוסיפים מיץ לימון ומערבבים. טועמים ומתקנים.",
+          "טוחנים למחית סמיכה ומרתיחים שוב. מגישים חם."
+        ],
+        "whyFits": "ירקות עם 5 כפות שמן ל-8 מנות. ויתרנו על האורז הלבן שהמקור מציע לצד. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cold-tomato-mango-gazpacho",
+      "url": "https://www.kikar.co.il/soups/178072",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/08/02/6395ed30-02b9-11ef-97a3-e12a00cf89de__h785_w998.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 0,
+      "totalMinutes": 140,
+      "servings": 4,
+      "nutrition": {
+        "calories": 100,
+        "protein": 2
+      },
+      "en": {
+        "title": "Cold Tomato and Mango Gazpacho",
+        "description": "A refreshing chilled gazpacho of tomatoes, peppers and cucumber with sweet mango and a hint of cumin. No bread.",
+        "steps": [
+          "Slice the garlic and quarter the onion. Roughly chop the tomatoes, cucumber and peppers. Peel and dice the mango.",
+          "Set aside 2 tbsp each of diced mango, tomato and pepper for garnish.",
+          "Blend the rest of the vegetables and mango with the vinegar, cumin, salt and pepper until thick and even. Add a little water if it's too thick.",
+          "Chill at least 2 hours. Serve in bowls with a drizzle of olive oil and the reserved cubes on top."
+        ],
+        "whyFits": "Raw vegetables and fruit, with just a drizzle of oil and no bread or sugar. No dairy or grains.",
+        "ingredients": [
+          "3 large tomatoes",
+          "1–2 garlic cloves (to taste)",
+          "1 small onion",
+          "1 small cucumber",
+          "1 red bell pepper",
+          "1 green bell pepper",
+          "1 mango",
+          "1 tbsp apple cider vinegar",
+          "¼ tsp ground cumin",
+          "1 tsp salt",
+          "Black pepper",
+          "A little olive oil for serving"
+        ]
+      },
+      "he": {
+        "title": "גספאצ'ו עגבניות ומנגו קר",
+        "description": "גספאצ'ו קר ומרענן של עגבניות, פלפלים ומלפפון עם מנגו מתוק ונגיעה של כמון. בלי לחם.",
+        "ingredients": [
+          "3 עגבניות גדולות",
+          "1–2 שיני שום (לפי הטעם)",
+          "בצל קטן",
+          "מלפפון קטן",
+          "פלפל אדום",
+          "פלפל ירוק",
+          "מנגו",
+          "כף חומץ תפוחים",
+          "¼ כפית כמון טחון",
+          "כפית מלח",
+          "פלפל שחור",
+          "מעט שמן זית להגשה"
+        ],
+        "steps": [
+          "פורסים את השום וחותכים את הבצל לרבעים. קוצצים גס עגבניות, מלפפון ופלפלים. מקלפים את המנגו וחותכים לקוביות.",
+          "שומרים בצד 2 כפות מכל אחד: קוביות מנגו, עגבנייה ופלפל, לקישוט.",
+          "טוחנים בבלנדר את שאר הירקות והמנגו עם החומץ, הכמון, המלח והפלפל עד שהתערובת סמיכה ואחידה. אם סמיך מדי, מוסיפים מעט מים.",
+          "מקררים לפחות שעתיים. מגישים בקערות עם זילוף שמן זית והקוביות ששמרתם מעל."
+        ],
+        "whyFits": "ירקות ופרי טריים, עם זילוף שמן בלבד ובלי לחם או סוכר. בלי חלב ודגנים."
+      }
+    },
+    {
+      "id": "roasted-carrot-ginger-thyme-soup",
+      "url": "https://www.kikar.co.il/soups/189193",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/12/29/ca0812b0-02a9-11ef-97a3-e12a00cf89de__h530_w712.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 40,
+      "totalMinutes": 50,
+      "servings": 6,
+      "nutrition": {
+        "calories": 140,
+        "protein": 2
+      },
+      "en": {
+        "title": "Quick Roasted Carrot Soup with Ginger",
+        "description": "Oven-roasted carrots simmered in a ginger-and-thyme-infused broth, then blended with golden onion and garlic.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and line a tray with baking paper.",
+          "Peel the carrots, cut into 2.5 cm rounds, toss with 2 tbsp of the oil and plenty of salt, and roast about 20 minutes until soft.",
+          "Meanwhile bring the broth to a boil in a large pot, add the ginger and thyme, lower the heat and simmer 15 minutes.",
+          "Chop the onion and garlic. In a medium pot, heat the remaining oil and cook the onion until it starts to brown, add the garlic for a minute, then the roasted carrots.",
+          "Remove the ginger and thyme from the broth and pour it over the vegetables. Boil 5–10 minutes until the carrots mash easily.",
+          "Blend into a thick purée and season with salt and pepper."
+        ],
+        "whyFits": "Roasted carrots and broth with about ⅔ tbsp oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "6–8 large carrots",
+          "¼ cup olive oil",
+          "Salt",
+          "6 cups vegetable broth (water works, but is less tasty)",
+          "3 cm piece of ginger",
+          "1 sprig thyme",
+          "½ large onion",
+          "2 large garlic cloves",
+          "Freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק גזר צלוי מהיר עם ג'ינג'ר",
+        "description": "גזר צלוי בתנור שמתבשל בציר בניחוח ג'ינג'ר וטימין, ואז נטחן עם בצל מוזהב ושום.",
+        "ingredients": [
+          "6–8 גזרים גדולים",
+          "¼ כוס שמן זית",
+          "מלח",
+          "6 כוסות ציר ירקות (אפשר מים, אבל פחות טעים)",
+          "ג'ינג'ר בגודל 3 ס\"מ",
+          "גבעול טימין",
+          "½ בצל גדול",
+          "2 שיני שום גדולות",
+          "פלפל שחור טחון טרי"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומרפדים תבנית בנייר אפייה.",
+          "מקלפים את הגזר, חותכים לעיגולים של 2.5 ס\"מ, מערבבים עם 2 כפות שמן והרבה מלח, וצולים כ-20 דקות עד שהגזר רך.",
+          "בינתיים מרתיחים את הציר בסיר גדול, מוסיפים ג'ינג'ר וטימין, מנמיכים ומבשלים 15 דקות.",
+          "קוצצים בצל ושום. בסיר בינוני מחממים את השמן הנותר ומבשלים את הבצל עד שהוא מתחיל להשחים, מוסיפים שום לדקה, ואז את הגזר הצלוי.",
+          "מוציאים מהציר את הג'ינג'ר והטימין ויוצקים אותו על הירקות. מרתיחים 5–10 דקות עד שהגזר נמעך בקלות.",
+          "טוחנים למחית סמיכה ומתבלים במלח ופלפל."
+        ],
+        "whyFits": "גזר צלוי וציר עם כשני שליש כף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
       "id": "chopped-broccoli-avocado-lime-salad",
       "url": "https://jamiegeller.com/recipes/chopped-broccoli-salad/",
       "source": "Jamie Geller",

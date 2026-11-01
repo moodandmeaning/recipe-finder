@@ -22,7 +22,7 @@ ALLOWED = re.compile(
     r"coconut milk|coconut cream|almond milk|oat-free|nut butter|almond butter|cashew butter|peanut butter|"
     r"sunflower butter|seed butter|cocoa butter|cauliflower rice|riced cauliflower|almond flour|coconut flour|"
     r"tapioca flour|arrowroot flour|cassava flour|tigernut flour|chickpea flour|nutritional yeast|cream of tartar|"
-    r"buckwheat-free|dairy[- ]free|sugar[- ]free|no added sugar|egg ?plant|"
+    r"buckwheat-free|dairy[- ]free|sugar[- ]free|no added sugar|no sugar added|egg ?plant|"
     r"חלב קוקוס|קרם קוקוס|חלב שקדים|חמאת שקדים|חמאת בוטנים|חמאת קשיו|אורז כרובית|קמח שקדים|קמח קוקוס|קמח טפיוקה|"
     r"wheat-free|dairy-free 'sour cream'|״שמנת חמוצה״ בלי חלב|קמח חומוס|שמרי בירה|גבינתי|שעועית לבנה|פלפל חלבי|ללא סוכר|בלי סוכר|בלי תוספת סוכר", re.I)
 BANNED = re.compile(
