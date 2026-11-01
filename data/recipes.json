@@ -2,6 +2,1006 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "crustless-vegetable-quiche-zucchini-pepper",
+      "url": "https://family-friends-food.com/easy-vegetable-crustless-quiche-delicious-dairy-free/",
+      "source": "Family-Friends-Food",
+      "sourceLang": "en",
+      "image": "https://family-friends-food.com/wp-content/uploads/2015/07/Easy-crustless-Quiche-twitter.png",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "totalMinutes": 60,
+      "servings": 4,
+      "nutrition": {
+        "calories": 210,
+        "protein": 11
+      },
+      "en": {
+        "title": "Crustless Vegetable Quiche (Zucchini and Red Pepper)",
+        "description": "Sweet sautéed onions, peppers and zucchini with oregano and smoked paprika, baked in a fluffy egg custard. No crust, no flour, no dairy.",
+        "steps": [
+          "Slice the onions into crescents and cook them in the oil in a large pan over medium heat about 5 minutes, until soft and starting to brown.",
+          "Slice the pepper and cut the zucchini into 4–5 mm rounds. Add them to the pan with the oregano, paprika and pepper and cook 5–10 minutes more, stirring.",
+          "Heat the oven to 180°C (350°F) and grease a quiche dish well.",
+          "Spread the vegetables in the dish. Whisk the eggs with the almond milk and salt and pour over.",
+          "Bake 45–50 minutes until set, slightly puffed and starting to brown."
+        ],
+        "whyFits": "Eggs and vegetables with unsweetened almond milk. No crust, flour or dairy. About ½ tbsp oil per serving.",
+        "ingredients": [
+          "2 medium onions",
+          "2–3 tbsp olive oil (plus a little to grease the dish)",
+          "1 red bell pepper",
+          "2 zucchini",
+          "2 tsp dried oregano",
+          "½ tsp smoked paprika",
+          "½ tsp ground black pepper",
+          "A pinch of salt",
+          "6 large eggs",
+          "50 ml unsweetened almond milk (or other plant milk)"
+        ]
+      },
+      "he": {
+        "title": "פשטידת ירקות בלי בצק (קישואים ופלפל אדום)",
+        "description": "בצל מוזהב, פלפלים וקישואים עם אורגנו ופפריקה מעושנת, אפויים בתערובת ביצים אוורירית. בלי בצק, בלי קמח ובלי חלב.",
+        "ingredients": [
+          "2 בצלים בינוניים",
+          "2–3 כפות שמן זית (ועוד מעט לשימון התבנית)",
+          "פלפל אדום",
+          "2 קישואים",
+          "2 כפיות אורגנו יבש",
+          "½ כפית פפריקה מעושנת",
+          "½ כפית פלפל שחור טחון",
+          "קמצוץ מלח",
+          "6 ביצים גדולות",
+          "50 מ\"ל חלב שקדים לא ממותק (או משקה צמחי אחר)"
+        ],
+        "steps": [
+          "פורסים את הבצלים לסהרונים ומבשלים בשמן במחבת גדולה על אש בינונית כ-5 דקות, עד שהם רכים ומתחילים להשחים.",
+          "פורסים את הפלפל וחותכים את הקישואים לעיגולים של 4–5 מ\"מ. מוסיפים למחבת עם האורגנו, הפפריקה והפלפל ומבשלים עוד 5–10 דקות תוך ערבוב.",
+          "מחממים תנור ל-180 מעלות ומשמנים היטב תבנית לפשטידה.",
+          "מפזרים את הירקות בתבנית. טורפים את הביצים עם חלב השקדים והמלח ויוצקים מעל.",
+          "אופים 45–50 דקות, עד שהפשטידה יציבה, תופחת מעט ומתחילה להזהיב."
+        ],
+        "whyFits": "ביצים וירקות עם חלב שקדים לא ממותק. בלי בצק, קמח או חלב. כחצי כף שמן למנה."
+      }
+    },
+    {
+      "id": "vegetable-quiche-potato-crust",
+      "url": "https://www.kosher.com/recipe/vegetable-quiche-with-potato-crust-8500",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/uploads/Friedman-Elky-Vegetable-Quiche-with-Potato-Crust.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 100,
+      "totalMinutes": 120,
+      "servings": 8,
+      "nutrition": {
+        "calories": 200,
+        "protein": 6
+      },
+      "en": {
+        "title": "Vegetable Quiche with a Potato Crust",
+        "description": "A golden, crispy crust of potatoes and onion filled with sautéed zucchini, squash, pepper, tomato and mushrooms set with eggs.",
+        "steps": [
+          "Heat the oven to 200°C (400°F). Cook the onions in the oil over medium heat 5–7 minutes until soft.",
+          "Season the potatoes with salt and pepper and mix in half the onions, leaving the rest in the pan.",
+          "Grease a baking dish well and press the potatoes over the bottom and up the sides. Brush or spray lightly with oil. Bake covered 20 minutes, then uncovered at 190°C (375°F) for 25 minutes more, until crisp.",
+          "Meanwhile add the zucchini, squash, pepper, tomato and mushrooms to the pan with the remaining onions and cook until soft. Season, let cool, then mix in the eggs. Pour into the crust.",
+          "Bake at 180°C (350°F) for 45–50 minutes until the top starts to turn golden."
+        ],
+        "whyFits": "Vegetables, potatoes and eggs with 2 tbsp oil for 8 servings. The crust is made from potatoes, not flour. No dairy or grains. From the kosher site Kosher.com.",
+        "ingredients": [
+          "2 tablespoons Gefen Olive Oil",
+          "2 medium onions, diced",
+          "4 large potatoes, cooked and mashed OR grated and drained (see note)",
+          "salt",
+          "pepper",
+          "1 large zucchini, peeled and cut into half-moons",
+          "1 yellow squash, peeled and cut into half-moons",
+          "1 red pepper, diced",
+          "1 tomato, cubed",
+          "1 (4-ounce) can mushrooms",
+          "3 eggs",
+          "salt, to taste",
+          "pepper, to taste"
+        ]
+      },
+      "he": {
+        "title": "פשטידת ירקות עם \"בצק\" מתפוחי אדמה",
+        "description": "קלתית זהובה ופריכה של תפוחי אדמה ובצל, במילוי קישוא, דלעת, פלפל, עגבנייה ופטריות מוקפצים עם ביצים.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "2 בצלים בינוניים קצוצים",
+          "4 תפוחי אדמה גדולים, מבושלים ומעוכים, או מגורדים וסחוטים",
+          "מלח",
+          "פלפל",
+          "קישוא גדול, קלוף וחתוך לחצאי עיגולים",
+          "דלעת צהובה (קישוא צהוב), קלופה וחתוכה לחצאי עיגולים",
+          "פלפל אדום קצוץ",
+          "עגבנייה חתוכה לקוביות",
+          "קופסת פטריות (115 גרם)",
+          "3 ביצים",
+          "מלח לפי הטעם",
+          "פלפל לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות. מבשלים את הבצל בשמן על אש בינונית 5–7 דקות עד שהוא רך.",
+          "מתבלים את תפוחי האדמה במלח ופלפל ומערבבים עם חצי מהבצל. את השאר משאירים במחבת.",
+          "משמנים היטב תבנית ומהדקים את תפוחי האדמה לתחתית ולדפנות. מברישים או מרססים מעל מעט שמן. אופים מכוסה 20 דקות, ואז בלי כיסוי ב-190 מעלות עוד 25 דקות, עד שהקלתית פריכה.",
+          "בינתיים מוסיפים למחבת עם הבצל הנותר את הקישוא, הדלעת, הפלפל, העגבנייה והפטריות ומבשלים עד ריכוך. מתבלים, מצננים ומערבבים פנימה את הביצים. יוצקים לתוך הקלתית.",
+          "אופים ב-180 מעלות 45–50 דקות, עד שהחלק העליון מתחיל להזהיב."
+        ],
+        "whyFits": "ירקות, תפוחי אדמה וביצים עם 2 כפות שמן ל-8 מנות. הקלתית עשויה מתפוחי אדמה ולא מקמח. בלי חלב ודגנים. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "vegetable-kugel-zucchini-carrot-onion",
+      "url": "https://www.kosher.com/recipe/vegetable-kugel-7901/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/uploads/vegetable-kugel-06687.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 30,
+      "cookMinutes": 45,
+      "totalMinutes": 90,
+      "servings": 16,
+      "nutrition": {
+        "calories": 70,
+        "protein": 2
+      },
+      "en": {
+        "title": "Vegetable Kugel (Zucchini, Carrot and Golden Onion)",
+        "description": "A simple pareve Shabbat kugel of grated zucchini, carrots and lots of sweet browned onion, bound with just eggs.",
+        "steps": [
+          "Heat the oven to 180°C (350°F).",
+          "Grate the onions and carrots and cook them in the oil in a large pan until lightly browned.",
+          "Grate the zucchini into a large bowl, let it sit 20 minutes, then squeeze out as much water as you can.",
+          "Mix the onions and carrots into the zucchini, then add the eggs, salt and pepper.",
+          "Spread in two 23 cm (9-inch) round pans and bake uncovered 45 minutes."
+        ],
+        "whyFits": "Vegetables and eggs only, with ¼ cup oil for 16 pieces. No flour, matzah meal or starch. From the kosher site Kosher.com.",
+        "ingredients": [
+          "3 large onions",
+          "3 large carrots",
+          "1/4 cup oil",
+          "3 large zucchini",
+          "3 eggs",
+          "1 teaspoon salt or to taste",
+          "1/8 teaspoon Pereg Black Pepper or to taste"
+        ]
+      },
+      "he": {
+        "title": "קוגל ירקות (קישואים, גזר ובצל מוזהב)",
+        "description": "קוגל פרווה פשוט לשבת של קישואים וגזר מגורדים והרבה בצל מוזהב ומתקתק, עם ביצים בלבד.",
+        "ingredients": [
+          "3 בצלים גדולים",
+          "3 גזרים גדולים",
+          "¼ כוס שמן",
+          "3 קישואים גדולים",
+          "3 ביצים",
+          "כפית מלח (או לפי הטעם)",
+          "⅛ כפית פלפל שחור (או לפי הטעם)"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות.",
+          "מגררים את הבצל והגזר ומבשלים אותם בשמן במחבת גדולה עד הזהבה קלה.",
+          "מגררים את הקישואים לקערה גדולה, משאירים 20 דקות וסוחטים כמה שיותר מים.",
+          "מערבבים את הבצל והגזר לתוך הקישואים, ומוסיפים ביצים, מלח ופלפל.",
+          "מחלקים לשתי תבניות עגולות בקוטר 23 ס\"מ ואופים בלי כיסוי 45 דקות."
+        ],
+        "whyFits": "רק ירקות וביצים, עם ¼ כוס שמן ל-16 חתיכות. בלי קמח, קמח מצה או עמילן. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "potato-kugel-garlic-onion-gluten-free",
+      "url": "https://www.kosher.com/recipe/potato-kugel-2662/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/details.slide/p/o/potato_kugel_shutterstock_208152577.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "totalMinutes": 65,
+      "servings": 8,
+      "nutrition": {
+        "calories": 230,
+        "protein": 6
+      },
+      "en": {
+        "title": "Classic Potato Kugel",
+        "description": "The traditional Shabbat potato kugel: grated potatoes, onion and garlic with eggs, baked in a hot oiled pan until crisp and brown. No flour or matzah meal.",
+        "steps": [
+          "Grate the potatoes, onions and garlic in a food processor or by hand.",
+          "Pour the oil into a baking dish and heat it in the oven while you mix.",
+          "In a large bowl, mix the potatoes, onions and garlic with the salt, pepper and eggs.",
+          "Stir 2 tbsp of the hot oil into the mixture, then pour it back into the hot pan.",
+          "Bake at 200°C (400°F) about 45 minutes, until browned."
+        ],
+        "whyFits": "Potatoes, onion and eggs with ¼ cup oil for 8 servings. It's baked, not fried, with no flour, matzah meal or starch. From the kosher site Kosher.com.",
+        "ingredients": [
+          "8–10 potatoes (Yukon Gold or other)",
+          "2 onions",
+          "4 eggs",
+          "2 cloves garlic",
+          "1 teaspoon salt",
+          "1/2 teaspoon pepper",
+          "1/4 cup oil"
+        ]
+      },
+      "he": {
+        "title": "קוגל תפוחי אדמה קלאסי",
+        "description": "קוגל תפוחי האדמה המסורתי לשבת: תפוחי אדמה מגורדים, בצל ושום עם ביצים, אפוי בתבנית עם שמן חם עד שהוא פריך ושחום. בלי קמח ובלי קמח מצה.",
+        "ingredients": [
+          "8–10 תפוחי אדמה (צהובים או אחרים)",
+          "2 בצלים",
+          "4 ביצים",
+          "2 שיני שום",
+          "כפית מלח",
+          "½ כפית פלפל",
+          "¼ כוס שמן"
+        ],
+        "steps": [
+          "מגררים את תפוחי האדמה, הבצל והשום במעבד מזון או ביד.",
+          "יוצקים את השמן לתבנית ומחממים אותה בתנור בזמן שמערבבים.",
+          "בקערה גדולה מערבבים תפוחי אדמה, בצל ושום עם מלח, פלפל וביצים.",
+          "מערבבים לתוך התערובת 2 כפות מהשמן החם, ואז יוצקים אותה בחזרה לתבנית החמה.",
+          "אופים ב-200 מעלות כ-45 דקות עד השחמה."
+        ],
+        "whyFits": "תפוחי אדמה, בצל וביצים עם ¼ כוס שמן ל-8 מנות. אפוי, לא מטוגן, בלי קמח, קמח מצה או עמילן. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "mini-cauliflower-mushroom-kugels",
+      "url": "https://www.kosher.com/recipe/mini-gluten-free-vegetable-kugels-6036/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/details.slide/m/i/Mini_Vegetable_Kugels1.jpeg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "totalMinutes": 55,
+      "servings": 8,
+      "nutrition": {
+        "calories": 60,
+        "protein": 4
+      },
+      "en": {
+        "title": "Mini Cauliflower and Mushroom Kugels",
+        "description": "Light, individual kugels of sautéed cauliflower, onion, mushrooms and garlic baked in a muffin pan. Great for Shabbat or the freezer.",
+        "steps": [
+          "Chop any large cauliflower florets smaller. Sauté the garlic, onions, mushrooms and cauliflower until soft.",
+          "Heat the oven to 180°C (350°F).",
+          "Mix the vegetables with the egg, egg white, olive oil, salt and pepper.",
+          "Grease a muffin pan, spoon in the mixture and bake 40 minutes."
+        ],
+        "whyFits": "Vegetables and eggs only, about 60 calories each. We used a little olive oil instead of the source's 2 tsp mayonnaise, since mayo is only for salads. No flour or dairy. From the kosher site Kosher.com.",
+        "ingredients": [
+          "2 garlic cloves, crushed",
+          "2 onions, diced",
+          "4 mushrooms, diced",
+          "1 bag (450 g) frozen cauliflower florets, defrosted",
+          "1 whole egg plus 1 egg white",
+          "2 tsp olive oil (instead of the source's mayonnaise)",
+          "Sea salt to taste",
+          "Black pepper to taste",
+          "A little oil to grease the muffin pan"
+        ]
+      },
+      "he": {
+        "title": "קוגלים אישיים של כרובית ופטריות",
+        "description": "קוגלים אישיים וקלילים של כרובית, בצל, פטריות ושום מוקפצים, אפויים בתבנית שקעים. מצוינים לשבת ולמקפיא.",
+        "ingredients": [
+          "2 שיני שום כתושות",
+          "2 בצלים קצוצים",
+          "4 פטריות קצוצות",
+          "שקית (450 גרם) פרחי כרובית קפואים, מופשרים",
+          "ביצה שלמה ועוד חלבון אחד",
+          "2 כפיות שמן זית (במקום המיונז שבמקור)",
+          "מלח ים לפי הטעם",
+          "פלפל שחור לפי הטעם",
+          "מעט שמן לשימון תבנית השקעים"
+        ],
+        "steps": [
+          "קוצצים את פרחי הכרובית הגדולים לקטנים יותר. מקפיצים שום, בצל, פטריות וכרובית עד ריכוך.",
+          "מחממים תנור ל-180 מעלות.",
+          "מערבבים את הירקות עם הביצה, החלבון, שמן הזית, המלח והפלפל.",
+          "משמנים תבנית שקעים, ממלאים בתערובת ואופים 40 דקות."
+        ],
+        "whyFits": "ירקות וביצים בלבד, כ-60 קלוריות לקוגל. השתמשנו במעט שמן זית במקום 2 כפיות המיונז שבמקור, כי מיונז מותר רק בסלטים. בלי קמח וחלב. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "light-broccoli-squash-kugel",
+      "url": "https://www.kosher.com/recipe/diet-broccoli-kugel-5094/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/uploads/diet-broccoli-kugel-07607-kosher.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 55,
+      "totalMinutes": 75,
+      "servings": 12,
+      "nutrition": {
+        "calories": 50,
+        "protein": 4
+      },
+      "en": {
+        "title": "Light Broccoli Kugel",
+        "description": "A soft, light kugel of grated broccoli and zucchini set with eggs and plant milk. About 50 calories a square.",
+        "steps": [
+          "Heat the oven to 180°C (350°F). Cook the broccoli until tender, in the microwave (7–10 minutes) or steamed.",
+          "Coarsely grate the cooked broccoli and the squash in a food processor and put them in a large bowl.",
+          "Beat the eggs, milk, salt and pepper and mix well with the vegetables.",
+          "Pour into a lined 23 × 33 cm (9 × 13-inch) pan and bake 45 minutes, until browned."
+        ],
+        "whyFits": "Vegetables and eggs with unsweetened plant milk and no oil at all. No flour, dairy or sugar. From the kosher site Kosher.com.",
+        "ingredients": [
+          "1 lb (450 g) frozen broccoli",
+          "1 large squash (zucchini), peeled",
+          "3 eggs",
+          "1 cup unsweetened soy or almond milk",
+          "1 tsp salt",
+          "Black pepper to taste"
+        ]
+      },
+      "he": {
+        "title": "קוגל ברוקולי קליל",
+        "description": "קוגל רך וקליל של ברוקולי וקישוא מגורדים עם ביצים ומשקה צמחי. כ-50 קלוריות לריבוע.",
+        "ingredients": [
+          "450 גרם ברוקולי קפוא",
+          "קישוא גדול, קלוף",
+          "3 ביצים",
+          "כוס משקה סויה או שקדים לא ממותק",
+          "כפית מלח",
+          "פלפל שחור לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות. מבשלים את הברוקולי עד ריכוך, במיקרוגל (7–10 דקות) או באידוי.",
+          "מגררים גס את הברוקולי המבושל והקישוא במעבד מזון ומעבירים לקערה גדולה.",
+          "טורפים ביצים, משקה צמחי, מלח ופלפל ומערבבים היטב עם הירקות.",
+          "יוצקים לתבנית 23×33 ס\"מ מרופדת ואופים 45 דקות עד השחמה."
+        ],
+        "whyFits": "ירקות וביצים עם משקה צמחי לא ממותק, בלי שמן בכלל. בלי קמח, חלב או סוכר. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "crustless-spinach-pepper-quiche-dairy-free",
+      "url": "https://www.kosher.com/recipe/nondairy-quiche-15232/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://images.kosher.com/uploads/FT_801_Rabinowitz_Nondairy-Quiche.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "totalMinutes": 75,
+      "servings": 8,
+      "nutrition": {
+        "calories": 90,
+        "protein": 7
+      },
+      "en": {
+        "title": "Crustless Spinach and Pepper Quiche (Dairy-Free)",
+        "description": "Colorful peppers, onion and spinach in an almond-milk egg custard, with nutritional yeast for a cheesy flavor and no cheese.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and oil a 23 cm (9-inch) pie dish well.",
+          "Heat the oil in a pan over medium-high heat and cook the onion and peppers with the salt 6–7 minutes until the onion is translucent. Let cool.",
+          "Squeeze the thawed spinach as dry as possible.",
+          "Whisk the eggs, almond milk and nutritional yeast. Scatter the vegetables and spinach in the dish and pour the egg mixture over.",
+          "Bake uncovered about 45 minutes. Let it rest 10 minutes before slicing."
+        ],
+        "whyFits": "Eggs, vegetables and unsweetened almond milk, with almost no oil. We made it crustless, as the source suggests, so there is no pastry or flour. No dairy. From the kosher site Kosher.com.",
+        "ingredients": [
+          "1/2 teaspoon Tuscanini Olive or avocado oil, for sautéing",
+          "1 onion, chopped",
+          "1 cup chopped pepper (I like to use red, orange, and yellow)",
+          "1 teaspoon salt",
+          "8 to 10 ounces (225 to 280 grams) frozen chopped spinach, thawed and drained (or fresh spinach, chopped)",
+          "6 large eggs",
+          "2/3 cup Gefen Unsweetened Almond Milk",
+          "2 tablespoons nutritional yeast (optional but highly recommended)"
+        ]
+      },
+      "he": {
+        "title": "קיש תרד ופלפלים בלי בצק (פרווה)",
+        "description": "פלפלים צבעוניים, בצל ותרד בתערובת ביצים וחלב שקדים, עם שמרי בירה לטעם \"גבינתי\" בלי גבינה.",
+        "ingredients": [
+          "½ כפית שמן זית או אבוקדו, לטיגון",
+          "בצל קצוץ",
+          "כוס פלפלים קצוצים (אדום, כתום וצהוב)",
+          "כפית מלח",
+          "225–280 גרם תרד קפוא קצוץ, מופשר",
+          "6 ביצים גדולות",
+          "⅔ כוס חלב שקדים לא ממותק",
+          "2 כפות שמרי בירה (לא חובה, אבל מומלץ)"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומשמנים היטב תבנית פאי בקוטר 23 ס\"מ.",
+          "מחממים את השמן במחבת על אש בינונית-גבוהה ומבשלים בצל ופלפלים עם המלח 6–7 דקות, עד שהבצל שקוף. מצננים.",
+          "סוחטים את התרד המופשר כמה שיותר.",
+          "טורפים ביצים, חלב שקדים ושמרי בירה. מפזרים את הירקות והתרד בתבנית ויוצקים מעל את תערובת הביצים.",
+          "אופים בלי כיסוי כ-45 דקות. נותנים לקיש לנוח 10 דקות לפני החיתוך."
+        ],
+        "whyFits": "ביצים, ירקות וחלב שקדים לא ממותק, כמעט בלי שמן. הכנו אותו בלי בצק, כפי שהמקור מציע, כך שאין בצק או קמח. בלי חלב. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "crustless-chicken-vegetable-quiche",
+      "url": "https://www.kosher.com/recipe/crustless-chicken-quiche/",
+      "source": "Kosher.com",
+      "sourceLang": "en",
+      "image": "https://www.kosher.com/wp-content/uploads/2025/01/Schonbrun-Riqi-Crustless-chicken-quiche.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "totalMinutes": 60,
+      "servings": 4,
+      "nutrition": {
+        "calories": 330,
+        "protein": 30
+      },
+      "en": {
+        "title": "Crustless Chicken and Vegetable Quiche",
+        "description": "A hearty meat quiche of ground chicken with parsnip, carrot, tomato and herbs in a dairy-free egg custard. A full meal in a slice.",
+        "steps": [
+          "Sauté the onion, parsnip and carrot in the oil until softened but not fully cooked.",
+          "Stir in the garlic, herbs, salt and pepper. Add the ground chicken, breaking it into small pieces, and cook about 3 minutes until cooked through.",
+          "Turn off the heat, add the tomato and let it cool.",
+          "Mix the plant milk with the eggs and stir into the cooled chicken mixture.",
+          "Bake as one quiche, or in a muffin pan for individual ones, at 180°C (350°F) until set and no longer jiggly in the middle, about 35–45 minutes for a large pan."
+        ],
+        "whyFits": "Chicken, vegetables and eggs with unsweetened plant milk. It's meat, with no dairy, so it's kosher. No flour or crust. From the kosher site Kosher.com.",
+        "ingredients": [
+          "2 tbsp oil",
+          "1 onion, chopped",
+          "1 parsnip, diced small",
+          "1 carrot, diced small",
+          "3 garlic cloves",
+          "½ tbsp Italian seasoning (or any herb blend)",
+          "2 tsp salt",
+          "Black pepper to taste",
+          "1 lb (450 g) ground chicken",
+          "1 large tomato, peeled and diced",
+          "1½ cups unsweetened almond or soy milk",
+          "4 eggs"
+        ]
+      },
+      "he": {
+        "title": "פשטידת עוף וירקות בלי בצק",
+        "description": "פשטידה בשרית ומשביעה של עוף טחון עם פסטרנק, גזר, עגבנייה ועשבי תיבול בתערובת ביצים בלי חלב. ארוחה שלמה בפרוסה.",
+        "ingredients": [
+          "2 כפות שמן",
+          "בצל קצוץ",
+          "פסטרנק חתוך לקוביות קטנות",
+          "גזר חתוך לקוביות קטנות",
+          "3 שיני שום",
+          "½ כף תבלין איטלקי (או כל תערובת עשבי תיבול)",
+          "2 כפיות מלח",
+          "פלפל שחור לפי הטעם",
+          "450 גרם עוף טחון",
+          "עגבנייה גדולה, קלופה וחתוכה לקוביות",
+          "1½ כוסות חלב שקדים או סויה לא ממותק",
+          "4 ביצים"
+        ],
+        "steps": [
+          "מקפיצים בשמן את הבצל, הפסטרנק והגזר עד שהם מתרככים, אבל לא עד הסוף.",
+          "מוסיפים שום, תבלינים, מלח ופלפל. מוסיפים את העוף הטחון, מפוררים לחתיכות קטנות ומבשלים כ-3 דקות עד שהוא מבושל.",
+          "מכבים את האש, מוסיפים את העגבנייה ומצננים.",
+          "מערבבים את המשקה הצמחי עם הביצים ומוסיפים לתערובת העוף המצוננת.",
+          "אופים כפשטידה אחת או בתבנית שקעים לפשטידות אישיות, ב-180 מעלות, עד שהפשטידה יציבה ולא רועדת במרכז. בתבנית גדולה זה לוקח כ-35–45 דקות."
+        ],
+        "whyFits": "עוף, ירקות וביצים עם משקה צמחי לא ממותק. זו מנה בשרית בלי חלב, ולכן כשרה. בלי קמח ובלי בצק. מהאתר הכשר Kosher.com."
+      }
+    },
+    {
+      "id": "healthy-potato-parsnip-zucchini-kugel",
+      "url": "https://jamiegeller.com/recipes/healthier-potato-kugel/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/caramelized-onion-chicken.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "totalMinutes": 75,
+      "servings": 12,
+      "nutrition": {
+        "calories": 170,
+        "protein": 5
+      },
+      "en": {
+        "title": "Healthier Potato Kugel with Parsnip and Zucchini",
+        "description": "A crunchy-topped Shabbat potato kugel lightened with grated parsnip and zucchini. No flour or matzah meal.",
+        "steps": [
+          "Heat the oven to 180°C (350°F). Pour the oil into a 23 × 33 cm (9 × 13-inch) pan and put it in the oven to get very hot.",
+          "Meanwhile grate the onions, potatoes, parsnip and zucchini with a box grater or food processor.",
+          "Mix in the eggs, salt and pepper.",
+          "Carefully take out the hot pan and spread the potato mixture in it.",
+          "Bake about an hour, until brown and crunchy on top."
+        ],
+        "whyFits": "Vegetables and eggs with ⅓ cup oil for 12 servings. No flour, matzah meal or starch. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "2 Spanish onions",
+          "6 potatoes",
+          "1 parsnip",
+          "1 zucchini",
+          "6 eggs",
+          "1 ½ tablespoons salt",
+          "½ teaspoon black pepper",
+          "1/3 cup oil"
+        ]
+      },
+      "he": {
+        "title": "קוגל תפוחי אדמה בריא עם פסטרנק וקישוא",
+        "description": "קוגל תפוחי אדמה לשבת עם קרום פריך, קליל יותר בזכות פסטרנק וקישוא מגורדים. בלי קמח ובלי קמח מצה.",
+        "ingredients": [
+          "2 בצלים ספרדיים",
+          "6 תפוחי אדמה",
+          "פסטרנק",
+          "קישוא",
+          "6 ביצים",
+          "1½ כפות מלח",
+          "½ כפית פלפל שחור",
+          "⅓ כוס שמן"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות. יוצקים את השמן לתבנית 23×33 ס\"מ ומכניסים לתנור שיתחמם היטב.",
+          "בינתיים מגררים בצל, תפוחי אדמה, פסטרנק וקישוא בפומפייה או במעבד מזון.",
+          "מערבבים פנימה ביצים, מלח ופלפל.",
+          "מוציאים בזהירות את התבנית החמה ומשטחים בה את תערובת תפוחי האדמה.",
+          "אופים כשעה, עד שהקוגל שחום ופריך מלמעלה."
+        ],
+        "whyFits": "ירקות וביצים עם ⅓ כוס שמן ל-12 מנות. בלי קמח, קמח מצה או עמילן. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "potato-pepper-frittata-cups",
+      "url": "https://jamiegeller.com/recipes/potato-pepper-frittata/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/potato-pepper-frittata.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35,
+      "servings": 24,
+      "nutrition": {
+        "calories": 110,
+        "protein": 7
+      },
+      "en": {
+        "title": "Potato and Pepper Frittata Cups",
+        "description": "Individual mini frittatas of sliced potato, sweet peppers and onion. A big batch, perfect for a crowd or a Shabbat kiddush.",
+        "steps": [
+          "Whisk the eggs with the cold water, salt and pepper and set aside.",
+          "Cook the peppers and onions in the oil until tender.",
+          "Cut the potatoes into thin slices (3 mm) and divide them among 24 greased muffin cups. Top with the pepper mixture and pour in the eggs.",
+          "Bake at 190°C (375°F) for 10 minutes, then at 160°C (325°F) for 15 minutes more.",
+          "Cool 5 minutes, then remove from the pan. Serve hot."
+        ],
+        "whyFits": "Eggs, potatoes and vegetables with only 2 tsp oil for 24 cups. No flour or dairy.",
+        "ingredients": [
+          "24 eggs",
+          "1 tbsp cold water",
+          "2 cups chopped red bell peppers",
+          "2 cups chopped green bell peppers",
+          "2 cups chopped onions",
+          "2 tsp oil",
+          "4 lb (1.8 kg) russet potatoes, peeled, cooked and quartered",
+          "½ tsp salt",
+          "½ tsp black pepper"
+        ]
+      },
+      "he": {
+        "title": "פשטידות אישיות של תפוחי אדמה ופלפלים",
+        "description": "פריטטות קטנות ואישיות של פרוסות תפוח אדמה, פלפלים מתוקים ובצל. כמות גדולה, מושלם לאירוח או לקידוש.",
+        "ingredients": [
+          "24 ביצים",
+          "כף מים קרים",
+          "2 כוסות פלפל אדום קצוץ",
+          "2 כוסות פלפל ירוק קצוץ",
+          "2 כוסות בצל קצוץ",
+          "2 כפיות שמן",
+          "1.8 ק\"ג תפוחי אדמה, קלופים, מבושלים וחתוכים לרבעים",
+          "½ כפית מלח",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "טורפים את הביצים עם המים הקרים, המלח והפלפל ומניחים בצד.",
+          "מבשלים את הפלפלים והבצל בשמן עד שהם רכים.",
+          "פורסים את תפוחי האדמה דק (3 מ\"מ) ומחלקים ל-24 שקעים משומנים בתבנית מאפינס. מניחים מעל את תערובת הפלפלים ויוצקים את הביצים.",
+          "אופים ב-190 מעלות 10 דקות, ואז ב-160 מעלות עוד 15 דקות.",
+          "מצננים 5 דקות ומוציאים מהתבנית. מגישים חם."
+        ],
+        "whyFits": "ביצים, תפוחי אדמה וירקות עם 2 כפיות שמן בלבד ל-24 פשטידות. בלי קמח וחלב."
+      }
+    },
+    {
+      "id": "light-veggie-quiche-cups",
+      "url": "https://jamiegeller.com/recipes/light-veggie-quiche/",
+      "source": "Jamie Geller",
+      "sourceLang": "en",
+      "image": "https://jamiegeller.com/wp-content/uploads/2019/07/light-veggie-quichejpg-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 70,
+        "protein": 6
+      },
+      "en": {
+        "title": "Light Veggie Quiche Cups",
+        "description": "Mini crustless quiches of onion, garlic, red pepper, zucchini and broccoli in a light egg and egg-white custard.",
+        "steps": [
+          "Heat the oven to 220°C (425°F).",
+          "In a large pan over medium-low heat, cook the onion and garlic in the oil about 4 minutes. Add the pepper, zucchini and broccoli and cook 2 minutes more.",
+          "Whisk the eggs, egg whites, plant milk and seasonings. Stir in the vegetables.",
+          "Lightly grease a muffin pan and fill each cup halfway.",
+          "Bake 10 minutes, then lower to 180°C (350°F) and bake 15 minutes more, until puffed and a knife comes out clean."
+        ],
+        "whyFits": "Eggs and vegetables with just 1 tbsp coconut oil and a splash of unsweetened plant milk. No flour or dairy. From the kosher site Jamie Geller.",
+        "ingredients": [
+          "1 tablespoon coconut oil",
+          "1 small yellow onion (diced)",
+          "2 cloves garlic (minced)",
+          "½ cup diced red bell pepper",
+          "½ cup sliced zucchini",
+          "8 broccoli florets",
+          "2 large eggs",
+          "5 large egg whites",
+          "2 tablespoons coconut/almond milk",
+          "1 teaspoon dried oregano/fresh parsley",
+          "½ teaspoon black pepper",
+          "Salt to taste"
+        ]
+      },
+      "he": {
+        "title": "קישים אישיים קלילים עם ירקות",
+        "description": "קישים קטנים בלי בצק של בצל, שום, פלפל אדום, קישוא וברוקולי בתערובת קלילה של ביצים וחלבונים.",
+        "ingredients": [
+          "כף שמן קוקוס",
+          "בצל צהוב קטן קצוץ",
+          "2 שיני שום כתושות",
+          "½ כוס פלפל אדום קצוץ",
+          "½ כוס קישוא פרוס",
+          "8 פרחי ברוקולי",
+          "2 ביצים גדולות",
+          "5 חלבונים גדולים",
+          "2 כפות חלב קוקוס או שקדים לא ממותק",
+          "כפית אורגנו יבש או פטרוזיליה טרייה",
+          "½ כפית פלפל שחור",
+          "מלח לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות.",
+          "במחבת גדולה על אש בינונית-נמוכה מבשלים בצל ושום בשמן כ-4 דקות. מוסיפים פלפל, קישוא וברוקולי ומבשלים עוד 2 דקות.",
+          "טורפים ביצים, חלבונים, משקה צמחי ותבלינים. מערבבים פנימה את הירקות.",
+          "משמנים קלות תבנית שקעים וממלאים כל שקע עד חציו.",
+          "אופים 10 דקות, ואז מנמיכים ל-180 מעלות ואופים עוד 15 דקות, עד שהקישים תופחים וסכין יוצאת נקייה."
+        ],
+        "whyFits": "ביצים וירקות עם כף שמן קוקוס בלבד ומעט משקה צמחי לא ממותק. בלי קמח וחלב. מהאתר הכשר של ג'יימי גלר."
+      }
+    },
+    {
+      "id": "potato-kugel-loaf-slow-baked",
+      "url": "https://www.10dakot.co.il/recipe/קוגל-תפוחי-אדמה/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2023/12/%E2%80%8F%E2%80%8FDSC_0070-%D7%A2%D7%95%D7%AA%D7%A7.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 120,
+      "totalMinutes": 135,
+      "servings": 10,
+      "nutrition": {
+        "calories": 100,
+        "protein": 2
+      },
+      "en": {
+        "title": "Slow-Baked Potato Kugel Loaf",
+        "description": "A classic Yerushalmi-style potato kugel baked low and slow in a loaf pan for two hours, until deep golden. Slice it once it has cooled.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and grease a loaf pan.",
+          "In a bowl, mix the grated potatoes, onion, oil and eggs. Season with the salt, onion powder and pepper.",
+          "Stir in the boiling water.",
+          "Pour into the pan and brush the top with a little oil.",
+          "Bake 1 hour, then lower to 160°C (325°F) and bake 1 more hour.",
+          "Cool completely to room temperature before slicing."
+        ],
+        "whyFits": "Potatoes, onion and eggs with ¼ cup oil for 10 slices. The source uses soup powder, so we replaced it with salt and onion powder. No flour or matzah meal.",
+        "ingredients": [
+          "3 large potatoes, peeled and finely grated",
+          "1 onion, finely grated (recommended)",
+          "¼ cup oil (plus a little for brushing)",
+          "2 large eggs",
+          "¼ cup boiling water",
+          "1¼ tsp salt (instead of the source's 1 tsp soup powder + 1 tsp salt)",
+          "½ tsp onion powder (optional, instead of soup powder)",
+          "¼ tsp black pepper"
+        ]
+      },
+      "he": {
+        "title": "קוגל תפוחי אדמה באפייה ארוכה",
+        "description": "קוגל תפוחי אדמה קלאסי שנאפה לאט בתבנית אינגליש קייק במשך שעתיים, עד שהוא זהוב עמוק. פורסים רק אחרי שהוא מתקרר.",
+        "ingredients": [
+          "3 תפוחי אדמה גדולים, קלופים ומגורדים דק",
+          "בצל מגורד דק (מומלץ)",
+          "¼ כוס שמן (ועוד מעט להברשה)",
+          "2 ביצים גדולות",
+          "¼ כוס מים רותחים",
+          "1¼ כפיות מלח (במקום כפית אבקת מרק וכפית מלח שבמקור)",
+          "½ כפית אבקת בצל (לא חובה, במקום אבקת מרק)",
+          "¼ כפית פלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומשמנים תבנית אינגליש קייק.",
+          "בקערה מערבבים תפוחי אדמה מגורדים, בצל, שמן וביצים. מתבלים במלח, אבקת בצל ופלפל.",
+          "מוסיפים את המים הרותחים תוך ערבוב.",
+          "יוצקים לתבנית ומברישים מעל מעט שמן.",
+          "אופים שעה, ואז מנמיכים ל-160 מעלות ואופים עוד שעה.",
+          "מצננים לגמרי לטמפרטורת החדר לפני החיתוך."
+        ],
+        "whyFits": "תפוחי אדמה, בצל וביצים עם ¼ כוס שמן ל-10 פרוסות. במקור יש אבקת מרק, והחלפנו אותה במלח ואבקת בצל. בלי קמח ובלי קמח מצה."
+      }
+    },
+    {
+      "id": "herb-pashtida-parsley-cilantro-skillet",
+      "url": "https://www.10dakot.co.il/recipe/פשטידת-ירק/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2013/07/%E2%80%8F%E2%80%8F20130709_1743181-%D7%A2%D7%95%D7%AA%D7%A7.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 2,
+      "nutrition": {
+        "calories": 170,
+        "protein": 8
+      },
+      "en": {
+        "title": "Green Herb Pashtida (Skillet)",
+        "description": "A vivid green skillet pashtida made almost entirely of fresh parsley and cilantro with golden onion and eggs, a bit like a Persian kuku.",
+        "steps": [
+          "Cook the onion in a little oil in a pan until golden.",
+          "Add the herbs and stir about 4 minutes, until they shrink to about a quarter of their volume.",
+          "Move to a bowl, add the eggs and seasoning and beat together.",
+          "Heat 1½ tbsp oil in a nonstick pan, pour in the mixture, lower the heat and cover. After about 8 minutes, when it releases easily, flip it and cook about 5 minutes more. Not a cilantro fan? Use 1½ bunches of parsley instead."
+        ],
+        "whyFits": "Mostly fresh herbs, with onion and eggs and a little oil. No flour or dairy.",
+        "ingredients": [
+          "1 bunch parsley, chopped",
+          "1 bunch cilantro, chopped",
+          "1 medium onion, finely chopped",
+          "2 eggs",
+          "½ tsp turmeric (optional)",
+          "½ tsp salt",
+          "A pinch of black pepper",
+          "Oil for the onion and 1½ tbsp for the pan"
+        ]
+      },
+      "he": {
+        "title": "פשטידת ירק (עשבי תיבול) במחבת",
+        "description": "פשטידת מחבת ירוקה ובוהקת שעשויה כמעט כולה מפטרוזיליה וכוסברה טריות, עם בצל מוזהב וביצים. קצת כמו קוקו פרסי.",
+        "ingredients": [
+          "חבילת פטרוזיליה קצוצה",
+          "חבילת כוסברה קצוצה",
+          "בצל בינוני קצוץ דק",
+          "2 ביצים",
+          "½ כפית כורכום (לא חובה)",
+          "½ כפית מלח",
+          "קמצוץ פלפל שחור",
+          "שמן לבצל וכף וחצי למחבת"
+        ],
+        "steps": [
+          "מזהיבים את הבצל במעט שמן במחבת.",
+          "מוסיפים את העלים ומערבבים כ-4 דקות, עד שהם מתכווצים לרבע מהנפח.",
+          "מעבירים לקערה, מוסיפים ביצים ותבלינים וטורפים יחד.",
+          "מחממים כף וחצי שמן במחבת נון-סטיק, יוצקים את התערובת, מנמיכים את האש ומכסים. אחרי כ-8 דקות, כשהפשטידה מתנתקת בקלות, הופכים ומבשלים עוד כ-5 דקות. לא אוהבים כוסברה? משתמשים בחבילה וחצי של פטרוזיליה במקום."
+        ],
+        "whyFits": "בעיקר עשבי תיבול טריים, עם בצל, ביצים ומעט שמן. בלי קמח וחלב."
+      }
+    },
+    {
+      "id": "potato-mushroom-onion-pashtida",
+      "url": "https://www.10dakot.co.il/recipe/פשטידת-תפוחי-אדמה-ופטריות/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2013/10/%E2%80%8F%E2%80%8FDSC_0142-%D7%A2%D7%95%D7%AA%D7%A7.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "totalMinutes": 60,
+      "servings": 6,
+      "nutrition": {
+        "calories": 150,
+        "protein": 6
+      },
+      "en": {
+        "title": "Potato and Mushroom Pashtida",
+        "description": "Soft cubes of potato with sweet golden onions and mushrooms, baked with eggs in a loaf pan. A homey Shabbat side.",
+        "steps": [
+          "Cook the onions in a little oil until golden. Add the mushrooms and cook a few minutes. Move to a bowl and let cool.",
+          "Heat the oven to 180°C (350°F) and grease a loaf pan.",
+          "Cut the soft boiled potatoes into small cubes and add them to the onions and mushrooms.",
+          "Add the eggs, season and mix well.",
+          "Pour into the pan and bake about 40 minutes."
+        ],
+        "whyFits": "Potatoes, mushrooms, onion and eggs. The source uses soup powder, so we replaced it with salt. No flour or dairy.",
+        "ingredients": [
+          "2 medium-large onions, chopped",
+          "Oil for the onions",
+          "3 medium-large potatoes, boiled until soft",
+          "2 cans button mushrooms (or fresh mushrooms, sliced)",
+          "3 eggs",
+          "1¼ tsp salt (instead of the source's soup powder + salt)",
+          "A pinch of black pepper"
+        ]
+      },
+      "he": {
+        "title": "פשטידת תפוחי אדמה ופטריות",
+        "description": "קוביות תפוחי אדמה רכות עם בצל מוזהב ומתקתק ופטריות, אפויות עם ביצים בתבנית אינגליש קייק. תוספת ביתית לשבת.",
+        "ingredients": [
+          "2 בצלים בינוניים-גדולים קצוצים",
+          "שמן לבצל",
+          "3 תפוחי אדמה בינוניים-גדולים, מבושלים עד ריכוך",
+          "2 קופסאות פטריות שמפיניון (או פטריות טריות חתוכות)",
+          "3 ביצים",
+          "1¼ כפיות מלח (במקום אבקת המרק והמלח שבמקור)",
+          "קמצוץ פלפל שחור"
+        ],
+        "steps": [
+          "מזהיבים את הבצל במעט שמן. מוסיפים את הפטריות ומבשלים כמה דקות. מעבירים לקערה ומצננים.",
+          "מחממים תנור ל-180 מעלות ומשמנים תבנית אינגליש קייק.",
+          "חותכים את תפוחי האדמה הרכים לקוביות קטנות ומוסיפים לבצל ולפטריות.",
+          "מוסיפים ביצים, מתבלים ומערבבים היטב.",
+          "יוצקים לתבנית ואופים כ-40 דקות."
+        ],
+        "whyFits": "תפוחי אדמה, פטריות, בצל וביצים. במקור יש אבקת מרק, והחלפנו אותה במלח. בלי קמח וחלב."
+      }
+    },
+    {
+      "id": "skillet-potato-pashtida-turmeric",
+      "url": "https://www.10dakot.co.il/recipe/פשטידת-תפוחי-אדמה/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2013/07/DSC_0005-%D7%A2%D7%95%D7%AA%D7%A7.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 2,
+      "nutrition": {
+        "calories": 260,
+        "protein": 9
+      },
+      "en": {
+        "title": "Skillet Potato Pashtida with Turmeric",
+        "description": "A golden potato and onion cake cooked slowly in a covered pan and flipped. Like a big, baked-tasting latke without the frying.",
+        "steps": [
+          "Beat all the ingredients together in a bowl.",
+          "Heat 1½ tbsp oil in a nonstick pan, pour in the mixture, lower the heat and cover.",
+          "After 15–20 minutes, when it releases easily from the pan, flip it and cook about 15 minutes more until golden."
+        ],
+        "whyFits": "Potatoes, onion and eggs cooked slowly with just 1½ tbsp oil, not fried. We left out the optional soaked matzah. No flour or dairy.",
+        "ingredients": [
+          "2 medium potatoes, coarsely grated",
+          "1 medium onion, finely grated",
+          "2 eggs",
+          "1 tsp turmeric",
+          "½ tsp salt",
+          "A pinch of black pepper",
+          "1½ tbsp oil for the pan"
+        ]
+      },
+      "he": {
+        "title": "פשטידת תפוחי אדמה במחבת עם כורכום",
+        "description": "עוגת תפוחי אדמה ובצל זהובה שמתבשלת לאט במחבת מכוסה והופכים אותה. כמו לביבה גדולה, בלי טיגון עמוק.",
+        "ingredients": [
+          "2 תפוחי אדמה בינוניים מגורדים גס",
+          "בצל בינוני מגורד דק",
+          "2 ביצים",
+          "כפית כורכום",
+          "½ כפית מלח",
+          "קמצוץ פלפל שחור",
+          "כף וחצי שמן למחבת"
+        ],
+        "steps": [
+          "טורפים את כל החומרים יחד בקערה.",
+          "מחממים כף וחצי שמן במחבת נון-סטיק, יוצקים את התערובת, מנמיכים את האש ומכסים.",
+          "אחרי 15–20 דקות, כשהפשטידה מתנתקת בקלות מהמחבת, הופכים ומבשלים עוד כ-15 דקות עד הזהבה."
+        ],
+        "whyFits": "תפוחי אדמה, בצל וביצים שמתבשלים לאט עם כף וחצי שמן בלבד, בלי טיגון. ויתרנו על המצה הרטובה (לא חובה במקור). בלי קמח וחלב."
+      }
+    },
+    {
+      "id": "broccoli-onion-pan-pashtida",
+      "url": "https://www.10dakot.co.il/recipe/חביתת-ברוקולי/",
+      "source": "10 דקות",
+      "sourceLang": "he",
+      "image": "https://www.10dakot.co.il/wp-content/uploads/2018/07/%E2%80%8F%E2%80%8FDSC_0010-%D7%A2%D7%95%D7%AA%D7%A7-1.jpg",
+      "added": "2026-11-01",
+      "category": "pashtida",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 17,
+      "totalMinutes": 27,
+      "servings": 1,
+      "nutrition": {
+        "calories": 290,
+        "protein": 15
+      },
+      "en": {
+        "title": "Broccoli and Onion Pan Pashtida",
+        "description": "A quick single-serving pan pashtida of tender broccoli and golden onion set in eggs and flipped.",
+        "steps": [
+          "Heat the oil in a small nonstick pan and cook the onion until lightly golden.",
+          "Add the broccoli and water, cover and cook over medium-low heat about 8 minutes until the broccoli is tender but still has a bite. Stir now and then.",
+          "Beat the eggs with salt and pepper and pour over the broccoli. Cover and cook about 2 minutes until the bottom sets, then flip with a spatula and cook 2 minutes more."
+        ],
+        "whyFits": "Broccoli, onion and eggs with 1 tbsp olive oil. No flour or dairy.",
+        "ingredients": [
+          "1 small onion, chopped",
+          "1 cup small broccoli florets",
+          "2 tbsp water",
+          "1 tbsp olive oil",
+          "2 eggs",
+          "¼ tsp salt",
+          "A pinch of black pepper"
+        ]
+      },
+      "he": {
+        "title": "פשטידת מחבת ברוקולי ובצל",
+        "description": "פשטידת מחבת מהירה למנה אחת, של ברוקולי רך ובצל מוזהב עם ביצים, שהופכים באמצע.",
+        "ingredients": [
+          "בצל קטן קצוץ",
+          "כוס פרחי ברוקולי קטנים",
+          "2 כפות מים",
+          "כף שמן זית",
+          "2 ביצים",
+          "¼ כפית מלח",
+          "קמצוץ פלפל שחור"
+        ],
+        "steps": [
+          "מחממים את השמן במחבת קטנה נון-סטיק ומזהיבים קלות את הבצל.",
+          "מוסיפים ברוקולי ומים, מכסים ומבשלים על אש בינונית-נמוכה כ-8 דקות, עד שהברוקולי רך אבל עדיין נגיס. מערבבים מדי פעם.",
+          "טורפים את הביצים עם מלח ופלפל ויוצקים על הברוקולי. מכסים ומבשלים כ-2 דקות עד שהתחתית מתייצבת, הופכים עם מרית ומבשלים עוד 2 דקות."
+        ],
+        "whyFits": "ברוקולי, בצל וביצים עם כף שמן זית. בלי קמח וחלב."
+      }
+    },
+    {
       "id": "nourishing-green-soup-cashew-cream",
       "url": "https://nomnompaleo.com/green-soup",
       "source": "Nom Nom Paleo",

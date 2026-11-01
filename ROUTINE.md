@@ -46,7 +46,7 @@ Collect the passing recipes in a JSON array in a scratch file outside the repo (
   "sourceLang": "en",
   "image": "https://direct photo URL from the recipe data",
   "added": "YYYY-MM-DD (today, Israel time)",
-  "category": "salad | soup | chicken | meat | fish | vegetables | legumes | eggs | dessert",
+  "category": "salad | soup | chicken | meat | fish | vegetables | legumes | eggs | pashtida | dessert",
   "shabbat": true,
   "prepMinutes": 10,
   "cookMinutes": 30,

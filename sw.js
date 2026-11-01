@@ -1,5 +1,5 @@
 // Offline support: the app shell is cached, recipes.json is network-first, photos are cached as they load.
-const SHELL = 'shell-v1';
+const SHELL = 'shell-v2';
 const IMAGES = 'images-v1';
 const MAX_IMAGES = 300;
 const SHELL_FILES = [

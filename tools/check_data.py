@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "RecipeFinderBot/1.0 (personal recipe app; +https://github.com/moodandmeaning/recipe-finder)"
-CATEGORIES = {"salad", "soup", "chicken", "meat", "fish", "vegetables", "legumes", "eggs", "dessert"}
+CATEGORIES = {"salad", "soup", "chicken", "meat", "fish", "vegetables", "legumes", "eggs", "pashtida", "dessert"}
 
 # A safety net only: the real check is reading the recipe against config/rules.md.
 # Words that are fine in context (coconut milk, almond butter, cauliflower rice...) are excluded first.
@@ -24,7 +24,7 @@ ALLOWED = re.compile(
     r"tapioca flour|arrowroot flour|cassava flour|tigernut flour|chickpea flour|nutritional yeast|cream of tartar|"
     r"buckwheat-free|dairy[- ]free|sugar[- ]free|no added sugar|no sugar added|egg ?plant|"
     r"חלב קוקוס|קרם קוקוס|חלב שקדים|חמאת שקדים|חמאת בוטנים|חמאת קשיו|אורז כרובית|קמח שקדים|קמח קוקוס|קמח טפיוקה|"
-    r"wheat-free|dairy-free 'sour cream'|״שמנת חמוצה״ בלי חלב|קמח חומוס|שמרי בירה|גבינתי|שעועית לבנה|פלפל חלבי|ללא סוכר|בלי סוכר|בלי תוספת סוכר", re.I)
+    r"wheat-free|dairy-free 'sour cream'|״שמנת חמוצה״ בלי חלב|קמח חומוס|שמרי בירה|גבינתי|שעועית לבנה|פלפל חלבי|חלבונים|חלבון|soy milk|plant milk|במקום אבקת מרק|במקום כפית אבקת מרק|ללא סוכר|בלי סוכר|בלי תוספת סוכר", re.I)
 BANNED = re.compile(
     r"\b(milk|cheese|butter|ghee|cream|yogurt|yoghurt|labneh|kefir|whey|parmesan|feta|ricotta|mozzarella|"
     r"wheat|flour|bread|breadcrumbs?|panko|pasta|noodles?|couscous|bulgur|rice|oats?|oatmeal|quinoa|barley|"

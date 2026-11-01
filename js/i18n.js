@@ -77,6 +77,7 @@ export const CATEGORIES = {
   vegetables: { he: 'מנות ירק', en: 'Vegetable mains', icon: '🥦' },
   legumes: { he: 'קטניות', en: 'Legumes', icon: '🫘' },
   eggs: { he: 'ביצים', en: 'Eggs', icon: '🍳' },
+  pashtida: { he: 'פשטידות וקוגלים', en: 'Kugels & bakes', icon: '🥧' },
   dessert: { he: 'קינוחים בריאים', en: 'Healthy desserts', icon: '🍓' },
 };
 

@@ -34,7 +34,7 @@ Only truly healthy sweets are allowed: **smoothies and shakes, fruit platters an
 - **No baked goods**: no cakes, brownies, muffins, cookies, breads, pancakes, pies or bars that need baking.
 
 ## Kinds of dishes we want (keep each day varied)
-`salad`, `soup`, `chicken`, `meat`, `fish`, `vegetables` (vegetable mains), `legumes`, `eggs`, `dessert` (healthy, no refined sugar).
+`salad`, `soup`, `chicken`, `meat`, `fish`, `vegetables` (vegetable mains), `legumes`, `eggs`, `pashtida` (kugels and crustless egg-and-vegetable bakes: no flour, matzah meal, potato starch, cheese, soup powder or mayo), `dessert` (healthy, no refined sugar).
 
 ## Other preferences
 - No time limit. Always record the times when the source gives them.
