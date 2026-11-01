@@ -2,6 +2,1156 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "sweet-potato-chickpea-hash-poached-eggs",
+      "url": "https://www.themediterraneandish.com/sweet-potato-hash-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/01/sweet-potato-hash-recipe-9.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 317,
+        "protein": 10
+      },
+      "en": {
+        "title": "Sweet Potato and Chickpea Hash with Za'atar and Poached Eggs",
+        "description": "A skillet of spiced sweet potatoes, chickpeas, red onion and pepper, sprinkled with za'atar and topped with soft poached eggs.",
+        "steps": [
+          "Bring a pot of water to a gentle simmer for the eggs.",
+          "Heat the oil in a large skillet over medium-high heat. Add the onion, sweet potatoes, chickpeas, salt, pepper and spices and cook, stirring often, until the onion caramelizes.",
+          "Lower to medium, add the garlic and bell pepper, and cook 5–10 minutes until the potatoes are tender. Sprinkle with the za'atar.",
+          "Add the vinegar to the simmering water. Slide in the eggs one at a time and poach exactly 3 minutes. Lift out with a slotted spoon.",
+          "Divide the hash into bowls and top each with an egg, a pinch of salt and more za'atar."
+        ],
+        "whyFits": "Eggs, legumes and vegetables with olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 tbsp extra virgin olive oil",
+          "1 medium red onion, chopped",
+          "2 small sweet potatoes (about 680 g), peeled and cut into 1 cm cubes",
+          "1 cup canned chickpeas, drained and rinsed",
+          "Kosher salt",
+          "Black pepper",
+          "1 tsp ground coriander",
+          "½ tsp ground cumin",
+          "½ tsp sweet paprika",
+          "½ tsp ground turmeric",
+          "2 large garlic cloves, minced",
+          "1 large red bell pepper, chopped",
+          "1 tbsp za'atar, plus more to finish",
+          "1 tsp white vinegar (for poaching)",
+          "4 large eggs"
+        ]
+      },
+      "he": {
+        "title": "מחבת בטטה וחומוס בזעתר עם ביצים עלומות",
+        "description": "מחבת של בטטה מתובלת, גרגירי חומוס, בצל סגול ופלפל, עם זעתר וביצים עלומות רכות מעל.",
+        "ingredients": [
+          "3 כפות שמן זית",
+          "בצל סגול בינוני, קצוץ",
+          "2 בטטות קטנות (כ-680 גרם), קלופות ובקוביות של 1 ס״מ",
+          "כוס גרגירי חומוס משימורים, מסוננים ושטופים",
+          "מלח גס",
+          "פלפל שחור",
+          "כפית כוסברה טחונה",
+          "½ כפית כמון טחון",
+          "½ כפית פפריקה מתוקה",
+          "½ כפית כורכום",
+          "2 שיני שום גדולות, כתושות",
+          "פלפל אדום גדול, קצוץ",
+          "כף זעתר, ועוד לסיום",
+          "כפית חומץ לבן (לבישול הביצים)",
+          "4 ביצים גדולות"
+        ],
+        "steps": [
+          "מביאים סיר מים לבעבוע עדין לביצים.",
+          "מחממים שמן במחבת גדולה על אש בינונית-גבוהה. מוסיפים בצל, בטטה, חומוס, מלח, פלפל ותבלינים ומבשלים תוך ערבוב עד שהבצל מתקרמל.",
+          "מנמיכים לבינונית, מוסיפים שום ופלפל ומבשלים 5–10 דקות עד שהבטטה רכה. מפזרים זעתר.",
+          "מוסיפים את החומץ למים המבעבעים. מחליקים פנימה את הביצים אחת-אחת ומבשלים בדיוק 3 דקות. מוציאים בכף מחוררת.",
+          "מחלקים את התערובת לקערות ומניחים על כל אחת ביצה, קורט מלח ועוד זעתר."
+        ],
+        "whyFits": "ביצים, קטניות וירקות עם שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "steamed-asparagus-eggs-shallot-vinaigrette",
+      "url": "https://www.themediterraneandish.com/steamed-asparagus-with-eggs/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/04/Mediterranean-Dish-Steamed-Asparagus-With-Eggs-LEAD-7.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 5,
+      "totalMinutes": 15,
+      "servings": 6,
+      "nutrition": {
+        "calories": 127,
+        "protein": 4
+      },
+      "en": {
+        "title": "Steamed Asparagus with Chopped Eggs and Shallot Vinaigrette",
+        "description": "Tender-crisp asparagus dressed while warm in a sherry-shallot vinaigrette and topped with grated egg and chives.",
+        "steps": [
+          "Steam the asparagus in a covered steamer basket over boiling water about 5 minutes, until bright green and still a little crisp.",
+          "Shake or whisk the olive oil, vinegar, shallot, mustard, salt and pepper.",
+          "Toss the warm asparagus with the vinaigrette and arrange on a platter. Top with the eggs and chives."
+        ],
+        "whyFits": "Vegetables and eggs with an olive oil dressing (about 2 tsp per serving). No dairy, grains or sugar.",
+        "ingredients": [
+          "1 1/4 pound asparagus (tough ends trimmed)",
+          "1/4 cup extra virgin olive oil (plus more for serving)",
+          "2 tablespoons sherry vinegar",
+          "1 tablespoon minced shallot",
+          "1 teaspoon Dijon mustard",
+          "1/4 teaspoon sea salt",
+          "Freshly ground black pepper",
+          "2 hard boiled eggs (peeled and finely chopped or grated)",
+          "Minced fresh chives"
+        ]
+      },
+      "he": {
+        "title": "אספרגוס מאודה עם ביצה קצוצה וויניגרט שאלוט",
+        "description": "אספרגוס רך-פריך שמתובל כשהוא חם בוויניגרט שרי ושאלוט, עם ביצה מגוררת ועירית מעל.",
+        "ingredients": [
+          "570 גרם אספרגוס, בלי הקצוות הקשים",
+          "¼ כוס שמן זית, ועוד להגשה",
+          "2 כפות חומץ שרי",
+          "כף שאלוט קצוץ דק",
+          "כפית חרדל דיז׳ון",
+          "¼ כפית מלח ים",
+          "פלפל שחור גרוס",
+          "2 ביצים קשות, קלופות, קצוצות דק או מגוררות",
+          "עירית טרייה קצוצה"
+        ],
+        "steps": [
+          "מאדים את האספרגוס בסל אידוי מכוסה מעל מים רותחים כ-5 דקות, עד שהוא ירוק בוהק ועדיין מעט פריך.",
+          "טורפים או מנערים בצנצנת שמן זית, חומץ, שאלוט, חרדל, מלח ופלפל.",
+          "מערבבים את האספרגוס החם עם הוויניגרט ומסדרים בפלטה. מפזרים מעל ביצים ועירית."
+        ],
+        "whyFits": "ירקות וביצים ברוטב שמן זית (כ-2 כפיות למנה). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "simple-baked-eggs-ramekins",
+      "url": "https://downshiftology.com/recipes/baked-eggs/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2025/10/Baked-Eggs-main-1.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 10,
+      "totalMinutes": 15,
+      "servings": 2,
+      "nutrition": {
+        "calories": 72,
+        "protein": 6
+      },
+      "en": {
+        "title": "Simple Baked Eggs",
+        "description": "Eggs baked in small ramekins until the whites are set and the yolks are still soft. An easy, clean breakfast.",
+        "steps": [
+          "Heat the oven to 190°C (375°F) and grease two small ramekins with the oil.",
+          "Crack an egg into each ramekin and bake 8–10 minutes, taking them out while they still look slightly underdone.",
+          "Season with salt and pepper and sprinkle with fresh herbs if you like."
+        ],
+        "whyFits": "Just eggs with a few drops of olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 large eggs",
+          "½ teaspoon extra-virgin olive oil",
+          "kosher salt and ground black pepper (to taste)",
+          "optional: chopped fresh herbs"
+        ]
+      },
+      "he": {
+        "title": "ביצים אפויות בקעריות",
+        "description": "ביצים אפויות בקעריות קטנות עד שהחלבון מתייצב והחלמון עדיין רך. ארוחת בוקר פשוטה ונקייה.",
+        "ingredients": [
+          "2 ביצים גדולות",
+          "½ כפית שמן זית",
+          "מלח גס ופלפל שחור לפי הטעם",
+          "לא חובה: עשבי תיבול טריים קצוצים"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות ומשמנים שתי קעריות קטנות בשמן.",
+          "שוברים ביצה לכל קערית ואופים 8–10 דקות. מוציאים כשהן עדיין נראות מעט לא גמורות.",
+          "מתבלים במלח ופלפל, ואם רוצים מפזרים עשבי תיבול טריים."
+        ],
+        "whyFits": "רק ביצים עם כמה טיפות שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mushroom-leek-frittata-dairy-free",
+      "url": "https://www.realfoodwithjessica.com/paleo-mushroom-leek-frittata/",
+      "source": "Real Food with Jessica",
+      "sourceLang": "en",
+      "image": "https://www.realfoodwithjessica.com/wp-content/uploads/2016/01/mushroom_leek_frittata2.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 50,
+      "totalMinutes": 60,
+      "servings": 4,
+      "nutrition": {
+        "calories": 262,
+        "protein": 21
+      },
+      "en": {
+        "title": "Mushroom and Leek Frittata (No Cheese)",
+        "description": "A thick oven frittata of soft leeks and mushrooms in a dozen eggs. Great hot, cold or packed for later.",
+        "steps": [
+          "Heat the oven to 175°C (350°F) and line a 23 cm square or deep pie dish with parchment.",
+          "Sauté the leeks and mushrooms in the oil over medium heat about 8 minutes until tender, and salt them.",
+          "Whisk the eggs.",
+          "Spread the vegetables in the dish and pour the eggs over them.",
+          "Bake 40–45 minutes, until the center no longer jiggles."
+        ],
+        "whyFits": "Eggs and vegetables only, with no cheese or milk. No grains or sugar. Good cold for Shabbat morning.",
+        "ingredients": [
+          "340 g mushrooms, sliced",
+          "4–5 leeks, sliced and well rinsed (about 2 cups)",
+          "1 tbsp coconut or olive oil, for sautéing",
+          "12 large eggs",
+          "Salt to taste"
+        ]
+      },
+      "he": {
+        "title": "פריטטת פטריות וכרישה (בלי גבינה)",
+        "description": "פריטטה עבה בתנור של כרישה ופטריות רכות ב-12 ביצים. טובה חמה, קרה או לקחת איתך.",
+        "ingredients": [
+          "340 גרם פטריות, פרוסות",
+          "4–5 כרישות, פרוסות ושטופות היטב (כ-2 כוסות)",
+          "כף שמן קוקוס או זית להקפצה",
+          "12 ביצים גדולות",
+          "מלח לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות ומרפדים תבנית מרובעת 23 ס״מ או תבנית פאי עמוקה בנייר אפייה.",
+          "מאדים את הכרישה והפטריות בשמן על אש בינונית כ-8 דקות עד שהן רכות, וממליחים.",
+          "טורפים את הביצים.",
+          "מפזרים את הירקות בתבנית ויוצקים מעליהם את הביצים.",
+          "אופים 40–45 דקות, עד שהמרכז כבר לא רוטט."
+        ],
+        "whyFits": "רק ביצים וירקות, בלי גבינה או חלב. בלי דגנים ובלי סוכר. טובה קרה לבוקר שבת."
+      }
+    },
+    {
+      "id": "mediterranean-chickpea-egg-salad",
+      "url": "https://www.themediterraneandish.com/mediterranean-chickpea-egg-salad-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2018/03/Mediterranean-Chickpea-Egg-Salad-Recipe-The-Mediterranean-Dish-1.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 8,
+      "nutrition": {
+        "calories": 143,
+        "protein": 5
+      },
+      "en": {
+        "title": "Mediterranean Chickpea and Egg Salad",
+        "description": "A crunchy, filling salad of chickpeas, celery, cucumber, red cabbage, herbs and sliced eggs in a lemon-sumac dressing.",
+        "steps": [
+          "Whisk the dressing: mustard, lemon zest and juice, olive oil, garlic, sumac, coriander, cayenne, salt and pepper.",
+          "Combine all the salad ingredients except the eggs, pour over the dressing and toss.",
+          "Gently fold in the sliced eggs, adjust the seasoning, sprinkle with more sumac, and let it rest a few minutes before serving."
+        ],
+        "whyFits": "Eggs, legumes and lots of vegetables in an olive oil dressing (2 tsp per serving). No dairy, grains or sugar.",
+        "ingredients": [
+          "2½ tsp Dijon mustard",
+          "1 large lemon, zested and juiced",
+          "⅓ cup extra virgin olive oil",
+          "1 garlic clove, minced",
+          "1 tsp sumac",
+          "½ tsp ground coriander",
+          "½ tsp cayenne pepper",
+          "Salt and pepper",
+          "2 cans (400 g each) chickpeas, rinsed and drained",
+          "2 celery ribs, chopped",
+          "2 small cucumbers, diced",
+          "2–3 green onions, chopped",
+          "½ cup shredded red cabbage",
+          "2 jalapeños, chopped (optional)",
+          "½ cup chopped fresh parsley",
+          "½ cup chopped fresh mint",
+          "5 large hard-boiled eggs, sliced"
+        ]
+      },
+      "he": {
+        "title": "סלט חומוס וביצים ים תיכוני",
+        "description": "סלט פריך ומשביע של גרגירי חומוס, סלרי, מלפפון, כרוב סגול, עשבי תיבול וביצים פרוסות ברוטב לימון וסומק.",
+        "ingredients": [
+          "2½ כפיות חרדל דיז׳ון",
+          "לימון גדול (גרידה ומיץ)",
+          "⅓ כוס שמן זית",
+          "שן שום, כתושה",
+          "כפית סומק",
+          "½ כפית כוסברה טחונה",
+          "½ כפית פלפל קאיין",
+          "מלח ופלפל",
+          "2 קופסאות גרגירי חומוס (400 גרם כל אחת), שטופים ומסוננים",
+          "2 גבעולי סלרי, קצוצים",
+          "2 מלפפונים קטנים, קצוצים",
+          "2–3 בצלים ירוקים, קצוצים",
+          "½ כוס כרוב סגול חתוך דק",
+          "2 חלפיניו, קצוצים (לא חובה)",
+          "½ כוס פטרוזיליה קצוצה",
+          "½ כוס נענע קצוצה",
+          "5 ביצים קשות גדולות, פרוסות"
+        ],
+        "steps": [
+          "טורפים את הרוטב: חרדל, גרידה ומיץ לימון, שמן זית, שום, סומק, כוסברה, קאיין, מלח ופלפל.",
+          "מערבבים את כל מרכיבי הסלט חוץ מהביצים, יוצקים את הרוטב ומערבבים.",
+          "מקפלים פנימה בעדינות את פרוסות הביצה, מתקנים תיבול, מפזרים עוד סומק ומשאירים כמה דקות לפני ההגשה."
+        ],
+        "whyFits": "ביצים, קטניות והרבה ירקות ברוטב שמן זית (2 כפיות למנה). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "menemen-turkish-scrambled-eggs",
+      "url": "https://downshiftology.com/recipes/menemen/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2026/07/Menemen-main.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "totalMinutes": 25,
+      "servings": 4,
+      "nutrition": {
+        "calories": 141,
+        "protein": 6
+      },
+      "en": {
+        "title": "Menemen (Turkish Scrambled Eggs with Tomatoes and Peppers)",
+        "description": "Soft-scrambled eggs cooked into sautéed green peppers and fresh tomatoes with a little Aleppo pepper.",
+        "steps": [
+          "Heat the oil in a medium pan over medium heat and sauté the green pepper 3–4 minutes.",
+          "Add the tomatoes, salt, Aleppo pepper and black pepper and cook 3–4 minutes, breaking up the tomatoes.",
+          "Pour in the beaten eggs, lower to medium-low, and stir gently 2–3 minutes until just set.",
+          "Garnish with parsley and season to taste."
+        ],
+        "whyFits": "Eggs and fresh vegetables cooked in a little olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tablespoons extra-virgin olive oil",
+          "1 Anaheim pepper (or 2 Turkish green peppers) (seeded and roughly chopped)",
+          "2 medium to large vine-ripe tomatoes (peeled and diced into small cubes (about 1¾ cups diced)",
+          "½ teaspoon kosher salt",
+          "½ teaspoon Aleppo pepper (or paprika)",
+          "¼ teaspoon ground black pepper",
+          "4 large eggs (lightly beaten)",
+          "1 tablespoon roughly chopped fresh parsley"
+        ]
+      },
+      "he": {
+        "title": "מנמן (ביצים מקושקשות טורקיות עם עגבניות ופלפלים)",
+        "description": "ביצים מקושקשות רכות שמתבשלות לתוך פלפלים ירוקים מוקפצים ועגבניות טריות, עם מעט פלפל אלפו.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "פלפל ירוק ארוך (או 2 פלפלים טורקיים), בלי גרעינים, קצוץ גס",
+          "2 עגבניות בשלות בינוניות-גדולות, קלופות ובקוביות קטנות",
+          "½ כפית מלח גס",
+          "½ כפית פלפל אלפו (או פפריקה)",
+          "¼ כפית פלפל שחור",
+          "4 ביצים גדולות, טרופות קלות",
+          "כף פטרוזיליה קצוצה גס"
+        ],
+        "steps": [
+          "מחממים שמן במחבת בינונית על אש בינונית ומאדים את הפלפל 3–4 דקות.",
+          "מוסיפים עגבניות, מלח, פלפל אלפו ופלפל שחור ומבשלים 3–4 דקות תוך מעיכת העגבניות.",
+          "יוצקים את הביצים, מנמיכים לאש בינונית-נמוכה ומערבבים בעדינות 2–3 דקות עד שהן בקושי מתייצבות.",
+          "מקשטים בפטרוזיליה ומתבלים לפי הטעם."
+        ],
+        "whyFits": "ביצים וירקות טריים מבושלים במעט שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "kuku-sabzi-persian-herb-omelet",
+      "url": "https://www.themediterraneandish.com/kuku-sabzi-persian-baked-omelet/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/11/Kuku-Sabzi-Persian-Herb-Baked-Omelet-The-Mediterranean-Dish-4-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": null,
+        "protein": null
+      },
+      "en": {
+        "title": "Kuku Sabzi (Baked Persian Herb Frittata)",
+        "description": "A vibrant green Persian frittata packed with parsley, cilantro, dill and scallions, warmly spiced with cardamom and cinnamon.",
+        "steps": [
+          "Heat the oven to 190°C (375°F). Line the bottom of a 20 cm square or 23 cm round pan with parchment and coat the pan generously with 2 tbsp oil.",
+          "Process the parsley, cilantro, dill, scallions and the remaining 3 tbsp oil until finely chopped.",
+          "Whisk the baking powder, salt and spices, then whisk in the eggs. Fold in the herbs and the walnuts.",
+          "Pour into the pan and bake 20–25 minutes until the center is firm.",
+          "Cool 10 minutes, turn out, and cut into wedges. Serve warm or at room temperature."
+        ],
+        "whyFits": "Eggs and a mountain of fresh herbs. The dried cranberries are left out because they're usually sugar-sweetened, and so is the yogurt for serving. No grains.",
+        "ingredients": [
+          "5 tbsp extra virgin olive oil, divided",
+          "2 cups flat-leaf parsley leaves",
+          "2 cups cilantro leaves and tender stems",
+          "1 cup roughly chopped fresh dill",
+          "6 scallions, coarsely chopped",
+          "1½ tsp baking powder",
+          "1 tsp kosher salt",
+          "¾ tsp ground cardamom",
+          "¾ tsp ground cinnamon",
+          "½ tsp ground cumin",
+          "¼ tsp black pepper",
+          "6 large eggs",
+          "½ cup toasted walnuts, chopped (optional)"
+        ]
+      },
+      "he": {
+        "title": "קוקו סבזי (פריטטת עשבי תיבול פרסית)",
+        "description": "פריטטה פרסית ירוקה ועשירה בפטרוזיליה, כוסברה, שמיר ובצל ירוק, בתיבול חם של הל וקינמון.",
+        "ingredients": [
+          "5 כפות שמן זית, מחולק",
+          "2 כוסות עלי פטרוזיליה",
+          "2 כוסות עלי כוסברה עם גבעולים רכים",
+          "כוס שמיר קצוץ גס",
+          "6 בצלים ירוקים, קצוצים גס",
+          "1½ כפית אבקת אפייה",
+          "כפית מלח גס",
+          "¾ כפית הל טחון",
+          "¾ כפית קינמון",
+          "½ כפית כמון טחון",
+          "¼ כפית פלפל שחור",
+          "6 ביצים גדולות",
+          "½ כוס אגוזי מלך קלויים, קצוצים (לא חובה)"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות. מרפדים את תחתית תבנית מרובעת 20 ס״מ או עגולה 23 ס״מ בנייר אפייה ומשמנים בנדיבות ב-2 כפות שמן.",
+          "טוחנים במעבד מזון פטרוזיליה, כוסברה, שמיר, בצל ירוק ו-3 כפות השמן הנותרות עד שהכול קצוץ דק.",
+          "טורפים אבקת אפייה, מלח ותבלינים, ואז מוסיפים את הביצים וטורפים. מקפלים פנימה את עשבי התיבול והאגוזים.",
+          "יוצקים לתבנית ואופים 20–25 דקות עד שהמרכז יציב.",
+          "מצננים 10 דקות, הופכים וחותכים לפלחים. מגישים חם או בטמפרטורת החדר."
+        ],
+        "whyFits": "ביצים והר של עשבי תיבול טריים. החמוציות הושמטו כי הן בדרך כלל ממותקות בסוכר, וגם היוגורט להגשה. בלי דגנים."
+      }
+    },
+    {
+      "id": "curried-beef-mushroom-frittata-muffins",
+      "url": "https://nomnompaleo.com/curried-beef-broccoli-slaw-mushroom-frittata",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2011/02/Curried-Beef-Broccoli-Slaw-and-Mushroom-Frittata-Muffins.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 36,
+      "nutrition": {
+        "calories": 82,
+        "protein": 6
+      },
+      "en": {
+        "title": "Curried Beef, Mushroom and Broccoli Frittata Muffins",
+        "description": "Make-ahead egg muffins filled with curry-spiced ground beef, mushrooms and shredded broccoli. A protein-packed grab-and-go breakfast.",
+        "steps": [
+          "Heat the oven to 190°C (375°F).",
+          "Sauté the onion in the coconut oil with salt and pepper until soft. Add the mushrooms and cook until their liquid evaporates.",
+          "Add the beef and cook until no longer pink. Season with the curry powder, salt and pepper, then stir in the broccoli slaw until softened.",
+          "Line muffin tins with silicone or parchment cups (or grease them) and divide the filling among them.",
+          "Whisk the eggs with the coconut milk, salt, pepper and coconut flour if using. Ladle into the cups, filling them ¾ full.",
+          "Bake 15 minutes, rotate the trays, and bake about 6 minutes more until puffed and springy. Cool on a rack."
+        ],
+        "whyFits": "Eggs, kosher beef and vegetables. Coconut milk replaces cow's milk, so meat and eggs are fine together with no dairy. No grains or sugar.",
+        "ingredients": [
+          "1 tbsp coconut oil",
+          "1 onion, diced",
+          "Kosher salt",
+          "Black pepper",
+          "450 g cremini mushrooms, thinly sliced",
+          "450 g ground beef",
+          "1 tbsp curry powder",
+          "1 bag (about 340 g) broccoli slaw (shredded broccoli stems and carrots)",
+          "Oil spray for the muffin cups",
+          "20 large eggs",
+          "½ cup coconut milk",
+          "6 tbsp coconut flour (optional, for a firmer texture)"
+        ]
+      },
+      "he": {
+        "title": "מאפינס פריטטה עם בשר בקר בקארי, פטריות וברוקולי",
+        "description": "מאפינס ביצים להכנה מראש, ממולאים בבשר טחון בתיבול קארי, פטריות וברוקולי מגורר. ארוחת בוקר עשירה בחלבון לקחת איתך.",
+        "ingredients": [
+          "כף שמן קוקוס",
+          "בצל, קצוץ",
+          "מלח גס",
+          "פלפל שחור",
+          "450 גרם פטריות שמפיניון חומות, פרוסות דק",
+          "450 גרם בשר בקר טחון",
+          "כף אבקת קארי",
+          "שקית (כ-340 גרם) ברוקולי וגזר מגוררים (״סלט ברוקולי״)",
+          "תרסיס שמן לשימון",
+          "20 ביצים גדולות",
+          "½ כוס חלב קוקוס",
+          "6 כפות קמח קוקוס (לא חובה, למרקם יציב יותר)"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות.",
+          "מאדים את הבצל בשמן הקוקוס עם מלח ופלפל עד שהוא רך. מוסיפים פטריות ומבשלים עד שהנוזלים מתאדים.",
+          "מוסיפים את הבשר ומבשלים עד שהוא כבר לא ורוד. מתבלים בקארי, מלח ופלפל, ומערבבים פנימה את הברוקולי המגורר עד שהוא מתרכך.",
+          "מרפדים תבניות מאפינס במנג׳טים מסיליקון או נייר (או משמנים) ומחלקים את המלית.",
+          "טורפים ביצים עם חלב קוקוס, מלח, פלפל, ואם רוצים גם קמח קוקוס. יוצקים למנג׳טים עד ¾ מהגובה.",
+          "אופים 15 דקות, מסובבים את התבניות ואופים עוד כ-6 דקות עד שהמאפינס תופחים וקפיציים. מצננים על רשת."
+        ],
+        "whyFits": "ביצים, בשר בקר כשר וירקות. חלב קוקוס מחליף חלב פרה, כך שבשר וביצים הולכים יחד בלי שום חלב. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "avocado-egg-salad-no-mayo",
+      "url": "https://detoxinista.com/rockin-egg-salad/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2011/07/avocado-egg-salad-sandwich.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 10,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 204,
+        "protein": 11
+      },
+      "en": {
+        "title": "Avocado Egg Salad (No Mayo)",
+        "description": "Chopped hard-boiled eggs folded into mashed avocado with lemon, Dijon, celery, red onion and fresh dill.",
+        "steps": [
+          "Lower the eggs into boiling water and boil 10 minutes, then cool them in ice water 15 minutes.",
+          "Mash the avocado with the lemon juice, mustard and salt until fairly smooth.",
+          "Peel and roughly chop the eggs and add them to the avocado with the celery, onion and dill. Stir and season.",
+          "Serve in lettuce cups. Best eaten within a day."
+        ],
+        "whyFits": "Avocado replaces mayonnaise, so there's nothing processed. Eggs and vegetables only. No dairy, grains or sugar.",
+        "ingredients": [
+          "6 large eggs",
+          "1 ripe avocado",
+          "1 tablespoon lemon juice",
+          "2 teaspoons Dijon mustard",
+          "½ teaspoon fine sea salt (plus more to taste)",
+          "⅓ cup diced celery (~1 large rib)",
+          "¼ cup diced red onion (~ ¼ onion)",
+          "2 tablespoons fresh dill"
+        ]
+      },
+      "he": {
+        "title": "סלט ביצים ואבוקדו (בלי מיונז)",
+        "description": "ביצים קשות קצוצות בתוך אבוקדו מעוך עם לימון, חרדל דיז׳ון, סלרי, בצל סגול ושמיר טרי.",
+        "ingredients": [
+          "6 ביצים גדולות",
+          "אבוקדו בשל",
+          "כף מיץ לימון",
+          "2 כפיות חרדל דיז׳ון",
+          "½ כפית מלח ים דק, ועוד לפי הטעם",
+          "⅓ כוס סלרי קצוץ (גבעול גדול)",
+          "¼ כוס בצל סגול קצוץ (רבע בצל)",
+          "2 כפות שמיר טרי"
+        ],
+        "steps": [
+          "מורידים את הביצים למים רותחים ומבשלים 10 דקות, ומצננים במי קרח 15 דקות.",
+          "מועכים את האבוקדו עם מיץ לימון, חרדל ומלח עד שהוא די חלק.",
+          "מקלפים את הביצים, קוצצים גס ומוסיפים לאבוקדו עם הסלרי, הבצל והשמיר. מערבבים ומתבלים.",
+          "מגישים בעלי חסה. הכי טוב לאכול תוך יום."
+        ],
+        "whyFits": "אבוקדו במקום מיונז, כך שאין כאן שום מוצר מעובד. רק ביצים וירקות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "crispy-roasted-chickpeas-zaatar-sumac",
+      "url": "https://www.themediterraneandish.com/roasted-chickpeas/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/09/Crunchy-Roasted-Chickpea-Recipe-5.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 25,
+      "totalMinutes": 30,
+      "servings": 3,
+      "nutrition": {
+        "calories": 392,
+        "protein": 15
+      },
+      "en": {
+        "title": "Crispy Roasted Chickpeas with Za'atar and Sumac",
+        "description": "Chickpeas roasted until crunchy and tossed with za'atar, sumac and harissa spice. A protein-rich snack or salad topping.",
+        "steps": [
+          "Drain, rinse and dry the chickpeas very well with paper towels.",
+          "Heat the oven to 200°C (400°F).",
+          "Toss the chickpeas with the oil and salt on a bare sheet pan and spread them in one layer.",
+          "Roast 20–35 minutes, shaking the pan every 10 minutes, until deep golden and crisp.",
+          "Toss right away with the za'atar, sumac and harissa powder."
+        ],
+        "whyFits": "Legumes, olive oil and spices only. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 cans (400 g each) chickpeas, drained and rinsed",
+          "3 tbsp extra virgin olive oil",
+          "½ tsp kosher salt",
+          "1 tsp za'atar",
+          "1 tsp sumac",
+          "1 tsp harissa powder (or mild chili powder)"
+        ]
+      },
+      "he": {
+        "title": "גרגירי חומוס קריספיים בזעתר וסומק",
+        "description": "גרגירי חומוס צלויים עד שהם פריכים, עם זעתר, סומק ותבלין הריסה. נשנוש עשיר בחלבון או תוספת לסלט.",
+        "ingredients": [
+          "2 קופסאות גרגירי חומוס (400 גרם כל אחת), מסוננים ושטופים",
+          "3 כפות שמן זית",
+          "½ כפית מלח גס",
+          "כפית זעתר",
+          "כפית סומק",
+          "כפית אבקת הריסה (או צ׳ילי עדין)"
+        ],
+        "steps": [
+          "מסננים, שוטפים ומייבשים את גרגירי החומוס היטב בנייר סופג.",
+          "מחממים תנור ל-200 מעלות.",
+          "מערבבים את החומוס עם השמן והמלח על תבנית בלי נייר, ומפזרים בשכבה אחת.",
+          "צולים 20–35 דקות, מנערים את התבנית כל 10 דקות, עד שהגרגירים זהובים כהים ופריכים.",
+          "מערבבים מיד עם הזעתר, הסומק ואבקת ההריסה."
+        ],
+        "whyFits": "קטניות, שמן זית ותבלינים בלבד. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "slow-cooker-lentil-bean-chili",
+      "url": "https://therealfooddietitians.com/hearty-slow-cooker-vegan-chili-with-lentils/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2021/12/Slow-Cooker-Lentil-Chili-4-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 480,
+      "totalMinutes": 495,
+      "servings": 10,
+      "nutrition": {
+        "calories": 233,
+        "protein": 11
+      },
+      "en": {
+        "title": "Slow Cooker Lentil and Bean Chili",
+        "description": "A hearty, meatless chili of green lentils, kidney beans, peppers and carrots in a smoky, spiced tomato base.",
+        "steps": [
+          "Put the pepper, onion, carrots, garlic, lentils, beans, both kinds of tomatoes, green chiles, oil and spices in a slow cooker and stir.",
+          "Add 3 cups of broth and stir well.",
+          "Cook on low 8–10 hours or on high 4–5 hours until the lentils are tender. Add more broth for a thinner chili.",
+          "Season and serve with your toppings. Keeps 4 days in the fridge or 6 months frozen."
+        ],
+        "whyFits": "Two kinds of legumes and lots of vegetables. 2 tbsp oil for 10 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 medium bell pepper, diced",
+          "1 medium yellow onion, diced",
+          "2 large carrots, diced small",
+          "4 garlic cloves, minced",
+          "1 cup dry green lentils",
+          "1 can (400 g) kidney beans, drained and rinsed",
+          "1 can (400 g) crushed tomatoes",
+          "1 can (400 g) diced tomatoes",
+          "1 can (115 g) diced green chiles",
+          "2 tbsp olive oil (or coconut oil)",
+          "2 tbsp chili powder",
+          "1 tsp dried oregano",
+          "1 tsp smoked paprika",
+          "1 tsp ground cumin",
+          "3–4 cups vegetable broth",
+          "Salt and black pepper",
+          "Optional: cayenne for extra heat",
+          "Optional toppings: green onion, cilantro, avocado"
+        ]
+      },
+      "he": {
+        "title": "צ׳ילי עדשים ושעועית בסיר בישול איטי",
+        "description": "צ׳ילי צמחוני ומשביע של עדשים ירוקות, שעועית אדומה, פלפלים וגזר בבסיס עגבניות מעושן ומתובל.",
+        "ingredients": [
+          "פלפל בינוני, קצוץ",
+          "בצל צהוב בינוני, קצוץ",
+          "2 גזרים גדולים, קצוצים דק",
+          "4 שיני שום, כתושות",
+          "כוס עדשים ירוקות יבשות",
+          "קופסת שעועית אדומה (400 גרם), מסוננת ושטופה",
+          "קופסת עגבניות מרוסקות (400 גרם)",
+          "קופסת עגבניות קצוצות (400 גרם)",
+          "קופסת צ׳ילי ירוק קצוץ (115 גרם)",
+          "2 כפות שמן זית (או קוקוס)",
+          "2 כפות אבקת צ׳ילי",
+          "כפית אורגנו יבש",
+          "כפית פפריקה מעושנת",
+          "כפית כמון טחון",
+          "3–4 כוסות ציר ירקות",
+          "מלח ופלפל שחור",
+          "לא חובה: קאיין לחריפות",
+          "לא חובה להגשה: בצל ירוק, כוסברה, אבוקדו"
+        ],
+        "steps": [
+          "מכניסים לסיר הבישול האיטי פלפל, בצל, גזר, שום, עדשים, שעועית, שני סוגי העגבניות, צ׳ילי ירוק, שמן ותבלינים ומערבבים.",
+          "מוסיפים 3 כוסות ציר ומערבבים היטב.",
+          "מבשלים על חום נמוך 8–10 שעות או על גבוה 4–5 שעות, עד שהעדשים רכות. לצ׳ילי דליל יותר מוסיפים ציר.",
+          "מתבלים ומגישים עם התוספות. נשמר 4 ימים במקרר או חצי שנה במקפיא."
+        ],
+        "whyFits": "שני סוגי קטניות והמון ירקות. 2 כפות שמן ל-10 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "tofu-cabbage-egg-roll-bowl",
+      "url": "https://detoxinista.com/egg-roll-in-a-bowl-weeknight-dinner/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2024/01/vegan-egg-roll-in-a-bowl-scrambled.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 2,
+      "nutrition": {
+        "calories": 295,
+        "protein": 21
+      },
+      "en": {
+        "title": "Tofu and Cabbage 'Egg Roll in a Bowl'",
+        "description": "All the flavor of an egg roll without the wrapper: stir-fried cabbage and carrots with ginger, garlic and crumbled tofu.",
+        "steps": [
+          "Heat the oil in a large skillet over medium-high heat and stir-fry the carrots and cabbage 5 minutes. Add the garlic and ginger for 1 minute.",
+          "Add the tamari, cover, and let the cabbage soften 5 minutes.",
+          "Push the vegetables aside, crumble the tofu into the center, and season with the salt, pepper, sesame oil and green onions.",
+          "Stir about 3 minutes until hot. Serve with sesame seeds or cilantro if you like."
+        ],
+        "whyFits": "Tofu is a legume protein. Wheat-free tamari or coconut aminos replace regular soy sauce. No dairy, grains or sugar. Skip the rice the original suggests.",
+        "ingredients": [
+          "1 tbsp olive oil",
+          "2 large carrots, shredded (about 1 cup)",
+          "450 g shredded cabbage (about 4 cups)",
+          "1 garlic clove, minced",
+          "2.5 cm fresh ginger, minced",
+          "2 tbsp tamari (wheat-free) or coconut aminos",
+          "1 block (400 g) extra-firm tofu",
+          "2–3 green onions, chopped",
+          "½ tsp fine sea salt",
+          "¼ tsp black pepper",
+          "1 tsp toasted sesame oil"
+        ]
+      },
+      "he": {
+        "title": "״אגרול בקערה״ עם טופו וכרוב",
+        "description": "כל הטעמים של אגרול בלי הבצק: כרוב וגזר מוקפצים עם ג׳ינג׳ר, שום וטופו מפורר.",
+        "ingredients": [
+          "כף שמן זית",
+          "2 גזרים גדולים, מגוררים (כוס)",
+          "450 גרם כרוב חתוך דק (4 כוסות)",
+          "שן שום, כתושה",
+          "2.5 ס״מ ג׳ינג׳ר טרי, קצוץ",
+          "2 כפות טמרי (בלי חיטה) או קוקוס אמינוס",
+          "חבילת טופו קשה במיוחד (400 גרם)",
+          "2–3 בצלים ירוקים, קצוצים",
+          "½ כפית מלח ים דק",
+          "¼ כפית פלפל שחור",
+          "כפית שמן שומשום קלוי"
+        ],
+        "steps": [
+          "מחממים שמן במחבת גדולה על אש בינונית-גבוהה ומקפיצים גזר וכרוב 5 דקות. מוסיפים שום וג׳ינג׳ר לדקה.",
+          "מוסיפים טמרי, מכסים ומשאירים את הכרוב להתרכך 5 דקות.",
+          "מזיזים את הירקות לצדדים, מפוררים את הטופו למרכז ומתבלים במלח, פלפל, שמן שומשום ובצל ירוק.",
+          "מערבבים כ-3 דקות עד שהכול חם. אפשר לפזר שומשום או כוסברה."
+        ],
+        "whyFits": "טופו הוא חלבון מקטניות. טמרי בלי חיטה או קוקוס אמינוס מחליפים רוטב סויה רגיל. בלי חלב, דגנים או סוכר. מוותרים על האורז שהמקור מציע."
+      }
+    },
+    {
+      "id": "turkish-bean-salad-tahini-dressing",
+      "url": "https://www.themediterraneandish.com/bean-salad-tahinli-fasulye-piyazi/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/03/Bean-Salad-17.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 8,
+      "totalMinutes": 23,
+      "servings": 4,
+      "nutrition": {
+        "calories": 270,
+        "protein": 17
+      },
+      "en": {
+        "title": "Turkish White Bean Salad with Tahini Dressing",
+        "description": "Creamy white beans coated in a garlicky lemon-cumin tahini sauce with onion, tomato, parsley and black olives.",
+        "steps": [
+          "In a large bowl, stir the garlic, lemon juice, cumin, tahini and a pinch of salt. It will thicken. Whisk in the vinegar and lukewarm water until runny.",
+          "Add the beans and toss, then add the onion, tomato, parsley and olives. Toss again and season.",
+          "Transfer to a plate, top with the eggs if using, and drizzle with a little olive oil."
+        ],
+        "whyFits": "Legumes in a tahini dressing, with vegetables and olives. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 cans (400 g each) cannellini beans, drained and rinsed",
+          "½ small onion, quartered and thinly sliced",
+          "1 medium ripe tomato, diced",
+          "1 handful flat-leaf parsley, finely chopped",
+          "⅓ cup black olives, pitted and halved",
+          "Kosher salt",
+          "Black pepper",
+          "2 garlic cloves, finely chopped",
+          "Juice of ½ lemon",
+          "1 tsp ground cumin",
+          "2 tbsp tahini",
+          "1 tbsp grape or apple cider vinegar",
+          "¼ cup lukewarm water",
+          "2 hard-boiled eggs, quartered (optional)",
+          "Extra virgin olive oil, for drizzling"
+        ]
+      },
+      "he": {
+        "title": "סלט שעועית לבנה טורקי ברוטב טחינה",
+        "description": "שעועית לבנה קרמית ברוטב טחינה עם שום, לימון וכמון, עם בצל, עגבנייה, פטרוזיליה וזיתים שחורים.",
+        "ingredients": [
+          "2 קופסאות שעועית לבנה (400 גרם כל אחת), מסוננת ושטופה",
+          "½ בצל קטן, ברבעים פרוסים דק",
+          "עגבנייה בשלה בינונית, קצוצה",
+          "חופן פטרוזיליה, קצוצה דק",
+          "⅓ כוס זיתים שחורים מגולענים, חצויים",
+          "מלח גס",
+          "פלפל שחור",
+          "2 שיני שום, קצוצות דק",
+          "מיץ מחצי לימון",
+          "כפית כמון טחון",
+          "2 כפות טחינה גולמית",
+          "כף חומץ ענבים או תפוחים",
+          "¼ כוס מים פושרים",
+          "2 ביצים קשות, ברבעים (לא חובה)",
+          "שמן זית לזילוף"
+        ],
+        "steps": [
+          "בקערה גדולה מערבבים שום, מיץ לימון, כמון, טחינה וקורט מלח. התערובת תסמיך. טורפים פנימה את החומץ והמים הפושרים עד שהרוטב נוזלי.",
+          "מוסיפים את השעועית ומערבבים, ואז בצל, עגבנייה, פטרוזיליה וזיתים. מערבבים שוב ומתבלים.",
+          "מעבירים לצלחת, מניחים מעל את הביצים אם רוצים ומזלפים מעט שמן זית."
+        ],
+        "whyFits": "קטניות ברוטב טחינה עם ירקות וזיתים. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "easy-homemade-refried-beans",
+      "url": "https://detoxinista.com/refried-beans/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2022/08/refried-beans-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": false,
+      "prepMinutes": 7,
+      "cookMinutes": 13,
+      "totalMinutes": 20,
+      "servings": 6,
+      "nutrition": {
+        "calories": 130,
+        "protein": 7
+      },
+      "en": {
+        "title": "Easy Homemade Refried Beans",
+        "description": "Pinto beans simmered with onion, garlic, cumin and chili, then mashed with lime. A healthy version with only 1 tbsp of oil.",
+        "steps": [
+          "Heat the oil in a skillet over medium-high heat and cook the onion about 7 minutes until soft. Add the garlic and spices for 1 minute.",
+          "Add the beans, water and salt. Bring to a boil, cover, and simmer 5 minutes.",
+          "Add the lime juice and mash the beans in the pot to the texture you like (or blend for very smooth).",
+          "Season and serve warm. Keeps 5 days in the fridge."
+        ],
+        "whyFits": "Legumes cooked with spices and just 1 tbsp of olive oil, not lard. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tablespoon extra virgin olive oil",
+          "1/2 yellow onion (chopped)",
+          "2 garlic cloves (minced)",
+          "1 teaspoon ground cumin",
+          "1 teaspoon chili powder",
+          "1/2 teaspoon ground oregano",
+          "2 (15 oz.) cans pinto beans (drained and rinsed)",
+          "1/2 cup water",
+          "3/4 teaspoon fine sea salt",
+          "1 tablespoon lime juice"
+        ]
+      },
+      "he": {
+        "title": "ממרח שעועית מבושלת ומעוכה (״רפרייד בינז״)",
+        "description": "שעועית פינטו שמתבשלת עם בצל, שום, כמון וצ׳ילי ונמעכת עם ליים. גרסה בריאה עם כף שמן בלבד.",
+        "ingredients": [
+          "כף שמן זית",
+          "½ בצל צהוב, קצוץ",
+          "2 שיני שום, כתושות",
+          "כפית כמון טחון",
+          "כפית אבקת צ׳ילי",
+          "½ כפית אורגנו טחון",
+          "2 קופסאות שעועית פינטו (400 גרם כל אחת), מסוננת ושטופה",
+          "½ כוס מים",
+          "¾ כפית מלח ים דק",
+          "כף מיץ ליים"
+        ],
+        "steps": [
+          "מחממים שמן במחבת על אש בינונית-גבוהה ומאדים את הבצל כ-7 דקות עד שהוא רך. מוסיפים שום ותבלינים לדקה.",
+          "מוסיפים שעועית, מים ומלח. מביאים לרתיחה, מכסים ומבשלים 5 דקות.",
+          "מוסיפים מיץ ליים ומועכים את השעועית בסיר למרקם הרצוי (או טוחנים לחלק לגמרי).",
+          "מתקנים תיבול ומגישים חם. נשמר 5 ימים במקרר."
+        ],
+        "whyFits": "קטניות מבושלות עם תבלינים וכף שמן זית בלבד, לא שומן חזיר. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "turkish-roasted-vegetable-chickpea-bake",
+      "url": "https://www.themediterraneandish.com/turkish-vegetable-casserole-with-chickpeas/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/12/TMD-Firinda-Sebzeli-Leads-03.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 75,
+      "totalMinutes": 90,
+      "servings": 6,
+      "nutrition": {
+        "calories": 167,
+        "protein": 4
+      },
+      "en": {
+        "title": "Turkish Roasted Vegetable and Chickpea Bake",
+        "description": "Beets, cauliflower, carrots, onions and peppers roasted until charred, then baked with chickpeas in a cumin-tomato sauce.",
+        "steps": [
+          "Heat the oven to 220°C (425°F).",
+          "Toss the beets, cauliflower, carrots, onions and peppers on a large sheet pan with the oil, oregano, Aleppo pepper, salt and pepper.",
+          "Roast 30–35 minutes, turning halfway, until charred at the edges.",
+          "Move to a deep baking dish and stir in the garlic, tomatoes and chickpeas. Season with the cumin, salt and pepper. Mix the hot water with the tomato paste and pour it in.",
+          "Bake 20–25 minutes until everything is tender and the sauce has thickened."
+        ],
+        "whyFits": "Lots of vegetables and legumes. ¼ cup oil for 6 servings. No dairy, grains or sugar. Good warm or at room temperature for Shabbat.",
+        "ingredients": [
+          "3 medium-large beets, peeled and cut into 2.5 cm pieces",
+          "1 medium cauliflower, cut into florets",
+          "2 medium carrots, halved lengthwise and sliced",
+          "2 medium red onions, roughly chopped",
+          "1 green bell pepper, chopped",
+          "1 red bell pepper, chopped",
+          "¼ cup extra virgin olive oil",
+          "1 tbsp dried oregano",
+          "2 tsp Aleppo pepper (or 1 tsp red pepper flakes)",
+          "Kosher salt",
+          "Black pepper",
+          "6 garlic cloves, roughly chopped",
+          "1 can (400 g) chopped tomatoes",
+          "1 can (400 g) chickpeas, drained and rinsed",
+          "2 tsp ground cumin",
+          "1¼ cups hot water",
+          "1 tbsp double-concentrated tomato paste"
+        ]
+      },
+      "he": {
+        "title": "תבשיל ירקות צלויים וחומוס טורקי בתנור",
+        "description": "סלק, כרובית, גזר, בצל ופלפלים צלויים עד שהם חרוכים, ואז אפויים עם גרגירי חומוס ברוטב עגבניות וכמון.",
+        "ingredients": [
+          "3 סלקים בינוניים-גדולים, קלופים, בחתיכות של 2.5 ס״מ",
+          "כרובית בינונית, מפורקת לפרחים",
+          "2 גזרים בינוניים, חצויים לאורך ופרוסים",
+          "2 בצלים סגולים בינוניים, קצוצים גס",
+          "פלפל ירוק, קצוץ",
+          "פלפל אדום, קצוץ",
+          "¼ כוס שמן זית",
+          "כף אורגנו יבש",
+          "2 כפיות פלפל אלפו (או כפית צ׳ילי גרוס)",
+          "מלח גס",
+          "פלפל שחור",
+          "6 שיני שום, קצוצות גס",
+          "קופסת עגבניות קצוצות (400 גרם)",
+          "קופסת גרגירי חומוס (400 גרם), מסוננים ושטופים",
+          "2 כפיות כמון טחון",
+          "1¼ כוסות מים חמים",
+          "כף רסק עגבניות מרוכז"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות.",
+          "מערבבים בתבנית גדולה סלק, כרובית, גזר, בצל ופלפלים עם שמן, אורגנו, פלפל אלפו, מלח ופלפל.",
+          "צולים 30–35 דקות, הופכים באמצע, עד שהשוליים חרוכים.",
+          "מעבירים לתבנית עמוקה ומערבבים פנימה שום, עגבניות וחומוס. מתבלים בכמון, מלח ופלפל. מערבבים את המים החמים עם הרסק ויוצקים פנימה.",
+          "אופים 20–25 דקות, עד שהכול רך והרוטב מסמיך."
+        ],
+        "whyFits": "המון ירקות וקטניות. ¼ כוס שמן ל-6 מנות. בלי חלב, דגנים או סוכר. טעים חם או בטמפרטורת החדר בשבת."
+      }
+    },
+    {
+      "id": "baked-falafel-flatbread",
+      "url": "https://downshiftology.com/recipes/falafel-flatbread/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2020/02/Falafel-Flatbread-13.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 45,
+      "cookMinutes": 25,
+      "totalMinutes": 70,
+      "servings": 9,
+      "nutrition": {
+        "calories": 130,
+        "protein": 6
+      },
+      "en": {
+        "title": "Baked Falafel Flatbread",
+        "description": "All the herby flavor of falafel, pressed into one sheet and baked instead of fried, then cut into squares.",
+        "steps": [
+          "The night before, soak the dried chickpeas in plenty of water.",
+          "Heat the oven to 200°C (400°F).",
+          "Drain the chickpeas and pulse them in a food processor with the onion, herbs, chile, garlic, spices, salt and baking soda until finely ground. Chill 30–60 minutes.",
+          "Mix in the chickpea flour, water and olive oil with your hands.",
+          "Press the mixture into a thin, even layer on a parchment-lined sheet and bake 25 minutes.",
+          "Cool 10 minutes, then slice into pieces."
+        ],
+        "whyFits": "Made entirely from chickpeas (including the flour) and baked rather than deep-fried, with just 1 tbsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 cup dried chickpeas (soaked overnight (don't use canned chickpeas)",
+          "1/2 cup onion (roughly chopped)",
+          "1 cup parsley (roughly chopped (about a one large bunch)",
+          "1 cup cilantro (roughly chopped (about a one large bunch)",
+          "1 small green chile pepper (serrano or jalapeno pepper)",
+          "3 garlic cloves",
+          "1 tsp cumin",
+          "1 tsp salt",
+          "1/2 tsp cardamom",
+          "1/4 tsp black pepper",
+          "1/2 tsp baking soda",
+          "1/2 cup chickpea flour",
+          "3 tablespoon water",
+          "1 tablespoon olive oil"
+        ]
+      },
+      "he": {
+        "title": "״פלאפל״ אפוי בתבנית",
+        "description": "כל הטעם הירוק של פלאפל, משוטח לשכבה אחת ואפוי בתנור במקום מטוגן, וחתוך לריבועים.",
+        "ingredients": [
+          "כוס גרגירי חומוס יבשים, מושרים לילה (לא משימורים)",
+          "½ כוס בצל קצוץ גס",
+          "כוס פטרוזיליה קצוצה גס (צרור)",
+          "כוס כוסברה קצוצה גס (צרור)",
+          "פלפל ירוק חריף קטן",
+          "3 שיני שום",
+          "כפית כמון",
+          "כפית מלח",
+          "½ כפית הל",
+          "¼ כפית פלפל שחור",
+          "½ כפית סודה לשתייה",
+          "½ כוס קמח חומוס",
+          "3 כפות מים",
+          "כף שמן זית"
+        ],
+        "steps": [
+          "בערב שלפני, משרים את גרגירי החומוס בהרבה מים.",
+          "מחממים תנור ל-200 מעלות.",
+          "מסננים את החומוס וטוחנים בפולסים במעבד מזון עם בצל, עשבי תיבול, פלפל חריף, שום, תבלינים, מלח וסודה לשתייה עד למרקם גרגרי ודק. מקררים 30–60 דקות.",
+          "מוסיפים קמח חומוס, מים ושמן זית ולשים בידיים.",
+          "משטחים את התערובת לשכבה דקה ואחידה בתבנית מרופדת ואופים 25 דקות.",
+          "מצננים 10 דקות וחותכים לריבועים."
+        ],
+        "whyFits": "עשוי כולו מחומוס (גם הקמח) ואפוי ולא מטוגן בשמן עמוק, עם כף שמן בלבד. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "pressure-cooker-green-lentil-coconut-curry",
+      "url": "https://detoxinista.com/instant-pot-red-lentil-kale-curry/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2017/03/instant-pot-lentil-curry.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 5,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 236,
+        "protein": 13
+      },
+      "en": {
+        "title": "Green Lentil and Coconut Curry",
+        "description": "Green lentils cooked with carrots, pepper, ginger and curry spices in coconut milk. Ready fast in a pressure cooker.",
+        "steps": [
+          "On the sauté setting, cook the onion, carrots and pepper in the oil about 5 minutes.",
+          "Add the garlic, ginger and curry powder for 1 minute. Turn off the heat, add the water, and scrape the bottom clean.",
+          "Add the lentils, salt and coconut milk. Seal and cook on high pressure 5 minutes.",
+          "Let the pressure release naturally 10 minutes, then release the rest.",
+          "Stir in the cilantro, season with salt and lemon, and serve."
+        ],
+        "whyFits": "Legumes and vegetables in coconut milk with 1 tbsp of oil. No dairy, grains or sugar. Serve with cauliflower rice instead of rice.",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 small yellow onion (chopped)",
+          "2 medium carrots (chopped)",
+          "1 bell pepper (chopped and seeds removed)",
+          "1 garlic clove (minced)",
+          "1 inch fresh ginger (minced)",
+          "1 tablespoon curry powder",
+          "1 cup water",
+          "1 cup dried green lentils",
+          "1 teaspoon fine sea salt",
+          "1 (15 oz.) can coconut milk",
+          "½ cup fresh cilantro",
+          "lemon slices (for serving )"
+        ]
+      },
+      "he": {
+        "title": "קארי עדשים ירוקות וחלב קוקוס",
+        "description": "עדשים ירוקות מבושלות עם גזר, פלפל, ג׳ינג׳ר ותבליני קארי בחלב קוקוס. מוכן מהר בסיר לחץ.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב קטן, קצוץ",
+          "2 גזרים בינוניים, קצוצים",
+          "פלפל, קצוץ",
+          "שן שום, כתושה",
+          "2.5 ס״מ ג׳ינג׳ר טרי, קצוץ",
+          "כף אבקת קארי",
+          "כוס מים",
+          "כוס עדשים ירוקות יבשות",
+          "כפית מלח ים דק",
+          "קופסת חלב קוקוס (400 מ״ל)",
+          "½ כוס כוסברה טרייה",
+          "פרוסות לימון להגשה"
+        ],
+        "steps": [
+          "במצב הקפצה, מאדים בצל, גזר ופלפל בשמן כ-5 דקות.",
+          "מוסיפים שום, ג׳ינג׳ר וקארי לדקה. מכבים, מוסיפים את המים וגורדים את התחתית עד שהיא נקייה.",
+          "מוסיפים עדשים, מלח וחלב קוקוס. סוגרים ומבשלים בלחץ גבוה 5 דקות.",
+          "משחררים לחץ טבעי 10 דקות, ואז את השאר.",
+          "מערבבים פנימה כוסברה, מתבלים במלח ולימון ומגישים."
+        ],
+        "whyFits": "קטניות וירקות בחלב קוקוס עם כף שמן. בלי חלב, דגנים או סוכר. מגישים עם אורז כרובית במקום אורז."
+      }
+    },
+    {
       "id": "southwest-stuffed-sweet-potatoes-cashew-sauce",
       "url": "https://detoxinista.com/southwest-stuffed-sweet-potatoes/",
       "source": "Detoxinista",
