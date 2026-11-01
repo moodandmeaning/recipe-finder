@@ -4,7 +4,7 @@ data in cand_*.jsonl (current folder) into recipes ready for tools/add_recipes.p
 Spec item: key ("soup#3" = line 3 of cand_soup.jsonl), id, cat, shabbat, optional times/servings/nut/added/
 en_ing/drop, en{title, description, steps, whyFits}, he{title, description, ingredients, steps, whyFits}.
 """
-import glob, json, re, sys
+import glob, html, json, re, sys
 from datetime import date
 from urllib.parse import quote
 
@@ -35,7 +35,7 @@ for s in spec:
     rec = {
         "id": s["id"],
         "url": r["url"].split("?")[0] if "kikar" not in r["url"] else r["url"],
-        "source": SOURCE_NAMES.get(r["site"], r["site"]),
+        "source": html.unescape(SOURCE_NAMES.get(r["site"], r["site"])),
         "sourceLang": "he" if re.search(r"kikar|10dakot|\.co\.il", r["url"]) else "en",
         "image": quote(re.sub(r"https://i\d\.wp\.com/(www\.)?", "https://", r["image"]).split("?")[0] if "wp.com" in r["image"] else r["image"], safe=":/?&=%#+,;@!~*'()"),
         "added": s.get("added", TODAY),
