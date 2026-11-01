@@ -1,7 +1,15 @@
-# Daily recipe run
+# Daily recipe search
 
-These are the instructions for the scheduled daily task (and for anyone running it by hand).
+The search runs **only when the user asks for it**. They type `/daily-recipe-search` or say "do a daily search" in Claude Code on their computer. There is no automatic schedule: the scheduled cloud routine is turned off, because cloud sessions can't reach recipe sites.
 Goal: add about **10 new recipes** to `data/recipes.json` that pass **every** rule in `config/rules.md`, then push.
+
+## Fast path (what worked well on 2026-11-01)
+Work in a scratch folder, never inside the repo:
+1. `python <repo>/tools/harvest_sitemaps.py cand_<cat>.jsonl <cat> 8` for several categories (soup, salad, chicken, meat, fish, vegetables, legumes, eggs, sweet3). It reads the sites' sitemaps, extracts each recipe, and drops obvious rule-breakers. URLs already in the app are skipped.
+2. For Hebrew recipes, kikar.co.il pages (/soups, /salads, /stews, /chicken) give the ingredients through `tools/extract_recipe.py`. Read their steps with web fetch.
+3. Review every candidate by hand (section 4) and pick about 10 across at least 5 categories.
+4. Write a spec JSON with the Hebrew and English text, then `python <repo>/tools/build_batch.py spec.json new.json`. Then do section 6 (add_recipes → check_data → commit → push).
+5. Tell the user in Hebrew-friendly plain words what was added, by category, and what was rejected and why.
 
 ## 1. Get ready
 - `git pull` to start from the latest version.
