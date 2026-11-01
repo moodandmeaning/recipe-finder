@@ -2,6 +2,1302 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "slow-cooker-beef-three-bean-chili",
+      "url": "https://therealfooddietitians.com/slow-cooker-beef-and-bean-chili/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2020/02/Slow-Cooker-Beef-and-Bean-Chili-7-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 480,
+      "totalMinutes": 500,
+      "servings": 10,
+      "nutrition": {
+        "calories": 425,
+        "protein": 38
+      },
+      "en": {
+        "title": "Slow Cooker Beef and Three-Bean Chili",
+        "description": "A big pot of hearty chili with ground beef, three kinds of beans, peppers and warm spices, with a touch of cocoa for depth.",
+        "steps": [
+          "Brown the beef in a lightly sprayed skillet 6–7 minutes, breaking it up. Drain excess fat.",
+          "Put the beef in the slow cooker with all the remaining ingredients and stir.",
+          "Cook on low 8 hours or high 4–5 hours.",
+          "Season to taste and serve with avocado, green onion or cilantro."
+        ],
+        "whyFits": "Kosher beef with legumes and vegetables. Unsweetened cocoa only for depth of flavor. No dairy, grains or sugar.",
+        "ingredients": [
+          "Oil spray",
+          "900 g lean ground beef or turkey",
+          "2 cans (425 g each) no-salt-added tomato sauce",
+          "1 can (400 g) fire-roasted diced tomatoes",
+          "1 can (115 g) diced green chiles",
+          "1 can kidney beans, drained and rinsed",
+          "1 can pinto beans, drained and rinsed",
+          "1 can black beans, drained and rinsed",
+          "1½ cups low-sodium beef broth",
+          "1 medium onion, diced",
+          "1 bell pepper, diced",
+          "½–1 small jalapeño, finely diced",
+          "4 garlic cloves, minced",
+          "3 tbsp chili powder",
+          "1 tbsp ground cumin",
+          "1 tbsp unsweetened cocoa powder",
+          "1 tsp smoked paprika",
+          "¼ tsp ground cinnamon",
+          "¼ tsp fine salt",
+          "¼ tsp black pepper"
+        ]
+      },
+      "he": {
+        "title": "צ׳ילי בקר ושלושה סוגי שעועית בסיר בישול איטי",
+        "description": "סיר גדול של צ׳ילי משביע עם בשר טחון, שלושה סוגי שעועית, פלפלים ותבלינים חמים, ונגיעת קקאו לעומק.",
+        "ingredients": [
+          "תרסיס שמן",
+          "900 גרם בשר בקר או הודו טחון רזה",
+          "2 קופסאות רוטב עגבניות בלי מלח (425 גרם כל אחת)",
+          "קופסת עגבניות קלויות קצוצות (400 גרם)",
+          "קופסת צ׳ילי ירוק קצוץ (115 גרם)",
+          "קופסת שעועית אדומה, מסוננת ושטופה",
+          "קופסת שעועית פינטו, מסוננת ושטופה",
+          "קופסת שעועית שחורה, מסוננת ושטופה",
+          "1½ כוסות ציר בקר דל נתרן",
+          "בצל בינוני, קצוץ",
+          "פלפל, קצוץ",
+          "½–1 חלפיניו קטן, קצוץ דק",
+          "4 שיני שום, כתושות",
+          "3 כפות אבקת צ׳ילי",
+          "כף כמון טחון",
+          "כף אבקת קקאו לא ממותקת",
+          "כפית פפריקה מעושנת",
+          "¼ כפית קינמון",
+          "¼ כפית מלח דק",
+          "¼ כפית פלפל שחור"
+        ],
+        "steps": [
+          "משחימים את הבשר במחבת מרוססת קלות 6–7 דקות תוך פירור. מסננים שומן עודף.",
+          "מעבירים את הבשר לסיר הבישול האיטי עם כל שאר המרכיבים ומערבבים.",
+          "מבשלים על חום נמוך 8 שעות או על גבוה 4–5 שעות.",
+          "מתקנים תיבול ומגישים עם אבוקדו, בצל ירוק או כוסברה."
+        ],
+        "whyFits": "בשר בקר כשר עם קטניות וירקות. קקאו לא ממותק רק לעומק הטעם. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "ground-beef-cabbage-carrot-skillet",
+      "url": "https://www.themediterraneandish.com/ground-beef-and-cabbage-skillet/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2026/02/TMD-Beef-Cabbage-Skillet-Leads-01.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 418,
+        "protein": 27
+      },
+      "en": {
+        "title": "Spiced Ground Beef and Cabbage Skillet",
+        "description": "Ground beef seasoned with baharat and cumin, tossed with caramelized cabbage and carrots, and finished with vinegar and herbs.",
+        "steps": [
+          "Halve the onion. Finely chop one half and thinly slice the other.",
+          "Heat 2 tbsp oil in a large lidded pan and cook the chopped onion 3–5 minutes. Add the garlic, then the beef, and brown it 7–10 minutes. Season with half the cumin, the baharat, coriander, paprika, salt and pepper, and set aside.",
+          "Heat the remaining 2 tbsp oil, add the sliced onion, cabbage, carrots, the rest of the cumin, salt and pepper. Cover 3–5 minutes, then cook uncovered about 15 minutes until caramelized in spots.",
+          "Return the beef, heat through, and stir in the vinegar, green onions and parsley."
+        ],
+        "whyFits": "Kosher beef with lots of cabbage and carrots, 1 tbsp oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 large yellow onion",
+          "4 tbsp extra virgin olive oil, divided",
+          "2 garlic cloves, minced",
+          "450 g lean ground beef",
+          "1 tsp cumin, divided",
+          "½ tsp baharat",
+          "½ tsp ground coriander",
+          "¼ tsp paprika",
+          "Kosher salt",
+          "Black pepper",
+          "1 small green cabbage, cored and shredded",
+          "3 carrots, shredded",
+          "1 tsp white wine vinegar",
+          "2 green onions, chopped",
+          "3 tbsp chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "מחבת בשר טחון, כרוב וגזר מתובלת",
+        "description": "בשר טחון בתיבול בהרט וכמון, עם כרוב וגזר מקורמלים, ומסיים בחומץ ועשבי תיבול.",
+        "ingredients": [
+          "בצל צהוב גדול",
+          "4 כפות שמן זית, מחולק",
+          "2 שיני שום, כתושות",
+          "450 גרם בשר בקר טחון רזה",
+          "כפית כמון, מחולקת",
+          "½ כפית בהרט",
+          "½ כפית כוסברה טחונה",
+          "¼ כפית פפריקה",
+          "מלח גס",
+          "פלפל שחור",
+          "כרוב לבן קטן, בלי הלב, חתוך דק",
+          "3 גזרים, מגוררים",
+          "כפית חומץ יין לבן",
+          "2 בצלים ירוקים, קצוצים",
+          "3 כפות פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "חוצים את הבצל. חצי אחד קוצצים דק, ואת החצי השני פורסים דק.",
+          "מחממים 2 כפות שמן במחבת רחבה עם מכסה ומאדים את הבצל הקצוץ 3–5 דקות. מוסיפים שום, ואז את הבשר ומשחימים 7–10 דקות. מתבלים בחצי מהכמון, בהרט, כוסברה, פפריקה, מלח ופלפל, ומוציאים.",
+          "מחממים את 2 כפות השמן הנותרות, מוסיפים בצל פרוס, כרוב, גזר, את שאר הכמון, מלח ופלפל. מכסים ל-3–5 דקות, ואז מבשלים בלי מכסה כ-15 דקות עד שהירקות מתקרמלים בחלקם.",
+          "מחזירים את הבשר, מחממים, ומערבבים פנימה חומץ, בצל ירוק ופטרוזיליה."
+        ],
+        "whyFits": "בשר בקר כשר עם הרבה כרוב וגזר, כף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "moroccan-lamb-stew-apricots-chickpeas",
+      "url": "https://www.themediterraneandish.com/moroccan-lamb-stew-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/10/Moroccan-lamb-stew-recipe-9-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 135,
+      "totalMinutes": 150,
+      "servings": 6,
+      "nutrition": {
+        "calories": 502,
+        "protein": 44
+      },
+      "en": {
+        "title": "Moroccan Lamb Stew with Apricots and Chickpeas",
+        "description": "Tender lamb braised in the oven with carrots, potatoes, warm Moroccan spices, apricots, tomatoes and chickpeas.",
+        "steps": [
+          "Heat the oven to 175°C (350°F). In a heavy ovenproof pot, heat 2 tbsp oil and sauté the onion, carrots and potatoes 4 minutes. Add the garlic, season, and set aside.",
+          "In the same pot, brown the lamb well on all sides and season.",
+          "Return the vegetables, add the apricots, cinnamon, bay leaf and spices, then the tomatoes and broth. Boil 5 minutes.",
+          "Cover and bake 1½ hours (add broth if needed). Stir in the chickpeas and bake 30 minutes more."
+        ],
+        "whyFits": "Kosher lamb, vegetables and legumes, sweetened only by whole apricots. No dairy or grains. Serve it on its own, without the rice or couscous the original suggests. Great for Shabbat.",
+        "ingredients": [
+          "Extra virgin olive oil",
+          "1 large yellow onion, chopped",
+          "3 carrots, cubed",
+          "6 small potatoes, peeled and cubed",
+          "Kosher salt and pepper",
+          "1.1 kg boneless leg of lamb, trimmed and cubed",
+          "3 large garlic cloves, chopped",
+          "½ cup unsulfured dried apricots",
+          "1 cinnamon stick",
+          "1 bay leaf",
+          "1½ tsp ground allspice",
+          "1½ tsp ras el hanout",
+          "½ tsp ground ginger",
+          "6 canned plum tomatoes, halved",
+          "2½ cups low-sodium beef broth",
+          "1 can (400 g) chickpeas, drained"
+        ]
+      },
+      "he": {
+        "title": "תבשיל טלה מרוקאי עם משמשים וחומוס",
+        "description": "טלה רך שמתבשל בתנור עם גזר, תפוחי אדמה, תבלינים מרוקאיים חמים, משמשים, עגבניות וגרגירי חומוס.",
+        "ingredients": [
+          "שמן זית",
+          "בצל צהוב גדול, קצוץ",
+          "3 גזרים, בקוביות",
+          "6 תפוחי אדמה קטנים, קלופים ובקוביות",
+          "מלח גס ופלפל",
+          "1.1 ק״ג שוק טלה בלי עצם, בקוביות",
+          "3 שיני שום גדולות, קצוצות",
+          "½ כוס משמשים מיובשים (בלי גופרית)",
+          "מקל קינמון",
+          "עלה דפנה",
+          "1½ כפית פלפל אנגלי טחון",
+          "1½ כפית ראס אל חנות",
+          "½ כפית ג׳ינג׳ר טחון",
+          "6 עגבניות שלמות משימורים, חצויות",
+          "2½ כוסות ציר בקר דל נתרן",
+          "קופסת גרגירי חומוס (400 גרם), מסוננת"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות. בסיר כבד שמתאים לתנור מחממים 2 כפות שמן ומאדים בצל, גזר ותפוחי אדמה 4 דקות. מוסיפים שום, מתבלים ומוציאים.",
+          "באותו סיר משחימים היטב את הטלה מכל הצדדים ומתבלים.",
+          "מחזירים את הירקות, מוסיפים משמשים, קינמון, עלה דפנה ותבלינים, ואז עגבניות וציר. מרתיחים 5 דקות.",
+          "מכסים ומבשלים בתנור 1½ שעות (מוסיפים ציר אם צריך). מערבבים פנימה את החומוס ומבשלים עוד 30 דקות."
+        ],
+        "whyFits": "טלה כשר, ירקות וקטניות, ממותק רק במשמשים שלמים. בלי חלב ובלי דגנים. מגישים לבד, בלי האורז או הקוסקוס שהמקור מציע. מעולה לשבת."
+      }
+    },
+    {
+      "id": "turkey-cauliflower-vegetable-soup",
+      "url": "https://detoxinista.com/leftover-turkey-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2019/05/turkey-soup-on-a-spoon.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "totalMinutes": 35,
+      "servings": 6,
+      "nutrition": {
+        "calories": 191,
+        "protein": 15
+      },
+      "en": {
+        "title": "Turkey and Cauliflower Vegetable Soup",
+        "description": "A light, herby soup of carrots, celery and cauliflower with shredded turkey, with an optional splash of coconut milk.",
+        "steps": [
+          "Heat the oil in a large pot over high heat and sauté the onion, carrots and celery about 5 minutes. Add the garlic, sage, thyme and pepper flakes for 1 minute.",
+          "Add the cauliflower, 5 cups water, the turkey, 1½ tsp salt and ½ tsp pepper. Bring to a boil, then cover and simmer until the vegetables are tender.",
+          "Stir in the coconut milk if using and season to taste."
+        ],
+        "whyFits": "Kosher poultry and vegetables with 1 tbsp of oil. Cauliflower replaces noodles. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tbsp olive oil",
+          "1 onion, chopped",
+          "4 carrots, chopped",
+          "5 celery stalks, chopped",
+          "2 garlic cloves, minced",
+          "¾ tsp ground sage",
+          "¾ tsp dried thyme",
+          "¼ tsp red pepper flakes",
+          "450 g cauliflower, cut into florets",
+          "5–6 cups water",
+          "2 cups cooked turkey or chicken, shredded",
+          "Fine sea salt and black pepper",
+          "½ cup full-fat coconut milk (optional, for creaminess)"
+        ]
+      },
+      "he": {
+        "title": "מרק הודו, כרובית וירקות",
+        "description": "מרק קליל ועשבוני של גזר, סלרי וכרובית עם הודו מפורק, ואם רוצים גם מעט חלב קוקוס.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל, קצוץ",
+          "4 גזרים, קצוצים",
+          "5 גבעולי סלרי, קצוצים",
+          "2 שיני שום, כתושות",
+          "¾ כפית מרווה טחונה",
+          "¾ כפית טימין יבש",
+          "¼ כפית צ׳ילי גרוס",
+          "450 גרם כרובית, בפרחים",
+          "5–6 כוסות מים",
+          "2 כוסות הודו או עוף מבושל ומפורק",
+          "מלח ים דק ופלפל שחור",
+          "½ כוס חלב קוקוס מלא (לא חובה, לקרמיות)"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול על אש גבוהה ומאדים בצל, גזר וסלרי כ-5 דקות. מוסיפים שום, מרווה, טימין וצ׳ילי לדקה.",
+          "מוסיפים כרובית, 5 כוסות מים, הודו, 1½ כפית מלח ו-½ כפית פלפל. מביאים לרתיחה, מכסים ומבשלים עד שהירקות רכים.",
+          "מוסיפים חלב קוקוס אם רוצים ומתקנים תיבול."
+        ],
+        "whyFits": "עוף או הודו כשרים וירקות עם כף שמן. כרובית במקום אטריות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "easy-ground-beef-chili",
+      "url": "https://www.realfoodwithjessica.com/easy-paleo-chili/",
+      "source": "Real Food with Jessica",
+      "sourceLang": "en",
+      "image": "https://www.realfoodwithjessica.com/wp-content/uploads/2015/08/IMG_9320.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 30,
+      "totalMinutes": null,
+      "servings": 6,
+      "nutrition": {
+        "calories": 413,
+        "protein": 27
+      },
+      "en": {
+        "title": "Easy Beef Chili (No Beans)",
+        "description": "A simple, meaty chili of ground beef, onion and fire-roasted tomatoes with plenty of chili powder. Serve over a baked sweet potato.",
+        "steps": [
+          "Brown the beef and drain the excess fat.",
+          "Add the onion, both cans of tomatoes, tomato sauce, garlic powder, chili powder and salt.",
+          "Simmer on medium-low at least 30 minutes, or several hours for deeper flavor.",
+          "Serve over zucchini noodles, baked potato or sweet potato."
+        ],
+        "whyFits": "Kosher beef and tomatoes. Choose tomato sauce with no added sugar. No dairy, grains or added fat.",
+        "ingredients": [
+          "900 g ground beef",
+          "1 large onion, diced",
+          "1 can (410 g) fire-roasted diced tomatoes",
+          "1 can (800 g) fire-roasted crushed tomatoes",
+          "1 can (425 g) plain tomato sauce, no sugar added",
+          "2 tsp garlic powder",
+          "4 tbsp chili powder",
+          "1 tsp salt"
+        ]
+      },
+      "he": {
+        "title": "צ׳ילי בקר פשוט (בלי שעועית)",
+        "description": "צ׳ילי בשרי ופשוט של בשר טחון, בצל ועגבניות קלויות עם הרבה אבקת צ׳ילי. מגישים על בטטה אפויה.",
+        "ingredients": [
+          "900 גרם בשר בקר טחון",
+          "בצל גדול, קצוץ",
+          "קופסת עגבניות קלויות קצוצות (410 גרם)",
+          "קופסת עגבניות קלויות מרוסקות (800 גרם)",
+          "קופסת רוטב עגבניות פשוט בלי סוכר (425 גרם)",
+          "2 כפיות אבקת שום",
+          "4 כפות אבקת צ׳ילי",
+          "כפית מלח"
+        ],
+        "steps": [
+          "משחימים את הבשר ומסננים שומן עודף.",
+          "מוסיפים בצל, שתי קופסאות העגבניות, רוטב עגבניות, אבקת שום, אבקת צ׳ילי ומלח.",
+          "מבשלים על אש בינונית-נמוכה לפחות 30 דקות, או כמה שעות לטעם עמוק יותר.",
+          "מגישים על ״אטריות״ זוקיני, תפוח אדמה או בטטה אפויים."
+        ],
+        "whyFits": "בשר בקר כשר ועגבניות. בוחרים רוטב עגבניות בלי תוספת סוכר. בלי חלב, דגנים או תוספת שומן."
+      }
+    },
+    {
+      "id": "dijon-herb-baked-salmon",
+      "url": "https://downshiftology.com/recipes/dijon-baked-salmon/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2019/03/Dijon-Baked-Salmon-6-2.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 20,
+      "totalMinutes": 25,
+      "servings": 5,
+      "nutrition": {
+        "calories": 250,
+        "protein": 30
+      },
+      "en": {
+        "title": "Dijon and Herb Baked Salmon",
+        "description": "A whole salmon fillet coated in a bright mustard, parsley, lemon and garlic crust and baked in 20 minutes.",
+        "steps": [
+          "Heat the oven to 190°C (375°F). Mix the mustard, parsley, lemon juice, oil, garlic, salt and pepper.",
+          "Put the salmon on a lined tray and coat the top generously with the mustard mixture.",
+          "Bake 18–20 minutes, then cut into portions."
+        ],
+        "whyFits": "Salmon, mustard, herbs and 1 tbsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 ½ pounds salmon (King, Sockeye or Coho salmon)",
+          "¼ cup fresh parsley (finely chopped)",
+          "¼ cup Dijon mustard",
+          "1 tablespoon lemon juice",
+          "1 tablespoon extra-virgin olive oil",
+          "3 garlic cloves (finely chopped)",
+          "salt and pepper (to taste)"
+        ]
+      },
+      "he": {
+        "title": "סלמון אפוי בחרדל דיז׳ון ועשבי תיבול",
+        "description": "פילה סלמון שלם מכוסה בציפוי רענן של חרדל, פטרוזיליה, לימון ושום, אפוי תוך 20 דקות.",
+        "ingredients": [
+          "680 גרם פילה סלמון",
+          "¼ כוס פטרוזיליה קצוצה דק",
+          "¼ כוס חרדל דיז׳ון",
+          "כף מיץ לימון",
+          "כף שמן זית",
+          "3 שיני שום, קצוצות דק",
+          "מלח ופלפל לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות. מערבבים חרדל, פטרוזיליה, מיץ לימון, שמן, שום, מלח ופלפל.",
+          "מניחים את הסלמון בתבנית מרופדת ומכסים את החלק העליון בנדיבות בתערובת החרדל.",
+          "אופים 18–20 דקות וחותכים למנות."
+        ],
+        "whyFits": "סלמון, חרדל, עשבי תיבול וכף שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "sheet-pan-salmon-cauliflower-carrots-baharat",
+      "url": "https://www.themediterraneandish.com/sheet-pan-salmon-and-vegetables/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/01/RoastedSalmonWCauli-17.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "totalMinutes": 40,
+      "servings": 4,
+      "nutrition": {
+        "calories": 408,
+        "protein": 37
+      },
+      "en": {
+        "title": "Sheet-Pan Baharat Salmon with Cauliflower and Carrots",
+        "description": "Salmon and roasted cauliflower and carrots seasoned with a warm baharat-paprika spice mix, finished with olives, lemon and cilantro.",
+        "steps": [
+          "Heat the oven to 230°C (450°F). Mix the paprika, baharat, 1¼ tsp salt and plenty of pepper.",
+          "Cut the cauliflower into bite-size florets and the carrots into sticks. Toss with the garlic, 2 tbsp oil and most of the spice mix and roast 15 minutes.",
+          "Brush the salmon with the remaining oil and sprinkle with the rest of the spice mix.",
+          "Toss the olives into the vegetables, push them aside, put the salmon in the middle, and roast about 10 minutes more.",
+          "Squeeze lemon over everything and sprinkle with cilantro."
+        ],
+        "whyFits": "Kosher fish and vegetables, 3 tbsp oil for 4 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tsp paprika",
+          "1 tsp baharat",
+          "Kosher salt",
+          "Black pepper",
+          "1 head cauliflower",
+          "3 carrots, peeled",
+          "3 garlic cloves, minced",
+          "3 tbsp extra virgin olive oil, divided",
+          "4 skinless salmon fillets (115–140 g each)",
+          "8 green olives, pitted and slivered",
+          "1 lemon, halved",
+          "⅓ cup chopped cilantro"
+        ]
+      },
+      "he": {
+        "title": "סלמון בהרט בתבנית עם כרובית וגזר",
+        "description": "סלמון וכרובית וגזר צלויים בתערובת חמה של בהרט ופפריקה, עם זיתים, לימון וכוסברה בסוף.",
+        "ingredients": [
+          "כפית פפריקה",
+          "כפית בהרט",
+          "מלח גס",
+          "פלפל שחור",
+          "ראש כרובית",
+          "3 גזרים, קלופים",
+          "3 שיני שום, כתושות",
+          "3 כפות שמן זית, מחולק",
+          "4 פילה סלמון בלי עור (115–140 גרם כל אחד)",
+          "8 זיתים ירוקים, מגולענים ופרוסים",
+          "לימון, חצוי",
+          "⅓ כוס כוסברה קצוצה"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות. מערבבים פפריקה, בהרט, 1¼ כפית מלח והרבה פלפל.",
+          "חותכים את הכרובית לפרחים קטנים ואת הגזר למקלות. מערבבים עם שום, 2 כפות שמן ורוב תערובת התבלינים וצולים 15 דקות.",
+          "מברישים את הסלמון בשאר השמן ומפזרים עליו את יתרת התבלינים.",
+          "מוסיפים את הזיתים לירקות, מזיזים אותם לצדדים, מניחים את הסלמון באמצע וצולים עוד כ-10 דקות.",
+          "סוחטים לימון על הכול ומפזרים כוסברה."
+        ],
+        "whyFits": "דג כשר וירקות, 3 כפות שמן ל-4 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "baked-trout-lemon-garlic-herbs",
+      "url": "https://www.themediterraneandish.com/easy-baked-trout-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/03/Baked-Trout-Edited-4.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 10,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 225,
+        "protein": 24
+      },
+      "en": {
+        "title": "Baked Trout with Lemon, Garlic and Fresh Herbs",
+        "description": "Trout fillets baked in a cumin, paprika, garlic, lemon and herb marinade. Ready in 20 minutes.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and pat the trout dry.",
+          "In a baking dish, whisk the oil, lemon zest, half the lemon juice, the spices, garlic, green onions, parsley, salt and pepper.",
+          "Turn the trout in the sauce and lay it skin-side down.",
+          "Bake 10–12 minutes until it flakes easily.",
+          "Finish with the remaining lemon juice and parsley."
+        ],
+        "whyFits": "Trout is a kosher fish. Herbs, lemon and 1 tbsp of oil per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "680 g rainbow trout fillet, skin on",
+          "¼ cup extra virgin olive oil",
+          "1 lemon, zested and juiced",
+          "1 tsp ground cumin",
+          "½ tsp sweet paprika",
+          "½ tsp Urfa or Aleppo pepper (optional)",
+          "2 garlic cloves, minced",
+          "2 green onions, finely chopped",
+          "¼ cup chopped parsley, plus more to garnish",
+          "Kosher salt",
+          "Black pepper"
+        ]
+      },
+      "he": {
+        "title": "טרוטה אפויה עם לימון, שום ועשבי תיבול",
+        "description": "פילה טרוטה אפוי במרינדת כמון, פפריקה, שום, לימון ועשבי תיבול. מוכן תוך 20 דקות.",
+        "ingredients": [
+          "680 גרם פילה טרוטה (פורל) עם עור",
+          "¼ כוס שמן זית",
+          "לימון (גרידה ומיץ)",
+          "כפית כמון טחון",
+          "½ כפית פפריקה מתוקה",
+          "½ כפית פלפל אורפה או אלפו (לא חובה)",
+          "2 שיני שום, כתושות",
+          "2 בצלים ירוקים, קצוצים דק",
+          "¼ כוס פטרוזיליה קצוצה, ועוד לקישוט",
+          "מלח גס",
+          "פלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומייבשים את הדג.",
+          "בתבנית אפייה טורפים שמן, גרידת לימון, חצי ממיץ הלימון, תבלינים, שום, בצל ירוק, פטרוזיליה, מלח ופלפל.",
+          "הופכים את הדג ברוטב ומניחים אותו כשהעור למטה.",
+          "אופים 10–12 דקות עד שהדג מתפרק בקלות.",
+          "מסיימים בשאר מיץ הלימון ובפטרוזיליה."
+        ],
+        "whyFits": "טרוטה היא דג כשר. עשבי תיבול, לימון וכף שמן למנה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "grilled-salmon-kale-salad-charred-lemon",
+      "url": "https://cookprimalgourmet.com/recipes/grilled-kale-and-salmon/",
+      "source": "Primal Gourmet",
+      "sourceLang": "en",
+      "image": "https://cookprimalgourmet.com/wp-content/uploads/2023/07/IMG_0310.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 12,
+      "totalMinutes": null,
+      "servings": 4,
+      "nutrition": {
+        "calories": 480,
+        "protein": 36
+      },
+      "en": {
+        "title": "Grilled Salmon and Kale Salad with Charred Lemon Dressing",
+        "description": "Spice-rubbed grilled salmon over warm grilled kale with hearts of palm, tomatoes, barberries and toasted pecans, dressed with grilled lemon.",
+        "steps": [
+          "Heat a grill to high. Toast the pecans in a dry pan, cool, and chop.",
+          "Mix the onion and garlic powders, paprika, thyme, ½ tsp salt and the pepper. Coat the salmon with 2 tbsp oil and the spice mix.",
+          "Toss the kale with the remaining 2 tbsp oil and ½ tsp salt.",
+          "Grill the lemon halves, kale and salmon (skin-side down first) 5–6 minutes, flip the salmon, and cook until it flakes.",
+          "Chop the kale and toss it with the hearts of palm, shallot, tomatoes, barberries and pecans. Shake the olive oil, grilled lemon juice, mustard and garlic, season, and dress the salad. Top with the salmon."
+        ],
+        "whyFits": "Kosher fish, greens, vegetables and nuts. The original's optional honey is left out. No dairy or grains.",
+        "ingredients": [
+          "½ cup raw unsalted pecans",
+          "1 tsp onion powder",
+          "1 tsp garlic powder",
+          "1 tsp smoked paprika",
+          "½ tsp dried thyme",
+          "1 tsp kosher salt, divided",
+          "¼ tsp black pepper",
+          "4 tbsp avocado oil, divided",
+          "680 g salmon fillet, cut into 4 pieces",
+          "1 large bunch kale",
+          "1 lemon, halved",
+          "1 can hearts of palm, diced",
+          "1 shallot, finely chopped",
+          "1 pint cherry tomatoes",
+          "¼ cup dried barberries (unsweetened)",
+          "¼ cup extra virgin olive oil",
+          "Juice of the grilled lemon",
+          "1 tsp whole-grain mustard",
+          "1 garlic clove, grated",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט סלמון וקייל על הגריל עם רוטב לימון צלוי",
+        "description": "סלמון צלוי בתיבול על קייל צלוי וחם, עם לבבות דקל, עגבניות, ברבריס ופקאנים קלויים, ברוטב לימון צלוי.",
+        "ingredients": [
+          "½ כוס פקאנים טבעיים לא מלוחים",
+          "כפית אבקת בצל",
+          "כפית אבקת שום",
+          "כפית פפריקה מעושנת",
+          "½ כפית טימין יבש",
+          "כפית מלח גס, מחולקת",
+          "¼ כפית פלפל שחור",
+          "4 כפות שמן אבוקדו, מחולק",
+          "680 גרם פילה סלמון, ב-4 חתיכות",
+          "צרור קייל גדול",
+          "לימון, חצוי",
+          "קופסת לבבות דקל, קצוצים",
+          "שאלוט, קצוץ דק",
+          "סלסילת עגבניות שרי",
+          "¼ כוס ברבריס מיובש (לא ממותק)",
+          "¼ כוס שמן זית",
+          "מיץ מהלימון הצלוי",
+          "כפית חרדל גרגרים",
+          "שן שום, מגוררת",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים גריל לחום גבוה. קולים פקאנים במחבת יבשה, מצננים וקוצצים.",
+          "מערבבים אבקות בצל ושום, פפריקה, טימין, ½ כפית מלח ופלפל. מצפים את הסלמון ב-2 כפות שמן ובתערובת התבלינים.",
+          "מערבבים את הקייל עם 2 כפות השמן הנותרות ו-½ כפית מלח.",
+          "צולים את חצאי הלימון, הקייל והסלמון (העור למטה קודם) 5–6 דקות, הופכים את הסלמון וצולים עד שהוא מתפרק.",
+          "קוצצים את הקייל ומערבבים עם לבבות דקל, שאלוט, עגבניות, ברבריס ופקאנים. מנערים בצנצנת שמן זית, מיץ הלימון הצלוי, חרדל ושום, מתבלים ומערבבים עם הסלט. מניחים את הסלמון מעל."
+        ],
+        "whyFits": "דג כשר, עלים, ירקות ואגוזים. הדבש שהמקור מציע כאופציה הושמט. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "simple-crispy-skin-grilled-salmon",
+      "url": "https://therealfooddietitians.com/grilled-salmon/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2020/04/Grilled-Salmon_LowRes-013-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 12,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 216,
+        "protein": 35
+      },
+      "en": {
+        "title": "Simple Grilled Salmon with Crispy Skin",
+        "description": "Salmon fillets seasoned with just salt and pepper and grilled skin-side down without flipping, so the skin turns crisp.",
+        "steps": [
+          "Heat the grill to high (200–230°C / 400–450°F) and clean the grates.",
+          "Season the flesh side generously with salt and pepper and brush the skin with the oil.",
+          "Grill skin-side down with the lid closed, without moving or flipping.",
+          "Start checking at about 10 minutes: 52–54°C (125–130°F) for medium. Lift off with a thin spatula."
+        ],
+        "whyFits": "Just salmon, salt, pepper and 1 tbsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 to 1½ lbs skin-on salmon fillets (4 to 6 fillets)",
+          "½ to 1 teaspoon coarse salt",
+          "½ teaspoon fresh ground black pepper",
+          "1 tablespoon avocado oil"
+        ]
+      },
+      "he": {
+        "title": "סלמון פשוט על הגריל עם עור פריך",
+        "description": "פילה סלמון מתובל רק במלח ופלפל, צלוי על צד העור בלי להפוך, כך שהעור נעשה פריך.",
+        "ingredients": [
+          "450–680 גרם פילה סלמון עם עור (4–6 חתיכות)",
+          "½–1 כפית מלח גס",
+          "½ כפית פלפל שחור גרוס",
+          "כף שמן אבוקדו"
+        ],
+        "steps": [
+          "מחממים גריל לחום גבוה (200–230 מעלות) ומנקים את הרשת.",
+          "מתבלים את צד הבשר בנדיבות במלח ופלפל ומברישים את העור בשמן.",
+          "צולים על צד העור עם מכסה סגור, בלי להזיז ובלי להפוך.",
+          "מתחילים לבדוק אחרי כ-10 דקות: 52–54 מעלות לעשייה בינונית. מרימים במרית דקה."
+        ],
+        "whyFits": "רק סלמון, מלח, פלפל וכף שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "air-fryer-whole-chicken",
+      "url": "https://nomnompaleo.com/air-fryer-whole-chicken",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2022/05/1200-AFChicken-DSC_6259.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 45,
+      "totalMinutes": 75,
+      "servings": 4,
+      "nutrition": {
+        "calories": 429,
+        "protein": 35
+      },
+      "en": {
+        "title": "Air Fryer Whole Chicken",
+        "description": "A whole chicken seasoned inside and out and air-fried until the skin is golden and the meat is juicy.",
+        "steps": [
+          "Pat the chicken dry, remove anything in the cavity and trim excess skin and fat.",
+          "Rub the seasoning all over, inside the cavity and under the breast skin. Tuck the wings back. If you have time, chill uncovered 1 hour to 2 days.",
+          "Heat the air fryer to 190°C (375°F) and spray the basket with oil.",
+          "Cook breast-side down 30 minutes, flip, and cook 10–15 minutes more until the thigh reaches 79°C (175°F).",
+          "Rest 20 minutes before carving."
+        ],
+        "whyFits": "Just chicken, salt and spices with a light spray of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 whole chicken (1.6–1.8 kg)",
+          "1 tbsp seasoning: kosher salt mixed with paprika, garlic powder and pepper",
+          "Avocado oil spray"
+        ]
+      },
+      "he": {
+        "title": "עוף שלם בסיר טיגון באוויר",
+        "description": "עוף שלם מתובל מבפנים ומבחוץ, עשוי בסיר טיגון באוויר עד שהעור זהוב והבשר עסיסי.",
+        "ingredients": [
+          "עוף שלם (1.6–1.8 ק״ג)",
+          "כף תיבול: מלח גס עם פפריקה, אבקת שום ופלפל",
+          "תרסיס שמן אבוקדו"
+        ],
+        "steps": [
+          "מייבשים את העוף, מוציאים את מה שבחלל ומסירים עור ושומן עודפים.",
+          "משפשפים את התיבול מכל הצדדים, בתוך החלל ומתחת לעור החזה. מקפלים את הכנפיים לאחור. אם יש זמן, מקררים בלי כיסוי משעה ועד יומיים.",
+          "מחממים את הסיר ל-190 מעלות ומרססים את הסל בשמן.",
+          "מבשלים עם החזה למטה 30 דקות, הופכים ומבשלים עוד 10–15 דקות עד שהירך מגיעה ל-79 מעלות.",
+          "נותנים לנוח 20 דקות לפני הפירוק."
+        ],
+        "whyFits": "רק עוף, מלח ותבלינים עם ריסוס קל של שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "slow-cooker-pineapple-ginger-chicken",
+      "url": "https://therealfooddietitians.com/slow-cooker-hawaiian-shredded-chicken/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2017/03/SLOW-COOKER-HAWAIIAN-CHICKEN-12-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 240,
+      "totalMinutes": 250,
+      "servings": 6,
+      "nutrition": {
+        "calories": 170,
+        "protein": 22
+      },
+      "en": {
+        "title": "Slow Cooker Shredded Pineapple-Ginger Chicken",
+        "description": "Chicken slow-cooked in pineapple, lime, ginger and coconut aminos, then shredded. Serve in lettuce or chard wraps.",
+        "steps": [
+          "Put the chicken, onion and garlic in the slow cooker.",
+          "Mix the pineapple, coconut aminos, lime juice, ginger, pepper flakes, salt and pepper and pour it over the chicken.",
+          "Cook on low 4–6 hours or high 3 hours until cooked through.",
+          "Shred the chicken, stir it into the juices, and serve in chard or lettuce leaves with avocado."
+        ],
+        "whyFits": "Sweetened only by pineapple canned in its own juice (no syrup). Coconut aminos replace soy sauce. No dairy or grains.",
+        "ingredients": [
+          "450 g boneless skinless chicken breast",
+          "225 g boneless skinless chicken thighs",
+          "½ small yellow onion, diced",
+          "3 garlic cloves, minced",
+          "1 can (225 g) crushed pineapple in its own juice, slightly drained",
+          "⅓ cup coconut aminos",
+          "Juice of 1 lime",
+          "½ tsp ground ginger",
+          "¼ tsp red pepper flakes",
+          "½ tsp fine sea salt",
+          "¼ tsp black pepper",
+          "Chard or lettuce leaves and avocado, to serve"
+        ]
+      },
+      "he": {
+        "title": "עוף מפורק באננס וג׳ינג׳ר בסיר בישול איטי",
+        "description": "עוף שמתבשל לאט באננס, ליים, ג׳ינג׳ר וקוקוס אמינוס ואז מפורק. מגישים בעלי חסה או מנגולד.",
+        "ingredients": [
+          "450 גרם חזה עוף",
+          "225 גרם פרגיות",
+          "½ בצל צהוב קטן, קצוץ",
+          "3 שיני שום, כתושות",
+          "קופסת אננס מרוסק במיץ טבעי (225 גרם), מסוננת קלות",
+          "⅓ כוס קוקוס אמינוס",
+          "מיץ מליים אחד",
+          "½ כפית ג׳ינג׳ר טחון",
+          "¼ כפית צ׳ילי גרוס",
+          "½ כפית מלח ים דק",
+          "¼ כפית פלפל שחור",
+          "עלי מנגולד או חסה ואבוקדו להגשה"
+        ],
+        "steps": [
+          "מניחים בסיר הבישול האיטי עוף, בצל ושום.",
+          "מערבבים אננס, קוקוס אמינוס, מיץ ליים, ג׳ינג׳ר, צ׳ילי, מלח ופלפל ויוצקים על העוף.",
+          "מבשלים על חום נמוך 4–6 שעות או על גבוה 3 שעות עד שהעוף מוכן.",
+          "מפרקים את העוף, מערבבים עם הנוזלים ומגישים בעלי מנגולד או חסה עם אבוקדו."
+        ],
+        "whyFits": "ממותק רק באננס שמשומר במיץ טבעי (לא בסירופ). קוקוס אמינוס במקום רוטב סויה. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "blackened-chicken-breast",
+      "url": "https://therealfooddietitians.com/blackened-chicken/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2025/06/BBQ-Ranch-Chopped-Salad_LowRes-005-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 2,
+      "nutrition": {
+        "calories": 165,
+        "protein": 34
+      },
+      "en": {
+        "title": "Blackened Chicken Breast",
+        "description": "Thin chicken cutlets rubbed with a smoky, spicy paprika blend and seared on a hot grill pan.",
+        "steps": [
+          "Heat a grill or grill pan over medium-high heat.",
+          "Mix all the spices.",
+          "Butterfly or pound the chicken to about 1 cm thick.",
+          "Rub the chicken with the oil, then with the spice mix.",
+          "Grill on an oiled pan 4–7 minutes per side until blackened and cooked to 74°C (165°F)."
+        ],
+        "whyFits": "Chicken, spices and 2 tsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tsp smoked or sweet paprika",
+          "½ tsp fine salt",
+          "¼ tsp ground cumin",
+          "¼ tsp dried thyme",
+          "¼ tsp dried oregano",
+          "¼ tsp onion powder",
+          "¼ tsp garlic powder",
+          "⅛–¼ tsp cayenne pepper",
+          "⅛ tsp black pepper",
+          "2 boneless skinless chicken breasts (450–560 g)",
+          "2 tsp avocado oil"
+        ]
+      },
+      "he": {
+        "title": "חזה עוף ״מושחר״ בתבלינים",
+        "description": "שניצלוני חזה עוף דקים משופשפים בתערובת פפריקה מעושנת וחריפה, צרובים במחבת פסים לוהטת.",
+        "ingredients": [
+          "כפית פפריקה מעושנת או מתוקה",
+          "½ כפית מלח דק",
+          "¼ כפית כמון טחון",
+          "¼ כפית טימין יבש",
+          "¼ כפית אורגנו יבש",
+          "¼ כפית אבקת בצל",
+          "¼ כפית אבקת שום",
+          "⅛–¼ כפית פלפל קאיין",
+          "⅛ כפית פלפל שחור",
+          "2 חזות עוף (450–560 גרם)",
+          "2 כפיות שמן אבוקדו"
+        ],
+        "steps": [
+          "מחממים גריל או מחבת פסים על אש בינונית-גבוהה.",
+          "מערבבים את כל התבלינים.",
+          "פורסים או מרדדים את העוף לעובי של כ-1 ס״מ.",
+          "מורחים את העוף בשמן ואז בתערובת התבלינים.",
+          "צולים במחבת משומנת 4–7 דקות מכל צד, עד שהוא משחים ומגיע ל-74 מעלות."
+        ],
+        "whyFits": "עוף, תבלינים ו-2 כפיות שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "italian-sheet-pan-chicken-broccolini",
+      "url": "https://www.themediterraneandish.com/sheet-pan-chicken-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/03/Sheet-pan-chicken-and-vegetables-recipe-4.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 5,
+      "nutrition": {
+        "calories": 220,
+        "protein": 33
+      },
+      "en": {
+        "title": "Italian-Style Sheet-Pan Chicken and Vegetables",
+        "description": "Bite-size chicken and colorful vegetables tossed with garlic, lemon, oregano and paprika and roasted together in 20 minutes.",
+        "steps": [
+          "Heat the oven to 200°C (400°F).",
+          "In a large bowl, toss the vegetables, chicken and garlic with salt, pepper, the spices, lemon zest and juice, vinegar and a drizzle of olive oil.",
+          "Spread in one layer on a large sheet pan.",
+          "Roast about 20 minutes until the chicken is cooked. Broil briefly for color and garnish with parsley."
+        ],
+        "whyFits": "Lean chicken and lots of vegetables with a little olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 medium zucchini, sliced into half moons",
+          "1 large red bell pepper, cut into chunks",
+          "1 red onion, cut into chunks",
+          "250 g broccolini, cut into pieces",
+          "680 g boneless chicken breast, cut into bite-size pieces",
+          "5 garlic cloves, minced",
+          "Kosher salt and black pepper",
+          "2 tsp dried oregano",
+          "1 tsp paprika",
+          "1 tsp ground coriander",
+          "1 lemon, zested and juiced",
+          "1 tsp white vinegar",
+          "Extra virgin olive oil",
+          "Fresh parsley (optional)"
+        ]
+      },
+      "he": {
+        "title": "עוף וירקות בתבנית בסגנון איטלקי",
+        "description": "קוביות עוף וירקות צבעוניים עם שום, לימון, אורגנו ופפריקה, צלויים יחד תוך 20 דקות.",
+        "ingredients": [
+          "2 זוקיני בינוניים, בחצאי ירחים",
+          "פלפל אדום גדול, בחתיכות",
+          "בצל סגול, בחתיכות",
+          "250 גרם ברוקוליני, בחתיכות",
+          "680 גרם חזה עוף, בקוביות",
+          "5 שיני שום, כתושות",
+          "מלח גס ופלפל שחור",
+          "2 כפיות אורגנו יבש",
+          "כפית פפריקה",
+          "כפית כוסברה טחונה",
+          "לימון (גרידה ומיץ)",
+          "כפית חומץ לבן",
+          "שמן זית",
+          "פטרוזיליה טרייה (לא חובה)"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות.",
+          "בקערה גדולה מערבבים ירקות, עוף ושום עם מלח, פלפל, תבלינים, גרידה ומיץ לימון, חומץ וזילוף שמן זית.",
+          "מפזרים בשכבה אחת בתבנית גדולה.",
+          "צולים כ-20 דקות עד שהעוף מוכן. אפשר להעביר לגריל לרגע לצבע ולקשט בפטרוזיליה."
+        ],
+        "whyFits": "עוף רזה והרבה ירקות עם מעט שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "oven-chicken-shawarma",
+      "url": "https://www.themediterraneandish.com/chicken-shawarma-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2026/05/TMD-Chicken-Shawarma-Leads-01-alt.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 220,
+      "servings": 6,
+      "nutrition": {
+        "calories": 466,
+        "protein": 35
+      },
+      "en": {
+        "title": "Oven Chicken Shawarma",
+        "description": "Thinly sliced chicken thighs marinated in shawarma spices, lemon and onion, then roasted until crisp at the edges.",
+        "steps": [
+          "Mix the cumin, turmeric, coriander, garlic powder, paprika, cloves and cayenne.",
+          "Salt the chicken and slice it thin. Toss with the spices, onion, lemon juice and olive oil. Refrigerate 3 hours or overnight.",
+          "Heat the oven to 220°C (425°F). Spread the chicken and onions on an oiled sheet pan in one layer.",
+          "Roast 30 minutes, then broil briefly for crispy edges.",
+          "Serve on a plate with tahini, arugula, a chopped salad and olives."
+        ],
+        "whyFits": "Chicken, spices and olive oil. Serve it with tahini and salad instead of the pita and tzatziki the original suggests. No dairy, grains or sugar.",
+        "ingredients": [
+          "¾ tbsp ground cumin",
+          "¾ tbsp turmeric",
+          "¾ tbsp ground coriander",
+          "¾ tbsp garlic powder",
+          "¾ tbsp paprika",
+          "½ tsp ground cloves",
+          "½ tsp cayenne pepper",
+          "Salt",
+          "8 boneless skinless chicken thighs",
+          "1 large onion, thinly sliced",
+          "Juice of 1 large lemon",
+          "⅓ cup extra virgin olive oil",
+          "To serve: tahini sauce, arugula, chopped vegetable salad, olives or pickles"
+        ]
+      },
+      "he": {
+        "title": "שווארמה עוף בתנור",
+        "description": "פרגיות פרוסות דק במרינדת תבליני שווארמה, לימון ובצל, צלויות בתנור עד שהשוליים פריכים.",
+        "ingredients": [
+          "¾ כף כמון טחון",
+          "¾ כף כורכום",
+          "¾ כף כוסברה טחונה",
+          "¾ כף אבקת שום",
+          "¾ כף פפריקה",
+          "½ כפית ציפורן טחון",
+          "½ כפית פלפל קאיין",
+          "מלח",
+          "8 פרגיות",
+          "בצל גדול, פרוס דק",
+          "מיץ מלימון גדול",
+          "⅓ כוס שמן זית",
+          "להגשה: טחינה, רוקט, סלט ירקות קצוץ, זיתים או חמוצים"
+        ],
+        "steps": [
+          "מערבבים כמון, כורכום, כוסברה, אבקת שום, פפריקה, ציפורן וקאיין.",
+          "ממליחים את העוף ופורסים דק. מערבבים עם התבלינים, הבצל, מיץ הלימון ושמן הזית. מקררים 3 שעות או לילה.",
+          "מחממים תנור ל-220 מעלות. מפזרים את העוף והבצל בשכבה אחת בתבנית משומנת.",
+          "צולים 30 דקות, ומעבירים לגריל לרגע לשוליים פריכים.",
+          "מגישים בצלחת עם טחינה, רוקט, סלט קצוץ וזיתים."
+        ],
+        "whyFits": "עוף, תבלינים ושמן זית. מגישים עם טחינה וסלט במקום הפיתה והצזיקי שהמקור מציע. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "moroccan-chicken-olives-apricots",
+      "url": "https://www.themediterraneandish.com/moroccan-chicken-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/02/Moroccan-Chicken-Recipe-9-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "totalMinutes": 65,
+      "servings": 4,
+      "nutrition": {
+        "calories": 374,
+        "protein": 31
+      },
+      "en": {
+        "title": "Moroccan Chicken with Olives and Apricots",
+        "description": "Spice-rubbed chicken braised with onion, garlic, lemon, green olives, raisins and apricots in a tomato broth. Sweet, salty and fragrant.",
+        "steps": [
+          "Mix the ras el hanout and spices. Salt the chicken and rub it all over with the spice mix (under the skin too). Rest 40 minutes.",
+          "Heat 2 tbsp oil in a deep pan over medium-high heat and brown the chicken about 5 minutes, then 3 minutes on the other side.",
+          "Lower the heat, add the onion, garlic and cilantro, cover 3 minutes, then add the lemon, olives, raisins and apricots.",
+          "Mix the tomato paste with the broth and pour it over. Simmer 5 minutes, then cover and cook 30–45 minutes until tender.",
+          "Garnish with cilantro and almonds. Serve with cauliflower rice instead of couscous."
+        ],
+        "whyFits": "Sweetened only with whole dried fruit (choose apricots without sulfur or sugar). No dairy or grains.",
+        "ingredients": [
+          "1½ tbsp ras el hanout",
+          "1½ tsp ground cinnamon",
+          "1 tsp sweet paprika",
+          "1 tsp ground ginger",
+          "½–1 tsp black pepper",
+          "1.6 kg bone-in chicken pieces",
+          "Kosher salt",
+          "Extra virgin olive oil",
+          "1 medium yellow onion, chopped",
+          "4 garlic cloves, minced",
+          "30 g fresh cilantro, chopped",
+          "1 lemon, thinly sliced",
+          "¾ cup pitted green olives",
+          "¼ cup raisins",
+          "¼ cup chopped unsulfured dried apricots",
+          "3 tbsp tomato paste",
+          "1½ cups low-sodium chicken broth",
+          "Toasted slivered almonds (optional)"
+        ]
+      },
+      "he": {
+        "title": "עוף מרוקאי עם זיתים ומשמשים",
+        "description": "עוף משופשף בתבלינים ומבושל עם בצל, שום, לימון, זיתים ירוקים, צימוקים ומשמשים בציר עגבניות. מתוק, מלוח וריחני.",
+        "ingredients": [
+          "1½ כפות ראס אל חנות",
+          "1½ כפית קינמון",
+          "כפית פפריקה מתוקה",
+          "כפית ג׳ינג׳ר טחון",
+          "½–1 כפית פלפל שחור",
+          "1.6 ק״ג חלקי עוף עם עצם",
+          "מלח גס",
+          "שמן זית",
+          "בצל צהוב בינוני, קצוץ",
+          "4 שיני שום, כתושות",
+          "30 גרם כוסברה קצוצה",
+          "לימון, פרוס דק",
+          "¾ כוס זיתים ירוקים מגולענים",
+          "¼ כוס צימוקים",
+          "¼ כוס משמשים מיובשים קצוצים (בלי גופרית)",
+          "3 כפות רסק עגבניות",
+          "1½ כוסות ציר עוף דל נתרן",
+          "שקדים פרוסים קלויים (לא חובה)"
+        ],
+        "steps": [
+          "מערבבים ראס אל חנות ותבלינים. ממליחים את העוף ומשפשפים בתערובת מכל הצדדים (גם מתחת לעור). משאירים 40 דקות.",
+          "מחממים 2 כפות שמן במחבת עמוקה על אש בינונית-גבוהה ומשחימים את העוף כ-5 דקות, ועוד 3 דקות מהצד השני.",
+          "מנמיכים את האש, מוסיפים בצל, שום וכוסברה, מכסים ל-3 דקות, ומוסיפים לימון, זיתים, צימוקים ומשמשים.",
+          "מערבבים את הרסק עם הציר ויוצקים מעל. מבשלים 5 דקות, מכסים ומבשלים 30–45 דקות עד שהעוף רך.",
+          "מקשטים בכוסברה ושקדים. מגישים עם אורז כרובית במקום קוסקוס."
+        ],
+        "whyFits": "ממותק רק בפירות יבשים שלמים (בוחרים משמשים בלי גופרית ובלי סוכר). בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "skillet-caramelized-onion-chicken",
+      "url": "https://www.themediterraneandish.com/skillet-onion-chicken/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/01/onion-chicken-recipe-14.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 40,
+      "totalMinutes": 45,
+      "servings": 8,
+      "nutrition": {
+        "calories": 189,
+        "protein": 22
+      },
+      "en": {
+        "title": "Skillet Chicken with Caramelized Onions",
+        "description": "Chicken thighs seared and braised on a deep-golden bed of slowly caramelized onions. Only five ingredients.",
+        "steps": [
+          "Heat 2 tbsp oil in a large skillet over medium-high heat. Add the onions with salt and cook, stirring often, until deep golden.",
+          "Salt the chicken on both sides.",
+          "Push the onions aside and sear the chicken on both sides until golden.",
+          "Add the broth (more if needed for a sauce), cover, and cook on medium-low 25–30 minutes until the chicken reaches 74°C (165°F)."
+        ],
+        "whyFits": "Chicken and onions, with 2 tbsp oil for 8 servings. The onions' natural sweetness, with no sugar. No dairy or grains. Serve with vegetables instead of rice.",
+        "ingredients": [
+          "2 tablespoons Extra virgin olive oil",
+          "4 large onions (sliced ½” thick or so)",
+          "8 skinless chicken thighs (bone-in, skin removed)",
+          "1/4 cup chicken broth or water",
+          "Salt (to taste)"
+        ]
+      },
+      "he": {
+        "title": "עוף במחבת על מצע בצל מקורמל",
+        "description": "ירכי עוף צרובות ומבושלות על מצע של בצל מקורמל לאט עד שהוא זהוב-כהה. חמישה מרכיבים בלבד.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "4 בצלים גדולים, בפרוסות של כ-1 ס״מ",
+          "8 ירכי עוף עם עצם, בלי עור",
+          "¼ כוס ציר עוף או מים",
+          "מלח לפי הטעם"
+        ],
+        "steps": [
+          "מחממים 2 כפות שמן במחבת גדולה על אש בינונית-גבוהה. מוסיפים את הבצל עם מלח ומבשלים תוך ערבוב עד שהוא זהוב-כהה.",
+          "ממליחים את העוף משני הצדדים.",
+          "מזיזים את הבצל לצדדים וצורבים את העוף משני הצדדים עד להזהבה.",
+          "מוסיפים את הציר (ועוד אם צריך לרוטב), מכסים ומבשלים על אש בינונית-נמוכה 25–30 דקות עד שהעוף מגיע ל-74 מעלות."
+        ],
+        "whyFits": "עוף ובצל, 2 כפות שמן ל-8 מנות. המתיקות הטבעית של הבצל, בלי סוכר. בלי חלב ובלי דגנים. מגישים עם ירקות במקום אורז."
+      }
+    },
+    {
+      "id": "mamas-chicken-soup-dill",
+      "url": "https://cookprimalgourmet.com/recipes/mamas-chicken-soup/",
+      "source": "Primal Gourmet",
+      "sourceLang": "en",
+      "image": "https://cookprimalgourmet.com/wp-content/uploads/2018/10/MG_6757-2.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 75,
+      "totalMinutes": 80,
+      "servings": 6,
+      "nutrition": {
+        "calories": 250,
+        "protein": 25
+      },
+      "en": {
+        "title": "Mama's Clear Chicken Soup with Dill",
+        "description": "A classic, comforting golden chicken soup simmered with root vegetables, ginger, garlic and dill.",
+        "steps": [
+          "Put everything except the sliced carrots into a large pot and fill with water almost to the top.",
+          "Bring to a gentle simmer over medium heat and cook uncovered 75 minutes, skimming off the foam.",
+          "Lift out the vegetables. Move the chicken to a tray and shred the meat, discarding the bones and skin.",
+          "Add the sliced carrots to the broth and cook 10–12 minutes until tender.",
+          "Return the chicken, season with salt, and serve with fresh dill and black pepper."
+        ],
+        "whyFits": "Chicken, vegetables and water, with no added fat and no soup powder. No dairy, grains or sugar. Perfect for Shabbat. Nutrition values are estimates.",
+        "ingredients": [
+          "4 chicken legs (kosher)",
+          "2 celery stalks, halved",
+          "2 yellow onions, unpeeled",
+          "4 large carrots (2 halved, 2 peeled and sliced into rounds)",
+          "1 parsnip, halved",
+          "1 chayote squash (or zucchini), halved",
+          "1 thumb-size piece ginger",
+          "1 head garlic, top trimmed",
+          "3 bay leaves",
+          "1 small bunch fresh dill, plus more to garnish",
+          "1 tbsp kosher salt",
+          "1 tsp whole black peppercorns"
+        ]
+      },
+      "he": {
+        "title": "מרק עוף של אמא עם שמיר",
+        "description": "מרק עוף צלול וזהוב, קלאסי ומנחם, שמתבשל עם ירקות שורש, ג׳ינג׳ר, שום ושמיר.",
+        "ingredients": [
+          "4 כרעי עוף (כשרים)",
+          "2 גבעולי סלרי, חצויים",
+          "2 בצלים צהובים עם הקליפה",
+          "4 גזרים גדולים (2 חצויים, 2 קלופים ופרוסים לעיגולים)",
+          "פטרוזיליה שורש (פסטינקה), חצויה",
+          "שייוט (או זוקיני), חצוי",
+          "חתיכת ג׳ינג׳ר בגודל אגודל",
+          "ראש שום, החלק העליון חתוך",
+          "3 עלי דפנה",
+          "צרור שמיר קטן, ועוד לקישוט",
+          "כף מלח גס",
+          "כפית פלפל שחור גרגרים"
+        ],
+        "steps": [
+          "מכניסים הכול חוץ מהגזר הפרוס לסיר גדול וממלאים מים כמעט עד למעלה.",
+          "מביאים לבעבוע עדין על אש בינונית ומבשלים בלי מכסה 75 דקות, ומסירים את הקצף.",
+          "מוציאים את הירקות. מעבירים את העוף למגש ומפרקים את הבשר, בלי העצמות והעור.",
+          "מוסיפים את הגזר הפרוס לציר ומבשלים 10–12 דקות עד שהוא רך.",
+          "מחזירים את העוף, ממליחים ומגישים עם שמיר טרי ופלפל שחור."
+        ],
+        "whyFits": "עוף, ירקות ומים, בלי תוספת שומן ובלי אבקת מרק. בלי חלב, דגנים או סוכר. מושלם לשבת. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "grilled-lemon-garlic-chicken-breast",
+      "url": "https://www.themediterraneandish.com/grilled-chicken-breast/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/06/Grilled-Chicken-0136.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 5,
+      "totalMinutes": 40,
+      "servings": 4,
+      "nutrition": {
+        "calories": 380,
+        "protein": 37
+      },
+      "en": {
+        "title": "Grilled Lemon-Garlic Chicken Breast",
+        "description": "Evenly pounded chicken breasts marinated in lemon, garlic and herbs, grilled quickly so they stay juicy.",
+        "steps": [
+          "Pound the chicken to an even 1 cm thickness.",
+          "Whisk the herbs, paprika, pepper flakes, garlic, lemon zest and juice with the olive oil.",
+          "Salt the chicken, toss it in the marinade, and leave 30 minutes.",
+          "Grill on an oiled pan over medium heat 2–3 minutes per side, to 68–71°C (155–160°F).",
+          "Cover loosely with foil and rest 5 minutes. Sprinkle with parsley."
+        ],
+        "whyFits": "Lean chicken with lemon, garlic and herbs. Most of the marinade stays in the bowl. No dairy, grains or sugar.",
+        "ingredients": [
+          "680 g boneless skinless chicken breasts",
+          "2 tsp dried Italian herbs (oregano, basil, thyme)",
+          "½ tsp paprika",
+          "½ tsp red pepper flakes (optional)",
+          "5 large garlic cloves, minced",
+          "2 lemons, zested and juiced",
+          "⅓ cup extra virgin olive oil",
+          "Kosher salt",
+          "¼ cup chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "חזה עוף על הגריל בלימון ושום",
+        "description": "חזה עוף מרודד באופן אחיד, במרינדת לימון, שום ועשבי תיבול, צלוי מהר כדי שיישאר עסיסי.",
+        "ingredients": [
+          "680 גרם חזה עוף",
+          "2 כפיות עשבי תיבול איטלקיים יבשים",
+          "½ כפית פפריקה",
+          "½ כפית צ׳ילי גרוס (לא חובה)",
+          "5 שיני שום גדולות, כתושות",
+          "2 לימונים (גרידה ומיץ)",
+          "⅓ כוס שמן זית",
+          "מלח גס",
+          "¼ כוס פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מרדדים את העוף לעובי אחיד של כ-1 ס״מ.",
+          "טורפים עשבי תיבול, פפריקה, צ׳ילי, שום, גרידה ומיץ לימון עם שמן הזית.",
+          "ממליחים את העוף, מערבבים במרינדה ומשאירים 30 דקות.",
+          "צולים במחבת פסים משומנת על אש בינונית 2–3 דקות מכל צד, עד 68–71 מעלות.",
+          "מכסים ברפיון בנייר כסף ונותנים לנוח 5 דקות. מפזרים פטרוזיליה."
+        ],
+        "whyFits": "עוף רזה עם לימון, שום ועשבי תיבול. רוב המרינדה נשארת בקערה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
       "id": "mint-cacao-date-energy-balls",
       "url": "https://downshiftology.com/recipes/mint-chocolate-energy-balls/",
       "source": "Downshiftology",
