@@ -61,6 +61,9 @@ def main():
             fail(errors, f"{rid}: unknown category {r.get('category')}")
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("added", "")):
             fail(errors, f"{rid}: added must be YYYY-MM-DD")
+        pr, ck, wt, tot = (r.get(k) for k in ("prepMinutes", "cookMinutes", "waitMinutes", "totalMinutes"))
+        if tot is None or pr is None or (pr or 0) + (ck or 0) + (wt or 0) != tot:
+            fail(errors, f"{rid}: times don't add up (prep {pr} + cook {ck} + wait {wt} != total {tot})")
         for lang in ("he", "en"):
             x = r.get(lang) or {}
             for key in ("title", "ingredients", "steps", "whyFits"):

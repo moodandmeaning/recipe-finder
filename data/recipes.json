@@ -150,6 +150,7 @@
       "shabbat": true,
       "prepMinutes": 30,
       "cookMinutes": 45,
+      "waitMinutes": 15,
       "totalMinutes": 90,
       "servings": 16,
       "nutrition": {
@@ -388,6 +389,7 @@
       "shabbat": true,
       "prepMinutes": 20,
       "cookMinutes": 45,
+      "waitMinutes": 10,
       "totalMinutes": 75,
       "servings": 8,
       "nutrition": {
@@ -1277,7 +1279,8 @@
       "category": "soup",
       "shabbat": false,
       "prepMinutes": 30,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 120,
       "totalMinutes": 150,
       "servings": 4,
       "nutrition": {
@@ -1898,6 +1901,7 @@
       "shabbat": false,
       "prepMinutes": 5,
       "cookMinutes": 0,
+      "waitMinutes": 30,
       "totalMinutes": 35,
       "servings": 8,
       "nutrition": {
@@ -3022,6 +3026,7 @@
       "shabbat": false,
       "prepMinutes": 20,
       "cookMinutes": 0,
+      "waitMinutes": 120,
       "totalMinutes": 140,
       "servings": 4,
       "nutrition": {
@@ -3208,6 +3213,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 90,
       "totalMinutes": 105,
       "servings": 6,
       "nutrition": {
@@ -3338,6 +3344,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 75,
       "servings": 6,
       "nutrition": {
@@ -3404,6 +3411,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 0,
+      "waitMinutes": 15,
       "totalMinutes": 25,
       "servings": 6,
       "nutrition": {
@@ -3533,7 +3541,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 12,
       "nutrition": {
@@ -3595,7 +3603,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 12,
       "nutrition": {
@@ -3655,7 +3663,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 4,
       "nutrition": {
@@ -3715,7 +3723,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -3832,6 +3840,7 @@
       "shabbat": true,
       "prepMinutes": 5,
       "cookMinutes": 0,
+      "waitMinutes": 240,
       "totalMinutes": 245,
       "servings": 4,
       "nutrition": {
@@ -3898,6 +3907,7 @@
       "shabbat": false,
       "prepMinutes": 25,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 85,
       "servings": 9,
       "nutrition": {
@@ -3963,7 +3973,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 4,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 4,
       "servings": 8,
       "nutrition": {
@@ -4088,6 +4098,7 @@
       "shabbat": true,
       "prepMinutes": 5,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 65,
       "servings": 6,
       "nutrition": {
@@ -4139,7 +4150,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -4199,7 +4210,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 8,
       "nutrition": {
@@ -4265,7 +4276,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -4325,7 +4336,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 9,
       "nutrition": {
@@ -4383,7 +4394,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -4441,7 +4452,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 7,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 7,
       "servings": 5,
       "nutrition": {
@@ -4510,6 +4521,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 75,
       "servings": 6,
       "nutrition": {
@@ -4575,7 +4587,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 8,
       "nutrition": {
@@ -4637,7 +4649,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 25,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 25,
       "servings": 4,
       "nutrition": {
@@ -4716,6 +4728,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 60,
+      "waitMinutes": 10,
       "totalMinutes": 80,
       "servings": 4,
       "nutrition": {
@@ -4781,8 +4794,9 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 5,
-      "cookMinutes": null,
-      "totalMinutes": 1440,
+      "cookMinutes": 0,
+      "waitMinutes": 1440,
+      "totalMinutes": 1445,
       "servings": 4,
       "nutrition": {
         "calories": 140,
@@ -4835,7 +4849,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -5760,6 +5774,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 30,
       "totalMinutes": 45,
       "servings": 4,
       "nutrition": {
@@ -6062,6 +6077,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 0,
+      "waitMinutes": 30,
       "totalMinutes": 40,
       "servings": 4,
       "nutrition": {
@@ -6292,6 +6308,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 70,
       "servings": 4,
       "nutrition": {
@@ -6350,6 +6367,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 30,
       "totalMinutes": 45,
       "servings": 4,
       "nutrition": {
@@ -6410,6 +6428,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 20,
+      "waitMinutes": 10,
       "totalMinutes": 40,
       "servings": 2,
       "nutrition": {
@@ -6530,8 +6549,9 @@
       "added": "2026-11-01",
       "category": "salad",
       "shabbat": true,
-      "prepMinutes": 35,
+      "prepMinutes": 10,
       "cookMinutes": 45,
+      "waitMinutes": 25,
       "totalMinutes": 80,
       "servings": 4,
       "nutrition": {
@@ -6976,6 +6996,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 75,
       "servings": 4,
       "nutrition": {
@@ -7104,6 +7125,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 5,
+      "waitMinutes": 60,
       "totalMinutes": 75,
       "servings": 3,
       "nutrition": {
@@ -7163,8 +7185,8 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
-      "totalMinutes": null,
+      "cookMinutes": 0,
+      "totalMinutes": 15,
       "servings": 5,
       "nutrition": {
         "calories": 330,
@@ -7225,7 +7247,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -7287,7 +7309,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -7349,7 +7371,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -7473,7 +7495,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 6,
       "nutrition": {
@@ -7551,7 +7573,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -7611,7 +7633,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 6,
       "nutrition": {
@@ -7829,7 +7851,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 4,
       "nutrition": {
@@ -7887,7 +7909,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -8027,7 +8049,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 25,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 25,
       "servings": 6,
       "nutrition": {
@@ -8091,7 +8113,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 6,
       "nutrition": {
@@ -8156,7 +8178,7 @@
       "shabbat": true,
       "prepMinutes": 20,
       "cookMinutes": 60,
-      "totalMinutes": 85,
+      "totalMinutes": 80,
       "servings": 6,
       "nutrition": {
         "calories": 480,
@@ -8465,7 +8487,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -9173,7 +9195,8 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 120,
       "totalMinutes": 130,
       "servings": 2,
       "nutrition": {
@@ -9231,7 +9254,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -9279,7 +9302,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 1,
       "nutrition": {
@@ -9331,7 +9354,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 1,
       "nutrition": {
@@ -9383,7 +9406,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 1,
       "nutrition": {
@@ -9506,6 +9529,7 @@
       "shabbat": false,
       "prepMinutes": 20,
       "cookMinutes": 10,
+      "waitMinutes": 60,
       "totalMinutes": 90,
       "servings": 4,
       "nutrition": {
@@ -9569,7 +9593,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -9625,7 +9649,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -9689,7 +9713,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -9753,8 +9777,9 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
-      "totalMinutes": 50,
+      "cookMinutes": 8,
+      "waitMinutes": 30,
+      "totalMinutes": 58,
       "servings": 8,
       "nutrition": {
         "calories": 200,
@@ -10525,7 +10550,7 @@
       "category": "legumes",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": 10,
+      "cookMinutes": 30,
       "totalMinutes": 40,
       "servings": 6,
       "nutrition": {
@@ -10595,7 +10620,7 @@
       "category": "legumes",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -10657,7 +10682,7 @@
       "category": "legumes",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -11026,7 +11051,7 @@
       "shabbat": true,
       "prepMinutes": 5,
       "cookMinutes": 30,
-      "totalMinutes": null,
+      "totalMinutes": 35,
       "servings": 6,
       "nutrition": {
         "calories": 413,
@@ -11280,7 +11305,7 @@
       "shabbat": false,
       "prepMinutes": 15,
       "cookMinutes": 12,
-      "totalMinutes": null,
+      "totalMinutes": 27,
       "servings": 4,
       "nutrition": {
         "calories": 480,
@@ -11366,7 +11391,7 @@
       "shabbat": false,
       "prepMinutes": 5,
       "cookMinutes": 12,
-      "totalMinutes": 20,
+      "totalMinutes": 17,
       "servings": 4,
       "nutrition": {
         "calories": 216,
@@ -11418,6 +11443,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 45,
+      "waitMinutes": 20,
       "totalMinutes": 75,
       "servings": 4,
       "nutrition": {
@@ -11678,6 +11704,7 @@
       "shabbat": false,
       "prepMinutes": 10,
       "cookMinutes": 30,
+      "waitMinutes": 180,
       "totalMinutes": 220,
       "servings": 6,
       "nutrition": {
@@ -11955,8 +11982,9 @@
       "category": "chicken",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": 5,
-      "totalMinutes": 40,
+      "cookMinutes": 6,
+      "waitMinutes": 35,
+      "totalMinutes": 46,
       "servings": 4,
       "nutrition": {
         "calories": 380,
@@ -12019,7 +12047,7 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 14,
       "nutrition": {
@@ -12071,7 +12099,8 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 70,
       "servings": 20,
       "nutrition": {
@@ -12125,7 +12154,8 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 120,
       "totalMinutes": 130,
       "servings": 6,
       "nutrition": {
@@ -12175,7 +12205,7 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 18,
       "nutrition": {
@@ -12227,7 +12257,8 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 360,
       "totalMinutes": 370,
       "servings": 9,
       "nutrition": {
@@ -12281,7 +12312,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 1,
       "nutrition": {
@@ -12381,7 +12412,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 2,
       "nutrition": {
@@ -12489,7 +12520,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -12562,7 +12593,7 @@
       "shabbat": true,
       "prepMinutes": 10,
       "cookMinutes": 20,
-      "totalMinutes": 35,
+      "totalMinutes": 30,
       "servings": 6,
       "nutrition": {
         "calories": 190,
@@ -12965,7 +12996,7 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 20,
       "nutrition": {
@@ -13015,7 +13046,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 4,
       "nutrition": {
@@ -13069,7 +13100,7 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 6,
       "nutrition": {
@@ -13127,7 +13158,7 @@
       "category": "dessert",
       "shabbat": false,
       "prepMinutes": 5,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 5,
       "servings": 3,
       "nutrition": {
@@ -13179,7 +13210,7 @@
       "category": "dessert",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 6,
       "nutrition": {
@@ -13481,7 +13512,7 @@
       "category": "eggs",
       "shabbat": true,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 8,
       "nutrition": {
@@ -13821,8 +13852,8 @@
       "category": "legumes",
       "shabbat": true,
       "prepMinutes": 5,
-      "cookMinutes": 25,
-      "totalMinutes": 30,
+      "cookMinutes": 30,
+      "totalMinutes": 35,
       "servings": 3,
       "nutrition": {
         "calories": 392,
@@ -14317,7 +14348,7 @@
       "category": "legumes",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": 5,
+      "cookMinutes": 20,
       "totalMinutes": 30,
       "servings": 4,
       "nutrition": {
@@ -14739,7 +14770,8 @@
       "category": "vegetables",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 60,
       "totalMinutes": 70,
       "servings": 4,
       "nutrition": {
@@ -14987,7 +15019,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 4,
       "nutrition": {
@@ -15103,7 +15135,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 4,
       "nutrition": {
@@ -15165,7 +15197,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 6,
       "nutrition": {
@@ -15235,7 +15267,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 4,
       "nutrition": {
@@ -15293,7 +15325,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -15439,7 +15471,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 20,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 20,
       "servings": 4,
       "nutrition": {
@@ -15513,7 +15545,7 @@
       "category": "salad",
       "shabbat": false,
       "prepMinutes": 15,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 15,
       "servings": 4,
       "nutrition": {
@@ -15581,7 +15613,8 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 25,
-      "cookMinutes": null,
+      "cookMinutes": 0,
+      "waitMinutes": 30,
       "totalMinutes": 55,
       "servings": 6,
       "nutrition": {
@@ -15651,7 +15684,7 @@
       "category": "salad",
       "shabbat": true,
       "prepMinutes": 10,
-      "cookMinutes": null,
+      "cookMinutes": 0,
       "totalMinutes": 10,
       "servings": 6,
       "nutrition": {
@@ -16284,6 +16317,7 @@
       "shabbat": false,
       "prepMinutes": 10,
       "cookMinutes": 6,
+      "waitMinutes": 35,
       "totalMinutes": 51,
       "servings": 6,
       "nutrition": {
@@ -16356,7 +16390,8 @@
       "shabbat": false,
       "prepMinutes": 15,
       "cookMinutes": 12,
-      "totalMinutes": 240,
+      "waitMinutes": 210,
+      "totalMinutes": 237,
       "servings": 4,
       "nutrition": {
         "calories": 240,
@@ -16568,6 +16603,7 @@
       "shabbat": true,
       "prepMinutes": 20,
       "cookMinutes": 165,
+      "waitMinutes": 15,
       "totalMinutes": 200,
       "servings": 6,
       "nutrition": {
@@ -16708,6 +16744,7 @@
       "shabbat": false,
       "prepMinutes": 15,
       "cookMinutes": 10,
+      "waitMinutes": 120,
       "totalMinutes": 145,
       "servings": 6,
       "nutrition": {
@@ -17104,6 +17141,7 @@
       "shabbat": false,
       "prepMinutes": 10,
       "cookMinutes": 50,
+      "waitMinutes": 60,
       "totalMinutes": 120,
       "servings": 4,
       "nutrition": {
@@ -17382,6 +17420,7 @@
       "shabbat": true,
       "prepMinutes": 15,
       "cookMinutes": 35,
+      "waitMinutes": 30,
       "totalMinutes": 80,
       "servings": 12,
       "nutrition": {
@@ -18514,7 +18553,7 @@
       "shabbat": false,
       "prepMinutes": 10,
       "cookMinutes": 15,
-      "totalMinutes": 30,
+      "totalMinutes": 25,
       "servings": 6,
       "nutrition": {
         "calories": 300,

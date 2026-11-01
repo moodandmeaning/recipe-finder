@@ -43,12 +43,20 @@ for s in spec:
         "shabbat": s.get("shabbat", False),
         "prepMinutes": t.get("prep", r["prepMinutes"]),
         "cookMinutes": t.get("cook", r["cookMinutes"]),
+        "waitMinutes": t.get("wait", 0),
         "totalMinutes": t.get("total", r["totalMinutes"]),
         "servings": s.get("servings", r["servings"]),
         "nutrition": s.get("nut", {"calories": r["calories"], "protein": r["protein"]}),
         "en": dict(s["en"], ingredients=ing) if "ingredients" not in s["en"] else s["en"],
         "he": s["he"],
     }
+    # Times must add up: prep + cook + wait (chilling, soaking, marinating) = total.
+    pr, ck = rec["prepMinutes"] or 0, rec["cookMinutes"] or 0
+    wt = rec["waitMinutes"] or max(0, (rec["totalMinutes"] or 0) - pr - ck)
+    wt = wt if wt >= 10 else 0
+    rec.update(prepMinutes=pr, cookMinutes=ck, waitMinutes=wt, totalMinutes=pr + ck + wt)
+    if not wt:
+        del rec["waitMinutes"]
     assert len(rec["he"]["ingredients"]) >= len(ing) - 1, (s["id"], len(rec["he"]["ingredients"]), len(ing))
     out.append(rec)
 json.dump(out, open(sys.argv[2], "w", encoding="utf-8"), ensure_ascii=False, indent=1)

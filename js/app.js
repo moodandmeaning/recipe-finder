@@ -156,6 +156,7 @@ function renderRecipe(id) {
   const times = [
     r.prepMinutes && `${s.prep}: ${s.minutes(r.prepMinutes)}`,
     r.cookMinutes && `${s.cook}: ${s.minutes(r.cookMinutes)}`,
+    r.waitMinutes && `${s.wait}: ${s.minutes(r.waitMinutes)}`,
     r.totalMinutes && `${s.total}: ${s.minutes(r.totalMinutes)}`,
   ].filter(Boolean);
 

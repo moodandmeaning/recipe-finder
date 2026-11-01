@@ -50,6 +50,7 @@ Collect the passing recipes in a JSON array in a scratch file outside the repo (
   "shabbat": true,
   "prepMinutes": 10,
   "cookMinutes": 30,
+  "waitMinutes": 0,
   "totalMinutes": 40,
   "servings": 4,
   "nutrition": { "calories": 300, "protein": 25 },
@@ -89,3 +90,6 @@ Tips from earlier searches:
 - Common reasons to reject: dried cranberries (sugared), corn, soy/teriyaki/sweet chili/coconut aminos, store-bought dressings, more than 2 tbsp honey or maple, more than about 1 tbsp oil per serving, cheese.
 - Good sources for salads: 10dakot.co.il (Hebrew, full steps), Jamie Geller (kosher), Downshiftology, Detoxinista, The Mediterranean Dish, Feel Good Foodie, Eating Bird Food, Fed & Fit.
 - Many Israeli cabbage and beet salads use sugar, so check them carefully.
+
+## Times must add up
+`prepMinutes + cookMinutes + waitMinutes = totalMinutes` (check_data enforces it). Sources often hide chilling, soaking or marinating inside "total" — put that in `waitMinutes` (in a spec: `"times": {"prep":5,"cook":0,"wait":1440}`), and read the steps to make sure cook time matches what the steps say (e.g. pressure-cooker natural release counts as cook time).
