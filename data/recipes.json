@@ -2,6 +2,538 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "seared-chicken-thighs-green-olives",
+      "url": "https://www.kikar.co.il/chicken/437808",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2023/02/09/30589d00-f4d1-11ee-a4d9-ebfb4147f7a6__h775_w1183.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 45,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 420,
+        "protein": 38
+      },
+      "en": {
+        "title": "Pan-Seared Chicken Thighs with Green Olives",
+        "description": "Chicken thighs slowly seared skin-side down until golden and crisp, finished with garlic, a splash of vinegar and green olives.",
+        "steps": [
+          "Pat the chicken thighs very dry and season with salt and pepper.",
+          "Lay them skin-side down in a single layer in a large heavy skillet.",
+          "Cook over medium heat about 30 minutes without moving them, until the skin is golden and crisp. Lower the heat if it starts to burn.",
+          "Turn the thighs and cook 10–15 minutes more, until cooked through at the bone.",
+          "About 5 minutes before the end, add the garlic, vinegar and olives. Season and serve with the pan juices."
+        ],
+        "whyFits": "Chicken cooked in its own fat with no added oil, plus olives and garlic. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "8 whole chicken thighs (bone-in, skin-on), patted dry",
+          "Salt and black pepper",
+          "1 garlic clove, sliced",
+          "A splash of vinegar",
+          "1½ cups pitted green olives"
+        ]
+      },
+      "he": {
+        "title": "ירכי עוף צרובות עם זיתים ירוקים",
+        "description": "ירכי עוף שנצרבות לאט על צד העור עד שהוא זהוב ופריך, ומסיימות עם שום, מעט חומץ וזיתים ירוקים.",
+        "ingredients": [
+          "8 ירכי עוף שלמות, מיובשות היטב בנייר מגבת",
+          "מלח ופלפל שחור גרוס",
+          "שן שום, פרוסה",
+          "מעט חומץ",
+          "1½ כוסות זיתים ירוקים מגולענים"
+        ],
+        "steps": [
+          "מייבשים היטב את ירכי העוף ומתבלים במלח ופלפל.",
+          "מסדרים אותן בשכבה אחת במחבת גדולה וכבדה, העור כלפי מטה.",
+          "מבשלים על אש בינונית כ-30 דקות בלי להזיז, עד שהעור זהוב ופריך. אם העור מתחיל להישרף, מנמיכים את האש.",
+          "הופכים ומבשלים עוד 10–15 דקות, עד שהבשר ליד העצם מוכן.",
+          "כ-5 דקות לפני הסוף מוסיפים שום, חומץ וזיתים. מתקנים תיבול ומגישים עם נוזלי המחבת."
+        ],
+        "whyFits": "עוף שמתבשל בשומן של עצמו בלי תוספת שמן, עם זיתים ושום. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "asian-red-cabbage-carrot-salad",
+      "url": "https://www.kikar.co.il/salads/414097",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2022/03/08/d372a150-fd75-11ee-a6b5-455cde7820df__h685_w913.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 6,
+      "nutrition": {
+        "calories": 130,
+        "protein": 3
+      },
+      "en": {
+        "title": "Asian-Style Red Cabbage and Carrot Salad",
+        "description": "A crunchy, colorful slaw of red cabbage, carrot, celery and pepper with sesame, cilantro and a sesame-lemon dressing.",
+        "steps": [
+          "Thinly slice the cabbage, celery and pepper by hand or in a food processor. Coarsely grate the carrots.",
+          "Roughly chop the cilantro and slice the green onion into rings.",
+          "Put all the vegetables except the cilantro in a bowl.",
+          "Mix the dressing ingredients (except the lemon juice) and pour over the salad.",
+          "Add the cilantro and sesame seeds and toss lightly. Finish with the lemon juice, toss again, and serve."
+        ],
+        "whyFits": "Fresh vegetables, sesame and oil. The original offers mirin (which contains sugar) or apple cider vinegar, and we use only the vinegar. No dairy or grains. Nutrition values are estimates.",
+        "ingredients": [
+          "1 medium red cabbage",
+          "4 carrots",
+          "2 celery stalks",
+          "1 yellow or orange bell pepper",
+          "A little fresh cilantro",
+          "1 green onion",
+          "¼ cup toasted unhulled sesame seeds",
+          "2 tbsp olive oil",
+          "1–2 tbsp sesame oil",
+          "1 tbsp apple cider vinegar",
+          "1 tsp coarsely ground black pepper",
+          "Salt",
+          "Juice of ½ lemon"
+        ]
+      },
+      "he": {
+        "title": "סלט כרוב סגול וגזר בנוסח אסייתי",
+        "description": "סלט פריך וצבעוני של כרוב סגול, גזר, סלרי ופלפל עם שומשום, כוסברה ורוטב שומשום ולימון.",
+        "ingredients": [
+          "כרוב סגול בינוני",
+          "4 גזרים",
+          "2 גבעולי סלרי",
+          "פלפל צהוב או כתום",
+          "מעט כוסברה",
+          "גבעול בצל ירוק",
+          "¼ כוס שומשום מלא קלוי",
+          "2 כפות שמן זית",
+          "1–2 כפות שמן שומשום",
+          "כף חומץ תפוחים",
+          "כפית פלפל שחור גרוס",
+          "מלח",
+          "מיץ מחצי לימון"
+        ],
+        "steps": [
+          "חותכים לרצועות דקות את הכרוב, הסלרי והפלפל, ביד או במעבד מזון. מגררים את הגזר בפומפייה בינונית.",
+          "קוצצים גס את הכוסברה ופורסים את הבצל הירוק לטבעות.",
+          "מעבירים את כל הירקות חוץ מהכוסברה לקערה.",
+          "מערבבים את מרכיבי הרוטב (חוץ ממיץ הלימון) ויוצקים על הסלט.",
+          "מוסיפים כוסברה ושומשום ומערבבים קלות. מסיימים במיץ לימון, מערבבים שוב ומגישים."
+        ],
+        "whyFits": "ירקות טריים, שומשום ושמן. המקור מציע מירין (שיש בו סוכר) או חומץ תפוחים, ואנחנו משתמשים רק בחומץ. בלי חלב ובלי דגנים. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "grilled-baby-potato-herb-salad",
+      "url": "https://www.kikar.co.il/salads/426531",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2022/09/04/c02ac700-03a9-11ef-96ec-c16c0524953a__h746_w902.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 35,
+      "servings": 6,
+      "nutrition": {
+        "calories": 190,
+        "protein": 3
+      },
+      "en": {
+        "title": "Grilled Baby Potato Salad with Fresh Herbs",
+        "description": "Boiled baby potatoes charred on a grill pan and tossed warm in a lemon-mustard vinaigrette with chives, dill and parsley.",
+        "steps": [
+          "Boil the potatoes in salted water 8–10 minutes until just tender, then transfer them straight into ice water.",
+          "Heat a lightly oiled grill pan over medium-high heat.",
+          "Dry the potatoes, halve them, and toss with 2 tbsp olive oil, salt and pepper. Grill cut-side down about 5 minutes per side.",
+          "Whisk the lemon zest and juice, onion, mustard, vinegar and the rest of the oil, and season.",
+          "Toss the slightly cooled potatoes with the dressing, then with the herbs. Serve at room temperature."
+        ],
+        "whyFits": "Potatoes, fresh herbs and an olive oil vinaigrette (2 tsp oil per serving). No mayonnaise, dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "Coarse salt and black pepper",
+          "900 g red baby potatoes",
+          "¼ cup olive oil, divided",
+          "Zest and juice of 1 lemon",
+          "1 red onion, finely chopped",
+          "2 tbsp mustard",
+          "2 tbsp vinegar",
+          "¼ cup chopped chives",
+          "¼ cup chopped dill",
+          "¼ cup chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "סלט תפוחי אדמה קטנים בגריל עם עשבי תיבול",
+        "description": "תפוחי אדמה קטנים מבושלים וצלויים במחבת פסים, מעורבבים כשהם חמים בוויניגרט לימון וחרדל עם עירית, שמיר ופטרוזיליה.",
+        "ingredients": [
+          "מלח גס ופלפל שחור גרוס",
+          "900 גרם תפוחי אדמה בייבי אדומים",
+          "¼ כוס שמן זית, מחולקת לשניים",
+          "גרידה ומיץ מלימון אחד",
+          "בצל סגול, קצוץ דק",
+          "2 כפות חרדל",
+          "2 כפות חומץ",
+          "¼ כוס עירית קצוצה",
+          "¼ כוס שמיר קצוץ",
+          "¼ כוס פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מבשלים את תפוחי האדמה במים מומלחים 8–10 דקות עד שהם רכים, ומעבירים מיד למי קרח.",
+          "מחממים מחבת פסים משומנת קלות על אש בינונית-גבוהה.",
+          "מייבשים את תפוחי האדמה, חוצים, ומערבבים עם 2 כפות שמן זית, מלח ופלפל. צולים על הצד החתוך כ-5 דקות מכל צד.",
+          "טורפים גרידה ומיץ לימון, בצל, חרדל, חומץ ושאר השמן, ומתבלים.",
+          "מערבבים את תפוחי האדמה שהתקררו מעט עם הרוטב, ואז עם עשבי התיבול. מגישים בטמפרטורת החדר."
+        ],
+        "whyFits": "תפוחי אדמה, עשבי תיבול טריים וויניגרט שמן זית (2 כפיות שמן למנה). בלי מיונז, חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "black-bean-soup-30-minutes",
+      "url": "https://www.kikar.co.il/soups/429489",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2022/10/23/5179f270-f596-11ee-8ac5-6736ccf24517__h783_w1190.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 25,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 260,
+        "protein": 15
+      },
+      "en": {
+        "title": "30-Minute Black Bean Soup",
+        "description": "A rich, smoky black bean soup with tomatoes, hot pepper, cumin and oregano, partly blended for a creamy-chunky texture.",
+        "steps": [
+          "In a large pot over medium heat, soften the onion and garlic in a little water for 5–6 minutes.",
+          "Add the hot pepper for 2–3 minutes, then the cumin, oregano, smoked paprika and salt for 1–2 minutes.",
+          "Add the beans, tomatoes and about 3 cups of broth. Bring to a boil, then simmer on medium-low 15–20 minutes.",
+          "Blend half the soup with a stick blender and stir it back in. Add more broth for a thinner soup.",
+          "Serve hot with your favorite toppings."
+        ],
+        "whyFits": "A legume soup cooked in water instead of oil, so it's very light. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "1 medium onion, diced",
+          "2 garlic cloves, crushed",
+          "1 hot pepper, diced",
+          "1 tsp cumin",
+          "½ tsp oregano",
+          "½ tsp smoked paprika",
+          "½ tsp salt, or to taste",
+          "4 cups cooked or canned black beans, rinsed and drained",
+          "1 can (400 g) diced tomatoes",
+          "3–4 cups vegetable broth"
+        ]
+      },
+      "he": {
+        "title": "מרק שעועית שחורה ב-30 דקות",
+        "description": "מרק שעועית שחורה עשיר ומעושן עם עגבניות, פלפל חריף, כמון ואורגנו, טחון בחלקו למרקם קרמי וגושי.",
+        "ingredients": [
+          "בצל בינוני, חתוך לקוביות",
+          "2 שיני שום, כתושות",
+          "פלפל חריף, חתוך לקוביות",
+          "כפית כמון",
+          "½ כפית אורגנו",
+          "½ כפית פפריקה מעושנת",
+          "½ כפית מלח או לפי הטעם",
+          "4 כוסות שעועית שחורה מבושלת או משימורים, שטופה ומסוננת",
+          "קופסת עגבניות חתוכות לקוביות (400 גרם)",
+          "3–4 כוסות ציר ירקות"
+        ],
+        "steps": [
+          "בסיר גדול על אש בינונית מאדים בצל ושום במעט מים 5–6 דקות עד שהם מתרככים.",
+          "מוסיפים פלפל חריף ל-2–3 דקות, ואז כמון, אורגנו, פפריקה מעושנת ומלח לדקה-שתיים.",
+          "מוסיפים שעועית, עגבניות וכ-3 כוסות ציר. מביאים לרתיחה ומבשלים על אש בינונית-נמוכה 15–20 דקות.",
+          "טוחנים חצי מהמרק בבלנדר מוט ומחזירים לסיר. למרק דליל יותר מוסיפים ציר.",
+          "מגישים חם עם התוספות האהובות."
+        ],
+        "whyFits": "מרק קטניות שמאודה במים ולא בשמן, ולכן קליל מאוד. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "cauliflower-soup-roasted-mushrooms",
+      "url": "https://www.kikar.co.il/soups/431668",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2022/11/28/127a6590-0abe-11ef-9697-9926cbc2c2da__h3024_w4032.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 55,
+      "totalMinutes": 75,
+      "servings": 6,
+      "nutrition": {
+        "calories": 170,
+        "protein": 5
+      },
+      "en": {
+        "title": "Creamy Cauliflower Soup with Sautéed Mushrooms",
+        "description": "A silky, cream-free cauliflower and root vegetable soup topped with thyme-sautéed mushrooms and an optional drizzle of truffle oil.",
+        "steps": [
+          "Heat 3 tbsp olive oil in a large pot over low heat. Cook all the chopped vegetables except the cauliflower and potatoes for about 15 minutes.",
+          "Raise the heat, add the wine, and boil 3 minutes.",
+          "Add the potatoes and cauliflower, cover with water, salt, cover the pot, and simmer on low 30 minutes.",
+          "Blend until smooth, and strain through a fine sieve for an extra-silky soup.",
+          "In a hot skillet, sauté the mushrooms in 1–2 tbsp oil with salt, pepper and thyme.",
+          "Ladle the soup into bowls, top with the mushrooms and a few drops of truffle oil if you like."
+        ],
+        "whyFits": "The creaminess comes only from cauliflower and potatoes, with no cream or butter. No grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "2 onions, peeled and diced",
+          "2 garlic cloves, sliced",
+          "1 celery root, peeled and roughly chopped",
+          "1 parsley root, peeled and diced",
+          "1 leek, cleaned and sliced",
+          "2 small potatoes, peeled, halved and sliced",
+          "2 celery stalks, diced",
+          "1 cauliflower, separated into florets",
+          "½ cup dry white wine",
+          "Mixed mushrooms (portobello, button, wild), sliced",
+          "1 tbsp thyme leaves",
+          "½ tsp white truffle oil (optional)",
+          "Olive oil",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק כרובית קרמי עם פטריות מוקפצות",
+        "description": "מרק כרובית וירקות שורש קטיפתי בלי שמנת, עם פטריות מוקפצות בטימין וזילוף שמן כמהין לבחירה.",
+        "ingredients": [
+          "2 בצלים, קלופים וחתוכים לקוביות",
+          "2 שיני שום, פרוסות",
+          "שורש סלרי, קלוף וחתוך גס",
+          "שורש פטרוזיליה, קלוף וחתוך לקוביות",
+          "כרישה נקייה, פרוסה",
+          "2 תפוחי אדמה קטנים, קלופים, חצויים ופרוסים",
+          "2 גבעולי סלרי, חתוכים לקוביות",
+          "כרובית, מפורקת לפרחים",
+          "½ כוס יין לבן יבש",
+          "מבחר פטריות (פורטובלו, שמפיניון, פטריות יער), פרוסות",
+          "כף עלי טימין",
+          "½ כפית שמן כמהין לבנות (לא חובה)",
+          "שמן זית",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים 3 כפות שמן זית בסיר גדול על להבה נמוכה. מאדים את כל הירקות הקצוצים חוץ מהכרובית ותפוחי האדמה כ-15 דקות.",
+          "מגבירים את האש, מוסיפים את היין ומרתיחים 3 דקות.",
+          "מוסיפים תפוחי אדמה וכרובית, מכסים במים, ממליחים, מכסים את הסיר ומבשלים על אש נמוכה 30 דקות.",
+          "טוחנים עד שהמרק חלק, ולמרקם קטיפתי במיוחד מסננים במסננת דקה.",
+          "במחבת לוהטת מקפיצים את הפטריות ב-1–2 כפות שמן עם מלח, פלפל וטימין.",
+          "יוצקים את המרק לקערות, מניחים מעל את הפטריות, ואם רוצים מזלפים כמה טיפות שמן כמהין."
+        ],
+        "whyFits": "הקרמיות מגיעה רק מכרובית ותפוחי אדמה, בלי שמנת או חמאה. בלי דגנים ובלי סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "zucchini-leek-soup",
+      "url": "https://www.kikar.co.il/soups/437567",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2023/02/07/438b5ba0-f4d2-11ee-a4d9-ebfb4147f7a6__h782_w1182.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 6,
+      "nutrition": {
+        "calories": 110,
+        "protein": 3
+      },
+      "en": {
+        "title": "Zucchini and Leek Soup",
+        "description": "A light, velvety green soup of zucchini and leeks with a little potato for body. Ready in 30 minutes.",
+        "steps": [
+          "Heat the oil in a large pot and gently cook the leek about 5 minutes until soft.",
+          "Add the carrot, potato and celery and cook 5 minutes more.",
+          "Add the zucchini and broth and bring just to a boil.",
+          "Simmer about 10 minutes until everything is tender.",
+          "Blend until smooth. Serve with black pepper and a pinch of chili flakes."
+        ],
+        "whyFits": "Vegetables and broth with 2 tbsp oil for the whole pot. The cream garnish and bread the original suggests are left out. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "2 tbsp (30 ml) olive oil",
+          "500 g leeks, washed and thinly sliced",
+          "1 carrot, peeled and finely chopped",
+          "200 g potatoes, peeled and finely chopped",
+          "2 celery stalks, washed and finely chopped",
+          "1 kg zucchini, washed and finely chopped",
+          "3 cups (750 ml) vegetable broth"
+        ]
+      },
+      "he": {
+        "title": "מרק זוקיני וכרישה",
+        "description": "מרק ירוק, קליל וקטיפתי של זוקיני וכרישה, עם מעט תפוח אדמה לגוף. מוכן תוך חצי שעה.",
+        "ingredients": [
+          "2 כפות (30 מ״ל) שמן זית",
+          "500 גרם כרישה, שטופה ופרוסה דק",
+          "גזר, קלוף וקצוץ דק",
+          "200 גרם תפוחי אדמה, קלופים וקצוצים דק",
+          "2 גבעולי סלרי, שטופים וקצוצים דק",
+          "1 ק״ג זוקיני, שטוף וקצוץ דק",
+          "750 מ״ל (3 כוסות) ציר ירקות"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול ומאדים בעדינות את הכרישה כ-5 דקות עד שהיא מתרככת.",
+          "מוסיפים גזר, תפוח אדמה וסלרי ומבשלים עוד 5 דקות.",
+          "מוסיפים זוקיני וציר ומביאים לסף רתיחה.",
+          "מבשלים כ-10 דקות עד שהכול רך.",
+          "טוחנים עד שהמרק חלק. מגישים עם פלפל שחור וקורט צ׳ילי גרוס."
+        ],
+        "whyFits": "ירקות וציר עם 2 כפות שמן לכל הסיר. השמנת לקישוט והלחם שהמקור מציע הושמטו. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "slow-cooker-chickpea-mushroom-stew",
+      "url": "https://www.kikar.co.il/stews/320720",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2019/06/17/ac2fbe00-01f5-11ef-8590-ed85b6ab3b94__h713_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 360,
+      "totalMinutes": 380,
+      "servings": 6,
+      "nutrition": {
+        "calories": 250,
+        "protein": 11
+      },
+      "en": {
+        "title": "Slow Cooker Chickpea and Mushroom Stew",
+        "description": "A warming, turmeric-spiced stew of chickpeas, mushrooms, carrots and celery in tomato sauce. Perfect to leave cooking for Shabbat.",
+        "steps": [
+          "Heat the oil in a skillet and lightly sauté the onion, garlic and spices for a few minutes until the onion softens.",
+          "Transfer to a slow cooker.",
+          "Add all the remaining ingredients and cover.",
+          "Cook 4 hours on high or 6 hours on low. Season to taste."
+        ],
+        "whyFits": "Legumes and vegetables with just 1 tbsp of oil. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "800 g canned chickpeas, well rinsed and drained",
+          "5 carrots, peeled and diced",
+          "2 celery stalks, chopped",
+          "2 white onions, diced",
+          "1 basket (250 g) fresh mushrooms, sliced",
+          "1 can (400 g) diced tomatoes",
+          "2 tbsp tomato paste",
+          "600 ml vegetable broth or hot water",
+          "3 garlic cloves, crushed",
+          "1 tbsp olive oil",
+          "1 tsp turmeric",
+          "1 tsp cumin",
+          "1 tsp chili powder or paprika",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "תבשיל חומוס ופטריות בסיר בישול איטי",
+        "description": "תבשיל מחמם בתיבול כורכום של גרגירי חומוס, פטריות, גזר וסלרי ברוטב עגבניות. מושלם להשאיר מתבשל לשבת.",
+        "ingredients": [
+          "800 גרם גרגירי חומוס משימורים, שטופים היטב ומסוננים",
+          "5 גזרים, קלופים וחתוכים לקוביות",
+          "2 גבעולי סלרי, קצוצים",
+          "2 בצלים לבנים, חתוכים לקוביות",
+          "סלסילת פטריות טריות (250 גרם), פרוסות",
+          "קופסת קוביות עגבניות (400 גרם)",
+          "2 כפות רסק עגבניות",
+          "600 מ״ל ציר ירקות או מים חמים",
+          "3 שיני שום, כתושות",
+          "כף שמן זית",
+          "כפית כורכום",
+          "כפית כמון",
+          "כפית אבקת צ׳ילי או פפריקה",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים שמן זית במחבת ומטגנים קלות בצל, שום ותבלינים כמה דקות עד שהבצל מתרכך.",
+          "מעבירים לסיר הבישול האיטי.",
+          "מוסיפים את שאר המרכיבים ומכסים.",
+          "מבשלים 4 שעות על חום גבוה או 6 שעות על חום נמוך. מתקנים תיבול."
+        ],
+        "whyFits": "קטניות וירקות עם כף שמן בלבד. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "butternut-squash-kale-tomato-stew",
+      "url": "https://www.kikar.co.il/stews/433962",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2022/12/22/f0821cc0-f4de-11ee-a4d9-ebfb4147f7a6__h679_w1150.png?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 40,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 140,
+        "protein": 5
+      },
+      "en": {
+        "title": "Butternut Squash and Kale Stew in Rich Tomato Sauce",
+        "description": "Caramelized squash and onion simmered with thyme, crushed tomatoes, kale and broth into a thick, hearty vegetable stew.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat. Cook the squash and onion with salt 6–8 minutes until soft and caramelized.",
+          "Stir in the thyme.",
+          "Add the crushed tomatoes and cook 8–10 minutes until the sauce thickens.",
+          "Add the kale with a little more salt and stir gently.",
+          "Add the broth, lower to medium-low, and simmer 20–25 minutes until the kale is tender and the stew is thick. Season and serve."
+        ],
+        "whyFits": "Vegetables with just 1 tsp of oil. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "1 tsp olive oil",
+          "1½ cups butternut squash, cubed",
+          "1 small red onion, finely chopped",
+          "Coarse salt",
+          "1 tbsp fresh thyme leaves",
+          "1 can (410 g) crushed tomatoes",
+          "2 large bunches kale, washed and torn",
+          "1½ cups chicken or vegetable broth",
+          "Black pepper"
+        ]
+      },
+      "he": {
+        "title": "תבשיל קוביות דלעת וקייל ברוטב עגבניות עשיר",
+        "description": "דלעת ובצל מקורמלים שמתבשלים עם טימין, עגבניות מרוסקות, קייל וציר לתבשיל ירקות סמיך ומשביע.",
+        "ingredients": [
+          "כפית שמן זית",
+          "1½ כוסות דלעת בקוביות",
+          "בצל סגול קטן, קצוץ דק",
+          "מלח גס",
+          "כף עלי טימין טריים",
+          "קופסת עגבניות מרוסקות (410 גרם)",
+          "2 צרורות גדולים של קייל, שטוף וקרוע לחתיכות גסות",
+          "1½ כוסות ציר עוף או ירקות",
+          "פלפל שחור"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול על אש בינונית. מבשלים דלעת ובצל עם מלח 6–8 דקות עד שהם רכים ומקורמלים.",
+          "מוסיפים טימין ומערבבים.",
+          "מוסיפים עגבניות מרוסקות ומבשלים 8–10 דקות עד שהרוטב מסמיך.",
+          "מוסיפים את הקייל עם עוד מעט מלח ומערבבים בעדינות.",
+          "מוסיפים ציר, מנמיכים לאש בינונית-נמוכה ומבשלים 20–25 דקות עד שהקייל רך והתבשיל סמיך. מתקנים תיבול ומגישים."
+        ],
+        "whyFits": "ירקות עם כפית שמן בלבד. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
       "id": "three-ingredient-cashew-date-bites",
       "url": "https://therealfooddietitians.com/nutty-cashew-bites/",
       "source": "The Real Food Dietitians",

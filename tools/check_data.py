@@ -24,7 +24,7 @@ ALLOWED = re.compile(
     r"tapioca flour|arrowroot flour|cassava flour|tigernut flour|chickpea flour|nutritional yeast|cream of tartar|"
     r"buckwheat-free|dairy[- ]free|sugar[- ]free|no added sugar|egg ?plant|"
     r"חלב קוקוס|קרם קוקוס|חלב שקדים|חמאת שקדים|חמאת בוטנים|חמאת קשיו|אורז כרובית|קמח שקדים|קמח קוקוס|קמח טפיוקה|"
-    r"שמרי בירה|גבינתי|שעועית לבנה|ללא סוכר|בלי סוכר|בלי תוספת סוכר", re.I)
+    r"wheat-free|dairy-free 'sour cream'|״שמנת חמוצה״ בלי חלב|קמח חומוס|שמרי בירה|גבינתי|שעועית לבנה|ללא סוכר|בלי סוכר|בלי תוספת סוכר", re.I)
 BANNED = re.compile(
     r"\b(milk|cheese|butter|ghee|cream|yogurt|yoghurt|labneh|kefir|whey|parmesan|feta|ricotta|mozzarella|"
     r"wheat|flour|bread|breadcrumbs?|panko|pasta|noodles?|couscous|bulgur|rice|oats?|oatmeal|quinoa|barley|"
