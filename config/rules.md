@@ -27,6 +27,12 @@ Very healthy, whole-food cooking. Kosher. No dairy. No grains.
 6. **Processed foods**: ready-made sauces (ketchup, BBQ sauce, store-bought dressings), bouillon/soup powder (אבקת מרק), margarine, sausages, hot dogs, deli or cured meats (pastrami, salami), schnitzel coating, canned fruit in syrup, artificial sweeteners. Plain canned beans, canned tomatoes and canned tuna are fine.
 7. **Unhealthy amounts of oil or salt**: more than about 1 tablespoon of oil per serving.
 
+## Desserts: extra strict (the user's rule)
+Only truly healthy sweets are allowed: **smoothies and shakes, fruit platters and fruit salads, date/nut balls and stuffed dates**, and similar no-bake treats made from whole fruit, nuts and seeds.
+- **No added sweetener at all**, so no sugar, honey, maple, date syrup, agave or chocolate chips, not even "optional". Sweetness may only come from whole fruit and whole dates.
+- **No flour of any kind**, including almond, coconut, tapioca and chickpea flour.
+- **No baked goods**: no cakes, brownies, muffins, cookies, breads, pancakes, pies or bars that need baking.
+
 ## Kinds of dishes we want (keep each day varied)
 `salad`, `soup`, `chicken`, `meat`, `fish`, `vegetables` (vegetable mains), `legumes`, `eggs`, `dessert` (healthy, no refined sugar).
 
