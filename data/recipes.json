@@ -2,6 +2,958 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "slow-cooker-beef-barbacoa",
+      "url": "https://therealfooddietitians.com/slow-cooker-beef-barbacoa/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2019/01/Slow-Cooker-Beef-Barbacoa-3-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 420,
+      "totalMinutes": 435,
+      "servings": 8,
+      "nutrition": {
+        "calories": 210,
+        "protein": 23
+      },
+      "en": {
+        "title": "Slow Cooker Beef Barbacoa",
+        "description": "Chunks of beef chuck slow-cooked in a blended sauce of onion, garlic, lime, tomato paste, cumin and oregano until they shred.",
+        "steps": [
+          "Put the cubed beef in the slow cooker.",
+          "Blend the water, onion, garlic, tomato paste, lime juice, cumin, oregano, cloves, salt, pepper and chipotle until smooth.",
+          "Pour the sauce over the beef, stir, and lay the bay leaves on top.",
+          "Cook on low 7 hours (or high 3½ hours) until very tender. Shred the beef with two forks and return it to the sauce.",
+          "Keeps 4 days in the fridge or 6 months in the freezer."
+        ],
+        "whyFits": "Kosher beef with vegetables and spices only. No dairy, grains, sugar or added oil. Serve it in lettuce cups or with roasted sweet potato instead of tortillas.",
+        "ingredients": [
+          "2 ½ lbs. boneless beef chuck roast, cut into 2-inch cubes and trimmed of fat",
+          "½ cup water",
+          "½ medium yellow onion, quartered",
+          "6 garlic cloves, peeled",
+          "3 tablespoons tomato paste",
+          "Juice of 1 lime (about 2-3 tablespoons)",
+          "1 tablespoon ground cumin",
+          "1 tablespoon dried oregano",
+          "¾ teaspoon fine salt, plus more to taste",
+          "¼ teaspoon black pepper",
+          "Pinch of ground cloves",
+          "Pinch of ground chipotle powder (optional)",
+          "3 bay leaves"
+        ]
+      },
+      "he": {
+        "title": "בשר ״ברבקואה״ בסיר בישול איטי",
+        "description": "קוביות בשר כתף שמתבשלות לאט ברוטב טחון של בצל, שום, ליים, רסק עגבניות, כמון ואורגנו, עד שהן מתפרקות.",
+        "ingredients": [
+          "1.1 ק״ג בשר כתף בקר בלי עצם, בקוביות של 5 ס״מ, בלי שומן עודף",
+          "½ כוס מים",
+          "½ בצל צהוב בינוני, לרבעים",
+          "6 שיני שום קלופות",
+          "3 כפות רסק עגבניות",
+          "מיץ מליים אחד (2–3 כפות)",
+          "כף כמון טחון",
+          "כף אורגנו יבש",
+          "¾ כפית מלח דק, ועוד לפי הטעם",
+          "¼ כפית פלפל שחור",
+          "קורט ציפורן טחון",
+          "קורט אבקת צ׳יפוטלה (לא חובה)",
+          "3 עלי דפנה"
+        ],
+        "steps": [
+          "מניחים את קוביות הבשר בסיר הבישול האיטי.",
+          "טוחנים בבלנדר מים, בצל, שום, רסק עגבניות, מיץ ליים, כמון, אורגנו, ציפורן, מלח, פלפל וצ׳יפוטלה עד לרוטב חלק.",
+          "יוצקים את הרוטב על הבשר, מערבבים ומניחים מעל את עלי הדפנה.",
+          "מבשלים על חום נמוך 7 שעות (או על גבוה 3½ שעות) עד שהבשר רך מאוד. מפרקים בשני מזלגות ומחזירים לרוטב.",
+          "נשמר 4 ימים במקרר או חצי שנה במקפיא."
+        ],
+        "whyFits": "בשר בקר כשר עם ירקות ותבלינים בלבד. בלי חלב, דגנים, סוכר ובלי תוספת שמן. מגישים בעלי חסה או עם בטטה צלויה במקום טורטיות."
+      }
+    },
+    {
+      "id": "grilled-skirt-steak-garlic-herb",
+      "url": "https://www.themediterraneandish.com/grilled-skirt-steak/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/06/Grilled-Skirt-Steak_9.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 6,
+      "totalMinutes": 51,
+      "servings": 6,
+      "nutrition": {
+        "calories": 410,
+        "protein": 33
+      },
+      "en": {
+        "title": "Grilled Skirt Steak with Garlic, Lemon and Herbs",
+        "description": "Skirt steak marinated in shallots, garlic, parsley, cumin, lemon and red wine vinegar, then grilled hot and sliced thin.",
+        "steps": [
+          "Season the steak with salt and pepper and put it in a bag with the shallots, garlic, parsley, spices, lemon zest and juice, vinegar and olive oil.",
+          "Marinate 30 minutes at room temperature, or up to 24 hours in the fridge (bring it out 30 minutes before grilling).",
+          "Heat an oiled grill to high. Lightly pound the steak in the bag to tenderize it.",
+          "Shake off excess marinade and grill 3–4 minutes per side, to 52–54°C (125–130°F) for medium-rare.",
+          "Rest 5 minutes, then slice thinly against the grain."
+        ],
+        "whyFits": "Kosher beef with herbs and lemon. Most of the oil stays in the marinade, so each serving gets about 1 tbsp. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 pounds skirt steak (trimmed of extra fat)",
+          "Kosher salt",
+          "Black pepper",
+          "2 shallots (finely chopped)",
+          "4 to 6 large garlic cloves (minced or crushed)",
+          "1/3 cup chopped Italian parsley leaves and tender stems",
+          "1 teaspoon ground cumin",
+          "1 teaspoon Aleppo pepper or red pepper flakes",
+          "1/2 teaspoon paprika",
+          "1 large lemon (zested and juiced)",
+          "1/4 cup red wine vinegar",
+          "1/2 cup extra virgin olive oil",
+          "Neutral oil (for grilling)"
+        ]
+      },
+      "he": {
+        "title": "סטייק אונטריב על הגריל עם שום, לימון ועשבי תיבול",
+        "description": "סטייק אונטריב במרינדת שאלוט, שום, פטרוזיליה, כמון, לימון וחומץ יין, צלוי בחום גבוה ופרוס דק.",
+        "ingredients": [
+          "900 גרם סטייק אונטריב (סקירט), בלי שומן עודף",
+          "מלח גס",
+          "פלפל שחור",
+          "2 שאלוט, קצוצים דק",
+          "4–6 שיני שום גדולות, כתושות",
+          "⅓ כוס פטרוזיליה קצוצה עם גבעולים רכים",
+          "כפית כמון טחון",
+          "כפית פלפל אלפו או צ׳ילי גרוס",
+          "½ כפית פפריקה",
+          "לימון גדול (גרידה ומיץ)",
+          "¼ כוס חומץ יין אדום",
+          "½ כוס שמן זית",
+          "שמן לשימון הגריל"
+        ],
+        "steps": [
+          "מתבלים את הסטייק במלח ופלפל ומכניסים לשקית עם השאלוט, השום, הפטרוזיליה, התבלינים, גרידת ומיץ הלימון, החומץ ושמן הזית.",
+          "משרים 30 דקות בטמפרטורת החדר, או עד 24 שעות במקרר (מוציאים חצי שעה לפני הצלייה).",
+          "מחממים גריל משומן לחום גבוה. דופקים קלות את הסטייק בתוך השקית כדי לרכך.",
+          "מנערים עודפי מרינדה וצולים 3–4 דקות מכל צד, עד 52–54 מעלות בפנים למדיום-רייר.",
+          "נותנים לנוח 5 דקות ופורסים דק נגד כיוון הסיבים."
+        ],
+        "whyFits": "בשר בקר כשר עם עשבי תיבול ולימון. רוב השמן נשאר במרינדה, כך שלכל מנה מגיעה בערך כף. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "grilled-flank-steak-parsley-sauce",
+      "url": "https://therealfooddietitians.com/balsamic-flank-steak-chimichurri-sauce/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2017/06/Balsamic-Flank-Steak-8-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 12,
+      "totalMinutes": 240,
+      "servings": 4,
+      "nutrition": {
+        "calories": 240,
+        "protein": 20
+      },
+      "en": {
+        "title": "Grilled Flank Steak with Green Parsley Sauce",
+        "description": "Balsamic-marinated flank steak, grilled and sliced, served with a bright blended sauce of parsley, lemon and garlic.",
+        "steps": [
+          "Whisk the balsamic, avocado oil, dried herbs, garlic and onion powder, salt and pepper. Pour over the steak and marinate in the fridge 3–4 hours.",
+          "Blend the parsley, lemon juice, garlic, olive oil, salt, pepper and pepper flakes into an almost-smooth sauce.",
+          "Let the steak sit 20 minutes at room temperature while the grill heats to medium-high.",
+          "Discard the marinade, season the steak, and grill 5–6 minutes per side to your liking.",
+          "Rest 5 minutes, slice across the grain, and serve with the green sauce."
+        ],
+        "whyFits": "Kosher beef with a fresh herb sauce. No dairy, grains or sugar.",
+        "ingredients": [
+          "450–560 g beef flank steak",
+          "¼ cup balsamic vinegar",
+          "2 tbsp avocado oil",
+          "1½ tsp dried Italian herbs (oregano, basil, thyme)",
+          "½ tsp garlic powder",
+          "¼ tsp onion powder",
+          "¼ tsp fine salt",
+          "⅛ tsp black pepper",
+          "2 cups fresh flat-leaf parsley leaves (about 1 bunch)",
+          "2 tbsp lemon juice",
+          "1 garlic clove, peeled",
+          "3 tbsp extra virgin olive oil",
+          "¼ tsp fine salt",
+          "⅛ tsp black pepper",
+          "Pinch of red pepper flakes (optional)"
+        ]
+      },
+      "he": {
+        "title": "סטייק פלנק על הגריל עם רוטב פטרוזיליה ירוק",
+        "description": "סטייק פלנק במרינדת בלסמי, צלוי ופרוס, עם רוטב רענן וטחון של פטרוזיליה, לימון ושום.",
+        "ingredients": [
+          "450–560 גרם סטייק פלנק",
+          "¼ כוס חומץ בלסמי",
+          "2 כפות שמן אבוקדו",
+          "1½ כפית תערובת עשבי תיבול איטלקיים יבשים",
+          "½ כפית אבקת שום",
+          "¼ כפית אבקת בצל",
+          "¼ כפית מלח דק",
+          "⅛ כפית פלפל שחור",
+          "2 כוסות עלי פטרוזיליה (צרור)",
+          "2 כפות מיץ לימון",
+          "שן שום קלופה",
+          "3 כפות שמן זית",
+          "¼ כפית מלח דק",
+          "⅛ כפית פלפל שחור",
+          "קורט צ׳ילי גרוס (לא חובה)"
+        ],
+        "steps": [
+          "טורפים בלסמי, שמן אבוקדו, עשבי תיבול, אבקת שום ובצל, מלח ופלפל. יוצקים על הסטייק ומשרים במקרר 3–4 שעות.",
+          "טוחנים פטרוזיליה, מיץ לימון, שום, שמן זית, מלח, פלפל וצ׳ילי לרוטב כמעט חלק.",
+          "מוציאים את הסטייק ל-20 דקות בטמפרטורת החדר בזמן שהגריל מתחמם לחום בינוני-גבוה.",
+          "זורקים את המרינדה, מתבלים את הסטייק וצולים 5–6 דקות מכל צד, לפי מידת העשייה הרצויה.",
+          "נותנים לנוח 5 דקות, פורסים נגד הסיבים ומגישים עם הרוטב הירוק."
+        ],
+        "whyFits": "בשר בקר כשר עם רוטב עשבי תיבול טרי. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "pressure-cooker-lamb-ragu",
+      "url": "https://cookprimalgourmet.com/recipes/lamb-ragu-instant-pot/",
+      "source": "Primal Gourmet",
+      "sourceLang": "en",
+      "image": "https://cookprimalgourmet.com/wp-content/uploads/2017/11/MG_9894.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "totalMinutes": 75,
+      "servings": 8,
+      "nutrition": {
+        "calories": null,
+        "protein": null
+      },
+      "en": {
+        "title": "Pressure Cooker Lamb Ragu",
+        "description": "Leg of lamb browned and pressure-cooked with vegetables, garlic, herbs and tomato passata into a rich, shredded ragu.",
+        "steps": [
+          "Pat the lamb dry and salt it. Brown it in the oil in batches on the sauté setting, then set aside.",
+          "Sauté the onion, celery and carrot with a pinch of salt for 10–12 minutes, scraping up the browned bits.",
+          "Add the garlic, rosemary, oregano, bay leaves and 1 tsp pepper for 1 minute. Return the lamb, add the passata and stock, and bring to a simmer.",
+          "Seal and cook on high pressure for 60 minutes. Release the pressure manually.",
+          "On sauté mode, shred the meat in the pot and reduce the sauce until thick. Season to taste and serve over zucchini noodles or cauliflower purée."
+        ],
+        "whyFits": "Kosher lamb and vegetables in plain tomato passata. Very little oil, no dairy, grains or sugar. Serve over vegetable 'noodles', not pasta.",
+        "ingredients": [
+          "2 kg bone-in leg of lamb, cut into 5 cm chunks",
+          "1 medium onion, diced",
+          "2 celery stalks, diced",
+          "2 carrots, diced",
+          "6–8 garlic cloves, thinly sliced",
+          "2 cups tomato passata",
+          "1 cup chicken stock",
+          "2 bay leaves",
+          "1 tbsp finely chopped fresh rosemary",
+          "1 tsp finely chopped fresh oregano",
+          "1 tbsp avocado oil",
+          "Kosher salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "ראגו טלה בסיר לחץ",
+        "description": "שוק טלה שמושחם ומתבשל בסיר לחץ עם ירקות, שום, עשבי תיבול ופסטת עגבניות, לראגו עשיר ומפורק.",
+        "ingredients": [
+          "2 ק״ג שוק טלה עם עצם, בנתחים של 5 ס״מ",
+          "בצל בינוני, קצוץ",
+          "2 גבעולי סלרי, קצוצים",
+          "2 גזרים, קצוצים",
+          "6–8 שיני שום, פרוסות דק",
+          "2 כוסות פסטת עגבניות (פסאטה)",
+          "כוס ציר עוף",
+          "2 עלי דפנה",
+          "כף רוזמרין טרי קצוץ דק",
+          "כפית אורגנו טרי קצוץ דק",
+          "כף שמן אבוקדו",
+          "מלח גס ופלפל שחור"
+        ],
+        "steps": [
+          "מייבשים את הטלה וממליחים. משחימים בשמן בכמה סבבים במצב הקפצה, ומוציאים לקערה.",
+          "מאדים בצל, סלרי וגזר עם קורט מלח 10–12 דקות, וגורדים את מה שנדבק לתחתית.",
+          "מוסיפים שום, רוזמרין, אורגנו, עלי דפנה וכפית פלפל לדקה. מחזירים את הבשר, מוסיפים פסאטה וציר ומביאים לבעבוע.",
+          "סוגרים ומבשלים בלחץ גבוה 60 דקות. משחררים את הלחץ ידנית.",
+          "במצב הקפצה, מפרקים את הבשר בסיר ומצמצמים את הרוטב עד שהוא סמיך. מתקנים תיבול ומגישים על ״אטריות״ זוקיני או פירה כרובית."
+        ],
+        "whyFits": "טלה כשר וירקות בפסטת עגבניות פשוטה. מעט מאוד שמן, בלי חלב, דגנים או סוכר. מגישים על ״אטריות״ ירקות, לא על פסטה."
+      }
+    },
+    {
+      "id": "slow-cooker-beef-shank-cabbage-stew",
+      "url": "https://nomnompaleo.com/slow-cooker-grass-fed-beef-shanks-cabbage-stew",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2011/01/Slow-Cooker-Grass-Fed-Beef-Shanks-Cabbage-Stew.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 540,
+      "totalMinutes": 555,
+      "servings": 6,
+      "nutrition": {
+        "calories": 322,
+        "protein": 43
+      },
+      "en": {
+        "title": "Slow Cooker Beef Shank and Cabbage Stew",
+        "description": "Beef shanks cooked low and slow on a bed of cabbage, carrots, onions and tomatoes until the meat falls off the bone.",
+        "steps": [
+          "Put the carrots and onions in the slow cooker, layer the cabbage wedges on top, and add the garlic and bay leaves.",
+          "Season the shanks generously with salt and pepper and set them on the cabbage.",
+          "Pour in the tomatoes and broth, cover, and cook on low for about 9 hours.",
+          "Shred the meat off the bones, taste the stew, and add coconut aminos or salt if needed."
+        ],
+        "whyFits": "Kosher beef and vegetables only, with no added fat. No dairy, grains or sugar. Perfect to keep warm for Shabbat.",
+        "ingredients": [
+          "225 g baby carrots",
+          "2 medium onions, roughly chopped",
+          "1 small cabbage (about 900 g), cored and cut into 8 wedges",
+          "7 garlic cloves, smashed",
+          "2 bay leaves",
+          "2 beef shanks (about 5 cm thick)",
+          "Kosher salt",
+          "Black pepper",
+          "1 can (400 g) diced tomatoes, drained",
+          "1 cup chicken broth",
+          "2 tbsp coconut aminos (optional, to finish)"
+        ]
+      },
+      "he": {
+        "title": "תבשיל אוסובוקו וכרוב בסיר בישול איטי",
+        "description": "פרוסות אוסובוקו בקר שמתבשלות לאט על מצע כרוב, גזר, בצל ועגבניות, עד שהבשר נופל מהעצם.",
+        "ingredients": [
+          "225 גרם גזר גמדי",
+          "2 בצלים בינוניים, קצוצים גס",
+          "כרוב קטן (כ-900 גרם), בלי הלב, ב-8 פלחים",
+          "7 שיני שום מעוכות",
+          "2 עלי דפנה",
+          "2 פרוסות אוסובוקו בקר (בעובי כ-5 ס״מ)",
+          "מלח גס",
+          "פלפל שחור",
+          "קופסת עגבניות קצוצות (400 גרם), מסוננת",
+          "כוס ציר עוף",
+          "2 כפות קוקוס אמינוס (לא חובה, לסיום)"
+        ],
+        "steps": [
+          "מניחים בתחתית הסיר את הגזר והבצל, מסדרים מעל את פלחי הכרוב ומוסיפים שום ועלי דפנה.",
+          "מתבלים את האוסובוקו בנדיבות במלח ופלפל ומניחים על הכרוב.",
+          "יוצקים עגבניות וציר, מכסים ומבשלים על חום נמוך כ-9 שעות.",
+          "מפרקים את הבשר מהעצמות, טועמים, ומוסיפים קוקוס אמינוס או מלח לפי הצורך."
+        ],
+        "whyFits": "בשר בקר כשר וירקות בלבד, בלי תוספת שומן. בלי חלב, דגנים או סוכר. מושלם לשמירה חמה בשבת."
+      }
+    },
+    {
+      "id": "stifado-greek-beef-stew",
+      "url": "https://www.themediterraneandish.com/stifado-greek-beef-stew/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2023/10/TMD-Greek-Beef-Stew-Beauty-03-Overhead-Vertical.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 165,
+      "totalMinutes": 200,
+      "servings": 6,
+      "nutrition": {
+        "calories": 474,
+        "protein": 31
+      },
+      "en": {
+        "title": "Stifado (Greek Beef and Onion Stew)",
+        "description": "Beef braised slowly with sweet pearl onions, red wine, cinnamon, cloves and allspice in a rich tomato sauce.",
+        "steps": [
+          "Pat the beef dry and season it. Brown it in the oil in a heavy pot over high heat in batches, then set aside.",
+          "Lower to medium, add the pearl onions and cook about 10 minutes until softened. Add the garlic briefly.",
+          "Stir in the tomato paste, bay leaves, cinnamon, cloves and allspice for 1 minute, then return the beef with its juices.",
+          "Pour in the wine and brandy, scrape the bottom, and simmer 5 minutes.",
+          "Add the tomatoes and enough warm water to cover the meat. Cover and simmer slowly about 2½ hours until very tender.",
+          "Remove the whole spices, season to taste, and rest 15 minutes before serving."
+        ],
+        "whyFits": "Kosher beef, onions and spices braised in wine. No dairy, grains or sugar. Serve with roasted potatoes or vegetables instead of the orzo or rice the original suggests.",
+        "ingredients": [
+          "900 g beef chuck, cut into 4 cm pieces",
+          "¾ tsp kosher salt",
+          "½ tsp black pepper",
+          "¼ cup extra virgin olive oil",
+          "680 g whole pearl onions, peeled (frozen is fine)",
+          "5 garlic cloves, coarsely chopped",
+          "1 tbsp tomato paste",
+          "2 bay leaves",
+          "1 cinnamon stick",
+          "¼ tsp ground cloves",
+          "4 allspice berries (or ¼ tsp ground allspice)",
+          "1 cup full-bodied dry red wine (kosher)",
+          "¼ cup brandy",
+          "1 can (400 g) whole or diced tomatoes"
+        ]
+      },
+      "he": {
+        "title": "סטיפדו (תבשיל בקר ובצלונים יווני)",
+        "description": "בשר בקר שמתבשל לאט עם בצלי פנינה מתוקים, יין אדום, קינמון, ציפורן ופלפל אנגלי ברוטב עגבניות עשיר.",
+        "ingredients": [
+          "900 גרם בשר כתף בקר, בקוביות של 4 ס״מ",
+          "¾ כפית מלח גס",
+          "½ כפית פלפל שחור",
+          "¼ כוס שמן זית",
+          "680 גרם בצלי פנינה שלמים, קלופים (קפואים זה בסדר)",
+          "5 שיני שום, קצוצות גס",
+          "כף רסק עגבניות",
+          "2 עלי דפנה",
+          "מקל קינמון",
+          "¼ כפית ציפורן טחון",
+          "4 גרגרי פלפל אנגלי (או ¼ כפית טחון)",
+          "כוס יין אדום יבש ומלא (כשר)",
+          "¼ כוס ברנדי",
+          "קופסת עגבניות שלמות או קצוצות (400 גרם)"
+        ],
+        "steps": [
+          "מייבשים את הבשר ומתבלים. משחימים בשמן בסיר כבד על אש גבוהה בכמה סבבים, ומוציאים.",
+          "מנמיכים לאש בינונית, מוסיפים את בצלי הפנינה ומבשלים כ-10 דקות עד שהם מתרככים. מוסיפים שום לרגע.",
+          "מערבבים פנימה רסק, עלי דפנה, קינמון, ציפורן ופלפל אנגלי לדקה, ומחזירים את הבשר עם הנוזלים.",
+          "יוצקים יין וברנדי, גורדים את התחתית ומבשלים 5 דקות.",
+          "מוסיפים עגבניות ומים חמים עד לכיסוי הבשר. מכסים ומבשלים על אש נמוכה כ-2½ שעות עד שהבשר רך מאוד.",
+          "מוציאים את התבלינים השלמים, מתקנים תיבול ונותנים לנוח 15 דקות לפני ההגשה."
+        ],
+        "whyFits": "בשר בקר כשר, בצלים ותבלינים מבושלים ביין. בלי חלב, דגנים או סוכר. מגישים עם תפוחי אדמה או ירקות צלויים במקום האורזו או האורז שבמקור."
+      }
+    },
+    {
+      "id": "turkey-apple-herb-meatballs",
+      "url": "https://www.paleorunningmomma.com/paleo-turkey-meatballs-apples-herbs/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2016/10/turkey-meatballs.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 250,
+        "protein": 35
+      },
+      "en": {
+        "title": "Turkey Meatballs with Apple and Fresh Herbs",
+        "description": "Juicy turkey meatballs with grated apple, rosemary, thyme and sage, browned in a skillet and finished in the oven.",
+        "steps": [
+          "Heat the oven to 200°C (400°F).",
+          "Mix all the meatball ingredients (except the oil) gently with your hands.",
+          "Heat the oil in an ovenproof skillet over medium-high heat. Form 13–14 meatballs and brown them on all sides, about 5 minutes.",
+          "Move the skillet to the oven and bake 8–10 minutes until cooked through. Serve with vegetable noodles or potatoes and more herbs."
+        ],
+        "whyFits": "Turkey is kosher meat. A little almond flour replaces breadcrumbs and the apple adds natural sweetness. No dairy, grains or sugar.",
+        "ingredients": [
+          "1.25 lbs ground turkey (85-94% lean (not too lean)",
+          "1 medium apple (peeled and shredded/grated)",
+          "1 egg",
+          "2 tbsp almond flour",
+          "1 Tbsp fresh rosemary (finely chopped)",
+          "1 Tbsp fresh thyme (finely chopped)",
+          "1/2 Tbsp fresh sage leaves (finely chopped)",
+          "1/2 tsp fine grain sea salt",
+          "black pepper (to taste)",
+          "1 tbsp coconut oil for frying (or your favorite cooking fat)"
+        ]
+      },
+      "he": {
+        "title": "קציצות הודו עם תפוח ועשבי תיבול",
+        "description": "קציצות הודו עסיסיות עם תפוח מגורר, רוזמרין, טימין ומרווה, מושחמות במחבת ומסיימות בתנור.",
+        "ingredients": [
+          "570 גרם הודו טחון (לא רזה מדי)",
+          "תפוח בינוני, קלוף ומגורר",
+          "ביצה",
+          "2 כפות קמח שקדים",
+          "כף רוזמרין טרי קצוץ דק",
+          "כף טימין טרי קצוץ דק",
+          "½ כף עלי מרווה קצוצים דק",
+          "½ כפית מלח ים דק",
+          "פלפל שחור לפי הטעם",
+          "כף שמן קוקוס לטיגון"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות.",
+          "מערבבים בעדינות בידיים את כל מרכיבי הקציצות חוץ מהשמן.",
+          "מחממים את השמן במחבת שמתאימה לתנור על אש בינונית-גבוהה. יוצרים 13–14 קציצות ומשחימים מכל הצדדים כ-5 דקות.",
+          "מעבירים את המחבת לתנור ואופים 8–10 דקות עד שהקציצות מוכנות. מגישים עם ״אטריות״ ירקות או תפוחי אדמה ועוד עשבי תיבול."
+        ],
+        "whyFits": "הודו הוא בשר כשר. מעט קמח שקדים מחליף פירורי לחם, והתפוח מוסיף מתיקות טבעית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "lamb-kabobs-herb-onion-marinade",
+      "url": "https://www.themediterraneandish.com/lamb-kabobs/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2026/03/TMD-Lamb-Kabobs-Leads-05.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 10,
+      "totalMinutes": 145,
+      "servings": 6,
+      "nutrition": {
+        "calories": 275,
+        "protein": 24
+      },
+      "en": {
+        "title": "Lamb Kebabs in Onion and Herb Marinade",
+        "description": "Cubes of leg of lamb marinated in a blended paste of onion, garlic, parsley, allspice, nutmeg, cardamom and lemon, then grilled.",
+        "steps": [
+          "Cut the lamb into 2.5–4 cm cubes and season with salt and pepper.",
+          "Blend the onion, garlic, spices, parsley, olive oil and lemon juice and zest into a thick marinade.",
+          "Coat the lamb in the marinade, cover, and refrigerate up to 2 hours.",
+          "Heat an oiled grill or griddle. Shake off excess marinade and thread the lamb onto skewers.",
+          "Grill over high heat, turning every couple of minutes, 7–9 minutes until browned and done to your liking."
+        ],
+        "whyFits": "Kosher lamb with onion, herbs and spices. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 1/2 pounds boneless leg of lamb",
+          "Kosher salt and black pepper",
+          "1 medium yellow onion",
+          "5 garlic cloves",
+          "1 teaspoon allspice",
+          "1/2 teaspoon nutmeg",
+          "1/2 teaspoon cardamom",
+          "1 cup packed fresh parsley",
+          "1/3 cup extra virgin olive oil",
+          "Juice and zest of 1 lemon"
+        ]
+      },
+      "he": {
+        "title": "שיפודי טלה במרינדת בצל ועשבי תיבול",
+        "description": "קוביות שוק טלה במשחה טחונה של בצל, שום, פטרוזיליה, פלפל אנגלי, מוסקט, הל ולימון, צלויות על הגריל.",
+        "ingredients": [
+          "680 גרם שוק טלה בלי עצם",
+          "מלח גס ופלפל שחור",
+          "בצל צהוב בינוני",
+          "5 שיני שום",
+          "כפית פלפל אנגלי",
+          "½ כפית אגוז מוסקט",
+          "½ כפית הל טחון",
+          "כוס פטרוזיליה דחוסה",
+          "⅓ כוס שמן זית",
+          "מיץ וגרידה מלימון אחד"
+        ],
+        "steps": [
+          "חותכים את הטלה לקוביות של 2.5–4 ס״מ ומתבלים במלח ופלפל.",
+          "טוחנים במעבד מזון בצל, שום, תבלינים, פטרוזיליה, שמן זית, מיץ וגרידת לימון למרינדה סמיכה.",
+          "מצפים את הטלה במרינדה, מכסים ומקררים עד שעתיים.",
+          "מחממים גריל או פלנצ׳ה משומנים. מנערים עודפי מרינדה ומשחילים את הבשר על שיפודים.",
+          "צולים על חום גבוה, מסובבים כל כמה דקות, 7–9 דקות עד שהבשר משחים ומוכן."
+        ],
+        "whyFits": "טלה כשר עם בצל, עשבי תיבול ותבלינים. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "baked-lamb-chops-root-vegetables",
+      "url": "https://www.themediterraneandish.com/mediterranean-baked-lamb-chops-root-vegetables/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2026/07/Baked-Lamb-Chops-Edited-3.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "totalMinutes": 50,
+      "servings": 8,
+      "nutrition": {
+        "calories": 496,
+        "protein": 20
+      },
+      "en": {
+        "title": "Baked Lamb Chops with Roasted Root Vegetables",
+        "description": "Allspice and garlic marinated lamb chops, seared and finished on a tray of roasted acorn squash, sweet potato, carrots and red onion.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and salt the lamb chops.",
+          "Slice the acorn squash into half-moons. Mix the garlic, olive oil, 1 tsp allspice, 1 tsp pepper, ¾ tsp paprika and ½ tsp nutmeg in a large bowl.",
+          "Toss the vegetables in this mixture and spread them on a sheet pan. Roast 15 minutes.",
+          "Add a little more oil, the vinegar and the rest of the spices to the bowl and coat the lamb. Sear the chops 2–3 minutes per side in a hot oiled skillet.",
+          "Put the lamb on the vegetable tray and roast 10 minutes more. Drizzle with the honey, garnish with parsley, and rest 10 minutes."
+        ],
+        "whyFits": "Kosher lamb and root vegetables. The honey is limited to 1 tbsp for 8 servings. No dairy or grains.",
+        "ingredients": [
+          "8 lamb loin chops (about 4 cm thick)",
+          "Kosher salt",
+          "1 acorn squash",
+          "1 head of garlic (12–14 cloves), minced",
+          "⅓ cup extra virgin olive oil, plus more as needed",
+          "2½ tsp ground allspice",
+          "2 tsp black pepper",
+          "1½ tsp sweet paprika",
+          "1 tsp ground nutmeg",
+          "1 large red onion, thickly sliced",
+          "1 large sweet potato, peeled and cubed",
+          "2 large carrots, cut into large pieces",
+          "3 tbsp white wine vinegar",
+          "1 tbsp honey, to drizzle",
+          "Fresh parsley, to garnish"
+        ]
+      },
+      "he": {
+        "title": "צלעות טלה אפויות עם ירקות שורש צלויים",
+        "description": "צלעות טלה במרינדת פלפל אנגלי ושום, צרובות ומסיימות בתנור על מגש של דלעת ערמונים, בטטה, גזר ובצל סגול.",
+        "ingredients": [
+          "8 צלעות טלה (בעובי כ-4 ס״מ)",
+          "מלח גס",
+          "דלעת ערמונים (אייקורן) או דלעת קטנה",
+          "ראש שום (12–14 שיניים), כתוש",
+          "⅓ כוס שמן זית, ועוד לפי הצורך",
+          "2½ כפיות פלפל אנגלי טחון",
+          "2 כפיות פלפל שחור",
+          "1½ כפית פפריקה מתוקה",
+          "כפית אגוז מוסקט",
+          "בצל סגול גדול, בפרוסות עבות",
+          "בטטה גדולה, קלופה ובקוביות",
+          "2 גזרים גדולים, בחתיכות גדולות",
+          "3 כפות חומץ יין לבן",
+          "כף דבש לזילוף",
+          "פטרוזיליה טרייה לקישוט"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות וממליחים את צלעות הטלה.",
+          "פורסים את הדלעת לחצאי ירחים. בקערה גדולה מערבבים שום, שמן זית, כפית פלפל אנגלי, כפית פלפל שחור, ¾ כפית פפריקה ו-½ כפית מוסקט.",
+          "מערבבים את הירקות בתערובת ומפזרים בתבנית. צולים 15 דקות.",
+          "מוסיפים לקערה עוד מעט שמן, את החומץ ואת שאר התבלינים ומצפים את הטלה. צורבים את הצלעות 2–3 דקות מכל צד במחבת חמה משומנת.",
+          "מניחים את הטלה על תבנית הירקות וצולים עוד 10 דקות. מזלפים את הדבש, מקשטים בפטרוזיליה ונותנים לנוח 10 דקות."
+        ],
+        "whyFits": "טלה כשר וירקות שורש. הדבש מוגבל לכף אחת ל-8 מנות. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "garlic-rosemary-grilled-lamb-chops",
+      "url": "https://downshiftology.com/recipes/garlic-rosemary-grilled-lamb-chops/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2016/03/Grilled-Lamb-Chops-main.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 10,
+      "totalMinutes": 30,
+      "servings": 8,
+      "nutrition": {
+        "calories": 293,
+        "protein": 9
+      },
+      "en": {
+        "title": "Garlic and Rosemary Grilled Lamb Chops",
+        "description": "Lamb chops in a simple marinade of olive oil, garlic and rosemary, grilled for just a few minutes per side.",
+        "steps": [
+          "Cut the rack of lamb into individual chops.",
+          "Mix the olive oil, garlic, rosemary, salt and pepper.",
+          "Coat the chops on both sides and marinate 30 minutes in the fridge.",
+          "Grill over medium-high heat about 3 minutes per side, to 57°C (135°F) for medium-rare. Rest a few minutes before serving."
+        ],
+        "whyFits": "Kosher lamb, garlic, rosemary and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 rack of lamb (8 lamb chops)",
+          "¼ cup extra-virgin olive oil",
+          "3 garlic cloved (minced)",
+          "1 tablespoon fresh rosemary (finely chopped)",
+          "1 teaspoon kosher salt",
+          "½ teaspoon ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "צלעות טלה על הגריל בשום ורוזמרין",
+        "description": "צלעות טלה במרינדה פשוטה של שמן זית, שום ורוזמרין, צלויות כמה דקות בלבד מכל צד.",
+        "ingredients": [
+          "קרה טלה (8 צלעות)",
+          "¼ כוס שמן זית",
+          "3 שיני שום, כתושות",
+          "כף רוזמרין טרי קצוץ דק",
+          "כפית מלח גס",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "חותכים את הקרה לצלעות בודדות.",
+          "מערבבים שמן זית, שום, רוזמרין, מלח ופלפל.",
+          "מצפים את הצלעות משני הצדדים ומשרים 30 דקות במקרר.",
+          "צולים על חום בינוני-גבוה כ-3 דקות מכל צד, עד 57 מעלות בפנים למדיום-רייר. נותנים לנוח כמה דקות לפני ההגשה."
+        ],
+        "whyFits": "טלה כשר, שום, רוזמרין ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "broiled-spiced-mini-beef-patties",
+      "url": "https://nomnompaleo.com/easy-broiled-tabil-seasoned-mini-beef-patties",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2010/12/Easy-Broiled-Tabil-Beef-Patties.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 6,
+      "totalMinutes": 26,
+      "servings": 4,
+      "nutrition": {
+        "calories": 348,
+        "protein": 21
+      },
+      "en": {
+        "title": "Broiled Spiced Mini Beef Patties",
+        "description": "Small beef patties packed with shallots, garlic and North African tabil spices, cooked fast under the broiler.",
+        "steps": [
+          "Heat the broiler with a rack about 12 cm from the heat. Line a baking sheet with foil and grease it with the coconut oil (or use parchment).",
+          "Mix the beef with the shallots, garlic, tabil spices and salt.",
+          "Shape thin patties (under 2.5 cm thick) and set them on the sheet.",
+          "Broil 4 minutes, flip, and broil about 2 minutes more until cooked through."
+        ],
+        "whyFits": "Kosher beef with aromatics and spices. No breadcrumbs, dairy or sugar.",
+        "ingredients": [
+          "1 tbsp coconut oil (for the pan)",
+          "450 g ground beef",
+          "3 large shallots, finely chopped",
+          "6 garlic cloves, minced",
+          "1 tbsp tabil spice mix (ground coriander, caraway, garlic and chili)",
+          "2 tsp kosher salt"
+        ]
+      },
+      "he": {
+        "title": "קציצות בקר קטנות מתובלות בגריל התנור",
+        "description": "קציצות בקר קטנות עם שאלוט, שום ותבליני תאביל צפון-אפריקאיים, עשויות במהירות בגריל העליון של התנור.",
+        "ingredients": [
+          "כף שמן קוקוס (לתבנית)",
+          "450 גרם בשר בקר טחון",
+          "3 שאלוטים גדולים, קצוצים דק",
+          "6 שיני שום, כתושות",
+          "כף תערובת תאביל (כוסברה טחונה, קימל, שום וצ׳ילי)",
+          "2 כפיות מלח גס"
+        ],
+        "steps": [
+          "מחממים גריל עליון עם רשת במרחק כ-12 ס״מ מהגוף. מרפדים תבנית בנייר כסף ומשמנים בשמן הקוקוס (או בנייר אפייה).",
+          "מערבבים את הבשר עם השאלוט, השום, התאביל והמלח.",
+          "יוצרים קציצות דקות (פחות מ-2.5 ס״מ) ומניחים בתבנית.",
+          "צולים 4 דקות, הופכים וצולים עוד כ-2 דקות עד שהן מוכנות."
+        ],
+        "whyFits": "בשר בקר כשר עם ירקות ריחניים ותבלינים. בלי פירורי לחם, חלב או סוכר."
+      }
+    },
+    {
+      "id": "turkey-apple-breakfast-patties",
+      "url": "https://therealfooddietitians.com/turkey-apple-sausage-patties/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2016/03/IMG_2632-e1534278353562-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 10,
+      "totalMinutes": 20,
+      "servings": 12,
+      "nutrition": {
+        "calories": 105,
+        "protein": 14
+      },
+      "en": {
+        "title": "Turkey and Apple Patties",
+        "description": "Small, lean turkey patties with finely chopped apple, sage, paprika and fennel, pan-browned in a few minutes.",
+        "steps": [
+          "Mix the turkey, apple, spices, salt and pepper thoroughly.",
+          "With wet hands, shape 12 thin patties.",
+          "Heat a large skillet over medium-high heat with about ½ tbsp oil per batch.",
+          "Cook the patties 4–5 minutes per side without crowding, until browned and cooked through.",
+          "Keeps 4 days in the fridge or can be frozen."
+        ],
+        "whyFits": "Turkey is kosher meat, sweetened only by fresh apple. A homemade 'sausage' with nothing processed. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 lb. 90-93% lean ground turkey (may substitute ground chicken)",
+          "½ cup finely minced apples (any variety will work)",
+          "½ tsp. garlic powder",
+          "½ tsp. Italian seasoning or dried sage",
+          "½ tsp. paprika",
+          "1/4 tsp. crushed fennel (optional; crush lightly using a mortar and pestle)",
+          "½ tsp. salt",
+          "¼ tsp. black pepper",
+          "1-2 Tbsp. cooking fat of choice (such as olive oil or avocado oil)"
+        ]
+      },
+      "he": {
+        "title": "קציצות הודו ותפוח",
+        "description": "קציצות הודו קטנות ורזות עם תפוח קצוץ דק, מרווה, פפריקה ושומר, מושחמות במחבת תוך דקות.",
+        "ingredients": [
+          "450 גרם הודו טחון רזה (אפשר עוף טחון)",
+          "½ כוס תפוח קצוץ דק",
+          "½ כפית אבקת שום",
+          "½ כפית מרווה יבשה או תערובת עשבים איטלקית",
+          "½ כפית פפריקה",
+          "¼ כפית זרעי שומר כתושים (לא חובה)",
+          "½ כפית מלח",
+          "¼ כפית פלפל שחור",
+          "1–2 כפות שמן זית או שמן אבוקדו"
+        ],
+        "steps": [
+          "מערבבים היטב הודו, תפוח, תבלינים, מלח ופלפל.",
+          "בידיים רטובות יוצרים 12 קציצות דקות.",
+          "מחממים מחבת גדולה על אש בינונית-גבוהה עם כ-½ כף שמן לכל סבב.",
+          "מטגנים את הקציצות 4–5 דקות מכל צד בלי להעמיס, עד שהן שחומות ומוכנות.",
+          "נשמר 4 ימים במקרר, ואפשר להקפיא."
+        ],
+        "whyFits": "הודו הוא בשר כשר, וממותק רק בתפוח טרי. ״נקניקייה״ ביתית בלי שום מוצר מעובד. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "classic-beef-pot-roast-vegetables",
+      "url": "https://cookprimalgourmet.com/recipes/classic-pot-roast/",
+      "source": "Primal Gourmet",
+      "sourceLang": "en",
+      "image": "https://cookprimalgourmet.com/wp-content/uploads/2025/02/IMG_0127.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 25,
+      "cookMinutes": 240,
+      "totalMinutes": 265,
+      "servings": 6,
+      "nutrition": {
+        "calories": 589,
+        "protein": 53
+      },
+      "en": {
+        "title": "Classic Beef Pot Roast with Carrots and Potatoes",
+        "description": "A whole chuck roast seared and braised for hours in broth with herbs, then finished with potatoes in the same pot.",
+        "steps": [
+          "Heat the oven to 175°C (350°F). Season the beef generously (ideally 4–6 hours ahead, uncovered in the fridge).",
+          "Brown the beef well in the oil in a Dutch oven over medium-high heat, then set aside.",
+          "Cook the celery and onion until soft, about 4 minutes, then add the tomato paste and garlic, the broth and the vinegar, and return the beef.",
+          "Tie the thyme, parsley and bay leaves together and add them with the carrots. Cover and braise in the oven about 3 hours until tender.",
+          "Add the potatoes, raise the oven to 220°C (425°F) and cook uncovered about 35 minutes until they're tender.",
+          "Move the meat and vegetables to a platter and reduce the cooking liquid on the stove into a light sauce."
+        ],
+        "whyFits": "Kosher beef, vegetables and broth. No flour is used to thicken the sauce, and there's no dairy or sugar. A classic Shabbat main.",
+        "ingredients": [
+          "1.4 kg beef chuck roast",
+          "2 tsp kosher salt, plus more to taste",
+          "½ tsp black pepper, plus more to taste",
+          "2 tbsp avocado oil",
+          "2 celery stalks, diced",
+          "1 yellow onion, diced",
+          "2 tbsp tomato paste",
+          "5 garlic cloves, finely chopped",
+          "1 liter beef bone broth (without additives)",
+          "2 tsp sherry vinegar",
+          "3 carrots, cut into 5 cm pieces",
+          "3 sprigs fresh thyme",
+          "3 sprigs fresh parsley",
+          "2 bay leaves",
+          "680 g yellow potatoes, peeled and cut into wedges"
+        ]
+      },
+      "he": {
+        "title": "צלי בקר קלאסי בסיר עם גזר ותפוחי אדמה",
+        "description": "נתח צלי כתף שלם, צרוב ומתבשל שעות בציר עם עשבי תיבול, ומסיים עם תפוחי אדמה באותו סיר.",
+        "ingredients": [
+          "1.4 ק״ג צלי כתף בקר",
+          "2 כפיות מלח גס, ועוד לפי הטעם",
+          "½ כפית פלפל שחור, ועוד לפי הטעם",
+          "2 כפות שמן אבוקדו",
+          "2 גבעולי סלרי, קצוצים",
+          "בצל צהוב, קצוץ",
+          "2 כפות רסק עגבניות",
+          "5 שיני שום, קצוצות דק",
+          "ליטר ציר עצמות בקר (בלי תוספים)",
+          "2 כפיות חומץ שרי",
+          "3 גזרים, בחתיכות של 5 ס״מ",
+          "3 ענפי טימין טרי",
+          "3 ענפי פטרוזיליה",
+          "2 עלי דפנה",
+          "680 גרם תפוחי אדמה צהובים, קלופים ובפלחים"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות. מתבלים את הבשר בנדיבות (רצוי 4–6 שעות מראש, בלי כיסוי במקרר).",
+          "משחימים היטב את הבשר בשמן בסיר ברזל על אש בינונית-גבוהה, ומוציאים.",
+          "מאדים סלרי ובצל כ-4 דקות עד שהם רכים, מוסיפים רסק ושום, את הציר ואת החומץ, ומחזירים את הבשר.",
+          "קושרים יחד טימין, פטרוזיליה ועלי דפנה ומוסיפים עם הגזר. מכסים ומבשלים בתנור כ-3 שעות עד שהבשר רך.",
+          "מוסיפים את תפוחי האדמה, מעלים את התנור ל-220 מעלות ומבשלים בלי מכסה כ-35 דקות עד שהם רכים.",
+          "מעבירים את הבשר והירקות לפלטה, ומצמצמים את נוזלי הבישול על הכיריים לרוטב קליל."
+        ],
+        "whyFits": "בשר בקר כשר, ירקות וציר. הרוטב לא מוסמך בקמח, ואין חלב או סוכר. מנה עיקרית קלאסית לשבת."
+      }
+    },
+    {
+      "id": "slow-roasted-rack-of-lamb-lemon-oregano",
+      "url": "https://nomnompaleo.com/rack-of-lamb",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2020/02/800-Lamb-Rack-Hero-04a.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 50,
+      "totalMinutes": 120,
+      "servings": 4,
+      "nutrition": {
+        "calories": 417,
+        "protein": 30
+      },
+      "en": {
+        "title": "Slow-Roasted Rack of Lamb with Lemon and Oregano",
+        "description": "Salted lamb racks marinated in lemon, garlic and oregano, roasted low and slow, then browned under high heat.",
+        "steps": [
+          "Trim excess fat from the racks. Salt them all over and refrigerate, covered, overnight (up to 3 days).",
+          "Whisk the lemon juice, olive oil, garlic, oregano and pepper. Marinate the lamb in it at least 1 hour (up to 12) in the fridge.",
+          "Heat the oven to 135°C (275°F). Roast the lamb on a rack set in a baking sheet until it reaches 52°C (125°F) for medium-rare, 30–45 minutes.",
+          "Turn the oven to its highest setting or broil, and brown the racks about 5 minutes.",
+          "Slice into chops and serve."
+        ],
+        "whyFits": "Kosher lamb with lemon, garlic and herbs. No dairy, grains or sugar. Serve with a salad instead of the yogurt sauce the original suggests.",
+        "ingredients": [
+          "2 racks of lamb \"frenched\" (about 1½ pounds per rack)",
+          "2 teaspoons Diamond Crystal kosher salt",
+          "⅓ cup extra virgin olive oil",
+          "3 tablespoons lemon juice",
+          "4 garlic cloves (minced)",
+          "1 tablespoon dried oregano (or marjoram)",
+          "½ teaspoon freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "קרה טלה בצלייה איטית עם לימון ואורגנו",
+        "description": "קרה טלה מומלח, במרינדת לימון, שום ואורגנו, צלוי לאט בחום נמוך ומושחם בסוף בחום גבוה.",
+        "ingredients": [
+          "2 קרה טלה מנוקים (כ-680 גרם כל אחד)",
+          "2 כפיות מלח גס",
+          "⅓ כוס שמן זית",
+          "3 כפות מיץ לימון",
+          "4 שיני שום, כתושות",
+          "כף אורגנו יבש (או מיורן)",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "מסירים שומן עודף. ממליחים מכל הצדדים ומקררים מכוסה לילה (עד 3 ימים).",
+          "טורפים מיץ לימון, שמן זית, שום, אורגנו ופלפל. משרים את הטלה לפחות שעה (עד 12) במקרר.",
+          "מחממים תנור ל-135 מעלות. צולים את הטלה על רשת מעל תבנית עד 52 מעלות בפנים למדיום-רייר, 30–45 דקות.",
+          "מעבירים את התנור לחום הגבוה ביותר או לגריל ומשחימים כ-5 דקות.",
+          "פורסים לצלעות ומגישים."
+        ],
+        "whyFits": "טלה כשר עם לימון, שום ועשבי תיבול. בלי חלב, דגנים או סוכר. מגישים עם סלט במקום רוטב היוגורט שהמקור מציע."
+      }
+    },
+    {
       "id": "skillet-chicken-thighs-cherry-tomato-zaatar",
       "url": "https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/",
       "source": "The Mediterranean Dish",
