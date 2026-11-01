@@ -2,6 +2,1284 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "roast-chicken-potatoes-garlic-paprika",
+      "url": "https://www.kikar.co.il/chicken/137867",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/03/11/f3e11950-034f-11ef-a5b7-778804677e34__h386_w640.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "totalMinutes": 85,
+      "servings": 6,
+      "nutrition": {
+        "calories": 480,
+        "protein": 34
+      },
+      "en": {
+        "title": "Comforting Roast Chicken and Potatoes",
+        "description": "A homey tray of chicken thighs and quartered potatoes roasted with whole garlic cloves, paprika and thyme.",
+        "steps": [
+          "Heat the oven to 180°C (350°F).",
+          "Put the chicken in a baking dish and arrange the quartered potatoes around it. Scatter the garlic cloves over.",
+          "Mix the crushed garlic, thyme, paprika, salt, pepper and olive oil and rub it over the chicken and potatoes.",
+          "Roast 45–60 minutes until golden and cooked through. Serve with a fresh vegetable salad."
+        ],
+        "whyFits": "Chicken, potatoes, garlic and spices with 4 tbsp oil for 6 servings. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "8 chicken thighs (pulkes)",
+          "10 medium potatoes, peeled",
+          "1 head garlic, separated into peeled cloves",
+          "Coarse salt",
+          "Black pepper",
+          "1 tbsp dried thyme",
+          "1 tbsp crushed garlic",
+          "2 tbsp smoked or sweet paprika",
+          "4 tbsp olive oil"
+        ]
+      },
+      "he": {
+        "title": "מנה ביתית מנחמת: עוף ותפוחי אדמה בתנור",
+        "description": "תבנית ביתית של פולקעס עוף ורבעי תפוחי אדמה צלויים עם שיני שום שלמות, פפריקה וטימין.",
+        "ingredients": [
+          "8 פולקעס עוף",
+          "10 תפוחי אדמה בינוניים, קלופים",
+          "ראש שום מפורק לשיניים קלופות",
+          "מלח גס",
+          "פלפל גרוס",
+          "כף טימין מיובש",
+          "כף שום כתוש",
+          "2 כפות פפריקה מעושנת או מתוקה",
+          "4 כפות שמן זית"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות.",
+          "מניחים את העוף בתבנית ומסדרים סביבו את תפוחי האדמה החתוכים לרבעים. מפזרים מעל את שיני השום.",
+          "מערבבים שום כתוש, טימין, פפריקה, מלח, פלפל ושמן זית ומורחים על העוף ותפוחי האדמה.",
+          "צולים 45–60 דקות עד שהכול זהוב ומוכן. מגישים עם סלט ירקות טרי."
+        ],
+        "whyFits": "עוף, תפוחי אדמה, שום ותבלינים עם 4 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "chicken-roasted-peppers-thyme-lemon",
+      "url": "https://www.kikar.co.il/chicken/164761",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/02/24/0bacc9d0-02c9-11ef-97a3-e12a00cf89de__h662_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 25,
+      "cookMinutes": 45,
+      "totalMinutes": 70,
+      "servings": 4,
+      "nutrition": {
+        "calories": 420,
+        "protein": 33
+      },
+      "en": {
+        "title": "Chicken with Roasted Peppers, Thyme and Lemon",
+        "description": "Chicken legs braised with smoky fire-roasted peppers of three colors, lots of sliced garlic, thyme and lemon.",
+        "steps": [
+          "Char the peppers over a high flame until soft. Close them in a bag 15 minutes, then peel and cut into strips.",
+          "Thinly slice the garlic.",
+          "Heat the oil in a wide shallow pot and lightly brown the chicken.",
+          "Add the garlic, peppers, thyme and lemon juice, and season with salt and pepper.",
+          "Cover and cook about 40 minutes over medium heat, shaking the pot now and then."
+        ],
+        "whyFits": "Chicken and vegetables with lemon and herbs. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "4 chicken legs, divided into thighs and drumsticks",
+          "2 red bell peppers",
+          "2 yellow bell peppers",
+          "2 green bell peppers",
+          "10 garlic cloves",
+          "1 sprig fresh thyme",
+          "Juice of 1 lemon",
+          "5 tbsp olive oil",
+          "1 level tbsp salt",
+          "½ tsp black pepper"
+        ]
+      },
+      "he": {
+        "title": "עוף עם פלפלים צבעוניים ברוטב תימין ולימון",
+        "description": "כרעי עוף מבושלים עם פלפלים קלויים בשלושה צבעים, הרבה שום פרוס, תימין ולימון.",
+        "ingredients": [
+          "4 כרעי עוף, מחולקים",
+          "2 פלפלים אדומים",
+          "2 פלפלים צהובים",
+          "2 פלפלים ירוקים",
+          "10 שיני שום",
+          "ענף תימין טרי",
+          "מיץ מלימון אחד",
+          "5 כפות שמן זית",
+          "כף שטוחה מלח",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "קולים את הפלפלים על להבה גבוהה עד שהם מתרככים. סוגרים בשקית ל-15 דקות, מקלפים וחותכים לרצועות.",
+          "פורסים את השום דק.",
+          "מחממים שמן בסיר רחב ונמוך ומשחימים קלות את העוף.",
+          "מוסיפים שום, פלפלים, תימין ומיץ לימון, ומתבלים במלח ופלפל.",
+          "מכסים ומבשלים כ-40 דקות על אש בינונית, ומנערים את הסיר מדי פעם."
+        ],
+        "whyFits": "עוף וירקות עם לימון ועשבי תיבול. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "chicken-orange-vegetables-baharat-stew",
+      "url": "https://www.kikar.co.il/chicken/191423",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2016/01/26/5b666a80-02a6-11ef-97a3-e12a00cf89de__h664_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 25,
+      "cookMinutes": 70,
+      "totalMinutes": 95,
+      "servings": 6,
+      "nutrition": {
+        "calories": 450,
+        "protein": 28
+      },
+      "en": {
+        "title": "Chicken with Orange Vegetables and Baharat",
+        "description": "A rich winter stew of chicken drumsticks with chunks of sweet potato, squash, pumpkin and carrots, whole garlic, baharat and orange juice.",
+        "steps": [
+          "Peel and cut the sweet potatoes, squash, pumpkin and carrots into 5 cm chunks.",
+          "Heat the oil in a wide pot and brown the drumsticks on both sides, then set aside.",
+          "Add a little more oil, the vegetables and whole garlic cloves and cook about 8 minutes.",
+          "Return the chicken, season with salt, pepper and baharat, and pour the orange juice over.",
+          "Cover and cook on low about 1 hour."
+        ],
+        "whyFits": "Chicken and vegetables. The only sweetness is from the vegetables and fresh orange juice, with no sugar. No dairy or grains. A cozy Shabbat dish. Nutrition values are estimates.",
+        "ingredients": [
+          "8 meaty chicken drumsticks",
+          "4 sweet potatoes",
+          "1 butternut squash",
+          "400 g pumpkin",
+          "7 carrots",
+          "5 tbsp olive oil",
+          "2 whole heads garlic, peeled",
+          "1 level tbsp baharat",
+          "Coarse salt and black pepper",
+          "1 cup fresh orange juice"
+        ]
+      },
+      "he": {
+        "title": "עוף עם ירקות כתומים בבהרט – תבשיל חורפי",
+        "description": "תבשיל חורף עשיר של שוקי עוף עם חתיכות בטטה, דלורית, דלעת וגזר, ראשי שום שלמים, בהרט ומיץ תפוזים.",
+        "ingredients": [
+          "8 שוקי עוף בשרניים",
+          "4 בטטות",
+          "דלורית",
+          "400 גרם דלעת",
+          "7 גזרים",
+          "5 כפות שמן זית",
+          "2 ראשי שום שלמים, קלופים",
+          "כף שטוחה בהרט",
+          "מלח גס ופלפל שחור גרוס",
+          "כוס מיץ תפוזים טבעי"
+        ],
+        "steps": [
+          "מקלפים וחותכים בטטות, דלורית, דלעת וגזר לקוביות של 5 ס״מ.",
+          "מחממים שמן בסיר רחב ומשחימים את השוקיים משני הצדדים, ומוציאים.",
+          "מוסיפים מעט שמן, את הירקות ואת שיני השום השלמות ומבשלים כ-8 דקות.",
+          "מחזירים את העוף, מתבלים במלח, פלפל ובהרט ויוצקים מעל את מיץ התפוזים.",
+          "מכסים ומבשלים על אש נמוכה כשעה."
+        ],
+        "whyFits": "עוף וירקות. המתיקות רק מהירקות וממיץ תפוזים טבעי, בלי סוכר. בלי חלב ובלי דגנים. תבשיל שבת חמים. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "baked-tilapia-mini-peppers-garlic",
+      "url": "https://www.kikar.co.il/fish/176580",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/07/14/6465ae60-02bb-11ef-97a3-e12a00cf89de__h667_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 6,
+      "nutrition": {
+        "calories": 210,
+        "protein": 26
+      },
+      "en": {
+        "title": "Baked Tilapia with Colorful Mini Peppers",
+        "description": "Tilapia fillets baked with whole mini peppers and garlic cloves in olive oil and white wine. Simple and colorful.",
+        "steps": [
+          "Heat the oven to 180°C (350°F).",
+          "Lay the fillets in a baking dish and scatter the unpeeled garlic cloves and whole mini peppers over them.",
+          "Drizzle with the olive oil and wine and season with coarse salt.",
+          "Bake about 20 minutes, no more than 30, so the fish stays moist. Serve hot."
+        ],
+        "whyFits": "Tilapia is a kosher fish with fins and scales. Vegetables and a little wine. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "6 tilapia (St. Peter's fish) fillets",
+          "15–20 mini bell peppers in mixed colors",
+          "1 whole head garlic, cloves separated (unpeeled)",
+          "¼ cup white wine",
+          "⅓ cup olive oil",
+          "1 tbsp coarse salt"
+        ]
+      },
+      "he": {
+        "title": "פילה אמנון אפוי עם פלפלונים צבעוניים",
+        "description": "פילה אמנון אפוי עם פלפלונים שלמים ושיני שום בשמן זית ויין לבן. פשוט וצבעוני.",
+        "ingredients": [
+          "6 פילטים של דג אמנון",
+          "15–20 פלפלונים קטנים בצבעים שונים",
+          "ראש שום שלם, מפורק לשיניים בקליפתן",
+          "¼ כוס יין לבן",
+          "⅓ כוס שמן זית",
+          "כף מלח גס"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות.",
+          "מסדרים את הפילטים בתבנית ומפזרים עליהם את שיני השום בקליפתן ואת הפלפלונים השלמים.",
+          "מטפטפים שמן זית ויין לבן ומתבלים במלח גס.",
+          "אופים כ-20 דקות, ולא יותר מחצי שעה, כדי שהדג לא יתייבש. מגישים חם."
+        ],
+        "whyFits": "אמנון הוא דג כשר עם סנפירים וקשקשים. ירקות ומעט יין. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "three-color-roasted-pepper-salad",
+      "url": "https://www.kikar.co.il/salads/150837",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/08/28/fa45aa60-033e-11ef-a5b7-778804677e34__h667_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 40,
+      "cookMinutes": 15,
+      "totalMinutes": 55,
+      "servings": 6,
+      "nutrition": {
+        "calories": 110,
+        "protein": 2
+      },
+      "en": {
+        "title": "Three-Color Roasted Pepper Salad",
+        "description": "A classic Israeli salad of fire-roasted red, yellow and green peppers marinated with sliced garlic, lemon and olive oil.",
+        "steps": [
+          "Roast the whole peppers over an open flame until the skin is almost completely black.",
+          "Close the hot peppers in a bag for 15 minutes.",
+          "Peel off the charred skin, slice into strips and put in a bowl.",
+          "Thinly slice the garlic and juice the lemons.",
+          "Mix the peppers with the garlic, lemon juice, oil and salt. Refrigerate overnight for the best flavor."
+        ],
+        "whyFits": "Vegetables, garlic, lemon and olive oil. No dairy, grains or sugar. A Shabbat-table classic. Nutrition values are estimates.",
+        "ingredients": [
+          "2 red bell peppers",
+          "2 yellow bell peppers",
+          "2 green bell peppers",
+          "10 garlic cloves",
+          "2 lemons",
+          "1 level tsp salt",
+          "5 tbsp olive oil"
+        ]
+      },
+      "he": {
+        "title": "סלט פלפלים קלויים בשלושה צבעים",
+        "description": "סלט ישראלי קלאסי של פלפלים אדומים, צהובים וירוקים קלויים על האש, כבושים עם שום פרוס, לימון ושמן זית.",
+        "ingredients": [
+          "2 פלפלים אדומים",
+          "2 פלפלים צהובים",
+          "2 פלפלים ירוקים",
+          "10 שיני שום",
+          "2 לימונים",
+          "כפית שטוחה מלח",
+          "5 כפות שמן זית"
+        ],
+        "steps": [
+          "קולים את הפלפלים השלמים על להבה גלויה עד שהקליפה כמעט שחורה לגמרי.",
+          "סוגרים את הפלפלים החמים בשקית ל-15 דקות.",
+          "מקלפים את הקליפה השחורה, פורסים לרצועות ומעבירים לקערה.",
+          "פורסים את השום דק וסוחטים את הלימונים.",
+          "מערבבים את הפלפלים עם השום, מיץ הלימון, השמן והמלח. מקררים לילה לטעם הטוב ביותר."
+        ],
+        "whyFits": "ירקות, שום, לימון ושמן זית. בלי חלב, דגנים או סוכר. קלאסיקה לשולחן השבת. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "fresh-fennel-lemon-salad",
+      "url": "https://www.kikar.co.il/salads/151952",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/09/11/e7a9fba0-033d-11ef-bda2-67c3ab9302bb__h667_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 110,
+        "protein": 1
+      },
+      "en": {
+        "title": "Fresh Fennel Salad with Lemon",
+        "description": "A crisp, refreshing salad of thinly sliced fennel with a light anise flavor, dressed simply with olive oil and lemon.",
+        "steps": [
+          "Remove the stalks and fronds from the fennel.",
+          "Slice the bulbs into thin strips.",
+          "Toss with the olive oil, lemon juice, salt and pepper.",
+          "Refrigerate until serving."
+        ],
+        "whyFits": "One vegetable with olive oil and lemon. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "2 fennel bulbs",
+          "3 tbsp olive oil",
+          "2 tbsp fresh lemon juice",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט שומר עם לימון",
+        "description": "סלט פריך ומרענן של שומר פרוס דק בטעם אניס עדין, בתיבול פשוט של שמן זית ולימון.",
+        "ingredients": [
+          "2 ראשי שומר",
+          "3 כפות שמן זית",
+          "2 כפות מיץ לימון סחוט טרי",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מסירים את הגבעולים והעלים מראשי השומר.",
+          "פורסים את הפקעות לפסים דקים.",
+          "מערבבים עם שמן זית, מיץ לימון, מלח ופלפל.",
+          "מכניסים למקרר עד ההגשה."
+        ],
+        "whyFits": "ירק אחד עם שמן זית ולימון. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "turkish-cooked-pepper-tomato-salad",
+      "url": "https://www.kikar.co.il/salads/152395",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/09/17/581b5790-033d-11ef-b82e-7751b1a920c0__h651_w987.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 70,
+      "totalMinutes": 85,
+      "servings": 6,
+      "nutrition": {
+        "calories": 70,
+        "protein": 2
+      },
+      "en": {
+        "title": "Turkish Salad (Cooked Spicy Pepper and Tomato Salad)",
+        "description": "A classic Israeli spread-salad of roasted red peppers and peeled tomatoes cooked down with onion, tomato paste, cumin and paprika.",
+        "steps": [
+          "Heat the oven to 180°C (350°F). Halve the peppers and roast about 45 minutes.",
+          "Score an X on each tomato, soak them in boiling water about 10 minutes, then peel and dice.",
+          "Finely chop the onion. Cut the cooled peppers into strips.",
+          "Fry the onion in a little oil until golden. Add the tomatoes and peppers for 2 minutes.",
+          "Add the tomato paste, paprika, cumin, salt and pepper and cook on low about 20 minutes. Stir in the chopped parsley, adding up to ½ cup water if it's too dry."
+        ],
+        "whyFits": "Vegetables cooked with very little oil. No dairy, grains or sugar. Keeps well for Shabbat. Nutrition values are estimates.",
+        "ingredients": [
+          "4 ripe tomatoes",
+          "2 red bell peppers",
+          "1 large onion",
+          "½ cup tomato paste",
+          "¼ bunch parsley",
+          "Pinch of cumin",
+          "Pinch of paprika",
+          "A little oil",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט טורקי: פלפלים ועגבניות בתיבול פיקנטי",
+        "description": "סלט-ממרח ישראלי קלאסי של פלפלים אדומים צלויים ועגבניות קלופות, מבושלים עם בצל, רסק עגבניות, כמון ופפריקה.",
+        "ingredients": [
+          "4 עגבניות בשלות",
+          "2 פלפלים אדומים",
+          "בצל גדול",
+          "½ כוס רסק עגבניות",
+          "¼ צרור פטרוזיליה",
+          "קורט כמון",
+          "קורט פפריקה",
+          "מעט שמן",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-180 מעלות. חוצים את הפלפלים וצולים כ-45 דקות.",
+          "חורצים X בכל עגבנייה, משרים במים רותחים כ-10 דקות, מקלפים וחותכים לקוביות.",
+          "קוצצים את הבצל דק. חותכים את הפלפלים שהתקררו לרצועות.",
+          "מטגנים את הבצל במעט שמן עד להזהבה. מוסיפים עגבניות ופלפלים ל-2 דקות.",
+          "מוסיפים רסק, פפריקה, כמון, מלח ופלפל ומבשלים על אש נמוכה כ-20 דקות. מערבבים פנימה פטרוזיליה קצוצה, ומוסיפים עד ½ כוס מים אם יבש מדי."
+        ],
+        "whyFits": "ירקות מבושלים עם מעט מאוד שמן. בלי חלב, דגנים או סוכר. נשמר יפה לשבת. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "zucchini-coconut-milk-soup",
+      "url": "https://www.kikar.co.il/soups/155184",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/10/30/48bb51a0-02d5-11ef-97a3-e12a00cf89de__h664_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 55,
+      "totalMinutes": 65,
+      "servings": 6,
+      "nutrition": {
+        "calories": 150,
+        "protein": 3
+      },
+      "en": {
+        "title": "Creamy Zucchini and Coconut Milk Soup",
+        "description": "A velvety Israeli-style zucchini soup blended smooth and enriched with coconut milk and a hint of nutmeg.",
+        "steps": [
+          "Cut the zucchini into even cubes without peeling.",
+          "Heat the oil in a tall pot and cook the onion until translucent.",
+          "Add the zucchini and cook about 10 minutes over medium heat.",
+          "Add the broth or water, season with salt, white pepper and nutmeg, cover, and simmer about 40 minutes.",
+          "Blend with a stick blender, add the coconut milk, and bring back to a boil. Serve with chopped green onion."
+        ],
+        "whyFits": "Vegetables made creamy with coconut milk instead of cream. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "8 medium firm zucchini (kishuim)",
+          "2 white onions",
+          "240 ml coconut milk",
+          "4 tbsp olive oil",
+          "2½ liters vegetable broth or water",
+          "Pinch of nutmeg",
+          "White pepper",
+          "Salt"
+        ]
+      },
+      "he": {
+        "title": "מרק קישואים מפנק עם חלב קוקוס",
+        "description": "מרק קישואים קטיפתי בסגנון ישראלי, טחון חלק ומועשר בחלב קוקוס ונגיעה של אגוז מוסקט.",
+        "ingredients": [
+          "8 קישואים בינוניים ומוצקים",
+          "2 בצלים לבנים",
+          "240 מ״ל חלב קוקוס",
+          "4 כפות שמן זית",
+          "2½ ליטר ציר ירקות או מים",
+          "קורט אגוז מוסקט",
+          "פלפל לבן",
+          "מלח"
+        ],
+        "steps": [
+          "חותכים את הקישואים לקוביות אחידות בלי לקלף.",
+          "מחממים שמן בסיר גבוה ומטגנים את הבצל עד שהוא שקוף.",
+          "מוסיפים את הקישואים ומאדים כ-10 דקות על אש בינונית.",
+          "מוסיפים ציר או מים, מתבלים במלח, פלפל לבן ומוסקט, מכסים ומבשלים כ-40 דקות.",
+          "טוחנים בבלנדר מוט, מוסיפים חלב קוקוס ומביאים שוב לרתיחה. מגישים עם בצל ירוק קצוץ."
+        ],
+        "whyFits": "ירקות שהקרמיות שלהם מגיעה מחלב קוקוס במקום שמנת. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "split-pea-red-lentil-hawaij-soup",
+      "url": "https://www.kikar.co.il/soups/159991",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/12/30/c9a0f730-02cf-11ef-97a3-e12a00cf89de__h667_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 100,
+      "totalMinutes": 115,
+      "servings": 6,
+      "nutrition": {
+        "calories": 230,
+        "protein": 13
+      },
+      "en": {
+        "title": "Split Pea and Red Lentil Soup with Hawaij",
+        "description": "A thick, warming Yemenite-style soup of split peas and red lentils with potato, carrot, cumin and hawaij spice.",
+        "steps": [
+          "Bring 3 liters of water to a boil. Peel and cube the potato and carrot, and chop the onion and garlic.",
+          "Brown the onion in a little olive oil in a deep pot, about 10 minutes.",
+          "Add the garlic, carrot, potato, split peas, lentils and parsley stems, pour in the boiling water except 2 cups, and bring to a boil.",
+          "Simmer 30 minutes, stirring now and then. Add the remaining 2 cups boiling water and cook about 1 hour more, adding the spices and salt in the last 10 minutes.",
+          "Remove the parsley, cool slightly, and blend to the thickness you like."
+        ],
+        "whyFits": "Legumes and vegetables with very little oil. Hawaij is a natural spice blend. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "1½ cups dried split peas",
+          "3 tbsp red lentils",
+          "1 large potato",
+          "1 carrot",
+          "3 garlic cloves",
+          "1 large onion",
+          "5 parsley stems",
+          "1 tsp cumin",
+          "1 tsp Yemeni hawaij spice for soup",
+          "Salt"
+        ]
+      },
+      "he": {
+        "title": "מרק אפונה ועדשים כתומות עם חוויאג׳",
+        "description": "מרק סמיך ומחמם בסגנון תימני של אפונה יבשה ועדשים כתומות, עם תפוח אדמה, גזר, כמון וחוויאג׳.",
+        "ingredients": [
+          "1½ כוסות אפונה יבשה",
+          "3 כפות עדשים כתומות",
+          "תפוח אדמה גדול",
+          "גזר",
+          "3 שיני שום",
+          "בצל גדול",
+          "5 גבעולי פטרוזיליה",
+          "כפית כמון",
+          "כפית חוויאג׳ למרק",
+          "מלח"
+        ],
+        "steps": [
+          "מביאים 3 ליטר מים לרתיחה. מקלפים וחותכים לקוביות תפוח אדמה וגזר, וקוצצים בצל ושום.",
+          "משחימים את הבצל במעט שמן זית בסיר עמוק כ-10 דקות.",
+          "מוסיפים שום, גזר, תפוח אדמה, אפונה, עדשים וגבעולי פטרוזיליה, יוצקים את המים הרותחים חוץ מ-2 כוסות ומביאים לרתיחה.",
+          "מבשלים 30 דקות תוך ערבוב מדי פעם. מוסיפים את 2 כוסות המים הרותחים ומבשלים עוד כשעה. ב-10 הדקות האחרונות מוסיפים תבלינים ומלח.",
+          "מוציאים את הפטרוזיליה, מצננים מעט וטוחנים לסמיכות הרצויה."
+        ],
+        "whyFits": "קטניות וירקות עם מעט מאוד שמן. חוויאג׳ הוא תערובת תבלינים טבעית. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "carrot-leek-apple-soup",
+      "url": "https://www.kikar.co.il/soups/185649",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/11/16/661015f0-02ae-11ef-97a3-e12a00cf89de__h735_w1000.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "totalMinutes": 55,
+      "servings": 6,
+      "nutrition": {
+        "calories": 120,
+        "protein": 2
+      },
+      "en": {
+        "title": "Thick Carrot and Leek Soup with Green Apple",
+        "description": "A smooth, comforting soup of carrots, leek and potato with a hint of green apple, blended until silky.",
+        "steps": [
+          "Dice the carrots, potato and cored apple. Wash and dice the leek. Chop the onion and crush the garlic.",
+          "Put all the vegetables in a wide pot with a drizzle of olive oil, salt and pepper and cook about 10 minutes until they start to soften.",
+          "Add 2 liters of water, bring to a boil, then simmer about 30 minutes until very tender.",
+          "Season and blend until smooth. Sprinkle with paprika."
+        ],
+        "whyFits": "Vegetables and a little olive oil. The apple adds natural sweetness, with no sugar. No dairy or grains. Nutrition values are estimates.",
+        "ingredients": [
+          "6 carrots",
+          "1 large potato",
+          "1 leek (white and light green parts)",
+          "1 green apple",
+          "1 medium onion",
+          "2 garlic cloves",
+          "2 liters water",
+          "Salt and black pepper",
+          "Olive oil",
+          "Sweet paprika"
+        ]
+      },
+      "he": {
+        "title": "מרק גזר וכרישה סמיך עם תפוח ירוק",
+        "description": "מרק חלק ומנחם של גזר, כרישה ותפוח אדמה עם נגיעה של תפוח ירוק, טחון עד שהוא קטיפתי.",
+        "ingredients": [
+          "6 גזרים",
+          "תפוח אדמה גדול",
+          "כרישה (החלק הלבן והירוק הבהיר)",
+          "תפוח ירוק",
+          "בצל בינוני",
+          "2 שיני שום",
+          "2 ליטר מים",
+          "מלח ופלפל שחור",
+          "שמן זית",
+          "פפריקה מתוקה"
+        ],
+        "steps": [
+          "חותכים לקוביות גזר, תפוח אדמה ותפוח בלי הליבה. שוטפים וחותכים את הכרישה. קוצצים בצל וכותשים שום.",
+          "מעבירים את כל הירקות לסיר רחב עם מעט שמן זית, מלח ופלפל ומבשלים כ-10 דקות עד שהם מתחילים להתרכך.",
+          "מוסיפים 2 ליטר מים, מביאים לרתיחה ומבשלים כ-30 דקות עד שהירקות רכים מאוד.",
+          "מתקנים תיבול וטוחנים עד שהמרק חלק. מפזרים פפריקה."
+        ],
+        "whyFits": "ירקות ומעט שמן זית. התפוח מוסיף מתיקות טבעית, בלי סוכר. בלי חלב ובלי דגנים. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "roasted-beet-carrot-ginger-soup",
+      "url": "https://www.kikar.co.il/soups/188726",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2015/12/23/564a71f0-02aa-11ef-97a3-e12a00cf89de__h798_w998.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "totalMinutes": 80,
+      "servings": 6,
+      "nutrition": {
+        "calories": 140,
+        "protein": 2
+      },
+      "en": {
+        "title": "Roasted Beet, Carrot and Ginger Soup",
+        "description": "A vivid magenta soup of oven-roasted beets and carrots blended with ginger-infused broth, onion, garlic and lemon.",
+        "steps": [
+          "Heat the oven to 230°C (450°F). Peel and cube the beets and carrots, toss with 2 tbsp oil and salt, and roast about 45 minutes, turning once or twice (take the carrots out earlier if they're done).",
+          "Bring the broth with the ginger and parsley stems just to a boil, then take off the heat.",
+          "Finely chop the onion and garlic and cook them in the remaining oil about 5 minutes.",
+          "Add the roasted vegetables and the strained broth, boil, then simmer 5 minutes.",
+          "Blend until smooth, add lemon juice, salt and pepper, and serve topped with chopped parsley."
+        ],
+        "whyFits": "Vegetables and olive oil, sweet only from the beets and carrots. The original's sour cream topping is left out. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "6 medium beets",
+          "2–3 large carrots",
+          "¼ cup olive oil",
+          "Sea salt",
+          "6 cups vegetable broth or water",
+          "5 cm ginger, peeled and thinly sliced",
+          "3 large parsley stems (leaves separated, to garnish)",
+          "½ large onion",
+          "1 large garlic clove",
+          "2 small lemons",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק סלק, גזר וג׳ינג׳ר צלויים",
+        "description": "מרק בצבע מג׳נטה עז של סלק וגזר צלויים בתנור, טחונים עם ציר ג׳ינג׳ר, בצל, שום ולימון.",
+        "ingredients": [
+          "6 סלקים בינוניים",
+          "2–3 גזרים גדולים",
+          "¼ כוס שמן זית",
+          "מלח ים",
+          "6 כוסות ציר ירקות או מים",
+          "5 ס״מ ג׳ינג׳ר קלוף ופרוס דק",
+          "3 גבעולי פטרוזיליה גדולים (העלים בנפרד, לקישוט)",
+          "½ בצל גדול",
+          "שן שום גדולה",
+          "2 לימונים קטנים",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות. מקלפים וחותכים לקוביות סלק וגזר, מערבבים עם 2 כפות שמן ומלח וצולים כ-45 דקות, הופכים פעם-פעמיים (מוציאים את הגזר מוקדם אם הוא מוכן).",
+          "מביאים את הציר עם הג׳ינג׳ר וגבעולי הפטרוזיליה לסף רתיחה ומורידים מהאש.",
+          "קוצצים דק בצל ושום ומאדים בשאר השמן כ-5 דקות.",
+          "מוסיפים את הירקות הצלויים ואת הציר המסונן, מרתיחים ומבשלים 5 דקות.",
+          "טוחנים עד שהמרק חלק, מוסיפים מיץ לימון, מלח ופלפל ומגישים עם פטרוזיליה קצוצה."
+        ],
+        "whyFits": "ירקות ושמן זית, מתוק רק מהסלק והגזר. השמנת החמוצה שהמקור מציע מעל הושמטה. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "spicy-vegan-vegetable-stew",
+      "url": "https://www.kikar.co.il/stews/155876",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2014/11/09/58c2abd0-02d4-11ef-97a3-e12a00cf89de__h2429_w3612.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 40,
+      "cookMinutes": 30,
+      "totalMinutes": 70,
+      "servings": 6,
+      "nutrition": {
+        "calories": 170,
+        "protein": 3
+      },
+      "en": {
+        "title": "Spicy Vegan Vegetable Stew",
+        "description": "A hearty pot of sweet potato, zucchini, eggplant and tomato stewed with garlic, cumin and tomato paste.",
+        "steps": [
+          "Peel the sweet potatoes and eggplant and cut all the vegetables into even cubes. Chop the onion and slice the garlic.",
+          "Heat the oil in a wide pot and fry the onion and garlic until golden.",
+          "Add the eggplant, zucchini, sweet potatoes and tomatoes and stir.",
+          "Season with salt, pepper and cumin, add the tomato paste and water, and stir.",
+          "Cover and cook 30 minutes over medium heat."
+        ],
+        "whyFits": "Vegetables only, with 4 tbsp oil for 6 servings. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "3 medium sweet potatoes",
+          "2 firm zucchini (kishuim)",
+          "1 medium eggplant",
+          "1 large onion",
+          "2 tomatoes",
+          "8 garlic cloves",
+          "4 tbsp olive oil",
+          "1 level tbsp salt",
+          "¼ tsp black pepper",
+          "1 level tsp cumin",
+          "3 tbsp tomato paste",
+          "1 cup water"
+        ]
+      },
+      "he": {
+        "title": "תבשיל ירקות טבעוני בתיבול פיקנטי",
+        "description": "סיר משביע של בטטה, קישואים, חציל ועגבניות מבושלים עם שום, כמון ורסק עגבניות.",
+        "ingredients": [
+          "3 בטטות בינוניות",
+          "2 קישואים מוצקים",
+          "חציל בינוני",
+          "בצל גדול",
+          "2 עגבניות",
+          "8 שיני שום",
+          "4 כפות שמן זית",
+          "כף שטוחה מלח",
+          "¼ כפית פלפל שחור",
+          "כפית שטוחה כמון",
+          "3 כפות רסק עגבניות",
+          "כוס מים"
+        ],
+        "steps": [
+          "מקלפים את הבטטות והחציל וחותכים את כל הירקות לקוביות אחידות. קוצצים את הבצל ופורסים את השום.",
+          "מחממים שמן בסיר רחב ומטגנים את הבצל והשום עד להזהבה.",
+          "מוסיפים חציל, קישואים, בטטות ועגבניות ומערבבים.",
+          "מתבלים במלח, פלפל וכמון, מוסיפים רסק ומים ומערבבים.",
+          "מכסים ומבשלים 30 דקות על אש בינונית."
+        ],
+        "whyFits": "ירקות בלבד, 4 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "ghivetch-zucchini-tomato-stew",
+      "url": "https://www.kikar.co.il/stews/194410",
+      "source": "כיכר השבת · אוכל",
+      "sourceLang": "he",
+      "image": "https://i.kikar.co.il/2016/03/06/a7efc1c0-02a2-11ef-97a3-e12a00cf89de__h538_w667.jpg?width=1200&height=675&quality=85&format=jpeg&aspect_ratio=16%3A9",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 110,
+      "totalMinutes": 130,
+      "servings": 6,
+      "nutrition": {
+        "calories": 90,
+        "protein": 3
+      },
+      "en": {
+        "title": "Ghivetch (Slow-Cooked Zucchini in Tomato Sauce)",
+        "description": "A Balkan-Israeli home classic of zucchini cooked down slowly with onion and tomato paste until soft and rich.",
+        "steps": [
+          "Chop the onion. Peel the zucchini and cut it into cubes.",
+          "Fry the onion in the oil until lightly browned. Add the zucchini and herbs and sauté until some pieces brown.",
+          "Add the tomato paste and cook 10 minutes, then add 2 cups of water and bring to a boil.",
+          "Lower the heat and simmer 1½ hours, stirring now and then and adding a little water if it gets too thick.",
+          "Season with salt and pepper 10 minutes before the end and cook off any extra liquid."
+        ],
+        "whyFits": "Vegetables with a little olive oil. Serve it as a side or with eggs, not with the bread or pizza dough the original suggests. No dairy, grains or sugar. Nutrition values are estimates.",
+        "ingredients": [
+          "1 kg zucchini (kishuim)",
+          "1 large onion",
+          "2½ tbsp olive oil",
+          "100 g tomato paste",
+          "Dried oregano or thyme (optional)",
+          "Salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "גיבץ׳ – תבשיל קישואים ברוטב עגבניות",
+        "description": "קלאסיקה ביתית בלקנית-ישראלית של קישואים שמתבשלים לאט עם בצל ורסק עגבניות עד שהם רכים ועשירים.",
+        "ingredients": [
+          "1 ק״ג קישואים",
+          "בצל גדול",
+          "2½ כפות שמן זית",
+          "100 גרם רסק עגבניות",
+          "אורגנו מיובש או תימין (לא חובה)",
+          "מלח ופלפל שחור"
+        ],
+        "steps": [
+          "קוצצים את הבצל. מקלפים את הקישואים וחותכים לקוביות.",
+          "מטגנים את הבצל בשמן עד להשחמה קלה. מוסיפים קישואים ועשבי תיבול ומקפיצים עד שחלקם משחימים.",
+          "מוסיפים רסק ומבשלים 10 דקות, ואז מוסיפים 2 כוסות מים ומביאים לרתיחה.",
+          "מנמיכים את האש ומבשלים שעה וחצי, מערבבים מדי פעם ומוסיפים מעט מים אם סמיך מדי.",
+          "10 דקות לפני הסוף מתבלים במלח ופלפל ומאדים נוזלים עודפים."
+        ],
+        "whyFits": "ירקות עם מעט שמן זית. מגישים כתוספת או עם ביצים, לא עם הלחם או בצק הפיצה שהמקור מציע. בלי חלב, דגנים או סוכר. ערכים תזונתיים משוערים."
+      }
+    },
+    {
+      "id": "spiced-potato-herb-omelet",
+      "url": "https://www.themediterraneandish.com/potato-omelet-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/02/potato-omelette-recipe-5.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 6,
+      "nutrition": {
+        "calories": 176,
+        "protein": 8
+      },
+      "en": {
+        "title": "Spiced Potato and Herb Omelet",
+        "description": "A thick oven-finished omelet of spiced potatoes, green onion and garlic set in eggs with lots of fresh dill and parsley.",
+        "steps": [
+          "Heat the oven to 190°C (375°F).",
+          "Heat the oil in a 25 cm ovenproof skillet over medium-high heat. Add the potatoes, green onion, garlic, salt and spices and cook 5–10 minutes until tender.",
+          "Whisk the eggs with the herbs and a pinch of salt.",
+          "Pour over the potatoes and cook 3–4 minutes until the edges begin to set.",
+          "Bake 8–10 minutes until fully set."
+        ],
+        "whyFits": "Eggs, potatoes, herbs and spices with 2 tbsp oil for 6 servings. No dairy, grains or sugar. Good warm or cold.",
+        "ingredients": [
+          "2 tbsp extra virgin olive oil",
+          "3 gold potatoes (about 340 g), peeled and cut into 1 cm cubes",
+          "1–2 green onions, sliced",
+          "1–2 garlic cloves, minced",
+          "Kosher salt",
+          "1 tsp ground coriander",
+          "1 tsp Aleppo pepper",
+          "½ tsp sweet paprika",
+          "¼ tsp turmeric",
+          "6 large eggs",
+          "½ cup chopped fresh dill",
+          "½ cup chopped fresh parsley"
+        ]
+      },
+      "he": {
+        "title": "חביתת תפוחי אדמה ועשבי תיבול מתובלת",
+        "description": "חביתה עבה שמסיימת בתנור, של תפוחי אדמה מתובלים, בצל ירוק ושום בתוך ביצים עם הרבה שמיר ופטרוזיליה.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "3 תפוחי אדמה צהובים (כ-340 גרם), קלופים ובקוביות של 1 ס״מ",
+          "1–2 בצלים ירוקים, פרוסים",
+          "1–2 שיני שום, כתושות",
+          "מלח גס",
+          "כפית כוסברה טחונה",
+          "כפית פלפל אלפו",
+          "½ כפית פפריקה מתוקה",
+          "¼ כפית כורכום",
+          "6 ביצים גדולות",
+          "½ כוס שמיר קצוץ",
+          "½ כוס פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות.",
+          "מחממים שמן במחבת 25 ס״מ שמתאימה לתנור על אש בינונית-גבוהה. מוסיפים תפוחי אדמה, בצל ירוק, שום, מלח ותבלינים ומבשלים 5–10 דקות עד שהם רכים.",
+          "טורפים ביצים עם עשבי התיבול וקורט מלח.",
+          "יוצקים על תפוחי האדמה ומבשלים 3–4 דקות עד שהשוליים מתחילים להתייצב.",
+          "אופים בתנור 8–10 דקות עד שהחביתה מוכנה לגמרי."
+        ],
+        "whyFits": "ביצים, תפוחי אדמה, עשבי תיבול ותבלינים, 2 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר. טעים חם או קר."
+      }
+    },
+    {
+      "id": "avocado-lime-deviled-eggs",
+      "url": "https://downshiftology.com/recipes/avocado-deviled-eggs/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2019/06/Avocado-Deviled-Eggs-9.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "totalMinutes": 35,
+      "servings": 3,
+      "nutrition": {
+        "calories": 275,
+        "protein": 14
+      },
+      "en": {
+        "title": "Avocado and Lime Deviled Eggs (No Mayo)",
+        "description": "Hard-boiled egg halves filled with a creamy mash of yolk, avocado, lime, red onion and cilantro.",
+        "steps": [
+          "Halve the hard-boiled eggs and scoop the yolks into a bowl. Set the whites on a platter.",
+          "Add the avocado, lime juice, red onion, cilantro, garlic powder, salt and pepper.",
+          "Mash until creamy.",
+          "Spoon or pipe the filling into the egg whites and garnish with more onion and cilantro."
+        ],
+        "whyFits": "Avocado instead of mayonnaise, so nothing processed. Eggs and vegetables only. No dairy, grains or sugar.",
+        "ingredients": [
+          "6 hard-boiled eggs",
+          "1 avocado (peeled and pitted)",
+          "1 lime (juiced)",
+          "2 tbsp red onion (finely chopped)",
+          "2 tbsp cilantro (finely chopped)",
+          "1 tsp garlic powder",
+          "salt and pepper (to taste)"
+        ]
+      },
+      "he": {
+        "title": "ביצים ממולאות באבוקדו וליים (בלי מיונז)",
+        "description": "חצאי ביצים קשות ממולאים במחית קרמית של חלמון, אבוקדו, ליים, בצל סגול וכוסברה.",
+        "ingredients": [
+          "6 ביצים קשות",
+          "אבוקדו, קלוף ובלי גלעין",
+          "ליים (מיץ)",
+          "2 כפות בצל סגול קצוץ דק",
+          "2 כפות כוסברה קצוצה דק",
+          "כפית אבקת שום",
+          "מלח ופלפל לפי הטעם"
+        ],
+        "steps": [
+          "חוצים את הביצים הקשות ומוציאים את החלמונים לקערה. מניחים את החלבונים בפלטה.",
+          "מוסיפים אבוקדו, מיץ ליים, בצל סגול, כוסברה, אבקת שום, מלח ופלפל.",
+          "מועכים עד שהמחית קרמית.",
+          "ממלאים בכפית או בשק זילוף את החלבונים ומקשטים בעוד בצל וכוסברה."
+        ],
+        "whyFits": "אבוקדו במקום מיונז, כך שאין שום דבר מעובד. רק ביצים וירקות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "breakfast-stuffed-peppers-potato-egg",
+      "url": "https://www.themediterraneandish.com/easy-stuffed-peppers/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2018/04/Easy-Stuffed-Peppers-for-Breakfast-The-Mediterranean-Dish-3.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "totalMinutes": 60,
+      "servings": 6,
+      "nutrition": {
+        "calories": 148,
+        "protein": 9
+      },
+      "en": {
+        "title": "Breakfast Stuffed Peppers with Potato Hash and Eggs",
+        "description": "Pepper halves filled with a spiced potato-mushroom hash, topped with an egg each and baked until just set.",
+        "steps": [
+          "Heat the oven to 175°C (350°F). Put the pepper halves in a baking dish with 1 cup water, cover with foil, and bake 10–15 minutes.",
+          "Brown the mushrooms in a hot dry skillet, salt them, and set aside.",
+          "Heat the oil, add the onion and potatoes with salt, pepper and the spices, and cook until the potatoes are tender. Add the garlic.",
+          "Stir in the mushrooms, tomatoes and parsley.",
+          "Fill each pepper ¾ full, crack an egg on top, cover with tented foil, and bake 18–20 minutes until the eggs are softly set."
+        ],
+        "whyFits": "Eggs and vegetables with 2 tbsp oil for 6 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 bell peppers, halved lengthwise and cored",
+          "1 cup water",
+          "2 tbsp extra virgin olive oil",
+          "170 g mushrooms, chopped",
+          "1 cup chopped yellow onion",
+          "340 g gold potatoes, peeled and diced small",
+          "Salt and pepper",
+          "¾ tsp Aleppo pepper",
+          "¾ tsp ground coriander",
+          "¾ tsp ground cumin",
+          "½ tsp turmeric",
+          "3 garlic cloves, chopped",
+          "½ cup chopped cherry tomatoes",
+          "½ cup chopped fresh parsley",
+          "6 eggs"
+        ]
+      },
+      "he": {
+        "title": "פלפלים ממולאים לבוקר עם תפוחי אדמה וביצה",
+        "description": "חצאי פלפלים ממולאים בתערובת מתובלת של תפוחי אדמה ופטריות, עם ביצה על כל אחד, אפויים עד שהביצה מתייצבת.",
+        "ingredients": [
+          "3 פלפלים, חצויים לאורך ומנוקים",
+          "כוס מים",
+          "2 כפות שמן זית",
+          "170 גרם פטריות, קצוצות",
+          "כוס בצל צהוב קצוץ",
+          "340 גרם תפוחי אדמה צהובים, קלופים ובקוביות קטנות",
+          "מלח ופלפל",
+          "¾ כפית פלפל אלפו",
+          "¾ כפית כוסברה טחונה",
+          "¾ כפית כמון טחון",
+          "½ כפית כורכום",
+          "3 שיני שום, קצוצות",
+          "½ כוס עגבניות שרי קצוצות",
+          "½ כוס פטרוזיליה קצוצה",
+          "6 ביצים"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות. מניחים את חצאי הפלפלים בתבנית עם כוס מים, מכסים בנייר כסף ואופים 10–15 דקות.",
+          "משחימים את הפטריות במחבת לוהטת ויבשה, ממליחים ומוציאים.",
+          "מחממים את השמן, מוסיפים בצל ותפוחי אדמה עם מלח, פלפל ותבלינים ומבשלים עד שתפוחי האדמה רכים. מוסיפים שום.",
+          "מערבבים פנימה פטריות, עגבניות ופטרוזיליה.",
+          "ממלאים כל פלפל עד ¾, שוברים ביצה מעל, מכסים בנייר כסף מורם ואופים 18–20 דקות עד שהביצים מתייצבות ברכות."
+        ],
+        "whyFits": "ביצים וירקות עם 2 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cashew-date-vanilla-shake",
+      "url": "https://downshiftology.com/recipes/cashew-date-shake-vegan-paleo/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2016/07/Cashew-date-shake-dairy-free-vegan-4.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 130,
+      "servings": 2,
+      "nutrition": {
+        "calories": 497,
+        "protein": 9
+      },
+      "en": {
+        "title": "Cashew Date Vanilla Shake",
+        "description": "A thick, milkshake-like drink of soaked cashews, Medjool dates, frozen banana, vanilla and warm spices.",
+        "steps": [
+          "Drain the soaked cashews and dates.",
+          "Blend them with the banana, water, ice, vanilla, spices and salt until thick and creamy, and serve."
+        ],
+        "whyFits": "Sweetened only with dates and banana. No dairy, sugar or flour. The original's whipped cream topping is left out.",
+        "ingredients": [
+          "⅔ cup raw cashews, soaked 2–4 hours",
+          "6 Medjool dates, pitted and soaked 10 minutes",
+          "1 frozen banana",
+          "¾ cup water",
+          "2 cups ice",
+          "1 tsp vanilla extract",
+          "¼ tsp nutmeg",
+          "Pinch of cinnamon",
+          "Pinch of sea salt"
+        ]
+      },
+      "he": {
+        "title": "שייק וניל, קשיו ותמרים",
+        "description": "משקה סמיך כמו מילקשייק מקשיו מושרה, תמרי מג׳הול, בננה קפואה, וניל ותבלינים חמים.",
+        "ingredients": [
+          "⅔ כוס קשיו טבעי, מושרה 2–4 שעות",
+          "6 תמרי מג׳הול, מגולענים ומושרים 10 דקות",
+          "בננה קפואה",
+          "¾ כוס מים",
+          "2 כוסות קרח",
+          "כפית תמצית וניל",
+          "¼ כפית אגוז מוסקט",
+          "קורט קינמון",
+          "קורט מלח ים"
+        ],
+        "steps": [
+          "מסננים את הקשיו והתמרים המושרים.",
+          "טוחנים אותם עם הבננה, המים, הקרח, הווניל, התבלינים והמלח עד שהשייק סמיך וקרמי, ומגישים."
+        ],
+        "whyFits": "ממותק רק בתמרים ובבננה. בלי חלב, סוכר או קמח. הקצפת שהמקור מציע מעל הושמטה."
+      }
+    },
+    {
+      "id": "strawberry-banana-nice-cream",
+      "url": "https://therealfooddietitians.com/strawberry-banana-nice-cream/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2018/01/VP-Stawberry-Banana-Nice-Cream-019-300x300-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 4,
+      "nutrition": {
+        "calories": 104,
+        "protein": 7
+      },
+      "en": {
+        "title": "Strawberry Banana 'Nice Cream'",
+        "description": "Soft-serve style 'ice cream' made only from frozen bananas and strawberries blended with a splash of nut milk and vanilla.",
+        "steps": [
+          "Blend everything in a high-powered blender or food processor, scraping down the sides and adding a little more milk as needed, until smooth.",
+          "Serve right away."
+        ],
+        "whyFits": "Only fruit, unsweetened nut milk and vanilla. The original's optional collagen is left out. No sugar, dairy or flour.",
+        "ingredients": [
+          "3 bananas, cut into chunks and frozen",
+          "340 g frozen strawberries (about 2¼ cups)",
+          "1 tsp vanilla",
+          "½ cup unsweetened almond, cashew or coconut milk, plus more as needed"
+        ]
+      },
+      "he": {
+        "title": "״גלידת״ תות ובננה",
+        "description": "״גלידה״ רכה שעשויה רק מבננות ותותים קפואים, טחונים עם מעט חלב אגוזים ווניל.",
+        "ingredients": [
+          "3 בננות, בחתיכות, קפואות",
+          "340 גרם תותים קפואים (כ-2¼ כוסות)",
+          "כפית וניל",
+          "½ כוס חלב שקדים, קשיו או קוקוס לא ממותק, ועוד לפי הצורך"
+        ],
+        "steps": [
+          "טוחנים הכול בבלנדר חזק או במעבד מזון, מגרדים את הדפנות ומוסיפים מעט חלב לפי הצורך, עד שהגלידה חלקה.",
+          "מגישים מיד."
+        ],
+        "whyFits": "רק פירות, חלב אגוזים לא ממותק ווניל. הקולגן שהמקור מציע כאופציה הושמט. בלי סוכר, חלב או קמח."
+      }
+    },
+    {
+      "id": "chocolate-hazelnut-date-smoothie",
+      "url": "https://detoxinista.com/creamy-chocolate-hazelnut-shake-vegan-paleo/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2014/06/slushy-texture-of-chocolate-smoothie.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": null,
+      "totalMinutes": 5,
+      "servings": 1,
+      "nutrition": {
+        "calories": 457,
+        "protein": 6
+      },
+      "en": {
+        "title": "Chocolate Hazelnut Date Smoothie",
+        "description": "A frosty chocolate-hazelnut drink of whole hazelnuts, cacao and dates blended with ice. Tastes like a treat.",
+        "steps": [
+          "Blend the water, hazelnuts, cacao, dates and vanilla until smooth.",
+          "Add the ice and blend again to a slushy texture. Serve right away."
+        ],
+        "whyFits": "Nuts, cacao and dates only. No sugar, dairy or flour.",
+        "ingredients": [
+          "¾ cup water",
+          "¼ cup whole hazelnuts",
+          "1 heaping tbsp raw cacao powder",
+          "4 Medjool dates, pitted",
+          "¼ tsp vanilla extract",
+          "6 large ice cubes"
+        ]
+      },
+      "he": {
+        "title": "שייק שוקולד, אגוזי לוז ותמרים",
+        "description": "משקה קר וגרגרי בטעם שוקולד-לוז מאגוזי לוז שלמים, קקאו ותמרים טחונים עם קרח. בטעם של פינוק.",
+        "ingredients": [
+          "¾ כוס מים",
+          "¼ כוס אגוזי לוז שלמים",
+          "כף גדושה אבקת קקאו גולמי",
+          "4 תמרי מג׳הול, מגולענים",
+          "¼ כפית תמצית וניל",
+          "6 קוביות קרח גדולות"
+        ],
+        "steps": [
+          "טוחנים מים, אגוזי לוז, קקאו, תמרים ווניל עד שהתערובת חלקה.",
+          "מוסיפים קרח וטוחנים שוב למרקם ברד. מגישים מיד."
+        ],
+        "whyFits": "רק אגוזים, קקאו ותמרים. בלי סוכר, חלב או קמח."
+      }
+    },
+    {
+      "id": "peanut-butter-blueberry-date-smoothie",
+      "url": "https://minimalistbaker.com/peanut-butter-jelly-date-smoothie/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2013/01/PB-Jelly-Date-Smoothie-google.jpeg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 1,
+      "nutrition": {
+        "calories": 374,
+        "protein": 8
+      },
+      "en": {
+        "title": "Peanut Butter and Blueberry Date Smoothie",
+        "description": "A 'PB&J' in a glass: natural peanut butter, frozen blueberries, banana and dates blended with almond milk and flax.",
+        "steps": [
+          "Blend everything until smooth.",
+          "Add more frozen fruit to thicken or more almond milk to thin."
+        ],
+        "whyFits": "Fruit, dates, peanut butter and flax only. No sugar, dairy or flour.",
+        "ingredients": [
+          "4 pitted dates",
+          "1 tbsp natural peanut butter (no added sugar)",
+          "1 small frozen banana",
+          "½–¾ cup unsweetened almond milk",
+          "⅓ cup frozen blueberries",
+          "1 tbsp ground flaxseed"
+        ]
+      },
+      "he": {
+        "title": "שייק חמאת בוטנים, אוכמניות ותמרים",
+        "description": "״כריך חמאת בוטנים וריבה״ בכוס: חמאת בוטנים טבעית, אוכמניות קפואות, בננה ותמרים עם חלב שקדים ופשתן.",
+        "ingredients": [
+          "4 תמרים מגולענים",
+          "כף חמאת בוטנים טבעית (בלי תוספת סוכר)",
+          "בננה קטנה קפואה",
+          "½–¾ כוס חלב שקדים לא ממותק",
+          "⅓ כוס אוכמניות קפואות",
+          "כף זרעי פשתן טחונים"
+        ],
+        "steps": [
+          "טוחנים הכול עד שהשייק חלק.",
+          "מוסיפים פרי קפוא לשייק סמיך יותר, או חלב שקדים לדליל יותר."
+        ],
+        "whyFits": "רק פירות, תמרים, חמאת בוטנים ופשתן. בלי סוכר, חלב או קמח."
+      }
+    },
+    {
+      "id": "purple-berry-pineapple-smoothie",
+      "url": "https://detoxinista.com/purple-smoothie/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2018/10/purple-smoothie.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": null,
+      "totalMinutes": 5,
+      "servings": 1,
+      "nutrition": {
+        "calories": 244,
+        "protein": 3
+      },
+      "en": {
+        "title": "Purple Blueberry Pineapple Smoothie",
+        "description": "A bright purple, refreshing smoothie of banana, pineapple and blueberries with fresh orange juice.",
+        "steps": [
+          "Blend everything until very smooth, adding a splash of water if needed.",
+          "Serve right away."
+        ],
+        "whyFits": "Only fruit and fresh orange juice. No added sugar, dairy or flour.",
+        "ingredients": [
+          "½ cup water",
+          "½ cup fresh orange juice",
+          "1 frozen banana, in pieces",
+          "½ cup frozen pineapple",
+          "½ cup frozen blueberries"
+        ]
+      },
+      "he": {
+        "title": "שייק סגול של אוכמניות ואננס",
+        "description": "שייק סגול ומרענן של בננה, אננס ואוכמניות עם מיץ תפוזים טבעי.",
+        "ingredients": [
+          "½ כוס מים",
+          "½ כוס מיץ תפוזים סחוט",
+          "בננה קפואה, בחתיכות",
+          "½ כוס אננס קפוא",
+          "½ כוס אוכמניות קפואות"
+        ],
+        "steps": [
+          "טוחנים הכול עד שהשייק חלק מאוד, ומוסיפים מעט מים אם צריך.",
+          "מגישים מיד."
+        ],
+        "whyFits": "רק פירות ומיץ תפוזים טבעי. בלי תוספת סוכר, חלב או קמח."
+      }
+    },
+    {
       "id": "mediterranean-mustard-potato-salad",
       "url": "https://www.themediterraneandish.com/mustard-potato-salad/",
       "source": "The Mediterranean Dish",
