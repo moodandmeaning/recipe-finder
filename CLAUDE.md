@@ -14,6 +14,7 @@ A mobile web app (it installs to the phone's home screen) that shows ~10 new hea
 - Must cost nothing beyond the user's Claude Pro plan: no paid APIs.
 - **The search runs only when the user asks** (`/daily-recipe-search`, a personal skill in ~/.claude/skills, or "do a daily search"), in a local Claude Code session that follows `ROUTINE.md`. The scheduled cloud routine (trig_01NkmKqyQRTw9V6WYVh98sBF) is disabled: cloud sessions can't reach recipe sites unless the environment's network is set to Full.
 - Desserts: only smoothies, fruit, and date/nut balls, with no added sweetener and no flour of any kind (user's request, 2026-11-01).
+- Mayonnaise is OK in salad dressings (user's rule, 2026-11-01). The user likes salads, especially Shabbat salads, and prefers big batches of recipes at once.
 - Every recipe in both Hebrew and English (toggle עב/EN in the header, remembered). Steps are rewritten in our own words. Photos are linked, not copied. Each recipe links to the original.
 - App: feed (newest first, "new today" badge, search, category chips, time filter, Shabbat filter), recipe page (photo, servings, times, nutrition, ingredient checklist, steps, why-it-fits, original link), favorites (♥, stored on the phone).
 - Don't get around sites that block automated readers. Tools identify themselves honestly (`RecipeFinderBot`).

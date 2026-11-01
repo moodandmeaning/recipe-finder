@@ -6,11 +6,12 @@ en_ing/drop, en{title, description, steps, whyFits}, he{title, description, ingr
 """
 import glob, json, re, sys
 from datetime import date
+from urllib.parse import quote
 
 TODAY = date.today().isoformat()  # the user's computer is on Israel time
 
 SOURCE_NAMES = {"Nom Nom Paleo®": "Nom Nom Paleo", "PrimalGourmet": "Primal Gourmet",
-                "kikar.co.il": "כיכר השבת · אוכל"}
+                "kikar.co.il": "כיכר השבת · אוכל", "10dakot.co.il": "10 דקות"}
 data = {}
 for f in glob.glob("cand_*.jsonl"):
     c = f[5:-6]
@@ -35,8 +36,8 @@ for s in spec:
         "id": s["id"],
         "url": r["url"].split("?")[0] if "kikar" not in r["url"] else r["url"],
         "source": SOURCE_NAMES.get(r["site"], r["site"]),
-        "sourceLang": "he" if "kikar" in r["url"] else "en",
-        "image": re.sub(r"https://i\d\.wp\.com/(www\.)?", "https://", r["image"]).split("?")[0] if "wp.com" in r["image"] else r["image"],
+        "sourceLang": "he" if re.search(r"kikar|10dakot|\.co\.il", r["url"]) else "en",
+        "image": quote(re.sub(r"https://i\d\.wp\.com/(www\.)?", "https://", r["image"]).split("?")[0] if "wp.com" in r["image"] else r["image"], safe=":/?&=%#+,;@!~*'()"),
         "added": s.get("added", TODAY),
         "category": s["cat"],
         "shabbat": s.get("shabbat", False),

@@ -24,7 +24,7 @@ Very healthy, whole-food cooking. Kosher. No dairy. No grains.
 3. **Grains of any kind**: wheat, white or whole-wheat flour, bread, breadcrumbs, pasta, couscous, bulgur, rice (white or brown), oats, quinoa, barley, corn/cornmeal/polenta, buckwheat, millet, freekeh, spelt. Recipes that list grains as an optional side (e.g. "serve with rice") are OK only if the dish itself is complete without them. In that case drop the grain from the ingredients and steps and mention it in `whyFits`.
 4. **Added refined sugar**: white or brown sugar, powdered sugar, corn syrup, sweetened condensed milk. Large amounts of honey or maple syrup (more than 2 tablespoons for the whole recipe) also count.
 5. **Deep frying.** Pan-searing or light sautéing in a little oil is fine.
-6. **Processed foods**: ready-made sauces (ketchup, BBQ sauce, store-bought dressings), bouillon/soup powder (אבקת מרק), margarine, sausages, hot dogs, deli or cured meats (pastrami, salami), schnitzel coating, canned fruit in syrup, artificial sweeteners. Plain canned beans, canned tomatoes and canned tuna are fine.
+6. **Processed foods**: ready-made sauces (ketchup, BBQ sauce, store-bought dressings), bouillon/soup powder (אבקת מרק), margarine, sausages, hot dogs, deli or cured meats (pastrami, salami), schnitzel coating, canned fruit in syrup, artificial sweeteners. Plain canned beans, canned tomatoes and canned tuna are fine. **Exception (the user's rule):** mayonnaise is allowed in salad dressings (homemade or avocado-oil mayo preferred). Mayo is still not used outside salads.
 7. **Unhealthy amounts of oil or salt**: more than about 1 tablespoon of oil per serving.
 
 ## Desserts: extra strict (the user's rule)
