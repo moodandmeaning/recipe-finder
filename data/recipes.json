@@ -2,6 +2,1296 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "mediterranean-mustard-potato-salad",
+      "url": "https://www.themediterraneandish.com/mustard-potato-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/06/Mustard-Potato-Salad-Recipe-The-Mediterranean-Dish-3.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 6,
+      "totalMinutes": 21,
+      "servings": 8,
+      "nutrition": {
+        "calories": 151,
+        "protein": 2
+      },
+      "en": {
+        "title": "Mediterranean Mustard Potato Salad (No Mayo)",
+        "description": "Thinly sliced potatoes dressed while warm in a Dijon-sumac vinaigrette, with red onion, capers, parsley and dill.",
+        "steps": [
+          "Slice the potatoes thinly (a mandoline helps).",
+          "Cover with water, bring to a boil, salt, and simmer about 6 minutes until just tender.",
+          "Whisk the oil, vinegar, mustard, sumac, pepper and coriander.",
+          "Drain the potatoes and dress them immediately, tossing gently.",
+          "Add the onion, herbs and capers. Let it marinate 1 hour and serve at room temperature."
+        ],
+        "whyFits": "An olive oil vinaigrette replaces mayonnaise, at under 1 tbsp of oil per serving. No dairy, grains or sugar. Keeps well for Shabbat.",
+        "ingredients": [
+          "680 g small potatoes",
+          "Water",
+          "1 tsp salt",
+          "¼ cup chopped red onion",
+          "¼ cup chopped fresh parsley",
+          "¼ cup chopped dill",
+          "2 tbsp capers",
+          "⅓ cup extra virgin olive oil",
+          "2 tbsp white wine vinegar",
+          "2 tsp Dijon mustard",
+          "½ tsp ground sumac",
+          "½ tsp black pepper",
+          "¼ tsp ground coriander"
+        ]
+      },
+      "he": {
+        "title": "סלט תפוחי אדמה ים תיכוני בחרדל (בלי מיונז)",
+        "description": "תפוחי אדמה פרוסים דק שמתובלים כשהם חמים בוויניגרט דיז׳ון וסומק, עם בצל סגול, צלפים, פטרוזיליה ושמיר.",
+        "ingredients": [
+          "680 גרם תפוחי אדמה קטנים",
+          "מים",
+          "כפית מלח",
+          "¼ כוס בצל סגול קצוץ",
+          "¼ כוס פטרוזיליה קצוצה",
+          "¼ כוס שמיר קצוץ",
+          "2 כפות צלפים",
+          "⅓ כוס שמן זית",
+          "2 כפות חומץ יין לבן",
+          "2 כפיות חרדל דיז׳ון",
+          "½ כפית סומק",
+          "½ כפית פלפל שחור",
+          "¼ כפית כוסברה טחונה"
+        ],
+        "steps": [
+          "פורסים את תפוחי האדמה דק (במנדולינה).",
+          "מכסים במים, מביאים לרתיחה, ממליחים ומבשלים כ-6 דקות עד שהם בדיוק רכים.",
+          "טורפים שמן, חומץ, חרדל, סומק, פלפל וכוסברה.",
+          "מסננים את תפוחי האדמה ומתבלים אותם מיד, תוך ערבוב עדין.",
+          "מוסיפים בצל, עשבי תיבול וצלפים. משאירים לספוג שעה ומגישים בטמפרטורת החדר."
+        ],
+        "whyFits": "ויניגרט שמן זית במקום מיונז, פחות מכף שמן למנה. בלי חלב, דגנים או סוכר. נשמר יפה לשבת."
+      }
+    },
+    {
+      "id": "avocado-dressed-potato-salad-oil-free",
+      "url": "https://detoxinista.com/creamy-potato-salad-vegan/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2013/08/vegan-potato-salad-overhead.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 10,
+      "totalMinutes": 90,
+      "servings": 4,
+      "nutrition": {
+        "calories": 108,
+        "protein": 3
+      },
+      "en": {
+        "title": "Creamy Avocado Potato Salad (No Oil, No Mayo)",
+        "description": "Steamed potatoes coated in a creamy mashed-avocado mustard dressing with red onion, cucumber and dill.",
+        "steps": [
+          "Steam the potatoes until just fork-tender, then cool at least 20 minutes.",
+          "Mash the avocado with the water, mustard, lemon juice and salt.",
+          "Gently fold in the cooled potatoes, then the onion, cucumber and dill. Season with pepper.",
+          "Chill at least 1 hour. Keeps 3 days in the fridge."
+        ],
+        "whyFits": "Avocado makes it creamy with no mayonnaise and no added oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "450 g Yukon gold potatoes, cut into 2.5 cm cubes",
+          "½ ripe avocado (about 100 g)",
+          "2 tbsp water",
+          "1 tbsp spicy brown mustard",
+          "1 tsp fresh lemon juice",
+          "¼ tsp salt",
+          "Black pepper",
+          "¼ cup finely diced red onion",
+          "Small handful fresh dill, chopped",
+          "1 cup chopped cucumber"
+        ]
+      },
+      "he": {
+        "title": "סלט תפוחי אדמה קרמי באבוקדו (בלי שמן ובלי מיונז)",
+        "description": "תפוחי אדמה מאודים ברוטב קרמי של אבוקדו מעוך וחרדל, עם בצל סגול, מלפפון ושמיר.",
+        "ingredients": [
+          "450 גרם תפוחי אדמה צהובים, בקוביות של 2.5 ס״מ",
+          "½ אבוקדו בשל (כ-100 גרם)",
+          "2 כפות מים",
+          "כף חרדל גרגרים חריף",
+          "כפית מיץ לימון טרי",
+          "¼ כפית מלח",
+          "פלפל שחור",
+          "¼ כוס בצל סגול קצוץ דק",
+          "חופן קטן שמיר קצוץ",
+          "כוס מלפפון קצוץ"
+        ],
+        "steps": [
+          "מאדים את תפוחי האדמה עד שהם בדיוק רכים, ומצננים לפחות 20 דקות.",
+          "מועכים את האבוקדו עם המים, החרדל, מיץ הלימון והמלח.",
+          "מקפלים פנימה בעדינות את תפוחי האדמה הקרים, ואז בצל, מלפפון ושמיר. מתבלים בפלפל.",
+          "מקררים לפחות שעה. נשמר 3 ימים במקרר."
+        ],
+        "whyFits": "האבוקדו נותן קרמיות בלי מיונז ובלי תוספת שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mango-cucumber-tomato-salad",
+      "url": "https://minimalistbaker.com/easy-mango-cucumber-salad/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2023/05/Mango-Cucumber-Salad-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 4,
+      "nutrition": {
+        "calories": 108,
+        "protein": 2
+      },
+      "en": {
+        "title": "Mango, Cucumber and Tomato Salad",
+        "description": "A juicy, refreshing salad of diced mango, cucumber, cherry tomatoes, shallot and cilantro with lime and salt.",
+        "steps": [
+          "Combine the mango, cucumber, tomatoes, shallot and herbs.",
+          "Add the lime juice and salt, toss, and taste.",
+          "Serve right away or chill. Keeps 2–3 days."
+        ],
+        "whyFits": "Fresh fruit and vegetables only. The original's optional maple syrup is left out. No dairy, grains or added fat.",
+        "ingredients": [
+          "2½ cups diced ripe mango (2–3 mangoes)",
+          "2 cups diced cucumber",
+          "1 cup cherry tomatoes, quartered",
+          "2 tbsp finely minced shallot",
+          "2 tbsp chopped fresh cilantro or parsley",
+          "2 tbsp lime juice",
+          "½ tsp sea salt"
+        ]
+      },
+      "he": {
+        "title": "סלט מנגו, מלפפון ועגבניות",
+        "description": "סלט עסיסי ומרענן של קוביות מנגו, מלפפון, עגבניות שרי, שאלוט וכוסברה עם ליים ומלח.",
+        "ingredients": [
+          "2½ כוסות מנגו בשל בקוביות (2–3 מנגו)",
+          "2 כוסות מלפפון בקוביות",
+          "כוס עגבניות שרי, ברבעים",
+          "2 כפות שאלוט קצוץ דק",
+          "2 כפות כוסברה או פטרוזיליה קצוצה",
+          "2 כפות מיץ ליים",
+          "½ כפית מלח ים"
+        ],
+        "steps": [
+          "מערבבים מנגו, מלפפון, עגבניות, שאלוט ועשבי תיבול.",
+          "מוסיפים מיץ ליים ומלח, מערבבים וטועמים.",
+          "מגישים מיד או מקררים. נשמר 2–3 ימים."
+        ],
+        "whyFits": "פירות וירקות טריים בלבד. המייפל שהמקור מציע כאופציה הושמט. בלי חלב, דגנים או תוספת שומן."
+      }
+    },
+    {
+      "id": "arugula-tomato-cucumber-avocado-salad",
+      "url": "https://www.themediterraneandish.com/arugula-salad-recipe-with-avocados-and-garlic-herb-vinaigrette/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/04/TMD-Lemony-Arugula-Salad-Leads-02.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 234,
+        "protein": 3
+      },
+      "en": {
+        "title": "Arugula Salad with Tomato, Cucumber and Avocado",
+        "description": "Peppery arugula, tomato, cucumber and shallot in a lemon-oregano dressing, topped with creamy avocado.",
+        "steps": [
+          "Whisk the oil, lemon zest and juice, garlic, oregano, salt and pepper in a large bowl.",
+          "Add the arugula, tomato, cucumber and shallot and toss gently.",
+          "Transfer to a platter and top with the avocado."
+        ],
+        "whyFits": "Vegetables, avocado and an olive oil dressing (1 tbsp per serving). No dairy, grains or sugar.",
+        "ingredients": [
+          "¼ cup extra virgin olive oil",
+          "1 large lemon, zested and juiced",
+          "1–2 garlic cloves, minced",
+          "1 tsp dried oregano",
+          "Kosher salt",
+          "Black pepper",
+          "140 g baby arugula",
+          "1–2 small tomatoes, cut into wedges",
+          "½ English cucumber, sliced",
+          "1 shallot, thinly sliced",
+          "1 avocado, sliced"
+        ]
+      },
+      "he": {
+        "title": "סלט רוקט עם עגבנייה, מלפפון ואבוקדו",
+        "description": "רוקט חריפי עם עגבנייה, מלפפון ושאלוט ברוטב לימון ואורגנו, ואבוקדו קרמי מעל.",
+        "ingredients": [
+          "¼ כוס שמן זית",
+          "לימון גדול (גרידה ומיץ)",
+          "1–2 שיני שום, כתושות",
+          "כפית אורגנו יבש",
+          "מלח גס",
+          "פלפל שחור",
+          "140 גרם עלי רוקט",
+          "1–2 עגבניות קטנות, בפלחים",
+          "½ מלפפון ארוך, פרוס",
+          "שאלוט, פרוס דק",
+          "אבוקדו, פרוס"
+        ],
+        "steps": [
+          "טורפים בקערה גדולה שמן, גרידה ומיץ לימון, שום, אורגנו, מלח ופלפל.",
+          "מוסיפים רוקט, עגבנייה, מלפפון ושאלוט ומערבבים בעדינות.",
+          "מעבירים לפלטה ומניחים מעל את האבוקדו."
+        ],
+        "whyFits": "ירקות, אבוקדו ורוטב שמן זית (כף למנה). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "shirazi-persian-cucumber-tomato-salad",
+      "url": "https://www.themediterraneandish.com/shirazi-salad-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/12/Shirazi-Salad-Recipe-5.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 125,
+        "protein": 1
+      },
+      "en": {
+        "title": "Shirazi Salad (Persian Cucumber and Tomato Salad)",
+        "description": "A finely diced Persian salad of tomato, cucumber and onion with fresh and dried mint, herbs, lime and sumac.",
+        "steps": [
+          "Drain the diced tomatoes in a colander a few minutes.",
+          "Combine the tomatoes, cucumbers, onion and pepper.",
+          "Add the herbs, dried mint, salt, pepper and sumac, then the lime juice and olive oil. Toss.",
+          "Chill 30–60 minutes for the best flavor."
+        ],
+        "whyFits": "Fresh vegetables, herbs, lime and a little olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 Roma tomatoes, small diced",
+          "1 English cucumber (or 4 small cucumbers), small diced",
+          "¼–½ cup finely chopped onion",
+          "½ green bell pepper, chopped (optional)",
+          "2–3 tbsp each chopped parsley, cilantro and mint",
+          "1 tbsp dried mint",
+          "Salt and pepper",
+          "Sumac, to taste",
+          "Juice of 2 large limes (about 4 tbsp)",
+          "3 tbsp extra virgin olive oil"
+        ]
+      },
+      "he": {
+        "title": "סלט שירזי (סלט מלפפון ועגבנייה פרסי)",
+        "description": "סלט פרסי קצוץ דק של עגבנייה, מלפפון ובצל עם נענע טרייה ויבשה, עשבי תיבול, ליים וסומק.",
+        "ingredients": [
+          "3 עגבניות רומא, בקוביות קטנות",
+          "מלפפון ארוך (או 4 קטנים), בקוביות קטנות",
+          "¼–½ כוס בצל קצוץ דק",
+          "½ פלפל ירוק, קצוץ (לא חובה)",
+          "2–3 כפות מכל אחד: פטרוזיליה, כוסברה ונענע קצוצות",
+          "כף נענע יבשה",
+          "מלח ופלפל",
+          "סומק לפי הטעם",
+          "מיץ מ-2 ליימים גדולים (כ-4 כפות)",
+          "3 כפות שמן זית"
+        ],
+        "steps": [
+          "מסננים את קוביות העגבנייה במסננת כמה דקות.",
+          "מערבבים עגבניות, מלפפונים, בצל ופלפל.",
+          "מוסיפים עשבי תיבול, נענע יבשה, מלח, פלפל וסומק, ואז מיץ ליים ושמן זית. מערבבים.",
+          "מקררים 30–60 דקות לטעם הטוב ביותר."
+        ],
+        "whyFits": "ירקות טריים, עשבי תיבול, ליים ומעט שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "crunchy-cabbage-almond-salad-dijon-lime",
+      "url": "https://www.themediterraneandish.com/mediterranean-cabbage-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/05/cabbage-salad-edited-2.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "totalMinutes": 50,
+      "servings": 8,
+      "nutrition": {
+        "calories": 200,
+        "protein": 5
+      },
+      "en": {
+        "title": "Crunchy Cabbage Salad with Almonds and Dijon-Lime Dressing",
+        "description": "Green and red cabbage, carrot, pepper, radish and lots of herbs with toasted almonds in a tangy mustard-lime-sumac vinaigrette.",
+        "steps": [
+          "Toast the almonds in a lightly oiled pan about 8 minutes until golden.",
+          "Whisk the mustard, lime juice, garlic, olive oil, sumac, pepper flakes, salt and pepper.",
+          "Combine the cabbages, carrots, green onions, pepper, radishes and herbs. Season with salt and sumac and add ¾ of the almonds.",
+          "Toss with the dressing and chill 30–60 minutes. Top with the remaining almonds."
+        ],
+        "whyFits": "Vegetables, nuts and an olive oil dressing (2 tsp per serving). No dairy, grains or sugar. Keeps crunchy, so it's good for Shabbat.",
+        "ingredients": [
+          "1 cup sliced almonds (toasted in a thin film of olive oil)",
+          "4 cups shredded green cabbage",
+          "2 cups shredded red cabbage",
+          "1 cup grated carrots",
+          "2 green onions, chopped",
+          "1 red bell pepper, cut into thin sticks",
+          "4 radishes, thinly sliced",
+          "1 cup chopped fresh parsley",
+          "½ cup chopped fresh dill",
+          "Kosher salt",
+          "1 tsp sumac (salad)",
+          "2 tbsp Dijon mustard",
+          "Juice of 2 limes",
+          "2 garlic cloves, minced",
+          "⅓ cup extra virgin olive oil",
+          "½ tsp sumac (dressing)",
+          "½ tsp red pepper flakes (optional)",
+          "Black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט כרוב פריך עם שקדים ורוטב דיז׳ון וליים",
+        "description": "כרוב לבן וסגול, גזר, פלפל, צנונית והרבה עשבי תיבול עם שקדים קלויים בוויניגרט חמצמץ של חרדל, ליים וסומק.",
+        "ingredients": [
+          "כוס שקדים פרוסים (קלויים בשכבה דקה של שמן זית)",
+          "4 כוסות כרוב לבן חתוך דק",
+          "2 כוסות כרוב סגול חתוך דק",
+          "כוס גזר מגורר",
+          "2 בצלים ירוקים, קצוצים",
+          "פלפל אדום, ברצועות דקות",
+          "4 צנוניות, פרוסות דק",
+          "כוס פטרוזיליה קצוצה",
+          "½ כוס שמיר קצוץ",
+          "מלח גס",
+          "כפית סומק (לסלט)",
+          "2 כפות חרדל דיז׳ון",
+          "מיץ מ-2 ליימים",
+          "2 שיני שום, כתושות",
+          "⅓ כוס שמן זית",
+          "½ כפית סומק (לרוטב)",
+          "½ כפית צ׳ילי גרוס (לא חובה)",
+          "פלפל שחור"
+        ],
+        "steps": [
+          "קולים את השקדים במחבת משומנת קלות כ-8 דקות עד להזהבה.",
+          "טורפים חרדל, מיץ ליים, שום, שמן זית, סומק, צ׳ילי, מלח ופלפל.",
+          "מערבבים את שני סוגי הכרוב, גזר, בצל ירוק, פלפל, צנוניות ועשבי תיבול. מתבלים במלח וסומק ומוסיפים ¾ מהשקדים.",
+          "מערבבים עם הרוטב ומקררים 30–60 דקות. מפזרים מעל את שאר השקדים."
+        ],
+        "whyFits": "ירקות, אגוזים ורוטב שמן זית (2 כפיות למנה). בלי חלב, דגנים או סוכר. נשאר פריך, אז מתאים לשבת."
+      }
+    },
+    {
+      "id": "beef-taco-stuffed-zucchini-boats",
+      "url": "https://www.realfoodwithjessica.com/paleo-taco-stuffed-zucchini/",
+      "source": "Real Food with Jessica",
+      "sourceLang": "en",
+      "image": "https://www.realfoodwithjessica.com/wp-content/uploads/2015/06/IMG_6286.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 261,
+        "protein": 16
+      },
+      "en": {
+        "title": "Beef Taco Stuffed Zucchini Boats",
+        "description": "Baked zucchini halves filled with taco-spiced ground beef in tomato and green chile sauce.",
+        "steps": [
+          "Heat the oven to 200°C (400°F) and line a sheet with parchment.",
+          "Halve the zucchini lengthwise, scoop out the centers, salt them, and bake cut-side down 15–20 minutes until tender.",
+          "Meanwhile, soften the onion with salt and pepper in the oil about 5 minutes, then brown the beef.",
+          "Add the tomatoes and all the spices and cook until the beef is done, then simmer until the zucchini are ready.",
+          "Turn the zucchini over and fill them with the meat."
+        ],
+        "whyFits": "Kosher beef and vegetables. Zucchini replaces the taco shells. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tbsp coconut or olive oil",
+          "½ tsp salt",
+          "½ tsp black pepper",
+          "1 large onion, diced",
+          "450 g ground beef",
+          "1 can (410 g) diced tomatoes with green chiles",
+          "1 tsp cumin",
+          "1 tsp garlic powder",
+          "1 tbsp chili powder",
+          "½ tsp oregano",
+          "1 tsp smoked paprika",
+          "6 large zucchini"
+        ]
+      },
+      "he": {
+        "title": "סירות זוקיני ממולאות בבשר בתיבול טאקו",
+        "description": "חצאי זוקיני אפויים ממולאים בבשר טחון בתיבול טאקו, ברוטב עגבניות וצ׳ילי ירוק.",
+        "ingredients": [
+          "כף שמן קוקוס או זית",
+          "½ כפית מלח",
+          "½ כפית פלפל שחור",
+          "בצל גדול, קצוץ",
+          "450 גרם בשר בקר טחון",
+          "קופסת עגבניות קצוצות עם צ׳ילי ירוק (410 גרם)",
+          "כפית כמון",
+          "כפית אבקת שום",
+          "כף אבקת צ׳ילי",
+          "½ כפית אורגנו",
+          "כפית פפריקה מעושנת",
+          "6 זוקיני גדולים"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות ומרפדים תבנית בנייר אפייה.",
+          "חוצים את הזוקיני לאורך, מרוקנים את המרכז, ממליחים ואופים עם הצד החתוך למטה 15–20 דקות עד שהם רכים.",
+          "בינתיים מאדים את הבצל עם מלח ופלפל בשמן כ-5 דקות, ואז משחימים את הבשר.",
+          "מוסיפים עגבניות וכל התבלינים ומבשלים עד שהבשר מוכן, ואז מבשלים על אש קטנה עד שהזוקיני מוכנים.",
+          "הופכים את הזוקיני וממלאים בבשר."
+        ],
+        "whyFits": "בשר בקר כשר וירקות. הזוקיני מחליף את קונכיות הטאקו. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "roasted-butternut-lime-anchovy-hazelnut",
+      "url": "https://www.themediterraneandish.com/roasted-butternut-squash-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/11/roasted-butternut-squash-recipe-7.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 96,
+        "protein": 1
+      },
+      "en": {
+        "title": "Roasted Butternut Squash with Lime, Anchovy and Hazelnuts",
+        "description": "Golden roasted squash slices dressed with a punchy lime-garlic-anchovy vinaigrette and topped with toasted hazelnuts and scallions.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Arrange the squash slices on an oiled sheet, brush with oil, and salt them.",
+          "Roast 20 minutes until golden, flip, and roast about 10 minutes more until very tender.",
+          "Mix the lime juice and zest, garlic, pepper flakes and a pinch of salt. Whisk in the anchovies and 3 tbsp olive oil.",
+          "Spoon the vinaigrette over the squash and sprinkle with hazelnuts and scallions."
+        ],
+        "whyFits": "A vegetable dish with a little fish (anchovies are kosher) and no meat. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 tbsp extra virgin olive oil, plus more for the pan",
+          "1 butternut squash (900 g), peeled, seeded and sliced",
+          "¼ tsp kosher salt",
+          "2 tbsp fresh lime juice",
+          "½ tsp lime zest",
+          "1 garlic clove, minced",
+          "Pinch of red pepper flakes",
+          "¼ cup chopped toasted hazelnuts",
+          "3 oil-packed anchovy fillets, minced",
+          "2 scallions, thinly sliced"
+        ]
+      },
+      "he": {
+        "title": "דלעת צלויה עם ליים, אנשובי ואגוזי לוז",
+        "description": "פרוסות דלעת זהובות וצלויות עם ויניגרט חזק של ליים, שום ואנשובי, ואגוזי לוז קלויים ובצל ירוק מעל.",
+        "ingredients": [
+          "3 כפות שמן זית, ועוד לתבנית",
+          "דלעת ערמונים (900 גרם), קלופה, בלי גרעינים, פרוסה",
+          "¼ כפית מלח גס",
+          "2 כפות מיץ ליים טרי",
+          "½ כפית גרידת ליים",
+          "שן שום, כתושה",
+          "קורט צ׳ילי גרוס",
+          "¼ כוס אגוזי לוז קלויים קצוצים",
+          "3 פילה אנשובי בשמן, קצוצים דק",
+          "2 בצלים ירוקים, פרוסים דק"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. מסדרים את פרוסות הדלעת בתבנית משומנת, מברישים בשמן וממליחים.",
+          "צולים 20 דקות עד להזהבה, הופכים וצולים עוד כ-10 דקות עד שהדלעת רכה מאוד.",
+          "מערבבים מיץ וגרידת ליים, שום, צ׳ילי וקורט מלח. טורפים פנימה את האנשובי ו-3 כפות שמן זית.",
+          "יוצקים את הוויניגרט על הדלעת ומפזרים אגוזי לוז ובצל ירוק."
+        ],
+        "whyFits": "מנת ירקות עם מעט דג (אנשובי כשר) ובלי בשר. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "healthy-green-bean-mushroom-casserole",
+      "url": "https://detoxinista.com/clean-green-bean-casserole-vegan-paleo/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2012/11/green-bean-casserole-scoop.jpg",
+      "added": "2026-11-01",
+      "category": "vegetables",
+      "shabbat": true,
+      "prepMinutes": 40,
+      "cookMinutes": 30,
+      "totalMinutes": 70,
+      "servings": 9,
+      "nutrition": {
+        "calories": 73,
+        "protein": 3
+      },
+      "en": {
+        "title": "Healthy Green Bean and Mushroom Casserole",
+        "description": "Steamed green beans in a creamy sauce made from blended mushrooms and parsnip, topped with slowly caramelized onions and baked.",
+        "steps": [
+          "Cook the onion in 1 tbsp oil over medium-high heat 5 minutes, then lower the heat and let it caramelize slowly, stirring now and then.",
+          "Steam the green beans until just tender and drain.",
+          "In the same pot, cook the mushrooms and garlic in the remaining 1 tbsp oil until soft. Add the parsnips and water, cover, and simmer 10 minutes until tender. Heat the oven to 175°C (350°F).",
+          "Put a few whole mushrooms and the green beans in a baking dish. Blend the rest with the lemon juice, salt and nutritional yeast into a sauce and stir it in.",
+          "Top with the caramelized onions and bake 30 minutes."
+        ],
+        "whyFits": "The creamy sauce is blended vegetables, with no cream, flour or canned soup. 2 tbsp oil for 9 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 yellow onion, thinly sliced",
+          "2 tbsp olive oil, divided",
+          "450 g trimmed green beans",
+          "225 g mushrooms, chopped",
+          "3 garlic cloves, minced",
+          "1 cup chopped parsnips",
+          "1 cup water",
+          "1 tsp lemon juice",
+          "1 tsp fine sea salt",
+          "2 tbsp nutritional yeast (optional)"
+        ]
+      },
+      "he": {
+        "title": "מאפה שעועית ירוקה ופטריות בריא",
+        "description": "שעועית ירוקה מאודה ברוטב קרמי מפטריות ופסטינקה טחונות, עם בצל מקורמל לאט מעל, אפויה בתנור.",
+        "ingredients": [
+          "בצל צהוב, פרוס דק",
+          "2 כפות שמן זית, מחולק",
+          "450 גרם שעועית ירוקה, קצוות חתוכים",
+          "225 גרם פטריות, קצוצות",
+          "3 שיני שום, כתושות",
+          "כוס פסטינקה (שורש פטרוזיליה) קצוצה",
+          "כוס מים",
+          "כפית מיץ לימון",
+          "כפית מלח ים דק",
+          "2 כפות שמרי בירה (לא חובה)"
+        ],
+        "steps": [
+          "מאדים את הבצל בכף שמן על אש בינונית-גבוהה 5 דקות, ואז מנמיכים ומשאירים להתקרמל לאט תוך ערבוב מדי פעם.",
+          "מאדים את השעועית עד שהיא בדיוק רכה ומסננים.",
+          "באותו סיר מבשלים פטריות ושום בכף השמן הנותרת עד שהם רכים. מוסיפים פסטינקה ומים, מכסים ומבשלים 10 דקות עד שהיא רכה. מחממים תנור ל-175 מעלות.",
+          "מניחים בתבנית כמה פטריות שלמות ואת השעועית. טוחנים את השאר עם מיץ לימון, מלח ושמרי בירה לרוטב ומערבבים פנימה.",
+          "מכסים בבצל המקורמל ואופים 30 דקות."
+        ],
+        "whyFits": "הרוטב הקרמי עשוי מירקות טחונים, בלי שמנת, קמח או מרק משימורים. 2 כפות שמן ל-9 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mexican-chicken-tomato-soup",
+      "url": "https://detoxinista.com/mexican-chicken-soup-with-vegetarian-option/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2013/03/mexican-chicken-soup-in-bowl.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 6,
+      "nutrition": {
+        "calories": 285,
+        "protein": 17
+      },
+      "en": {
+        "title": "Mexican Chicken and Tomato Soup",
+        "description": "A brothy, gently spiced chicken soup with tomatoes, carrots, celery, jalapeño, cumin and fresh cilantro.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat and cook the onion, celery and carrots about 8 minutes. Add the garlic, jalapeño and spices for 1 minute.",
+          "Add the water, chicken, tomatoes, salt and pepper. Bring to a boil, cover, and simmer 15–20 minutes until the chicken is cooked.",
+          "Lift out the chicken, shred it, and stir it back in with the cilantro. Season to taste."
+        ],
+        "whyFits": "Chicken, vegetables and spices with 1 tbsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tbsp olive oil",
+          "1 yellow onion, chopped",
+          "2 celery ribs, chopped",
+          "3 carrots, chopped",
+          "4 garlic cloves, minced",
+          "1 jalapeño, seeded and chopped",
+          "2 tsp cumin",
+          "½ tsp dried oregano",
+          "½ tsp smoked paprika",
+          "3 cups water",
+          "570 g boneless chicken thighs",
+          "1 can (800 g) fire-roasted diced tomatoes",
+          "2 tsp sea salt, plus more to taste",
+          "¼ tsp black pepper",
+          "½ cup chopped fresh cilantro"
+        ]
+      },
+      "he": {
+        "title": "מרק עוף ועגבניות מקסיקני",
+        "description": "מרק עוף צלול בתיבול עדין עם עגבניות, גזר, סלרי, חלפיניו, כמון וכוסברה טרייה.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב, קצוץ",
+          "2 גבעולי סלרי, קצוצים",
+          "3 גזרים, קצוצים",
+          "4 שיני שום, כתושות",
+          "חלפיניו, בלי גרעינים, קצוץ",
+          "2 כפיות כמון",
+          "½ כפית אורגנו יבש",
+          "½ כפית פפריקה מעושנת",
+          "3 כוסות מים",
+          "570 גרם פרגיות",
+          "קופסת עגבניות קלויות קצוצות (800 גרם)",
+          "2 כפיות מלח ים, ועוד לפי הטעם",
+          "¼ כפית פלפל שחור",
+          "½ כוס כוסברה טרייה קצוצה"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול על אש בינונית-גבוהה ומאדים בצל, סלרי וגזר כ-8 דקות. מוסיפים שום, חלפיניו ותבלינים לדקה.",
+          "מוסיפים מים, עוף, עגבניות, מלח ופלפל. מביאים לרתיחה, מכסים ומבשלים 15–20 דקות עד שהעוף מוכן.",
+          "מוציאים את העוף, מפרקים ומחזירים לסיר עם הכוסברה. מתקנים תיבול."
+        ],
+        "whyFits": "עוף, ירקות ותבלינים עם כף שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mediterranean-cabbage-potato-soup",
+      "url": "https://www.themediterraneandish.com/mediterranean-vegan-cabbage-soup/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/09/Cabbage-Soup-Recipe-The-Mediterranean-Dish-2-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "totalMinutes": 50,
+      "servings": 8,
+      "nutrition": {
+        "calories": 227,
+        "protein": 6
+      },
+      "en": {
+        "title": "Mediterranean Cabbage and Potato Soup",
+        "description": "A warming vegetable soup of cabbage, potatoes and carrots in a cumin-spiced tomato broth, finished with lemon and dill.",
+        "steps": [
+          "Heat the oil in a large pot. Sauté the onions, garlic, carrots, potatoes and cabbage until somewhat tender.",
+          "Season with salt and pepper, add the spices and bay leaf, and cook a few minutes.",
+          "Stir in the tomato sauce and broth, boil 5 minutes, then simmer partly covered 30–40 minutes.",
+          "Stir in the lemon zest, juice and dill. (Slow cooker: everything except the lemon and dill, 7–8 hours on low.)"
+        ],
+        "whyFits": "Vegetables only, with 2 tbsp oil for 8 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tbsp extra virgin olive oil",
+          "2 medium onions, sliced into half moons",
+          "2 garlic cloves, minced",
+          "2 large carrots, sliced into rounds",
+          "2 potatoes, sliced 5 mm thick",
+          "680 g green cabbage, chopped",
+          "Kosher salt and pepper",
+          "1 tbsp ground cumin",
+          "1 tsp sweet paprika",
+          "½ tsp ground coriander",
+          "¼ tsp turmeric",
+          "1 bay leaf",
+          "1 cup plain tomato sauce",
+          "6–7 cups low-sodium vegetable broth",
+          "Zest and juice of 1 lemon",
+          "½ cup fresh dill",
+          "Pinch of red pepper flakes (optional)"
+        ]
+      },
+      "he": {
+        "title": "מרק כרוב ותפוחי אדמה ים תיכוני",
+        "description": "מרק ירקות מחמם של כרוב, תפוחי אדמה וגזר בציר עגבניות מתובל בכמון, עם לימון ושמיר בסוף.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "2 בצלים בינוניים, בחצאי ירחים",
+          "2 שיני שום, כתושות",
+          "2 גזרים גדולים, פרוסים לעיגולים",
+          "2 תפוחי אדמה, פרוסים לעובי 5 מ״מ",
+          "680 גרם כרוב לבן, קצוץ",
+          "מלח גס ופלפל",
+          "כף כמון טחון",
+          "כפית פפריקה מתוקה",
+          "½ כפית כוסברה טחונה",
+          "¼ כפית כורכום",
+          "עלה דפנה",
+          "כוס רוטב עגבניות פשוט",
+          "6–7 כוסות ציר ירקות דל נתרן",
+          "גרידה ומיץ מלימון אחד",
+          "½ כוס שמיר טרי",
+          "קורט צ׳ילי גרוס (לא חובה)"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול. מאדים בצל, שום, גזר, תפוחי אדמה וכרוב עד שהם מתרככים מעט.",
+          "מתבלים במלח ופלפל, מוסיפים תבלינים ועלה דפנה ומבשלים כמה דקות.",
+          "מוסיפים רוטב עגבניות וציר, מרתיחים 5 דקות, ומבשלים עם מכסה חלקי 30–40 דקות.",
+          "מוסיפים גרידה ומיץ לימון ושמיר. (בסיר בישול איטי: הכול חוץ מהלימון והשמיר, 7–8 שעות על נמוך.)"
+        ],
+        "whyFits": "ירקות בלבד, 2 כפות שמן ל-8 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "creamy-asparagus-avocado-soup",
+      "url": "https://downshiftology.com/recipes/asparagus-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2025/03/Asparagus-Soup-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 159,
+        "protein": 7
+      },
+      "en": {
+        "title": "Creamy Asparagus Soup (No Cream)",
+        "description": "A bright green, silky asparagus soup made creamy with a little avocado instead of cream, finished with lemon and herbs.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat. Cook the onion and celery 3–4 minutes, then the garlic, salt and pepper for 30 seconds.",
+          "Add the asparagus and broth, bring to a boil, then cover and simmer 20–25 minutes until very tender.",
+          "Add the avocado, lemon juice and herbs and blend until smooth.",
+          "Serve with a drizzle of olive oil and a few asparagus tips."
+        ],
+        "whyFits": "Avocado gives the creaminess instead of cream, so there's no dairy. Vegetables only. No grains or sugar.",
+        "ingredients": [
+          "2 tablespoons extra-virgin olive oil",
+          "1 large yellow onion (diced)",
+          "2 celery stalks (diced)",
+          "3 garlic cloves",
+          "1 teaspoon kosher salt",
+          "¼ teaspoon ground black pepper",
+          "2 pounds asparagus (about 2 bunches) (woody ends trimmed and stalks chopped (reserve some of the tips for garnish)",
+          "4 cups vegetable or chicken broth",
+          "1 tablespoon fresh lemon juice",
+          "2 tablespoons roughly chopped fresh herbs (parsley, basil, dill, chives, etc)",
+          "¼ small avocado (diced)"
+        ]
+      },
+      "he": {
+        "title": "מרק אספרגוס קרמי (בלי שמנת)",
+        "description": "מרק אספרגוס ירוק וקטיפתי שהקרמיות שלו מגיעה ממעט אבוקדו במקום שמנת, עם לימון ועשבי תיבול.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "בצל צהוב גדול, קצוץ",
+          "2 גבעולי סלרי, קצוצים",
+          "3 שיני שום",
+          "כפית מלח גס",
+          "¼ כפית פלפל שחור",
+          "900 גרם אספרגוס (כ-2 צרורות), בלי הקצוות הקשים",
+          "4 כוסות ציר ירקות או עוף",
+          "כף מיץ לימון טרי",
+          "2 כפות עשבי תיבול טריים קצוצים (פטרוזיליה, בזיליקום)",
+          "¼ אבוקדו קטן, קצוץ"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול על אש בינונית. מאדים בצל וסלרי 3–4 דקות, ואז שום, מלח ופלפל לחצי דקה.",
+          "מוסיפים אספרגוס וציר, מביאים לרתיחה, מכסים ומבשלים 20–25 דקות עד שהאספרגוס רך מאוד.",
+          "מוסיפים אבוקדו, מיץ לימון ועשבי תיבול וטוחנים עד שהמרק חלק.",
+          "מגישים עם זילוף שמן זית וכמה ראשי אספרגוס."
+        ],
+        "whyFits": "האבוקדו נותן קרמיות במקום שמנת, כך שאין חלב. ירקות בלבד. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "roasted-cauliflower-cumin-soup",
+      "url": "https://downshiftology.com/recipes/roasted-cauliflower-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2019/10/roasted-cauliflower-soup-8.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 129,
+        "protein": 4
+      },
+      "en": {
+        "title": "Roasted Cauliflower Soup with Cumin",
+        "description": "Cauliflower, onion and garlic roasted with cumin and coriander, then blended with broth into a nutty, velvety soup.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Cut the cauliflower into florets.",
+          "Toss the florets on a sheet pan with the oil, cumin, coriander, salt and pepper. Add the oiled onion halves cut-side down and the garlic.",
+          "Roast about 30–35 minutes until golden.",
+          "Blend the cauliflower (keep a few florets to garnish), the peeled onion, the squeezed-out garlic and the broth until smooth.",
+          "Serve topped with florets, almonds and thyme."
+        ],
+        "whyFits": "Roasted vegetables and broth with 2 tbsp oil. Creamy with no cream. No grains or sugar.",
+        "ingredients": [
+          "1 large head cauliflower",
+          "1 white or yellow onion",
+          "3–4 garlic cloves, unpeeled",
+          "2 tbsp avocado or olive oil",
+          "1 tsp cumin",
+          "½ tsp coriander",
+          "Kosher salt and black pepper",
+          "4 cups low-sodium vegetable broth",
+          "Optional garnish: roasted florets, toasted sliced almonds, fresh thyme"
+        ]
+      },
+      "he": {
+        "title": "מרק כרובית צלויה בכמון",
+        "description": "כרובית, בצל ושום צלויים עם כמון וכוסברה, טחונים עם ציר למרק קטיפתי בטעם אגוזי.",
+        "ingredients": [
+          "ראש כרובית גדול",
+          "בצל לבן או צהוב",
+          "3–4 שיני שום בקליפה",
+          "2 כפות שמן אבוקדו או זית",
+          "כפית כמון",
+          "½ כפית כוסברה טחונה",
+          "מלח גס ופלפל שחור",
+          "4 כוסות ציר ירקות דל נתרן",
+          "לקישוט (לא חובה): פרחי כרובית צלויים, שקדים פרוסים קלויים, טימין טרי"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. מפרקים את הכרובית לפרחים.",
+          "מערבבים את הפרחים בתבנית עם שמן, כמון, כוסברה, מלח ופלפל. מוסיפים את חצאי הבצל משומנים, הצד החתוך למטה, ואת השום.",
+          "צולים כ-30–35 דקות עד להזהבה.",
+          "טוחנים את הכרובית (משאירים כמה פרחים לקישוט), הבצל הקלוף, השום שנסחט מהקליפה והציר עד שהמרק חלק.",
+          "מגישים עם פרחי כרובית, שקדים וטימין."
+        ],
+        "whyFits": "ירקות צלויים וציר עם 2 כפות שמן. קרמי בלי שמנת. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "greek-black-eyed-pea-spinach-stew",
+      "url": "https://www.themediterraneandish.com/black-eyed-pea-soup-mavromatika/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/12/TMD-Greek-Black-Eyed-Pea-Stew-Leads-02-Angle.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 60,
+      "totalMinutes": 70,
+      "servings": 6,
+      "nutrition": {
+        "calories": 394,
+        "protein": 20
+      },
+      "en": {
+        "title": "Greek Black-Eyed Pea Stew with Spinach and Fennel",
+        "description": "Black-eyed peas simmered with fennel, onion and tomatoes, then finished with spinach, lemon and fennel fronds.",
+        "steps": [
+          "Soak the peas overnight and drain.",
+          "Heat the oil in a large pot over medium heat and cook the onion and fennel 8–10 minutes. Add the garlic briefly.",
+          "Add the peas, tomatoes, salt, pepper and 2 cups water. Bring to a boil, then simmer partly covered 45–60 minutes until tender.",
+          "Stir in the spinach and cook 5–10 minutes more.",
+          "Off the heat, add the fennel fronds and lemon juice and season."
+        ],
+        "whyFits": "Legumes and vegetables. ⅓ cup oil for 6 servings (under 1 tbsp each). No dairy, grains or sugar.",
+        "ingredients": [
+          "450 g dry black-eyed peas, soaked overnight (or 2 cans, drained)",
+          "⅓ cup extra virgin olive oil",
+          "1 small onion, finely chopped",
+          "1 fennel bulb, finely chopped (fronds reserved)",
+          "1 garlic clove, minced",
+          "1 can (425 g) crushed tomatoes",
+          "1 tsp salt",
+          "½ tsp black pepper",
+          "280 g spinach, roughly chopped",
+          "Juice of ½ lemon"
+        ]
+      },
+      "he": {
+        "title": "תבשיל לוביה יווני עם תרד ושומר",
+        "description": "לוביה (שעועית עין שחורה) שמתבשלת עם שומר, בצל ועגבניות, ומסיימת עם תרד, לימון ועלי שומר.",
+        "ingredients": [
+          "450 גרם לוביה יבשה, מושרית לילה (או 2 קופסאות, מסוננות)",
+          "⅓ כוס שמן זית",
+          "בצל קטן, קצוץ דק",
+          "פקעת שומר, קצוצה דק (שומרים את העלים)",
+          "שן שום, כתושה",
+          "קופסת עגבניות מרוסקות (425 גרם)",
+          "כפית מלח",
+          "½ כפית פלפל שחור",
+          "280 גרם עלי תרד, קצוצים גס",
+          "מיץ מחצי לימון"
+        ],
+        "steps": [
+          "משרים את הלוביה לילה ומסננים.",
+          "מחממים שמן בסיר גדול על אש בינונית ומאדים בצל ושומר 8–10 דקות. מוסיפים שום לרגע.",
+          "מוסיפים לוביה, עגבניות, מלח, פלפל ו-2 כוסות מים. מביאים לרתיחה ומבשלים עם מכסה חלקי 45–60 דקות עד שהלוביה רכה.",
+          "מוסיפים תרד ומבשלים עוד 5–10 דקות.",
+          "מורידים מהאש, מוסיפים עלי שומר ומיץ לימון ומתקנים תיבול."
+        ],
+        "whyFits": "קטניות וירקות. ⅓ כוס שמן ל-6 מנות (פחות מכף למנה). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "greek-white-bean-soup-fasolada",
+      "url": "https://www.themediterraneandish.com/greek-bean-soup-fasolada/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/03/Easy-Greek-Bean-Soup-Recipe-The-Mediterranean-Dish-3-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 25,
+      "totalMinutes": 30,
+      "servings": 6,
+      "nutrition": {
+        "calories": 409,
+        "protein": 22
+      },
+      "en": {
+        "title": "Greek White Bean Soup (Fasolada)",
+        "description": "A classic Greek bean soup of cannellini beans, celery and onion with oregano, partly blended for creaminess and finished with lemon and parsley.",
+        "steps": [
+          "Heat 2 tbsp oil in a heavy pot over medium-high heat. Cook the onion with salt and pepper 4 minutes, then the garlic, celery, bay leaf and oregano 5 minutes.",
+          "Add the broth, beans and spices. Boil 3 minutes, then cover and simmer on medium-low 10 minutes.",
+          "Blend 2 cups of the soup and stir it back in. Simmer 5 minutes.",
+          "Off the heat, stir in the remaining olive oil, lemon zest and juice, and parsley."
+        ],
+        "whyFits": "Legumes and vegetables in broth. The olive oil comes to about 1 tbsp per serving (use less if you like). No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tbsp extra virgin olive oil, plus ⅓ cup to finish",
+          "1 large yellow onion, chopped",
+          "½ tsp salt",
+          "½ tsp black pepper",
+          "2 garlic cloves, minced",
+          "4 celery ribs, chopped",
+          "1 tsp dried oregano",
+          "1 bay leaf",
+          "4½ cups chicken or vegetable broth",
+          "3 cans (425 g each) cannellini beans, drained and rinsed",
+          "½ tsp ground cumin",
+          "¼ tsp sweet paprika",
+          "¼ tsp cayenne pepper",
+          "1 lemon, zested and juiced",
+          "½ cup chopped fresh parsley"
+        ]
+      },
+      "he": {
+        "title": "מרק שעועית לבנה יווני (פסולדה)",
+        "description": "מרק שעועית יווני קלאסי של שעועית לבנה, סלרי ובצל עם אורגנו, טחון בחלקו לקרמיות, עם לימון ופטרוזיליה בסוף.",
+        "ingredients": [
+          "2 כפות שמן זית, ועוד ⅓ כוס לסיום",
+          "בצל צהוב גדול, קצוץ",
+          "½ כפית מלח",
+          "½ כפית פלפל שחור",
+          "2 שיני שום, כתושות",
+          "4 גבעולי סלרי, קצוצים",
+          "כפית אורגנו יבש",
+          "עלה דפנה",
+          "4½ כוסות ציר עוף או ירקות",
+          "3 קופסאות שעועית לבנה (425 גרם כל אחת), מסוננת ושטופה",
+          "½ כפית כמון טחון",
+          "¼ כפית פפריקה מתוקה",
+          "¼ כפית פלפל קאיין",
+          "לימון (גרידה ומיץ)",
+          "½ כוס פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים 2 כפות שמן בסיר כבד על אש בינונית-גבוהה. מאדים בצל עם מלח ופלפל 4 דקות, ואז שום, סלרי, עלה דפנה ואורגנו 5 דקות.",
+          "מוסיפים ציר, שעועית ותבלינים. מרתיחים 3 דקות, מכסים ומבשלים על אש בינונית-נמוכה 10 דקות.",
+          "טוחנים 2 כוסות מהמרק ומחזירים לסיר. מבשלים 5 דקות.",
+          "מורידים מהאש ומערבבים פנימה את שאר שמן הזית, גרידה ומיץ לימון ופטרוזיליה."
+        ],
+        "whyFits": "קטניות וירקות בציר. שמן הזית מגיע לכף למנה בערך (אפשר להשתמש בפחות). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "red-lentil-coconut-soup",
+      "url": "https://detoxinista.com/red-lentil-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2020/01/red-lentil-soup-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35,
+      "servings": 6,
+      "nutrition": {
+        "calories": 206,
+        "protein": 9
+      },
+      "en": {
+        "title": "Red Lentil Soup with Coconut and Cumin",
+        "description": "A quick, cozy soup of red lentils, carrots and celery with cumin and tomato paste, made creamy with a splash of coconut milk.",
+        "steps": [
+          "Heat the oil in a large pot over medium-high heat and cook the onion, carrots and celery 8–10 minutes.",
+          "Add the garlic, cumin, cayenne and tomato paste for 1 minute.",
+          "Add the water, lentils and 1½ tsp salt. Bring to a boil, then cover and simmer about 15 minutes until the lentils are tender.",
+          "Stir in the coconut milk, cilantro and lemon juice and season. Keeps a week in the fridge."
+        ],
+        "whyFits": "Legumes and vegetables, 1 tbsp oil, and coconut milk instead of cream. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 tbsp olive oil",
+          "1 yellow onion, chopped",
+          "2 carrots, chopped",
+          "2 celery stalks, chopped",
+          "3 garlic cloves, minced",
+          "1 tbsp ground cumin",
+          "Pinch of cayenne (optional)",
+          "¼ cup tomato paste",
+          "5 cups water",
+          "1 cup dry red lentils",
+          "1½–2 tsp fine sea salt",
+          "½ cup canned coconut milk",
+          "⅓ cup chopped fresh cilantro",
+          "1 tbsp fresh lemon juice"
+        ]
+      },
+      "he": {
+        "title": "מרק עדשים כתומות עם חלב קוקוס וכמון",
+        "description": "מרק מהיר ומחמם של עדשים כתומות, גזר וסלרי עם כמון ורסק עגבניות, עם מעט חלב קוקוס לקרמיות.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב, קצוץ",
+          "2 גזרים, קצוצים",
+          "2 גבעולי סלרי, קצוצים",
+          "3 שיני שום, כתושות",
+          "כף כמון טחון",
+          "קורט קאיין (לא חובה)",
+          "¼ כוס רסק עגבניות",
+          "5 כוסות מים",
+          "כוס עדשים כתומות יבשות",
+          "1½–2 כפיות מלח ים דק",
+          "½ כוס חלב קוקוס",
+          "⅓ כוס כוסברה טרייה קצוצה",
+          "כף מיץ לימון טרי"
+        ],
+        "steps": [
+          "מחממים שמן בסיר גדול על אש בינונית-גבוהה ומאדים בצל, גזר וסלרי 8–10 דקות.",
+          "מוסיפים שום, כמון, קאיין ורסק לדקה.",
+          "מוסיפים מים, עדשים ו-1½ כפית מלח. מביאים לרתיחה, מכסים ומבשלים כ-15 דקות עד שהעדשים רכות.",
+          "מערבבים פנימה חלב קוקוס, כוסברה ומיץ לימון ומתקנים תיבול. נשמר שבוע במקרר."
+        ],
+        "whyFits": "קטניות וירקות, כף שמן וחלב קוקוס במקום שמנת. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "pressure-cooker-green-lentil-spinach-soup",
+      "url": "https://detoxinista.com/instant-pot-lentil-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2018/06/instant-pot-lentil-soup-in-bowl.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 10,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 128,
+        "protein": 8
+      },
+      "en": {
+        "title": "Green Lentil and Spinach Soup (Pressure Cooker, No Oil)",
+        "description": "A hands-off lentil soup with carrots, celery, tomatoes, cumin and curry, cooked in a pressure cooker with no sautéing and no oil.",
+        "steps": [
+          "Put everything except the spinach in the pressure cooker.",
+          "Seal and cook on high pressure 10 minutes. Let the pressure release naturally 10 minutes, then vent.",
+          "Stir in the spinach until wilted and season to taste. Serve with parsley and lemon."
+        ],
+        "whyFits": "Legumes and vegetables with no added oil at all. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 yellow onion, chopped",
+          "2 carrots, peeled and chopped",
+          "2 celery stalks, chopped",
+          "1 can (410 g) fire-roasted diced tomatoes",
+          "2 garlic cloves, minced",
+          "1 tsp ground cumin",
+          "1 tsp curry powder",
+          "Pinch of cayenne (optional)",
+          "1 cup dry green lentils",
+          "1½ tsp fine sea salt",
+          "¼ tsp black pepper",
+          "4 cups water",
+          "1 cup baby spinach, chopped",
+          "Parsley and lemon slices, to serve"
+        ]
+      },
+      "he": {
+        "title": "מרק עדשים ירוקות ותרד בסיר לחץ (בלי שמן)",
+        "description": "מרק עדשים כמעט בלי עבודה, עם גזר, סלרי, עגבניות, כמון וקארי, מבושל בסיר לחץ בלי הקפצה ובלי שמן.",
+        "ingredients": [
+          "בצל צהוב, קצוץ",
+          "2 גזרים, קלופים וקצוצים",
+          "2 גבעולי סלרי, קצוצים",
+          "קופסת עגבניות קלויות קצוצות (410 גרם)",
+          "2 שיני שום, כתושות",
+          "כפית כמון טחון",
+          "כפית אבקת קארי",
+          "קורט קאיין (לא חובה)",
+          "כוס עדשים ירוקות יבשות",
+          "1½ כפית מלח ים דק",
+          "¼ כפית פלפל שחור",
+          "4 כוסות מים",
+          "כוס עלי תרד, קצוצים",
+          "פטרוזיליה ופרוסות לימון להגשה"
+        ],
+        "steps": [
+          "מכניסים לסיר הלחץ הכול חוץ מהתרד.",
+          "סוגרים ומבשלים בלחץ גבוה 10 דקות. משחררים לחץ טבעי 10 דקות ואז את השאר.",
+          "מערבבים פנימה תרד עד שהוא מתרכך ומתקנים תיבול. מגישים עם פטרוזיליה ולימון."
+        ],
+        "whyFits": "קטניות וירקות בלי שום תוספת שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "garam-masala-hummus",
+      "url": "https://minimalistbaker.com/garam-marsala-hummus-with-toasted-sesame-seeds/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2013/08/Garam-Marsala-Hummus-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 6,
+      "nutrition": {
+        "calories": 219,
+        "protein": 7
+      },
+      "en": {
+        "title": "Garam Masala Hummus",
+        "description": "Smooth homemade hummus with a warm twist of garam masala, topped with toasted sesame seeds. Serve with vegetable sticks.",
+        "steps": [
+          "Blend everything except the oil and garam masala until smooth.",
+          "Drizzle in the oil while blending.",
+          "Add the garam masala ¼ tsp at a time to taste, and adjust the lemon.",
+          "Sprinkle with more garam masala and toasted sesame. Serve with cut vegetables. Keeps a week in the fridge."
+        ],
+        "whyFits": "Homemade from chickpeas and tahini, so nothing processed. Serve with vegetables instead of pita. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 can (425 g) chickpeas, with half the liquid drained",
+          "About ¼ cup fresh lemon juice",
+          "3 small garlic cloves, grated",
+          "⅓ cup tahini",
+          "Pinch of paprika",
+          "¼ tsp sea salt",
+          "3 tbsp olive oil",
+          "About 1 tsp garam masala",
+          "Toasted sesame seeds, to serve"
+        ]
+      },
+      "he": {
+        "title": "חומוס בתיבול גראם מסאלה",
+        "description": "חומוס ביתי חלק עם טוויסט חם של גראם מסאלה ושומשום קלוי מעל. מגישים עם מקלות ירקות.",
+        "ingredients": [
+          "קופסת גרגירי חומוס (425 גרם), עם חצי מהנוזל",
+          "כ-¼ כוס מיץ לימון טרי",
+          "3 שיני שום קטנות, מגוררות",
+          "⅓ כוס טחינה גולמית",
+          "קורט פפריקה",
+          "¼ כפית מלח ים",
+          "3 כפות שמן זית",
+          "כפית גראם מסאלה בערך",
+          "שומשום קלוי להגשה"
+        ],
+        "steps": [
+          "טוחנים במעבד מזון הכול חוץ מהשמן והגראם מסאלה עד שהחומוס חלק.",
+          "מוסיפים את השמן בזרם דק תוך כדי טחינה.",
+          "מוסיפים גראם מסאלה ¼ כפית בכל פעם לפי הטעם, ומתקנים לימון.",
+          "מפזרים עוד גראם מסאלה ושומשום קלוי. מגישים עם ירקות חתוכים. נשמר שבוע במקרר."
+        ],
+        "whyFits": "ביתי מגרגירי חומוס וטחינה, כך שאין שום דבר מעובד. מגישים עם ירקות במקום פיתה. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "kidney-bean-cilantro-salad-dijon",
+      "url": "https://www.themediterraneandish.com/kidney-bean-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2014/06/Kidney-Bean-Salad-with-Cilantro-and-Dijon-Vinaigrette-4.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 211,
+        "protein": 7
+      },
+      "en": {
+        "title": "Kidney Bean and Cilantro Salad with Dijon Vinaigrette",
+        "description": "A fresh, hearty salad of red kidney beans, cucumber, tomato, red onion and lots of cilantro in a lime-mustard-sumac dressing.",
+        "steps": [
+          "Combine the beans with the chopped vegetables and cilantro.",
+          "Whisk the lime juice, oil, mustard, garlic, sumac and pepper.",
+          "Pour over the salad, toss, and season.",
+          "Chill 30–60 minutes before serving."
+        ],
+        "whyFits": "Legumes and fresh vegetables with an olive oil dressing. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 can (425 g) kidney beans, drained and rinsed",
+          "½ English cucumber, chopped",
+          "1 medium ripe tomato, chopped",
+          "1 bunch fresh cilantro, chopped",
+          "1 red onion, chopped (about 1 cup)",
+          "Juice of 1 large lime or lemon",
+          "3 tbsp extra virgin olive oil",
+          "1 tsp Dijon mustard",
+          "½ tsp garlic paste or finely chopped garlic",
+          "1 tsp sumac",
+          "Salt and pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט שעועית אדומה וכוסברה בוויניגרט חרדל",
+        "description": "סלט רענן ומשביע של שעועית אדומה, מלפפון, עגבנייה, בצל סגול והרבה כוסברה ברוטב ליים, חרדל וסומק.",
+        "ingredients": [
+          "קופסת שעועית אדומה (425 גרם), מסוננת ושטופה",
+          "½ מלפפון ארוך, קצוץ",
+          "עגבנייה בשלה בינונית, קצוצה",
+          "צרור כוסברה טרייה, קצוצה",
+          "בצל סגול, קצוץ (כוס)",
+          "מיץ מליים או לימון גדול",
+          "3 כפות שמן זית",
+          "כפית חרדל דיז׳ון",
+          "½ כפית שום כתוש",
+          "כפית סומק",
+          "מלח ופלפל"
+        ],
+        "steps": [
+          "מערבבים את השעועית עם הירקות הקצוצים והכוסברה.",
+          "טורפים מיץ ליים, שמן, חרדל, שום, סומק ופלפל.",
+          "יוצקים על הסלט, מערבבים ומתבלים.",
+          "מקררים 30–60 דקות לפני ההגשה."
+        ],
+        "whyFits": "קטניות וירקות טריים ברוטב שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
       "id": "slow-cooker-beef-three-bean-chili",
       "url": "https://therealfooddietitians.com/slow-cooker-beef-and-bean-chili/",
       "source": "The Real Food Dietitians",
