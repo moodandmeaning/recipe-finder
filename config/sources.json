@@ -1,0 +1,27 @@
+{
+  "about": "Recipe sites the daily task checks for new posts, in addition to open web search. Most of these creators are also on Instagram. Add a site by adding a line with its name, website, feed (usually website + /feed) and Instagram handle.",
+  "feeds": [
+    { "name": "Primal Gourmet", "site": "https://cookprimalgourmet.com", "feed": "https://cookprimalgourmet.com/feed", "instagram": "primal_gourmet" },
+    { "name": "Nom Nom Paleo", "site": "https://nomnompaleo.com", "feed": "https://nomnompaleo.com/feed", "instagram": "nomnompaleo" },
+    { "name": "Paleo Running Momma", "site": "https://www.paleorunningmomma.com", "feed": "https://www.paleorunningmomma.com/feed", "instagram": "paleorunningmomma" },
+    { "name": "The Real Food Dietitians", "site": "https://therealfooddietitians.com", "feed": "https://therealfooddietitians.com/feed", "instagram": "therealfoodrds" },
+    { "name": "Every Last Bite", "site": "https://www.everylastbite.com", "feed": "https://www.everylastbite.com/feed", "instagram": "everylastbite" },
+    { "name": "Paleo Gluten Free", "site": "https://paleoglutenfree.com", "feed": "https://paleoglutenfree.com/feed", "instagram": "paleoglutenfree" },
+    { "name": "Downshiftology", "site": "https://downshiftology.com", "feed": "https://downshiftology.com/feed", "instagram": "downshiftology" },
+    { "name": "The Defined Dish", "site": "https://thedefineddish.com", "feed": "https://thedefineddish.com/feed", "instagram": "thedefineddish" },
+    { "name": "Real Food with Jessica", "site": "https://www.realfoodwithjessica.com", "feed": "https://www.realfoodwithjessica.com/feed", "instagram": "realfoodwithjessica" },
+    { "name": "40 Aprons", "site": "https://40aprons.com", "feed": "https://40aprons.com/feed", "instagram": "40aprons" },
+    { "name": "איך להרשים את חמותך", "site": "https://leharshim.com", "feed": "https://leharshim.com/feed/", "instagram": null }
+  ],
+  "hebrewSearches": [
+    "מתכון סלט בריא ללא סוכר",
+    "מתכון מרק ירקות בריא",
+    "מתכון עוף בתנור בריא עם ירקות",
+    "מתכון תבשיל בשר בריא ללא קמח",
+    "מתכון דג סלמון בתנור בריא",
+    "מתכון קטניות עדשים חומוס בריא",
+    "מתכון שקשוקה בריאה",
+    "מתכון קינוח בריא ללא סוכר ללא קמח פרווה",
+    "מתכון פליאו פרווה"
+  ]
+}

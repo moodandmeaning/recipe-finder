@@ -1,0 +1,815 @@
+{
+  "updated": "2026-11-01",
+  "recipes": [
+    {
+      "id": "sheet-pan-chicken-date-mustard-sauce",
+      "url": "https://www.paleorunningmomma.com/sheet-pan-chicken-veggies-paleo-whole30/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2017/03/sheet-pan-chicken-and-veggies-5.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 30,
+      "totalMinutes": 35,
+      "servings": 6,
+      "nutrition": { "calories": 301, "protein": 27 },
+      "en": {
+        "title": "Sheet-Pan Chicken Thighs with Vegetables and Date-Mustard Sauce",
+        "description": "Chicken thighs in a sweet-savory sauce made from dates and mustard, roasted on one pan with sweet potato, pepper, onion and broccoli.",
+        "ingredients": [
+          "1/3 cup pitted dates, softened in hot water and drained",
+          "2 tbsp water",
+          "1/3 cup coconut aminos",
+          "2 tbsp brown mustard",
+          "1/4 tsp onion powder",
+          "1/4 tsp garlic powder",
+          "1/4 tsp paprika",
+          "1/8 tsp black pepper",
+          "1.5 lb (680 g) boneless skinless chicken thighs",
+          "1 large sweet potato, cut into 1 cm cubes",
+          "1 medium red bell pepper, cut into 2–3 cm pieces",
+          "1 medium red onion, cut into quarters",
+          "1 head of broccoli, cut into florets (about 3 cups)",
+          "2½ tbsp avocado oil or light olive oil, divided",
+          "1/2 tsp salt, divided, plus a pinch for the chicken",
+          "Black pepper to taste"
+        ],
+        "steps": [
+          "Heat the oven to 230°C (450°F).",
+          "Blend the softened dates with the water into a paste, then blend in the coconut aminos, mustard and spices to make the sauce.",
+          "Coat the chicken on both sides with the sauce and lay it on a lined baking sheet.",
+          "Toss the sweet potato with ½ tbsp oil, ¼ tsp salt and pepper and spread it next to the chicken. Roast for 10 minutes.",
+          "Meanwhile toss the pepper, onion and broccoli with the remaining 2 tbsp oil, salt and pepper.",
+          "Add these vegetables around the chicken and roast 10–15 minutes more, turning the chicken once.",
+          "Broil for the last 2–5 minutes for color. Keeps 4 days in the fridge."
+        ],
+        "whyFits": "Sweetened only with dates, no dairy, no grains, roasted rather than fried, and oil stays well under a tablespoon per serving."
+      },
+      "he": {
+        "title": "עוף בתבנית עם ירקות ורוטב תמרים וחרדל",
+        "description": "שוקי עוף פרגית ברוטב מתוק-מלוח מתמרים וחרדל, צלויים בתבנית אחת עם בטטה, פלפל, בצל וברוקולי.",
+        "ingredients": [
+          "⅓ כוס תמרים מגולענים, מושרים במים חמים ומסוננים",
+          "2 כפות מים",
+          "⅓ כוס קוקוס אמינוס",
+          "2 כפות חרדל גרגרים",
+          "¼ כפית אבקת בצל",
+          "¼ כפית אבקת שום",
+          "¼ כפית פפריקה",
+          "⅛ כפית פלפל שחור",
+          "680 גרם פרגיות ללא עור",
+          "בטטה גדולה, חתוכה לקוביות של 1 ס״מ",
+          "פלפל אדום בינוני, חתוך לחתיכות של 2–3 ס״מ",
+          "בצל סגול בינוני, חתוך לרבעים",
+          "ראש ברוקולי, מפורק לפרחים (כ-3 כוסות)",
+          "2½ כפות שמן אבוקדו או שמן זית עדין, מחולק",
+          "½ כפית מלח, מחולק, ועוד קורט לעוף",
+          "פלפל שחור לפי הטעם"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות.",
+          "טוחנים את התמרים הרכים עם המים לממרח, ואז מוסיפים את הקוקוס אמינוס, החרדל והתבלינים וטוחנים לרוטב.",
+          "מורחים את הרוטב על הפרגיות משני הצדדים ומניחים בתבנית מרופדת.",
+          "מערבבים את הבטטה עם ½ כף שמן, ¼ כפית מלח ופלפל, ומפזרים ליד העוף. צולים 10 דקות.",
+          "בינתיים מערבבים את הפלפל, הבצל והברוקולי עם 2 כפות השמן הנותרות, מלח ופלפל.",
+          "מוסיפים את הירקות מסביב לעוף וצולים עוד 10–15 דקות, הופכים את העוף פעם אחת.",
+          "בסוף מעבירים לגריל ל-2–5 דקות להשחמה. נשמר 4 ימים במקרר."
+        ],
+        "whyFits": "ממותק רק בתמרים, בלי חלב ובלי דגנים, צלוי בתנור ולא מטוגן, ופחות מכף שמן למנה."
+      }
+    },
+    {
+      "id": "sheet-pan-chicken-root-vegetables-herbs",
+      "url": "https://therealfooddietitians.com/one-pan-roasted-chicken-and-vegetables/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2015/12/One-Pan-Roasted-Chicken-and-Vegetables-Finals-7-e1586712934826.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": { "calories": 450, "protein": 35 },
+      "en": {
+        "title": "One-Pan Roasted Chicken Thighs with Carrots, Green Beans and Potatoes",
+        "description": "A simple, classic tray of chicken thighs roasted on a bed of vegetables with rosemary, thyme and garlic.",
+        "ingredients": [
+          "340 g (12 oz) carrots, cut into 5–7 cm sticks",
+          "340 g (12 oz) green beans, trimmed",
+          "340 g (12 oz) baby potatoes, halved or quartered (or cubed sweet potato)",
+          "1 medium red onion, cut into wedges",
+          "3–4 garlic cloves, minced",
+          "1 tbsp chopped fresh rosemary (or 1 tsp dried)",
+          "2 tsp fresh thyme leaves (or ¾ tsp dried)",
+          "½ tbsp olive or avocado oil (1 tbsp if using skinless chicken)",
+          "700–900 g bone-in, skin-on chicken thighs",
+          "½ tsp fine salt",
+          "½ tsp black pepper"
+        ],
+        "steps": [
+          "Heat the oven to 220°C (425°F) and line a large rimmed baking sheet with parchment.",
+          "Toss all the vegetables, garlic and herbs with the oil right on the pan.",
+          "Nestle the chicken thighs on top of the vegetables and season everything with salt and pepper.",
+          "Roast 30–35 minutes, stirring the vegetables every 10 minutes, until the chicken is cooked through and the potatoes are tender."
+        ],
+        "whyFits": "Just chicken, vegetables, herbs and a little oil. No dairy, no grains, no sugar and nothing processed."
+      },
+      "he": {
+        "title": "עוף בתבנית אחת עם גזר, שעועית ירוקה ותפוחי אדמה",
+        "description": "תבנית קלאסית ופשוטה של שוקי עוף צלויות על מצע ירקות עם רוזמרין, טימין ושום.",
+        "ingredients": [
+          "340 גרם גזר, חתוך למקלות של 5–7 ס״מ",
+          "340 גרם שעועית ירוקה, קצוות חתוכים",
+          "340 גרם תפוחי אדמה קטנים, חצויים או לרבעים (או קוביות בטטה)",
+          "בצל סגול בינוני, חתוך לפלחים",
+          "3–4 שיני שום כתושות",
+          "כף רוזמרין טרי קצוץ (או כפית יבש)",
+          "2 כפיות עלי טימין טרי (או ¾ כפית יבש)",
+          "½ כף שמן זית או שמן אבוקדו (כף שלמה אם העוף בלי עור)",
+          "700–900 גרם ירכי עוף עם עצם ועור",
+          "½ כפית מלח דק",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות ומרפדים תבנית גדולה בנייר אפייה.",
+          "מערבבים את כל הירקות, השום ועשבי התיבול עם השמן ישירות בתבנית.",
+          "מניחים את ירכי העוף מעל הירקות ומתבלים הכול במלח ופלפל.",
+          "צולים 30–35 דקות, מערבבים את הירקות כל 10 דקות, עד שהעוף מוכן ותפוחי האדמה רכים."
+        ],
+        "whyFits": "רק עוף, ירקות, עשבי תיבול ומעט שמן. בלי חלב, בלי דגנים, בלי סוכר ובלי מוצרים מעובדים."
+      }
+    },
+    {
+      "id": "sheet-pan-tandoori-chicken-cauliflower",
+      "url": "https://nomnompaleo.com/sheet-pan-tandoori-chicken",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2019/10/800-H1-Sheet-Pan-Tandoori-Chicken.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": { "calories": 590, "protein": 33 },
+      "en": {
+        "title": "Sheet-Pan Tandoori Chicken with Cauliflower",
+        "description": "Indian-spiced chicken thighs and cauliflower in a coconut-milk tandoori marinade, roasted together on one pan.",
+        "ingredients": [
+          "1 cup full-fat coconut milk",
+          "2 tbsp tandoori spice mix (no salt, no additives)",
+          "1 tbsp kosher salt (or 1½ tsp fine salt)",
+          "1 tbsp lemon juice",
+          "1 tbsp avocado oil",
+          "1 small cauliflower (up to 900 g), cut into florets",
+          "1 small red onion, cut into thin wedges",
+          "680 g (1.5 lb) boneless skinless chicken thighs",
+          "¼ cup chopped fresh cilantro (optional)",
+          "1 lemon, cut into wedges (optional)"
+        ],
+        "steps": [
+          "Heat the oven to 230°C (450°F) with the rack in the middle.",
+          "Whisk the coconut milk, tandoori spice, salt and lemon juice into a marinade.",
+          "Brush the oil over a rimmed baking sheet (or line it with parchment).",
+          "Toss the cauliflower and onion with half of the marinade, shake off the excess and spread them on the pan.",
+          "Toss the chicken in the rest of the marinade and lay it in a single layer among the vegetables.",
+          "Roast 25–35 minutes, flipping the cauliflower and turning the pan halfway, until the cauliflower is browned and the chicken reaches 74°C (165°F).",
+          "Sprinkle with cilantro and serve with lemon wedges."
+        ],
+        "whyFits": "The creamy marinade is coconut milk, not yogurt, so it's dairy-free. No grains, no sugar and no frying."
+      },
+      "he": {
+        "title": "עוף טנדורי בתבנית עם כרובית",
+        "description": "פרגיות וכרובית בתיבול הודי, במרינדת טנדורי על בסיס חלב קוקוס, צלויות יחד בתבנית אחת.",
+        "ingredients": [
+          "כוס חלב קוקוס מלא",
+          "2 כפות תערובת תבלין טנדורי (בלי מלח ובלי תוספים)",
+          "כף מלח גס (או 1½ כפית מלח דק)",
+          "כף מיץ לימון",
+          "כף שמן אבוקדו",
+          "כרובית קטנה (עד 900 גרם), מפורקת לפרחים",
+          "בצל סגול קטן, חתוך לפלחים דקים",
+          "680 גרם פרגיות ללא עור",
+          "¼ כוס כוסברה קצוצה (לא חובה)",
+          "לימון חתוך לפלחים (לא חובה)"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות, עם רשת באמצע.",
+          "טורפים חלב קוקוס, תבלין טנדורי, מלח ומיץ לימון למרינדה.",
+          "מברישים את השמן על תבנית עם שוליים (או מרפדים בנייר אפייה).",
+          "מערבבים את הכרובית והבצל עם חצי מהמרינדה, מנערים את העודף ומפזרים בתבנית.",
+          "מערבבים את העוף בשארית המרינדה ומסדרים בשכבה אחת בין הירקות.",
+          "צולים 25–35 דקות, הופכים את הכרובית ומסובבים את התבנית באמצע, עד שהכרובית משחימה והעוף מגיע ל-74 מעלות בפנים.",
+          "מפזרים כוסברה ומגישים עם פלחי לימון."
+        ],
+        "whyFits": "המרינדה הקרמית עשויה מחלב קוקוס ולא מיוגורט, ולכן אין בה חלב. בלי דגנים, בלי סוכר ובלי טיגון."
+      }
+    },
+    {
+      "id": "walnut-pesto-baked-salmon",
+      "url": "https://www.paleorunningmomma.com/pesto-baked-salmon-paleo-whole30-keto/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2022/10/pesto-baked-salmon-4-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "totalMinutes": 30,
+      "servings": 6,
+      "nutrition": { "calories": 300, "protein": 25 },
+      "en": {
+        "title": "Baked Salmon with Dairy-Free Walnut Pesto and Cherry Tomatoes",
+        "description": "Salmon fillets covered in a 5-minute basil-walnut pesto (no cheese) and baked with cherry tomatoes. Ready in under 30 minutes.",
+        "ingredients": [
+          "½ cup raw walnuts (or pine nuts)",
+          "3 garlic cloves",
+          "115 g (4 oz) fresh basil leaves (you can swap half for baby spinach)",
+          "½ cup olive or avocado oil",
+          "2 tbsp lemon juice",
+          "½ tsp sea salt",
+          "¼ tsp black pepper",
+          "2 tbsp nutritional yeast (optional, for a cheesy flavor)",
+          "4 salmon fillet portions (about 680 g)",
+          "1 pint (about 300 g) cherry tomatoes",
+          "Extra basil for garnish"
+        ],
+        "steps": [
+          "Blend the nuts, garlic, basil, oil, lemon juice, salt and nutritional yeast into a slightly coarse pesto.",
+          "Heat the oven to 220°C (425°F). Season the salmon with salt and pepper and place it skin-side down in a baking dish.",
+          "Spread about two-thirds of the pesto over the fillets and scatter the tomatoes around them.",
+          "Bake 12–15 minutes, until the fish flakes easily with a fork.",
+          "Serve right away with the remaining pesto on top."
+        ],
+        "whyFits": "The pesto gets its flavor from nuts and nutritional yeast instead of parmesan, so it's dairy-free. Salmon is a kosher fish. No grains or sugar."
+      },
+      "he": {
+        "title": "סלמון אפוי עם פסטו אגוזי מלך (בלי גבינה) ועגבניות שרי",
+        "description": "פילה סלמון מכוסה בפסטו בזיליקום ואגוזי מלך בלי גבינה, אפוי עם עגבניות שרי. מוכן בפחות מחצי שעה.",
+        "ingredients": [
+          "½ כוס אגוזי מלך טבעיים (או צנובר)",
+          "3 שיני שום",
+          "115 גרם עלי בזיליקום טרי (אפשר להחליף חצי בעלי תרד)",
+          "½ כוס שמן זית או שמן אבוקדו",
+          "2 כפות מיץ לימון",
+          "½ כפית מלח ים",
+          "¼ כפית פלפל שחור",
+          "2 כפות שמרי בירה (לא חובה, לטעם ״גבינתי״)",
+          "4 מנות פילה סלמון (כ-680 גרם)",
+          "כ-300 גרם עגבניות שרי",
+          "עוד בזיליקום לקישוט"
+        ],
+        "steps": [
+          "טוחנים במעבד מזון את האגוזים, השום, הבזיליקום, השמן, מיץ הלימון, המלח ושמרי הבירה לפסטו לא חלק מדי.",
+          "מחממים תנור ל-220 מעלות. מתבלים את הסלמון במלח ופלפל ומניחים בתבנית, צד העור למטה.",
+          "מורחים כשני שלישים מהפסטו על הדג ומפזרים את העגבניות מסביב.",
+          "אופים 12–15 דקות, עד שהדג מתפרק בקלות במזלג.",
+          "מגישים מיד עם שארית הפסטו מעל."
+        ],
+        "whyFits": "הטעם בפסטו מגיע מאגוזים ושמרי בירה במקום פרמזן, ולכן אין בו חלב. סלמון הוא דג כשר. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "salmon-nicoise-salad",
+      "url": "https://www.paleorunningmomma.com/salmon-nicoise-salad-paleo-whole30/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2022/05/nicoise-salad-11.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "totalMinutes": 55,
+      "servings": 6,
+      "nutrition": { "calories": 363, "protein": 23 },
+      "en": {
+        "title": "Salmon Niçoise Salad",
+        "description": "A hearty main-course salad of greens, baked salmon, jammy eggs, potatoes, green beans and olives, with an anchovy-mustard-lemon dressing.",
+        "ingredients": [
+          "225 g small red potatoes",
+          "Sea salt",
+          "140 g green beans, trimmed",
+          "6 large eggs, at room temperature",
+          "6 tbsp olive oil, divided",
+          "115 g capers, drained",
+          "450 g salmon fillet, skin on",
+          "Freshly ground black pepper",
+          "4 anchovy fillets",
+          "1 tbsp Dijon mustard",
+          "1 tsp raw honey (optional)",
+          "Juice of 1 lemon",
+          "½ shallot, minced",
+          "4–6 cups mixed salad greens",
+          "½ cup pitted Kalamata or Niçoise olives"
+        ],
+        "steps": [
+          "Boil the potatoes in salted water until just tender, 10–15 minutes, then lift them out.",
+          "In the same water, cook the green beans 1–2 minutes, chill them in ice water and pat dry.",
+          "Boil the eggs 6–7 minutes for jammy yolks, then chill them in ice water.",
+          "Fry the capers in 1 tbsp of the oil until they burst, about 3 minutes. Drain them, and save the oil.",
+          "Heat the oven to 200°C (400°F). Rub the salmon with the caper oil, season, and bake 10–12 minutes until it flakes.",
+          "For the dressing, mash or blend the anchovies with the mustard and honey, then whisk in the lemon juice, shallot and remaining oil. Season to taste.",
+          "Arrange the greens, then the green beans, halved potatoes and halved eggs. Add the olives and flaked salmon (no skin), pour over the dressing and top with the capers."
+        ],
+        "whyFits": "Fish, eggs, vegetables and olive oil. Anchovies and salmon are both kosher fish, and there's no meat in the dish. Only 1 tsp of honey (optional) for the whole salad. No dairy, no grains."
+      },
+      "he": {
+        "title": "סלט ניסואז עם סלמון",
+        "description": "סלט עיקרי ומשביע: עלים, סלמון אפוי, ביצים רכות, תפוחי אדמה, שעועית ירוקה וזיתים, עם רוטב אנשובי, חרדל ולימון.",
+        "ingredients": [
+          "225 גרם תפוחי אדמה קטנים אדומים",
+          "מלח ים",
+          "140 גרם שעועית ירוקה, קצוות חתוכים",
+          "6 ביצים גדולות בטמפרטורת החדר",
+          "6 כפות שמן זית, מחולק",
+          "115 גרם צלפים, מסוננים",
+          "450 גרם פילה סלמון עם עור",
+          "פלפל שחור גרוס",
+          "4 פילה אנשובי",
+          "כף חרדל דיז׳ון",
+          "כפית דבש (לא חובה)",
+          "מיץ מלימון אחד",
+          "½ שאלוט קצוץ דק",
+          "4–6 כוסות עלי חסה מעורבים",
+          "½ כוס זיתי קלמטה מגולענים"
+        ],
+        "steps": [
+          "מבשלים את תפוחי האדמה במים עם מלח עד שהם רכים, 10–15 דקות, ומוציאים.",
+          "באותם מים מבשלים את השעועית 1–2 דקות, מצננים במי קרח ומייבשים.",
+          "מבשלים את הביצים 6–7 דקות לחלמון רך, ומצננים במי קרח.",
+          "מטגנים את הצלפים בכף מהשמן כ-3 דקות עד שהם נפתחים. מסננים ושומרים את השמן.",
+          "מחממים תנור ל-200 מעלות. מורחים את הסלמון בשמן הצלפים, מתבלים ואופים 10–12 דקות עד שהוא מתפרק.",
+          "לרוטב: מועכים או טוחנים את האנשובי עם החרדל והדבש, ואז טורפים פנימה את מיץ הלימון, השאלוט ושאר השמן. מתבלים לפי הטעם.",
+          "מסדרים את העלים, ומעליהם שעועית, חצאי תפוחי אדמה וחצאי ביצים. מוסיפים זיתים וסלמון מפורק (בלי העור), יוצקים את הרוטב ומפזרים צלפים."
+        ],
+        "whyFits": "דג, ביצים, ירקות ושמן זית. אנשובי וסלמון שניהם דגים כשרים, ואין בסלט בשר. רק כפית דבש (לא חובה) לכל הסלט. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "classic-shakshuka",
+      "url": "https://downshiftology.com/recipes/shakshuka/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2023/12/Shakshuka-main-1.jpg",
+      "added": "2026-11-01",
+      "category": "eggs",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 6,
+      "nutrition": { "calories": 146, "protein": 7 },
+      "en": {
+        "title": "Classic Shakshuka",
+        "description": "Eggs gently poached in a spiced tomato and red pepper sauce, finished with fresh cilantro and parsley.",
+        "ingredients": [
+          "2 tbsp olive oil",
+          "1 medium onion, diced",
+          "1 red bell pepper, seeded and diced",
+          "4 garlic cloves, finely chopped",
+          "2 tsp paprika",
+          "1 tsp cumin",
+          "¼ tsp chili powder",
+          "1 can (800 g / 28 oz) whole peeled tomatoes",
+          "6 large eggs",
+          "Salt and pepper to taste",
+          "1 small bunch fresh cilantro, chopped",
+          "1 small bunch fresh parsley, chopped"
+        ],
+        "steps": [
+          "Heat the oil in a large pan over medium heat and cook the pepper and onion about 5 minutes, until the onion is soft.",
+          "Add the garlic and spices and cook 1 minute more.",
+          "Add the tomatoes with their juice, crush them with a spoon, season, and bring to a simmer.",
+          "Make 6 small wells in the sauce and crack an egg into each. Cook 5–8 minutes (covered is faster) until the eggs are done the way you like.",
+          "Sprinkle with cilantro and parsley and serve."
+        ],
+        "whyFits": "Eggs and vegetables only. Plain canned tomatoes are allowed. No dairy, no grains, no sugar. Serve it without bread."
+      },
+      "he": {
+        "title": "שקשוקה קלאסית",
+        "description": "ביצים מבושלות ברוטב עגבניות ופלפל אדום מתובל, עם כוסברה ופטרוזיליה טריות.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "בצל בינוני קצוץ",
+          "פלפל אדום, בלי גרעינים, קצוץ",
+          "4 שיני שום קצוצות דק",
+          "2 כפיות פפריקה",
+          "כפית כמון",
+          "¼ כפית צ׳ילי גרוס",
+          "קופסת עגבניות שלמות קלופות (800 גרם)",
+          "6 ביצים גדולות",
+          "מלח ופלפל לפי הטעם",
+          "צרור קטן כוסברה קצוצה",
+          "צרור קטן פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים את השמן במחבת רחבה על אש בינונית ומטגנים את הפלפל והבצל כ-5 דקות, עד שהבצל רך.",
+          "מוסיפים את השום והתבלינים ומבשלים עוד דקה.",
+          "מוסיפים את העגבניות עם הנוזלים, מועכים בכף, מתבלים ומביאים לרתיחה עדינה.",
+          "יוצרים 6 גומות ברוטב ושוברים ביצה לכל אחת. מבשלים 5–8 דקות (עם מכסה זה מהיר יותר) עד שהביצים מוכנות כמו שאוהבים.",
+          "מפזרים כוסברה ופטרוזיליה ומגישים."
+        ],
+        "whyFits": "רק ביצים וירקות. עגבניות משומרות פשוטות מותרות. בלי חלב, בלי דגנים ובלי סוכר. מגישים בלי לחם."
+      }
+    },
+    {
+      "id": "mediterranean-lentil-soup",
+      "url": "https://downshiftology.com/recipes/very-best-lentil-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2023/09/Mediterranean-Lentil-Soup-main-2.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": { "calories": 420, "protein": 18 },
+      "en": {
+        "title": "Mediterranean Lentil Soup with Kale",
+        "description": "A hearty, cozy lentil soup with tomatoes, vegetables and Mediterranean herbs, brightened with lemon at the end.",
+        "ingredients": [
+          "¼ cup extra virgin olive oil",
+          "1 medium yellow onion, small dice",
+          "2 medium carrots, small dice",
+          "2 celery ribs, small dice",
+          "2 tbsp tomato paste",
+          "3–4 garlic cloves, minced",
+          "2 tsp cumin",
+          "1 tsp dried oregano",
+          "1 tsp dried basil",
+          "1 tsp dried thyme",
+          "Salt and black pepper to taste",
+          "1 can (800 g) fire-roasted diced tomatoes",
+          "6 cups low-sodium vegetable broth (homemade, or one without additives)",
+          "1 cup green or brown lentils",
+          "3 kale leaves, stems removed, sliced",
+          "1 lemon, juiced (about 3 tbsp)"
+        ],
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion, carrot and celery 4–5 minutes, until the onion is soft.",
+          "Stir in the tomato paste, garlic, dried herbs, salt and pepper and toast 1–2 minutes.",
+          "Add the tomatoes, broth and lentils. Bring to a boil, then lower the heat, partly cover and simmer 25–30 minutes.",
+          "Leave it chunky, or blend briefly with a stick blender for a creamier texture.",
+          "Stir in the kale and lemon juice, simmer 1–2 minutes more, and adjust the seasoning."
+        ],
+        "whyFits": "A legume and vegetable soup with olive oil. No dairy, no grains, no sugar. Use a broth without soup powder or additives."
+      },
+      "he": {
+        "title": "מרק עדשים ים תיכוני עם קייל",
+        "description": "מרק עדשים משביע ומחמם עם עגבניות, ירקות ותבלינים ים תיכוניים, ומיץ לימון בסוף.",
+        "ingredients": [
+          "¼ כוס שמן זית",
+          "בצל צהוב בינוני, קצוץ דק",
+          "2 גזרים בינוניים, קצוצים דק",
+          "2 גבעולי סלרי, קצוצים דק",
+          "2 כפות רסק עגבניות",
+          "3–4 שיני שום כתושות",
+          "2 כפיות כמון",
+          "כפית אורגנו יבש",
+          "כפית בזיליקום יבש",
+          "כפית טימין יבש",
+          "מלח ופלפל שחור לפי הטעם",
+          "קופסת עגבניות קלויות קצוצות (800 גרם)",
+          "6 כוסות ציר ירקות דל נתרן (ביתי, או כזה בלי תוספים)",
+          "כוס עדשים ירוקות או חומות",
+          "3 עלי קייל, בלי הגבעול, פרוסים",
+          "מיץ מלימון אחד (כ-3 כפות)"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומאדים בצל, גזר וסלרי 4–5 דקות, עד שהבצל רך.",
+          "מוסיפים רסק עגבניות, שום, תבלינים יבשים, מלח ופלפל ומערבבים 1–2 דקות.",
+          "מוסיפים עגבניות, ציר ועדשים. מביאים לרתיחה, מנמיכים, מכסים חלקית ומבשלים 25–30 דקות.",
+          "משאירים גושי, או טוחנים קצת בבלנדר מוט למרקם קרמי יותר.",
+          "מוסיפים קייל ומיץ לימון, מבשלים עוד 1–2 דקות ומתקנים תיבול."
+        ],
+        "whyFits": "מרק קטניות וירקות עם שמן זית. בלי חלב, בלי דגנים ובלי סוכר. משתמשים בציר בלי אבקת מרק ובלי תוספים."
+      }
+    },
+    {
+      "id": "tuscan-beef-lentil-soup",
+      "url": "https://minimalistbaker.com/1-pot-tuscan-style-beef-lentil-soup/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2019/12/Tuscan-Soup-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "meat",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": { "calories": 271, "protein": 20 },
+      "en": {
+        "title": "One-Pot Tuscan Beef and Lentil Soup",
+        "description": "A comforting tomato soup with ground beef, lentils and kale, all made in one pot.",
+        "ingredients": [
+          "1–2 tbsp avocado oil",
+          "½ large onion, diced",
+          "½ tsp each salt and black pepper, divided, plus more to taste",
+          "6 garlic cloves, minced",
+          "¼ tsp red pepper flakes (optional)",
+          "450 g (1 lb) ground beef",
+          "3 tbsp tomato paste",
+          "1 can (400 g) diced tomatoes with their juice",
+          "4 cups chicken or beef broth (without additives)",
+          "1 tbsp dried basil",
+          "1 tbsp dried oregano",
+          "1 can (400 g) lentils or white beans, drained",
+          "4 cups chopped kale",
+          "Fresh parsley, to serve"
+        ],
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the onion with a pinch of salt and pepper about 4 minutes, until soft. Add the garlic and pepper flakes for 1 minute.",
+          "Add the beef, break it up and season. Cook 4–5 minutes until browned.",
+          "Stir in the tomato paste, then the tomatoes, broth, basil, oregano and lentils.",
+          "Bring to a simmer, cover and cook on low for 10–15 minutes. Adjust the seasoning.",
+          "Add the kale, cover and cook a few minutes until it wilts. Serve with parsley. Keeps 3–4 days in the fridge or 1 month in the freezer."
+        ],
+        "whyFits": "Kosher beef, lentils and vegetables. The original suggests vegan parmesan as a topping, which is left out here. No dairy, no grains, no sugar."
+      },
+      "he": {
+        "title": "מרק בשר ועדשים טוסקני בסיר אחד",
+        "description": "מרק עגבניות מנחם עם בשר טחון, עדשים וקייל, הכול בסיר אחד.",
+        "ingredients": [
+          "1–2 כפות שמן אבוקדו",
+          "½ בצל גדול, קצוץ",
+          "½ כפית מלח ו-½ כפית פלפל שחור, מחולקים, ועוד לפי הטעם",
+          "6 שיני שום כתושות",
+          "¼ כפית צ׳ילי גרוס (לא חובה)",
+          "450 גרם בשר בקר טחון",
+          "3 כפות רסק עגבניות",
+          "קופסת עגבניות קצוצות (400 גרם) עם הנוזלים",
+          "4 כוסות ציר עוף או בקר (בלי תוספים)",
+          "כף בזיליקום יבש",
+          "כף אורגנו יבש",
+          "קופסת עדשים או שעועית לבנה (400 גרם), מסוננת",
+          "4 כוסות קייל קצוץ",
+          "פטרוזיליה טרייה להגשה"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומאדים את הבצל עם קורט מלח ופלפל כ-4 דקות, עד שהוא רך. מוסיפים שום וצ׳ילי לדקה.",
+          "מוסיפים את הבשר, מפוררים ומתבלים. מבשלים 4–5 דקות עד שהוא משחים.",
+          "מערבבים פנימה את רסק העגבניות, ואז את העגבניות, הציר, הבזיליקום, האורגנו והעדשים.",
+          "מביאים לרתיחה עדינה, מכסים ומבשלים על אש נמוכה 10–15 דקות. מתקנים תיבול.",
+          "מוסיפים את הקייל, מכסים ומבשלים כמה דקות עד שהוא מתרכך. מגישים עם פטרוזיליה. נשמר 3–4 ימים במקרר או חודש במקפיא."
+        ],
+        "whyFits": "בשר בקר כשר, עדשים וירקות. המקור מציע פרמזן טבעוני מעל, והורדנו אותו. בלי חלב, בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "golden-curry-lentil-soup",
+      "url": "https://minimalistbaker.com/1-pot-golden-curry-lentil-soup/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2018/07/Golden-Curried-Lentil-Soup-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "legumes",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 25,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": { "calories": 268, "protein": 9 },
+      "en": {
+        "title": "Golden Curry Red Lentil Soup",
+        "description": "Red lentils and carrots simmered in vegetable broth and light coconut milk with ginger and curry. Ready in 30 minutes.",
+        "ingredients": [
+          "¼ cup water (or 2 tbsp oil)",
+          "¼ cup thinly sliced shallot or onion",
+          "3 garlic cloves, minced",
+          "1 tbsp minced ginger",
+          "1 small serrano chili, seeds removed, minced",
+          "2 cups thinly sliced carrots",
+          "Pinch of sea salt",
+          "3 cups vegetable broth (without additives)",
+          "¾ cup light coconut milk",
+          "1 cup red lentils, rinsed",
+          "2 tbsp coconut aminos",
+          "1 tbsp curry powder",
+          "Fresh lemon or lime juice and cilantro, to serve"
+        ],
+        "steps": [
+          "Heat a large pot over medium heat and sauté the shallot in the water (or oil) for 3 minutes.",
+          "Add the garlic, ginger and chili for 2–3 minutes, then the carrots and a pinch of salt for 1–2 minutes.",
+          "Add the broth and coconut milk and bring to a low boil. Stir in the lentils, then lower to a gentle simmer.",
+          "Add the coconut aminos and curry powder and simmer uncovered 12–16 minutes, until the lentils and carrots are tender. Thin with more broth if needed.",
+          "Season to taste and serve with cilantro and lemon or lime juice. Keeps 5 days in the fridge."
+        ],
+        "whyFits": "A legume soup made creamy with coconut milk instead of cream. Very little oil, no grains, no sugar."
+      },
+      "he": {
+        "title": "מרק עדשים כתומות בקארי זהוב",
+        "description": "עדשים כתומות וגזר מבושלים בציר ירקות וחלב קוקוס קל, עם ג׳ינג׳ר וקארי. מוכן תוך חצי שעה.",
+        "ingredients": [
+          "¼ כוס מים (או 2 כפות שמן)",
+          "¼ כוס שאלוט או בצל פרוס דק",
+          "3 שיני שום כתושות",
+          "כף ג׳ינג׳ר קצוץ",
+          "פלפל צ׳ילי קטן, בלי גרעינים, קצוץ",
+          "2 כוסות גזר פרוס דק",
+          "קורט מלח ים",
+          "3 כוסות ציר ירקות (בלי תוספים)",
+          "¾ כוס חלב קוקוס קל",
+          "כוס עדשים כתומות, שטופות",
+          "2 כפות קוקוס אמינוס",
+          "כף אבקת קארי",
+          "מיץ לימון או ליים וכוסברה טרייה להגשה"
+        ],
+        "steps": [
+          "מחממים סיר גדול על אש בינונית ומאדים את השאלוט במים (או בשמן) 3 דקות.",
+          "מוסיפים שום, ג׳ינג׳ר וצ׳ילי ל-2–3 דקות, ואז גזר וקורט מלח ל-1–2 דקות.",
+          "מוסיפים ציר וחלב קוקוס ומביאים לרתיחה עדינה. מוסיפים את העדשים ומנמיכים לבעבוע עדין.",
+          "מוסיפים קוקוס אמינוס וקארי ומבשלים בלי מכסה 12–16 דקות, עד שהעדשים והגזר רכים. אם סמיך מדי, מוסיפים עוד ציר.",
+          "מתקנים תיבול ומגישים עם כוסברה ומיץ לימון או ליים. נשמר 5 ימים במקרר."
+        ],
+        "whyFits": "מרק קטניות שהקרמיות שלו מגיעה מחלב קוקוס במקום שמנת. מעט מאוד שמן, בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "black-lentil-persimmon-celery-salad",
+      "url": "https://www.mako.co.il/food-recipes/recipes_column-healthy/Recipe-0a7c06251caf241006.htm",
+      "source": "mako אוכל · ליה שומרון פינדר",
+      "sourceLang": "he",
+      "image": "https://img.mako.co.il/2013/12/02/healthy_dec13_5_i.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 25,
+      "totalMinutes": 30,
+      "servings": 5,
+      "nutrition": { "calories": 150, "protein": 6 },
+      "he": {
+        "title": "סלט עדשים שחורות, אפרסמון וסלרי",
+        "description": "סלט קליל ומזין של עדשים שחורות עם אפרסמון מתוק, סלרי פריך ובצל סגול, בתיבול שמן זית ולימון.",
+        "ingredients": [
+          "½ כוס עדשים שחורות",
+          "2 אפרסמונים",
+          "5 גבעולי סלרי",
+          "בצל סגול",
+          "שמן זית",
+          "לימון",
+          "מלח ופלפל"
+        ],
+        "steps": [
+          "מבשלים את העדשים בסיר קטן עם כ-1½ כוסות מים כ-25 דקות, עד שהן רכות. מסננים ומצננים.",
+          "פורסים דק את האפרסמון, הסלרי והבצל הסגול ומערבבים עם העדשים.",
+          "מתבלים בשמן זית, מיץ לימון, מלח ופלפל."
+        ],
+        "whyFits": "קטניות, פרי וירקות עם שמן זית ולימון. בלי חלב, בלי דגנים ובלי סוכר. ערך תזונתי משוער."
+      },
+      "en": {
+        "title": "Black Lentil, Persimmon and Celery Salad",
+        "description": "A light, nourishing salad of black lentils with sweet persimmon, crisp celery and red onion, dressed with olive oil and lemon.",
+        "ingredients": [
+          "½ cup black (beluga) lentils",
+          "2 persimmons",
+          "5 celery stalks",
+          "1 red onion",
+          "Olive oil",
+          "Lemon",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Cook the lentils in a small pot with about 1½ cups of water for about 25 minutes, until tender. Drain and let cool.",
+          "Thinly slice the persimmons, celery and red onion and mix them with the lentils.",
+          "Dress with olive oil, lemon juice, salt and pepper."
+        ],
+        "whyFits": "Legumes, fruit and vegetables with olive oil and lemon. No dairy, no grains, no sugar. Nutrition values are estimates."
+      }
+    },
+    {
+      "id": "date-sweetened-almond-butter-brownies",
+      "url": "https://detoxinista.com/date-sweetened-flourless-brownie-recipe/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2017/05/date-brownies-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 13,
+      "totalMinutes": 23,
+      "servings": 20,
+      "nutrition": { "calories": 59, "protein": 2 },
+      "en": {
+        "title": "Date-Sweetened Flourless Brownie Bites",
+        "description": "Fudgy two-bite brownies made from Medjool dates, almond butter, flax and cacao. Sweetened only with fruit.",
+        "ingredients": [
+          "¾ cup pitted Medjool dates (170 g)",
+          "⅓ cup water",
+          "½ cup almond butter (no added sugar)",
+          "1 tbsp ground flaxseed",
+          "5 tbsp cacao powder",
+          "½ tsp baking soda",
+          "1 tsp vanilla extract",
+          "1 tsp balsamic vinegar",
+          "Pinch of salt"
+        ],
+        "steps": [
+          "Heat the oven to 175°C (350°F) and lightly oil a mini muffin tin.",
+          "Process the dates and water in a food processor into a paste.",
+          "Add the almond butter, flax, cacao, baking soda, vanilla and vinegar and process into a thick, sticky dough. Add 1 more tbsp water if needed.",
+          "Scoop tablespoons of dough into the tin (makes 18–20) and flatten them with wet fingers.",
+          "Bake 12–15 minutes, until the tops look dry. Cool at least 30 minutes before removing them, since they firm up as they cool. Keeps 2 weeks in the fridge."
+        ],
+        "whyFits": "Sweetened only with dates. No flour of any kind, no sugar, no dairy. Almond butter and flax add healthy fats."
+      },
+      "he": {
+        "title": "בראוניז קטנים בלי קמח, ממותקים בתמרים",
+        "description": "בראוניז פאדג׳יים בגודל ביס, מתמרי מג׳הול, חמאת שקדים, פשתן וקקאו. ממותקים רק בפרי.",
+        "ingredients": [
+          "¾ כוס תמרי מג׳הול מגולענים (170 גרם)",
+          "⅓ כוס מים",
+          "½ כוס חמאת שקדים (בלי תוספת סוכר)",
+          "כף זרעי פשתן טחונים",
+          "5 כפות אבקת קקאו גולמי",
+          "½ כפית סודה לשתייה",
+          "כפית תמצית וניל",
+          "כפית חומץ בלסמי",
+          "קורט מלח"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות ומשמנים קלות תבנית מאפינס קטנים.",
+          "טוחנים במעבד מזון את התמרים עם המים לממרח.",
+          "מוסיפים חמאת שקדים, פשתן, קקאו, סודה לשתייה, וניל וחומץ, וטוחנים לבצק סמיך ודביק. אם צריך, מוסיפים עוד כף מים.",
+          "מכניסים כף בצק לכל שקע (יוצאים 18–20) ומשטחים באצבעות רטובות.",
+          "אופים 12–15 דקות, עד שהחלק העליון נראה יבש. מצננים לפחות 30 דקות לפני שמוציאים, כי הם מתמצקים בקירור. נשמר שבועיים במקרר."
+        ],
+        "whyFits": "ממותק רק בתמרים. בלי קמח בכלל, בלי סוכר ובלי חלב. חמאת השקדים והפשתן מוסיפים שומן בריא."
+      }
+    },
+    {
+      "id": "banana-almond-flour-bread-no-sugar",
+      "url": "https://www.paleorunningmomma.com/paleo-banana-bread-no-sugar/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2017/08/banana-bread-no-sugar-4-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 60,
+      "totalMinutes": 70,
+      "servings": 10,
+      "nutrition": { "calories": 248, "protein": 6 },
+      "en": {
+        "title": "Almond Flour Banana Bread with No Added Sugar",
+        "description": "A moist, tender banana loaf made with almond flour and sweetened only by very ripe bananas.",
+        "ingredients": [
+          "4 medium very ripe bananas, well mashed",
+          "4 large eggs, at room temperature",
+          "2 tsp vanilla extract",
+          "¼ cup refined coconut oil, melted and cooled",
+          "1¾ cups blanched almond flour",
+          "½ cup tapioca or arrowroot flour (root starch, not a grain)",
+          "1 tsp baking soda",
+          "1 tsp baking powder",
+          "1 tsp cinnamon",
+          "¼ tsp fine sea salt"
+        ],
+        "steps": [
+          "Heat the oven to 175°C (350°F) and line a medium loaf pan with parchment up the sides.",
+          "Whisk the eggs with the mashed bananas, then whisk in the vanilla and coconut oil.",
+          "Gently stir in the flours, baking soda, baking powder, cinnamon and salt by hand. Don't use a mixer. Let the batter rest 5 minutes.",
+          "Pour into the pan and bake 50–60 minutes, until deep golden and a toothpick comes out clean.",
+          "Cool at least 30 minutes in the pan, then lift out and slice."
+        ],
+        "whyFits": "Sweetened only with bananas. Almond flour and tapioca (a root starch) instead of wheat, so it's grain-free. Coconut oil instead of butter."
+      },
+      "he": {
+        "title": "עוגת בננות מקמח שקדים בלי תוספת סוכר",
+        "description": "עוגת בננות לחה ורכה מקמח שקדים, ממותקת רק בבננות בשלות מאוד.",
+        "ingredients": [
+          "4 בננות בינוניות בשלות מאוד, מעוכות היטב",
+          "4 ביצים גדולות בטמפרטורת החדר",
+          "2 כפיות תמצית וניל",
+          "¼ כוס שמן קוקוס מזוכך, מומס ומצונן",
+          "1¾ כוסות קמח שקדים לבן",
+          "½ כוס קמח טפיוקה או ארורוט (עמילן משורש, לא דגן)",
+          "כפית סודה לשתייה",
+          "כפית אבקת אפייה",
+          "כפית קינמון",
+          "¼ כפית מלח ים דק"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות ומרפדים תבנית אינגליש קייק בינונית בנייר אפייה, כולל הדפנות.",
+          "טורפים את הביצים עם הבננות המעוכות, ואז מוסיפים וניל ושמן קוקוס וטורפים.",
+          "מערבבים פנימה בעדינות ביד את הקמחים, הסודה, אבקת האפייה, הקינמון והמלח, בלי מיקסר. משאירים את הבלילה לנוח 5 דקות.",
+          "יוצקים לתבנית ואופים 50–60 דקות, עד שהעוגה זהובה וקיסם יוצא נקי.",
+          "מצננים לפחות 30 דקות בתבנית, מוציאים ופורסים."
+        ],
+        "whyFits": "ממותקת רק בבננות. קמח שקדים וטפיוקה (עמילן משורש) במקום חיטה, ולכן אין בה דגנים. שמן קוקוס במקום חמאה."
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>מתכונים בריאים</title>
+  <meta name="description" content="מתכונים בריאים חדשים כל יום, לפי הכללים שלי">
+  <meta name="theme-color" content="#2f7d4f">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="מתכונים">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="top">
+    <button class="back" id="back" hidden aria-label="חזרה">‹</button>
+    <h1 id="title">מתכונים בריאים</h1>
+    <button class="lang" id="lang" aria-label="Language">EN</button>
+  </header>
+
+  <main id="feedView">
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="all" id="tabAll">כל המתכונים</button>
+      <button class="tab" data-tab="fav" id="tabFav">מועדפים ♥</button>
+    </nav>
+    <input type="search" id="search" class="search" autocomplete="off">
+    <div class="chips" id="chips"></div>
+    <div class="filters">
+      <select id="time" aria-label="time"></select>
+      <label class="check"><input type="checkbox" id="shabbatOnly"> <span id="shabbatLabel"></span></label>
+    </div>
+    <p class="muted" id="count"></p>
+    <div id="list" class="grid"></div>
+    <p class="muted center" id="updated"></p>
+  </main>
+
+  <main id="recipeView" hidden></main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
