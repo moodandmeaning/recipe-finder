@@ -2,6 +2,1230 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "tomato-basil-balsamic-shallot-salad",
+      "url": "https://nomnompaleo.com/tomato-and-basil-salad",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2011/08/14.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 127,
+        "protein": 1
+      },
+      "en": {
+        "title": "Tomato and Basil Salad with Balsamic Shallots",
+        "description": "Ripe tomato wedges with shallots softened in balsamic, olive oil, flaky salt and fresh basil.",
+        "steps": [
+          "Cover the sliced shallot with the balsamic vinegar for at least 15 minutes to mellow it.",
+          "Arrange the tomatoes on a plate, top with the shallots and their vinegar, drizzle with the olive oil, and finish with flaky salt, pepper and basil."
+        ],
+        "whyFits": "Just vegetables, vinegar and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 small shallot (thinly sliced)",
+          "2 tablespoons aged balsamic vinegar",
+          "4 medium heirloom tomatoes (cut into wedges)",
+          "3 tablespoons extra virgin olive oil",
+          "½ teaspoon fleur de sel",
+          "¼ teaspoon freshly ground pepper",
+          "2 tablespoons fresh basil leaves (finely sliced)"
+        ]
+      },
+      "he": {
+        "title": "סלט עגבניות ובזיליקום עם שאלוט בבלסמי",
+        "description": "פלחי עגבניות בשלות עם שאלוט שהתרכך בבלסמי, שמן זית, מלח אטלנטי ובזיליקום טרי.",
+        "ingredients": [
+          "שאלוט קטן, פרוס דק",
+          "2 כפות חומץ בלסמי מיושן",
+          "4 עגבניות בינוניות, בפלחים",
+          "3 כפות שמן זית",
+          "½ כפית מלח אטלנטי (פלור דה סל)",
+          "¼ כפית פלפל שחור גרוס",
+          "2 כפות עלי בזיליקום פרוסים דק"
+        ],
+        "steps": [
+          "מכסים את השאלוט הפרוס בחומץ הבלסמי לפחות 15 דקות כדי לרכך את החריפות.",
+          "מסדרים את העגבניות בצלחת, מניחים מעל את השאלוט עם החומץ, מזלפים שמן זית ומסיימים במלח אטלנטי, פלפל ובזיליקום."
+        ],
+        "whyFits": "רק ירקות, חומץ ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "roasted-butternut-apple-spinach-salad",
+      "url": "https://www.paleorunningmomma.com/butternut-apple-salad-with-maple-vinaigrette-hemp-hearts/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2015/10/Butternut-Apple-Spinach-Salad-with-Maple-Vinaigrette-Raisins-and-Hemp-Seeds-210x300-1.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 2,
+      "nutrition": {
+        "calories": null,
+        "protein": null
+      },
+      "en": {
+        "title": "Roasted Butternut, Apple and Spinach Salad",
+        "description": "Warm roasted squash cubes with crisp apple, raisins, baby spinach and hemp seeds in a light lemon-maple dressing.",
+        "steps": [
+          "Heat the oven to 200°C (400°F). Toss the squash with the oil and salt and roast on a lined sheet 30 minutes, stirring halfway, until golden.",
+          "Whisk the olive oil, lemon juice (or vinegar) and maple syrup.",
+          "Top the spinach with the squash, apple, raisins and hemp seeds. Drizzle with dressing just before serving and toss lightly."
+        ],
+        "whyFits": "Vegetables, fruit and seeds. At most 1 tsp of maple syrup in the dressing. No dairy or grains.",
+        "ingredients": [
+          "2 cups butternut squash cubes (1 cm)",
+          "1 tbsp olive or coconut oil, for roasting",
+          "¼ tsp fine sea salt",
+          "2 tbsp raisins",
+          "1 medium-large apple, cored and chopped",
+          "2 large handfuls baby spinach",
+          "2–3 tbsp hemp seeds (hulled)",
+          "2 tbsp light olive oil (dressing)",
+          "2 tsp lemon juice or apple cider vinegar",
+          "½–1 tsp pure maple syrup"
+        ]
+      },
+      "he": {
+        "title": "סלט דלעת צלויה, תפוח ותרד",
+        "description": "קוביות דלעת צלויות וחמות עם תפוח פריך, צימוקים, עלי תרד וזרעי קנבוס ברוטב קליל של לימון ומייפל.",
+        "ingredients": [
+          "2 כוסות קוביות דלעת ערמונים (1 ס״מ)",
+          "כף שמן זית או קוקוס לצלייה",
+          "¼ כפית מלח ים דק",
+          "2 כפות צימוקים",
+          "תפוח בינוני-גדול, בלי ליבה, קצוץ",
+          "2 חופנים גדולים עלי תרד",
+          "2–3 כפות זרעי קנבוס קלופים",
+          "2 כפות שמן זית עדין (לרוטב)",
+          "2 כפיות מיץ לימון או חומץ תפוחים",
+          "½–1 כפית מייפל"
+        ],
+        "steps": [
+          "מחממים תנור ל-200 מעלות. מערבבים את הדלעת עם השמן והמלח וצולים בתבנית מרופדת 30 דקות, מערבבים באמצע, עד להזהבה.",
+          "טורפים שמן זית, מיץ לימון (או חומץ) ומייפל.",
+          "מניחים על התרד את הדלעת, התפוח, הצימוקים וזרעי הקנבוס. מזלפים את הרוטב רגע לפני ההגשה ומערבבים קלות."
+        ],
+        "whyFits": "ירקות, פרי וזרעים. לכל היותר כפית מייפל ברוטב. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "french-carrot-salad",
+      "url": "https://downshiftology.com/recipes/french-carrot-salad/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2024/06/French-Carrot-Salad-main.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 156,
+        "protein": 1
+      },
+      "en": {
+        "title": "French Carrot Salad",
+        "description": "Ribbons of fresh carrot with parsley and green onion in a lemon, Dijon and cumin vinaigrette.",
+        "steps": [
+          "Peel the carrots into long thin strips with a julienne peeler and put them in a large bowl.",
+          "Whisk the oil, lemon juice, mustard, honey, salt, cumin and pepper.",
+          "Add the green onions and parsley, pour over the dressing and toss well."
+        ],
+        "whyFits": "Only 2 tsp of honey for 4 servings. Fresh vegetables and olive oil. No dairy or grains. Keeps well, so it's good for Shabbat.",
+        "ingredients": [
+          "1 pound carrots (peeled)",
+          "¼ cup roughly chopped parsley or cilantro",
+          "2 green onions (thinly sliced on a diagonal)",
+          "3 tablespoons extra virgin olive oil",
+          "2 tablespoons lemon juice",
+          "2 teaspoons honey",
+          "1 teaspoon Dijon mustard",
+          "½ teaspoon kosher salt",
+          "¼ teaspoon ground cumin",
+          "¼ teaspoon freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט גזר צרפתי",
+        "description": "רצועות גזר טרי עם פטרוזיליה ובצל ירוק בוויניגרט של לימון, חרדל דיז׳ון וכמון.",
+        "ingredients": [
+          "450 גרם גזר, קלוף",
+          "¼ כוס פטרוזיליה או כוסברה קצוצה גס",
+          "2 בצלים ירוקים, פרוסים דק באלכסון",
+          "3 כפות שמן זית",
+          "2 כפות מיץ לימון",
+          "2 כפיות דבש",
+          "כפית חרדל דיז׳ון",
+          "½ כפית מלח גס",
+          "¼ כפית כמון טחון",
+          "¼ כפית פלפל שחור גרוס"
+        ],
+        "steps": [
+          "מקלפים את הגזר לרצועות דקות וארוכות בקולפן ג׳וליאן ומכניסים לקערה גדולה.",
+          "טורפים שמן, מיץ לימון, חרדל, דבש, מלח, כמון ופלפל.",
+          "מוסיפים בצל ירוק ופטרוזיליה, יוצקים את הרוטב ומערבבים היטב."
+        ],
+        "whyFits": "רק 2 כפיות דבש ל-4 מנות. ירקות טריים ושמן זית. בלי חלב ובלי דגנים. נשמר יפה, אז מתאים לשבת."
+      }
+    },
+    {
+      "id": "orange-endive-radicchio-salad",
+      "url": "https://www.themediterraneandish.com/orange-salad-with-endive-and-radicchio/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/12/Mediterranean-Dish-Orange-Salad-LEAD-1.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "totalMinutes": 20,
+      "servings": 6,
+      "nutrition": {
+        "calories": 297,
+        "protein": 4
+      },
+      "en": {
+        "title": "Orange Salad with Endive, Radicchio and Walnuts",
+        "description": "Juicy orange segments with crisp endive, radicchio and lettuce, green olives and toasted walnuts in an orange-sherry vinaigrette.",
+        "steps": [
+          "Zest 1 orange into a small bowl. Cut the peel and pith off all the oranges and slice out the segments.",
+          "Add the orange juice, olive oil, sherry vinegar and mustard to the zest, whisk, and season.",
+          "Separate the endive, radicchio and lettuce leaves, tearing the large ones.",
+          "Toss the greens and most of the orange segments with the dressing. Top with the remaining oranges, the olives and the walnuts."
+        ],
+        "whyFits": "Fruit, greens, olives and nuts in an olive oil dressing (about 1 tbsp per serving). No dairy, grains or sugar.",
+        "ingredients": [
+          "3 oranges",
+          "2 heads Belgian endive",
+          "1 head radicchio",
+          "1 small head green leaf lettuce",
+          "1/2 cup pitted green olives (torn in half)",
+          "1/2 cup toasted walnuts (roughly chopped)",
+          "1 teaspoon freshly grated orange zest",
+          "2 tablespoons orange juice",
+          "1/2 cup extra virgin olive oil",
+          "1 tablespoon sherry vinegar",
+          "1 teaspoon Dijon mustard",
+          "Kosher salt",
+          "Black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט תפוזים עם עולש, רדיצ׳יו ואגוזי מלך",
+        "description": "פלחי תפוז עסיסיים עם עולש, רדיצ׳יו וחסה פריכים, זיתים ירוקים ואגוזי מלך קלויים בוויניגרט תפוז ושרי.",
+        "ingredients": [
+          "3 תפוזים",
+          "2 ראשי עולש (אנדיב)",
+          "ראש רדיצ׳יו",
+          "ראש חסה ירוקה קטן",
+          "½ כוס זיתים ירוקים מגולענים, קרועים לחצי",
+          "½ כוס אגוזי מלך קלויים, קצוצים גס",
+          "כפית גרידת תפוז",
+          "2 כפות מיץ תפוז",
+          "½ כוס שמן זית",
+          "כף חומץ שרי",
+          "כפית חרדל דיז׳ון",
+          "מלח גס",
+          "פלפל שחור"
+        ],
+        "steps": [
+          "מגררים תפוז אחד לקערה קטנה. מסירים את הקליפה והחלק הלבן מכל התפוזים וחותכים פלחים נקיים.",
+          "מוסיפים לגרידה מיץ תפוז, שמן זית, חומץ שרי וחרדל, טורפים ומתבלים.",
+          "מפרידים את עלי העולש, הרדיצ׳יו והחסה, וקורעים את הגדולים.",
+          "מערבבים את העלים ורוב פלחי התפוז עם הרוטב. מסדרים מעל את שאר התפוזים, הזיתים והאגוזים."
+        ],
+        "whyFits": "פרי, עלים, זיתים ואגוזים ברוטב שמן זית (כף למנה בערך). בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "tomato-salad-dukkah-mint",
+      "url": "https://www.themediterraneandish.com/heirloom-tomato-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/06/Mediterranean-Dish-Heirloom-Tomato-Salad-LEAD-4.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 4,
+      "nutrition": {
+        "calories": 188,
+        "protein": 1
+      },
+      "en": {
+        "title": "Tomato Salad with Dukkah and Mint",
+        "description": "Sliced ripe tomatoes with a garlicky lemon dressing, crunchy nut-and-spice dukkah and fresh mint.",
+        "steps": [
+          "Whisk the garlic, lemon juice, olive oil, salt and pepper. Stir in the chili if using.",
+          "Arrange the tomato slices on a platter, drizzle with dressing, and top with the dukkah and mint."
+        ],
+        "whyFits": "Tomatoes, nuts, seeds and spices. Make the dukkah at home so there's nothing processed. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 garlic cloves, minced",
+          "1 lemon, juiced",
+          "⅓ cup extra virgin olive oil",
+          "Kosher salt",
+          "Black pepper",
+          "1 jalapeño, seeded and thinly sliced (optional)",
+          "3 large ripe tomatoes (about 680 g), sliced into rounds",
+          "4–6 tbsp dukkah (a homemade mix of toasted nuts, seeds and spices)",
+          "1 tbsp chopped fresh mint"
+        ]
+      },
+      "he": {
+        "title": "סלט עגבניות עם דוקה ונענע",
+        "description": "פרוסות עגבניות בשלות עם רוטב לימון ושום, דוקה פריכה של אגוזים ותבלינים ונענע טרייה.",
+        "ingredients": [
+          "2 שיני שום, כתושות",
+          "לימון (מיץ)",
+          "⅓ כוס שמן זית",
+          "מלח גס",
+          "פלפל שחור",
+          "חלפיניו, בלי גרעינים, פרוס דק (לא חובה)",
+          "3 עגבניות בשלות גדולות (כ-680 גרם), פרוסות",
+          "4–6 כפות דוקה (תערובת ביתית של אגוזים, זרעים ותבלינים קלויים)",
+          "כף נענע קצוצה"
+        ],
+        "steps": [
+          "טורפים שום, מיץ לימון, שמן זית, מלח ופלפל. מוסיפים את הצ׳ילי אם רוצים.",
+          "מסדרים את פרוסות העגבנייה בפלטה, מזלפים את הרוטב ומפזרים דוקה ונענע."
+        ],
+        "whyFits": "עגבניות, אגוזים, זרעים ותבלינים. מכינים את הדוקה בבית כדי שלא יהיה שום מוצר מעובד. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "mango-spinach-pomegranate-salad",
+      "url": "https://www.themediterraneandish.com/spinach-mango-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2021/07/Mango-Salad-Recipe-6.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 228,
+        "protein": 4
+      },
+      "en": {
+        "title": "Mango, Spinach and Pomegranate Salad",
+        "description": "Sweet mango slices with baby spinach, cucumber, red pepper, pomegranate seeds and lots of mint and cilantro, dressed with lime.",
+        "steps": [
+          "Combine the spinach, cucumber, pepper, mango, shallot, pomegranate seeds and herbs in a large bowl. Season with salt, pepper and Aleppo pepper.",
+          "Add the lime juice and about 2 tbsp olive oil and toss. Adjust the seasoning.",
+          "Transfer to a platter, sprinkle with a little more pepper flakes, and serve right away."
+        ],
+        "whyFits": "Fresh fruit and vegetables with lime and a little olive oil. Sweetness comes only from the fruit. No dairy or grains.",
+        "ingredients": [
+          "2 cups baby spinach",
+          "1/2 English cucumber (halved and sliced into half moons)",
+          "1 small red bell pepper (cored and thinly sliced )",
+          "2 1/2 pounds fresh ripe mangos (peeled and sliced (about 4-5 mangos)",
+          "1 shallot, halved and thinly sliced",
+          "1 cup pomegranate seeds",
+          "1/2 cup chopped fresh cilantro",
+          "1/2 cup chopped fresh mint",
+          "salt and pepper",
+          "1 to 2 teaspoons Aleppo pepper",
+          "juice of 1 large lime",
+          "Extra virgin olive oil"
+        ]
+      },
+      "he": {
+        "title": "סלט מנגו, תרד ורימונים",
+        "description": "פרוסות מנגו מתוק עם עלי תרד, מלפפון, פלפל אדום, גרעיני רימון והרבה נענע וכוסברה, ברוטב ליים.",
+        "ingredients": [
+          "2 כוסות עלי תרד",
+          "½ מלפפון ארוך, חצוי ופרוס לחצאי ירחים",
+          "פלפל אדום קטן, פרוס דק",
+          "1.1 ק״ג מנגו בשל, קלוף ופרוס (4–5 מנגו)",
+          "שאלוט, חצוי ופרוס דק",
+          "כוס גרעיני רימון",
+          "½ כוס כוסברה קצוצה",
+          "½ כוס נענע קצוצה",
+          "מלח ופלפל",
+          "1–2 כפיות פלפל אלפו",
+          "מיץ מליים גדול",
+          "שמן זית"
+        ],
+        "steps": [
+          "מערבבים בקערה גדולה תרד, מלפפון, פלפל, מנגו, שאלוט, רימון ועשבי תיבול. מתבלים במלח, פלפל ופלפל אלפו.",
+          "מוסיפים מיץ ליים וכ-2 כפות שמן זית ומערבבים. מתקנים תיבול.",
+          "מעבירים לפלטה, מפזרים עוד מעט פלפל ומגישים מיד."
+        ],
+        "whyFits": "פירות וירקות טריים עם ליים ומעט שמן זית. המתיקות רק מהפרי. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "butternut-kale-salad-date-poppy-dressing",
+      "url": "https://www.paleorunningmomma.com/butternut-squash-salad-poppy-seed-dressing-paleo-vegan/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2019/11/butternut-harvest-salad-5.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "totalMinutes": 50,
+      "servings": 8,
+      "nutrition": {
+        "calories": 357,
+        "protein": 5
+      },
+      "en": {
+        "title": "Butternut Squash and Kale Salad with Date Poppy Seed Dressing",
+        "description": "Roasted squash, massaged kale, shredded Brussels sprouts, toasted pecans, apple and cranberries with a creamy date-sweetened poppy seed dressing.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Toss the squash with oil and salt and roast on a lined sheet 25–30 minutes until browned.",
+          "Blend the dates, vinegar, almond milk, mustard, onion powder, salt and oil until creamy, then stir in the poppy seeds.",
+          "Toast the pecans in the coconut oil with a pinch of salt over medium heat 3–5 minutes, cool, and chop.",
+          "Massage the kale with the oil and salt for a few minutes until softened.",
+          "Combine the kale, Brussels sprouts, pecans, cranberries, apple and slightly cooled squash. Toss with a few tablespoons of dressing."
+        ],
+        "whyFits": "The dressing is sweetened only with dates. Use cranberries sweetened with fruit juice, not sugar. No dairy or grains.",
+        "ingredients": [
+          "3 Medjool dates, softened",
+          "¼ cup apple cider vinegar",
+          "3 tbsp unsweetened almond milk",
+          "½ tsp stone-ground mustard",
+          "½ tsp onion powder",
+          "½ tsp fine sea salt",
+          "½ cup avocado or light olive oil",
+          "½ tbsp poppy seeds",
+          "5 cups butternut squash, peeled and cut into 2 cm cubes",
+          "1½ tbsp avocado oil + salt, for roasting",
+          "4 cups chopped kale",
+          "1 tbsp avocado oil + salt, for massaging",
+          "2 cups shredded Brussels sprouts",
+          "1½ cups pecan halves",
+          "1 tsp coconut oil, for toasting",
+          "½ cup dried cranberries (fruit-juice sweetened only)",
+          "1 large apple, diced"
+        ]
+      },
+      "he": {
+        "title": "סלט דלעת וקייל עם רוטב תמרים ופרג",
+        "description": "דלעת צלויה, קייל מעוסה, כרוב ניצנים מגורר, פקאנים קלויים, תפוח וחמוציות, עם רוטב פרג קרמי שממותק בתמרים.",
+        "ingredients": [
+          "3 תמרי מג׳הול, מושרים",
+          "¼ כוס חומץ תפוחים",
+          "3 כפות חלב שקדים לא ממותק",
+          "½ כפית חרדל גרגרים",
+          "½ כפית אבקת בצל",
+          "½ כפית מלח ים דק",
+          "½ כוס שמן אבוקדו או זית עדין",
+          "½ כף פרג",
+          "5 כוסות דלעת ערמונים, קלופה ובקוביות של 2 ס״מ",
+          "1½ כפות שמן אבוקדו + מלח לצלייה",
+          "4 כוסות קייל קצוץ",
+          "כף שמן אבוקדו + מלח לעיסוי",
+          "2 כוסות כרוב ניצנים מגורר",
+          "1½ כוסות פקאנים",
+          "כפית שמן קוקוס לקלייה",
+          "½ כוס חמוציות מיובשות (ממותקות במיץ פירות בלבד)",
+          "תפוח גדול, קצוץ"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. מערבבים את הדלעת עם שמן ומלח וצולים בתבנית מרופדת 25–30 דקות עד שהיא משחימה.",
+          "טוחנים תמרים, חומץ, חלב שקדים, חרדל, אבקת בצל, מלח ושמן עד לרוטב קרמי, ומערבבים פנימה את הפרג.",
+          "קולים את הפקאנים בשמן הקוקוס עם קורט מלח על אש בינונית 3–5 דקות, מצננים וקוצצים.",
+          "מעסים את הקייל עם השמן והמלח כמה דקות עד שהוא מתרכך.",
+          "מערבבים קייל, כרוב ניצנים, פקאנים, חמוציות, תפוח ודלעת שהתקררה מעט. מערבבים עם כמה כפות רוטב."
+        ],
+        "whyFits": "הרוטב ממותק רק בתמרים. בוחרים חמוציות שממותקות במיץ פירות ולא בסוכר. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "tuna-avocado-citrus-salad",
+      "url": "https://www.themediterraneandish.com/avocado-tuna-salad-with-citrus/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/02/Mediterranean-Dish-Citrus-Tuna-Avocado-Salad-LEAD-2.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 388,
+        "protein": 14
+      },
+      "en": {
+        "title": "Tuna, Avocado and Citrus Salad",
+        "description": "Baby greens with grapefruit and orange segments, olive oil-packed tuna, avocado, olives, pickled red onion and toasted pine nuts.",
+        "steps": [
+          "Zest the citrus (1–2 tsp in total), then cut off the peel and pith and slice the fruit into rounds or segments.",
+          "Whisk the citrus juice and zest, olive oil, sherry vinegar, honey, mustard and salt.",
+          "Layer the greens, citrus, tuna, avocado, olives and pickled onion in a large bowl. Pour over the dressing, toss gently, and sprinkle with the pine nuts."
+        ],
+        "whyFits": "Kosher fish, fruit and vegetables. Just 1 tsp of honey in the whole dressing. No dairy or grains. Pickle the onions at home in vinegar and salt.",
+        "ingredients": [
+          "1 grapefruit",
+          "1 orange",
+          "1 blood orange",
+          "4 cups (about 3 ounces) baby salad greens",
+          "1 can (6- to 8-ounces) olive oil-packed tuna, drained and flaked",
+          "1 avocado (thinly sliced)",
+          "1/2 cup pitted Kalamata olives (torn in half)",
+          "1/4 cup pickled red onions (drained from their brine)",
+          "2 tablespoons pine nuts (toasted)",
+          "2 tablespoons citrus juice",
+          "1 to 2 teaspoons citrus zest",
+          "1/4 cup extra virgin olive oil",
+          "1 tablespoon sherry vinegar",
+          "1 teaspoon honey",
+          "1/2 teaspoon Dijon mustard",
+          "1/4 teaspoon kosher salt"
+        ]
+      },
+      "he": {
+        "title": "סלט טונה, אבוקדו והדרים",
+        "description": "עלי בייבי עם פלחי אשכולית ותפוז, טונה בשמן זית, אבוקדו, זיתים, בצל סגול כבוש וצנוברים קלויים.",
+        "ingredients": [
+          "אשכולית",
+          "תפוז",
+          "תפוז דם",
+          "4 כוסות עלי בייבי (כ-85 גרם)",
+          "קופסת טונה בשמן זית (170–225 גרם), מסוננת ומפוררת",
+          "אבוקדו, פרוס דק",
+          "½ כוס זיתי קלמטה מגולענים, חצויים",
+          "¼ כוס בצל סגול כבוש, מסונן",
+          "2 כפות צנוברים קלויים",
+          "2 כפות מיץ הדרים",
+          "1–2 כפיות גרידת הדרים",
+          "¼ כוס שמן זית",
+          "כף חומץ שרי",
+          "כפית דבש",
+          "½ כפית חרדל דיז׳ון",
+          "¼ כפית מלח גס"
+        ],
+        "steps": [
+          "מגררים את ההדרים (1–2 כפיות בסך הכול), מסירים קליפה וחלק לבן ופורסים לגלגלים או לפלחים.",
+          "טורפים מיץ וגרידת הדרים, שמן זית, חומץ שרי, דבש, חרדל ומלח.",
+          "מסדרים בקערה גדולה עלים, הדרים, טונה, אבוקדו, זיתים ובצל כבוש. יוצקים את הרוטב, מערבבים בעדינות ומפזרים צנוברים."
+        ],
+        "whyFits": "דג כשר, פירות וירקות. רק כפית דבש בכל הרוטב. בלי חלב ובלי דגנים. כובשים את הבצל בבית בחומץ ומלח."
+      }
+    },
+    {
+      "id": "white-bean-sardine-salad",
+      "url": "https://www.themediterraneandish.com/mediterranean-sardine-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2021/09/white-bean-and-sardine-salad-recipe-3.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 240,
+        "protein": 23
+      },
+      "en": {
+        "title": "Mediterranean White Bean and Sardine Salad",
+        "description": "A no-cook, protein-packed salad of white beans, sardines, cherry tomatoes, green onion and parsley in a zesty lime-sumac dressing.",
+        "steps": [
+          "Whisk the mustard, lime zest and juice, garlic, sumac, Aleppo pepper, salt and pepper. Slowly whisk in the olive oil.",
+          "Gently combine the beans, sardines, tomatoes, green onions, jalapeños and parsley in a large bowl.",
+          "Pour over the dressing, toss, and adjust the seasoning."
+        ],
+        "whyFits": "Sardines are a kosher fish, rich in omega-3, and they pair well with beans. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 can (400 g) white beans, drained and rinsed",
+          "2 cans (125 g each) sardines in olive oil, roughly chopped",
+          "1 cup cherry tomatoes, halved",
+          "2 green onions, chopped",
+          "1–2 jalapeños, chopped (seeded for less heat)",
+          "1 cup chopped fresh parsley",
+          "2 tsp Dijon mustard",
+          "1 lime, zested and juiced",
+          "1–2 garlic cloves, minced",
+          "1 tsp sumac",
+          "1–2 tsp Aleppo pepper flakes",
+          "⅓ cup extra virgin olive oil",
+          "Kosher salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלט שעועית לבנה וסרדינים ים תיכוני",
+        "description": "סלט בלי בישול ומלא חלבון: שעועית לבנה, סרדינים, עגבניות שרי, בצל ירוק ופטרוזיליה ברוטב ליים וסומק.",
+        "ingredients": [
+          "קופסת שעועית לבנה (400 גרם), מסוננת ושטופה",
+          "2 קופסאות סרדינים בשמן זית (125 גרם כל אחת), קצוצים גס",
+          "כוס עגבניות שרי, חצויות",
+          "2 בצלים ירוקים, קצוצים",
+          "1–2 חלפיניו, קצוצים (בלי גרעינים לפחות חריפות)",
+          "כוס פטרוזיליה קצוצה",
+          "2 כפיות חרדל דיז׳ון",
+          "ליים (גרידה ומיץ)",
+          "1–2 שיני שום, כתושות",
+          "כפית סומק",
+          "1–2 כפיות פלפל אלפו",
+          "⅓ כוס שמן זית",
+          "מלח גס ופלפל שחור"
+        ],
+        "steps": [
+          "טורפים חרדל, גרידה ומיץ ליים, שום, סומק, פלפל אלפו, מלח ופלפל. מוסיפים את שמן הזית בהדרגה תוך טריפה.",
+          "מערבבים בעדינות בקערה גדולה שעועית, סרדינים, עגבניות, בצל ירוק, חלפיניו ופטרוזיליה.",
+          "יוצקים את הרוטב, מערבבים ומתקנים תיבול."
+        ],
+        "whyFits": "סרדינים הם דג כשר ועשיר באומגה 3, והם הולכים טוב עם שעועית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "shaved-cauliflower-chickpea-apricot-salad",
+      "url": "https://www.themediterraneandish.com/shaved-cauliflower-and-chickpea-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/03/Mediterranean-Dish_Cauliflower-Salad_LEAD_8.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 25,
+      "cookMinutes": null,
+      "totalMinutes": 55,
+      "servings": 6,
+      "nutrition": {
+        "calories": 279,
+        "protein": 7
+      },
+      "en": {
+        "title": "Moroccan Shaved Cauliflower and Chickpea Salad",
+        "description": "Thinly shaved raw cauliflower and chickpeas marinated in a ras el hanout vinaigrette, with pistachios, dried apricots and parsley.",
+        "steps": [
+          "Toast the pistachios in a dry pan about 5 minutes, cool, and chop.",
+          "In a large bowl, whisk the vinegar and honey, then the olive oil, 2 tsp ras el hanout, 1 tsp salt and 1 tsp pepper.",
+          "Slice the cauliflower florets as thinly as possible (a mandoline helps) and toss them in the dressing with the chickpeas and the white parts of the scallions.",
+          "Refrigerate at least 30 minutes (up to 3 hours).",
+          "Before serving, fold in the pistachios, scallion greens, apricots and parsley, and sprinkle with more pepper and ras el hanout."
+        ],
+        "whyFits": "Vegetables, legumes, nuts and dried fruit. Just 1 tbsp of honey for 6 servings. Use unsulfured apricots with no added sugar. No dairy or grains.",
+        "ingredients": [
+          "1 cup raw shelled pistachios",
+          "2/3 cup white wine vinegar",
+          "1 tablespoon honey",
+          "1/4 cup extra-virgin olive oil",
+          "2 teaspoons ras el hanout (plus more for sprinkling)",
+          "Kosher salt",
+          "Freshly ground black pepper",
+          "1 large head cauliflower (about 2 pounds)",
+          "1 (15-ounce) can chickpeas (drained and rinsed)",
+          "4 scallions (white and green parts separated and thinly sliced)",
+          "3/4 cup chopped dried apricots",
+          "1/3 cup roughly chopped fresh flat-leaf parsley leaves"
+        ]
+      },
+      "he": {
+        "title": "סלט כרובית פרוסה וחומוס בסגנון מרוקאי",
+        "description": "כרובית חיה פרוסה דק וגרגירי חומוס בוויניגרט ראס אל חנות, עם פיסטוקים, משמשים מיובשים ופטרוזיליה.",
+        "ingredients": [
+          "כוס פיסטוקים קלופים טבעיים",
+          "⅔ כוס חומץ יין לבן",
+          "כף דבש",
+          "¼ כוס שמן זית",
+          "2 כפיות ראס אל חנות, ועוד לפיזור",
+          "מלח גס",
+          "פלפל שחור גרוס",
+          "ראש כרובית גדול (כ-900 גרם)",
+          "קופסת גרגירי חומוס (400 גרם), מסוננים ושטופים",
+          "4 בצלים ירוקים (לבן וירוק בנפרד), פרוסים דק",
+          "¾ כוס משמשים מיובשים קצוצים",
+          "⅓ כוס פטרוזיליה קצוצה גס"
+        ],
+        "steps": [
+          "קולים את הפיסטוקים במחבת יבשה כ-5 דקות, מצננים וקוצצים.",
+          "בקערה גדולה טורפים חומץ ודבש, ואז שמן זית, 2 כפיות ראס אל חנות, כפית מלח וכפית פלפל.",
+          "פורסים את פרחי הכרובית דק ככל האפשר (במנדולינה) ומערבבים ברוטב עם החומוס והחלק הלבן של הבצל הירוק.",
+          "מקררים לפחות 30 דקות (עד 3 שעות).",
+          "לפני ההגשה מוסיפים בעדינות פיסטוקים, ירוק הבצל, משמשים ופטרוזיליה, ומפזרים עוד פלפל וראס אל חנות."
+        ],
+        "whyFits": "ירקות, קטניות, אגוזים ופירות יבשים. רק כף דבש ל-6 מנות. בוחרים משמשים בלי גופרית ובלי תוספת סוכר. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "turkish-white-bean-salad-piyaz",
+      "url": "https://www.themediterraneandish.com/piyaz-turkish-white-bean-salad/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/06/piyaz-turkish-white-bean-salad-recipe-8.jpg",
+      "added": "2026-11-01",
+      "category": "salad",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 6,
+      "nutrition": {
+        "calories": 153,
+        "protein": 5
+      },
+      "en": {
+        "title": "Turkish White Bean Salad (Piyaz)",
+        "description": "A 10-minute salad of white beans, tomato wedges, red onion and parsley with lemon, red wine vinegar and sumac.",
+        "steps": [
+          "Toss the onion and garlic with the vinegar and lemon juice and let it sit about 10 minutes to mellow.",
+          "Add the beans, tomatoes and parsley, season with sumac, salt and pepper, and drizzle with the olive oil.",
+          "Toss, taste, and add more salt or sumac if needed."
+        ],
+        "whyFits": "Legumes and fresh vegetables with olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 small red onion (halved and thinly sliced)",
+          "2 garlic cloves (minced)",
+          "5 tablespoons red wine vinegar",
+          "Juice of 1 large lemon",
+          "Kosher salt and black pepper",
+          "2 teaspoons sumac (more for later)",
+          "¼ cup extra virgin olive oil,",
+          "1 15- ounce can cannellini beans (drained and rinsed)",
+          "3 Roma tomatoes (cut into wedges)",
+          "½ cup packed chopped fresh parsley"
+        ]
+      },
+      "he": {
+        "title": "סלט שעועית לבנה טורקי (פיאז)",
+        "description": "סלט של 10 דקות: שעועית לבנה, פלחי עגבנייה, בצל סגול ופטרוזיליה עם לימון, חומץ יין וסומק.",
+        "ingredients": [
+          "בצל סגול קטן, חצוי ופרוס דק",
+          "2 שיני שום, כתושות",
+          "5 כפות חומץ יין אדום",
+          "מיץ מלימון גדול",
+          "מלח גס ופלפל שחור",
+          "2 כפיות סומק, ועוד לסיום",
+          "¼ כוס שמן זית",
+          "קופסת שעועית לבנה (400 גרם), מסוננת ושטופה",
+          "3 עגבניות רומא, בפלחים",
+          "½ כוס פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מערבבים את הבצל והשום עם החומץ ומיץ הלימון ומשאירים כ-10 דקות כדי לרכך את החריפות.",
+          "מוסיפים שעועית, עגבניות ופטרוזיליה, מתבלים בסומק, מלח ופלפל ומזלפים שמן זית.",
+          "מערבבים, טועמים, ומוסיפים מלח או סומק לפי הצורך."
+        ],
+        "whyFits": "קטניות וירקות טריים עם שמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "roasted-butternut-squash-soup",
+      "url": "https://downshiftology.com/recipes/roasted-butternut-squash-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2023/09/Roasted-Butternut-Squash-Soup-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 60,
+      "totalMinutes": 70,
+      "servings": 4,
+      "nutrition": {
+        "calories": 292,
+        "protein": 4
+      },
+      "en": {
+        "title": "Roasted Butternut Squash Soup",
+        "description": "Velvety soup of oven-roasted butternut squash and onion blended with broth, nutmeg and ginger.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Halve the squash lengthwise and scoop out the seeds.",
+          "Rub the cut sides with oil, season, and roast cut-side down for 60 minutes. After 30 minutes, add the oiled onion halves cut-side down.",
+          "Scoop the squash flesh into a blender with the peeled onion, garlic, maple syrup, salt, nutmeg, ginger and 3 cups broth. Blend until smooth, adding broth for the texture you like.",
+          "Serve topped with pumpkin seeds, parsley and black pepper."
+        ],
+        "whyFits": "Vegetables blended with broth. Only ½ tbsp of maple syrup for the whole pot and 1 tbsp of oil. No dairy or grains.",
+        "ingredients": [
+          "3 ½ pounds butternut squash",
+          "1 tablespoon avocado oil",
+          "1 small yellow onion (halved)",
+          "1 small garlic clove (peeled)",
+          "½ tablespoon maple syrup",
+          "1 teaspoon salt",
+          "freshly ground black pepper (to taste)",
+          "¼ teaspoon ground nutmeg",
+          "¼ teaspoon ground ginger",
+          "3 to 4 cups vegetable broth",
+          "Optional garnish: pepitas, parsley, and freshly ground black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק דלעת ערמונים צלויה",
+        "description": "מרק קטיפתי מדלעת ערמונים ובצל שנצלו בתנור, טחונים עם ציר, מוסקט וג׳ינג׳ר.",
+        "ingredients": [
+          "1.6 ק״ג דלעת ערמונים",
+          "כף שמן אבוקדו",
+          "בצל צהוב קטן, חצוי",
+          "שן שום קטנה, קלופה",
+          "½ כף מייפל",
+          "כפית מלח",
+          "פלפל שחור גרוס לפי הטעם",
+          "¼ כפית אגוז מוסקט",
+          "¼ כפית ג׳ינג׳ר טחון",
+          "3–4 כוסות ציר ירקות",
+          "לקישוט (לא חובה): גרעיני דלעת, פטרוזיליה ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. חוצים את הדלעת לאורך ומוציאים את הגרעינים.",
+          "מורחים שמן על הצד החתוך, מתבלים וצולים 60 דקות כשהצד החתוך למטה. אחרי 30 דקות מוסיפים את חצאי הבצל משומנים, הצד החתוך למטה.",
+          "מעבירים את בשר הדלעת לבלנדר עם הבצל הקלוף, השום, המייפל, המלח, המוסקט, הג׳ינג׳ר ו-3 כוסות ציר. טוחנים עד שהמרק חלק, ומוסיפים ציר עד למרקם הרצוי.",
+          "מגישים עם גרעיני דלעת, פטרוזיליה ופלפל שחור."
+        ],
+        "whyFits": "ירקות טחונים עם ציר. רק ½ כף מייפל לכל הסיר וכף שמן. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "roasted-red-pepper-tomato-soup",
+      "url": "https://minimalistbaker.com/roasted-red-pepper-tomato-soup/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2013/02/Vegan-Roasted-Red-Pepper-Tomato-Soup.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 60,
+      "totalMinutes": 65,
+      "servings": 4,
+      "nutrition": {
+        "calories": 184,
+        "protein": 3
+      },
+      "en": {
+        "title": "Roasted Red Pepper and Tomato Soup",
+        "description": "Fresh tomatoes, red pepper, onion and garlic roasted until sweet, then simmered with canned tomatoes and blended smooth.",
+        "steps": [
+          "Heat the oven to 175°C (350°F). Cut the tomatoes and onion into wedges and the pepper into strips.",
+          "Toss all the vegetables and the garlic with the oil, salt and pepper on a sheet pan. Roast 40–45 minutes until soft and lightly browned.",
+          "Put the canned tomatoes, broth, tomato paste and roasted vegetables in a pot, season, and bring to a low boil. Simmer 10 minutes.",
+          "Blend until smooth (or leave some texture).",
+          "Stir in the almond milk, add broth if too thick, and heat 5–10 minutes more."
+        ],
+        "whyFits": "Vegetables with just 1 tbsp of oil. Almond milk instead of cream makes it dairy-free. No grains or sugar.",
+        "ingredients": [
+          "3 ripe vine tomatoes",
+          "3 garlic cloves",
+          "½ large yellow onion",
+          "1 medium red bell pepper",
+          "1 tbsp extra virgin olive oil",
+          "1 can (800 g) whole peeled plum tomatoes",
+          "3–4 tbsp tomato paste",
+          "Sea salt and black pepper",
+          "1 cup low-sodium vegetable broth",
+          "½ cup unsweetened almond milk"
+        ]
+      },
+      "he": {
+        "title": "מרק עגבניות ופלפלים אדומים קלויים",
+        "description": "עגבניות טריות, פלפל אדום, בצל ושום שנצלים עד שהם מתקתקים, ואז מתבשלים עם עגבניות משומרות ונטחנים למרק חלק.",
+        "ingredients": [
+          "3 עגבניות בשלות",
+          "3 שיני שום",
+          "½ בצל צהוב גדול",
+          "פלפל אדום בינוני",
+          "כף שמן זית",
+          "קופסת עגבניות שלמות קלופות (800 גרם)",
+          "3–4 כפות רסק עגבניות",
+          "מלח ים ופלפל שחור",
+          "כוס ציר ירקות דל נתרן",
+          "½ כוס חלב שקדים לא ממותק"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות. חותכים את העגבניות והבצל לפלחים ואת הפלפל לרצועות.",
+          "מערבבים את כל הירקות והשום עם השמן, מלח ופלפל בתבנית. צולים 40–45 דקות עד שהם רכים ומשחימים קלות.",
+          "מכניסים לסיר את העגבניות המשומרות, הציר, הרסק והירקות הצלויים, מתבלים ומביאים לרתיחה עדינה. מבשלים 10 דקות.",
+          "טוחנים עד שהמרק חלק (או משאירים מעט מרקם).",
+          "מוסיפים את חלב השקדים, ואם המרק סמיך מדי מוסיפים עוד ציר. מחממים עוד 5–10 דקות."
+        ],
+        "whyFits": "ירקות עם כף שמן בלבד. חלב שקדים במקום שמנת, כך שאין בו חלב. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "chicken-tortilla-less-soup",
+      "url": "https://www.paleorunningmomma.com/chicken-tortilla-less-soup-paleo-whole30/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2023/01/chicken-tortilla-less-soup-scaled.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 253,
+        "protein": 25
+      },
+      "en": {
+        "title": "Mexican Chicken Soup without Tortillas",
+        "description": "A spicy, chunky chicken soup with tomatoes, peppers, green chiles, cumin and lime, topped with avocado and a coconut 'sour cream'.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat. Sauté the onion 3 minutes, then the garlic and peppers with salt and pepper for 3–5 minutes.",
+          "Sprinkle in the arrowroot, stir, and slowly pour in the broth.",
+          "Add the tomatoes, green chiles, cumin and chili powder and bring to a boil. The soup will thicken.",
+          "Add the chicken and simmer uncovered 5 minutes. Stir in the lime juice and nutritional yeast, season, and simmer 5 minutes more.",
+          "Whisk the coconut cream with lime juice and salt. Serve the soup with avocado, red onion, cilantro and a spoonful of the coconut cream."
+        ],
+        "whyFits": "Arrowroot (a root starch) thickens it instead of flour, and coconut cream replaces sour cream. No tortillas, dairy or sugar.",
+        "ingredients": [
+          "2 tbsp avocado oil",
+          "1 medium onion, diced",
+          "3 garlic cloves, minced",
+          "2 medium bell peppers, diced",
+          "Sea salt and black pepper",
+          "2 tbsp arrowroot starch (or tapioca)",
+          "3 cups chicken broth",
+          "1 can (800 g) fire-roasted diced tomatoes",
+          "1 can (115 g) chopped green chiles",
+          "1 tsp ground cumin",
+          "1 tbsp chili powder",
+          "3 cups cooked shredded chicken",
+          "Juice of 1 large lime",
+          "2 tbsp nutritional yeast (optional)",
+          "Avocado, cilantro and red onion, to garnish",
+          "¾ cup coconut cream + 2 tsp lime juice + a pinch of salt (dairy-free 'sour cream')"
+        ]
+      },
+      "he": {
+        "title": "מרק עוף מקסיקני בלי טורטיות",
+        "description": "מרק עוף חריף ועשיר עם עגבניות, פלפלים, צ׳ילי ירוק, כמון וליים, עם אבוקדו ו״שמנת חמוצה״ מקוקוס מעל.",
+        "ingredients": [
+          "2 כפות שמן אבוקדו",
+          "בצל בינוני, קצוץ",
+          "3 שיני שום, כתושות",
+          "2 פלפלים בינוניים, קצוצים",
+          "מלח ים ופלפל שחור",
+          "2 כפות עמילן ארורוט (או טפיוקה)",
+          "3 כוסות ציר עוף",
+          "קופסת עגבניות קלויות קצוצות (800 גרם)",
+          "קופסת צ׳ילי ירוק קצוץ (115 גרם)",
+          "כפית כמון טחון",
+          "כף אבקת צ׳ילי",
+          "3 כוסות עוף מבושל ומפורק",
+          "מיץ מליים גדול",
+          "2 כפות שמרי בירה (לא חובה)",
+          "אבוקדו, כוסברה ובצל סגול לקישוט",
+          "¾ כוס קרם קוקוס + 2 כפיות מיץ ליים + קורט מלח (״שמנת חמוצה״ בלי חלב)"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית. מאדים את הבצל 3 דקות, ואז שום ופלפלים עם מלח ופלפל 3–5 דקות.",
+          "מפזרים את הארורוט, מערבבים ויוצקים את הציר לאט.",
+          "מוסיפים עגבניות, צ׳ילי ירוק, כמון ואבקת צ׳ילי ומביאים לרתיחה. המרק יסמיך.",
+          "מוסיפים את העוף ומבשלים בלי מכסה 5 דקות. מוסיפים מיץ ליים ושמרי בירה, מתבלים ומבשלים עוד 5 דקות.",
+          "טורפים קרם קוקוס עם מיץ ליים ומלח. מגישים את המרק עם אבוקדו, בצל סגול, כוסברה וכף מקרם הקוקוס."
+        ],
+        "whyFits": "ארורוט (עמילן משורש) מסמיך במקום קמח, וקרם קוקוס מחליף שמנת חמוצה. בלי טורטיות, חלב או סוכר."
+      }
+    },
+    {
+      "id": "white-chicken-chili-coconut",
+      "url": "https://therealfooddietitians.com/slow-cooker-white-chicken-chili/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2020/10/WEB-Instant-Pot-White-Chicken-Chili-Finals-8-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 5,
+      "nutrition": {
+        "calories": 327,
+        "protein": 28
+      },
+      "en": {
+        "title": "Creamy White Chicken Chili with Coconut Milk",
+        "description": "Shredded chicken in a spiced, creamy broth of coconut milk, peppers, jalapeño, garlic, cumin and lime. Optional white beans.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat. Sauté the onion, bell pepper and jalapeño 5–6 minutes.",
+          "Add the garlic and all the spices and cook 30–60 seconds until fragrant.",
+          "Lay the chicken on top, add 1 cup of broth, bring just to a boil, then cover and simmer 12–15 minutes until cooked.",
+          "Shred the chicken in the pot. Add the remaining broth, the coconut milk and the beans if using, and simmer 10 minutes.",
+          "Off the heat, stir in the lime juice and cilantro and season to taste. (Slow cooker: everything except the coconut milk, lime and cilantro, on low 5–6 hours.)"
+        ],
+        "whyFits": "Coconut milk replaces cream and cheese. No dairy, grains or sugar. The beans add extra plant protein.",
+        "ingredients": [
+          "680 g boneless skinless chicken breasts or thighs",
+          "1 tbsp avocado or olive oil",
+          "1 medium yellow onion, diced",
+          "1 medium bell pepper, diced",
+          "1 small jalapeño, seeded and finely diced",
+          "6 garlic cloves, minced",
+          "2½ tsp ground cumin",
+          "1 tsp dried oregano",
+          "1 tbsp chili powder",
+          "1 tsp fine salt, plus more to taste",
+          "½ tsp black pepper",
+          "1½–2 cups chicken broth",
+          "1 can (400 ml) full-fat coconut milk",
+          "Juice of ½ lime",
+          "½ cup chopped fresh cilantro, plus more to serve",
+          "Optional: 1 can (400 g) white beans, drained and rinsed"
+        ]
+      },
+      "he": {
+        "title": "צ׳ילי עוף לבן וקרמי בחלב קוקוס",
+        "description": "עוף מפורק במרק מתובל וקרמי של חלב קוקוס, פלפלים, חלפיניו, שום, כמון וליים. אפשר להוסיף שעועית לבנה.",
+        "ingredients": [
+          "680 גרם חזה עוף או פרגיות",
+          "כף שמן אבוקדו או זית",
+          "בצל צהוב בינוני, קצוץ",
+          "פלפל בינוני, קצוץ",
+          "חלפיניו קטן, בלי גרעינים, קצוץ דק",
+          "6 שיני שום, כתושות",
+          "2½ כפיות כמון טחון",
+          "כפית אורגנו יבש",
+          "כף אבקת צ׳ילי",
+          "כפית מלח דק, ועוד לפי הטעם",
+          "½ כפית פלפל שחור",
+          "1½–2 כוסות ציר עוף",
+          "קופסת חלב קוקוס מלא (400 מ״ל)",
+          "מיץ מחצי ליים",
+          "½ כוס כוסברה קצוצה, ועוד להגשה",
+          "לא חובה: קופסת שעועית לבנה (400 גרם), מסוננת ושטופה"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית. מאדים בצל, פלפל וחלפיניו 5–6 דקות.",
+          "מוסיפים שום וכל התבלינים ל-30–60 שניות, עד שעולה ריח.",
+          "מניחים את העוף מעל, מוסיפים כוס ציר, מביאים לרתיחה, מכסים ומבשלים 12–15 דקות עד שהעוף מוכן.",
+          "מפרקים את העוף בסיר. מוסיפים את שאר הציר, חלב הקוקוס, ואם רוצים גם את השעועית, ומבשלים 10 דקות.",
+          "מורידים מהאש, מערבבים פנימה מיץ ליים וכוסברה ומתקנים תיבול. (בסיר בישול איטי: הכול חוץ מחלב קוקוס, ליים וכוסברה, 5–6 שעות על חום נמוך.)"
+        ],
+        "whyFits": "חלב קוקוס מחליף שמנת וגבינה. בלי חלב, דגנים או סוכר. השעועית מוסיפה חלבון צמחי."
+      }
+    },
+    {
+      "id": "chicken-lentil-soup",
+      "url": "https://detoxinista.com/chicken-lentil-soup/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2026/01/chicken-and-lentil-soup-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 358,
+        "protein": 34
+      },
+      "en": {
+        "title": "Chicken and Lentil Soup",
+        "description": "A comforting chicken soup with carrots, celery and herbs, made hearty with lentils instead of noodles.",
+        "steps": [
+          "Heat a drizzle of olive oil in a large pot over medium-high heat. Sauté the onion, carrots and celery about 5 minutes, then add the garlic, thyme and sage for 1 minute.",
+          "Add the water, lentils, chicken, 2 tsp salt and ½ tsp pepper. Bring to a boil, cover, and simmer on low 20–25 minutes until the lentils are tender and the chicken is cooked.",
+          "Shred the chicken (or cut it into chunks) and return it to the pot.",
+          "Taste and adjust the salt before serving."
+        ],
+        "whyFits": "Chicken, legumes and vegetables with very little oil. Lentils replace the noodles, so it's grain-free. No dairy or sugar.",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 yellow onion (chopped)",
+          "3 carrots (peeled and chopped)",
+          "3 celery ribs (chopped)",
+          "2 garlic cloves (minced)",
+          "1 teaspoon dried thyme",
+          "½ teaspoon ground sage",
+          "6 cups water",
+          "1 cup green or brown lentils",
+          "1 pound boneless skinless chicken thighs",
+          "fine sea salt and black pepper"
+        ]
+      },
+      "he": {
+        "title": "מרק עוף ועדשים",
+        "description": "מרק עוף מנחם עם גזר, סלרי ועשבי תיבול, שמקבל גוף מעדשים במקום אטריות.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב, קצוץ",
+          "3 גזרים, קלופים וקצוצים",
+          "3 גבעולי סלרי, קצוצים",
+          "2 שיני שום, כתושות",
+          "כפית טימין יבש",
+          "½ כפית מרווה טחונה",
+          "6 כוסות מים",
+          "כוס עדשים ירוקות או חומות",
+          "450 גרם פרגיות",
+          "מלח ים דק ופלפל שחור"
+        ],
+        "steps": [
+          "מחממים מעט שמן זית בסיר גדול על אש בינונית-גבוהה. מאדים בצל, גזר וסלרי כ-5 דקות, ואז מוסיפים שום, טימין ומרווה לדקה.",
+          "מוסיפים מים, עדשים, עוף, 2 כפיות מלח ו-½ כפית פלפל. מביאים לרתיחה, מכסים ומבשלים על אש נמוכה 20–25 דקות, עד שהעדשים רכות והעוף מוכן.",
+          "מפרקים את העוף (או חותכים לקוביות) ומחזירים לסיר.",
+          "טועמים ומתקנים מלח לפני ההגשה."
+        ],
+        "whyFits": "עוף, קטניות וירקות עם מעט מאוד שמן. עדשים במקום אטריות, כך שאין דגנים. בלי חלב ובלי סוכר."
+      }
+    },
+    {
+      "id": "greek-chickpea-soup-revithosoupa",
+      "url": "https://www.themediterraneandish.com/greek-chickpea-soup-revithosoupa/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/01/Revithosoupa-Recipe-Edited-22.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 90,
+      "totalMinutes": 100,
+      "servings": 8,
+      "nutrition": {
+        "calories": 387,
+        "protein": 16
+      },
+      "en": {
+        "title": "Greek Lemony Chickpea Soup (Revithosoupa)",
+        "description": "Dried chickpeas simmered with vegetables until tender, then made creamy with tahini and brightened with lemon, oregano and dill.",
+        "steps": [
+          "Soak the chickpeas overnight. Drain, boil in fresh water 10 minutes, and drain again.",
+          "Heat 2 tbsp oil in a large pot and sauté the onion 5–7 minutes until lightly golden. Add the celery, carrot and garlic for 3 minutes.",
+          "Add the chickpeas and broth, season, cover, and simmer on low about 1 hour until tender.",
+          "Stir in the remaining 2 tbsp oil and the tahini and simmer uncovered 15–20 minutes, stirring often.",
+          "Blend 2 cups of the soup and stir it back in. Add the lemon juice, oregano and dill, cook 2 minutes, and serve with lemon."
+        ],
+        "whyFits": "A legume soup made creamy with tahini instead of cream. 4 tbsp oil for 8 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 cups dried chickpeas (soaked in water overnight)",
+          "4 tablespoons extra virgin olive oil (divided)",
+          "1 medium yellow onion (diced)",
+          "1/2 cup diced celery",
+          "1 cup diced carrots",
+          "2 garlic cloves (minced)",
+          "8 cups vegetable or chicken broth",
+          "1 teaspoon kosher salt",
+          "1 teaspoon freshly ground black pepper",
+          "2 tablespoons tahini",
+          "1/4 cup fresh lemon juice",
+          "1 teaspoon dried oregano",
+          "2 tablespoons finely chopped fresh dill (plus more for garnish)",
+          "Lemon wheels or wedges (to serve)"
+        ]
+      },
+      "he": {
+        "title": "מרק חומוס יווני לימוני (רביתוסופה)",
+        "description": "גרגירי חומוס יבשים שמתבשלים עם ירקות עד שהם רכים, ומקבלים קרמיות מטחינה ורעננות מלימון, אורגנו ושמיר.",
+        "ingredients": [
+          "3 כוסות גרגירי חומוס יבשים, מושרים לילה",
+          "4 כפות שמן זית, מחולק",
+          "בצל צהוב בינוני, קצוץ",
+          "½ כוס סלרי קצוץ",
+          "כוס גזר קצוץ",
+          "2 שיני שום, כתושות",
+          "8 כוסות ציר ירקות או עוף",
+          "כפית מלח גס",
+          "כפית פלפל שחור גרוס",
+          "2 כפות טחינה גולמית",
+          "¼ כוס מיץ לימון טרי",
+          "כפית אורגנו יבש",
+          "2 כפות שמיר טרי קצוץ דק, ועוד לקישוט",
+          "פרוסות או פלחי לימון להגשה"
+        ],
+        "steps": [
+          "משרים את החומוס לילה. מסננים, מבשלים במים חדשים 10 דקות ומסננים שוב.",
+          "מחממים 2 כפות שמן בסיר גדול ומאדים את הבצל 5–7 דקות עד להזהבה קלה. מוסיפים סלרי, גזר ושום ל-3 דקות.",
+          "מוסיפים חומוס וציר, מתבלים, מכסים ומבשלים על אש נמוכה כשעה עד שהחומוס רך.",
+          "מוסיפים את 2 כפות השמן הנותרות ואת הטחינה ומבשלים בלי מכסה 15–20 דקות, תוך ערבוב.",
+          "טוחנים 2 כוסות מהמרק ומחזירים לסיר. מוסיפים מיץ לימון, אורגנו ושמיר, מבשלים 2 דקות ומגישים עם לימון."
+        ],
+        "whyFits": "מרק קטניות שהקרמיות שלו מגיעה מטחינה במקום שמנת. 4 כפות שמן ל-8 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "turkey-vegetable-potato-soup",
+      "url": "https://downshiftology.com/recipes/turkey-soup/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2025/11/Turkey-Soup-main.jpg",
+      "added": "2026-11-01",
+      "category": "soup",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 319,
+        "protein": 21
+      },
+      "en": {
+        "title": "Turkey, Vegetable and Potato Soup",
+        "description": "A quick, homey soup of carrots, celery, onion and potatoes in chicken broth with shredded cooked turkey and fresh herbs.",
+        "steps": [
+          "Heat the oil in a large pot over medium heat and cook the carrots, celery and onion 4–5 minutes. Add the garlic, salt and pepper for 1 minute.",
+          "Add the potatoes, thyme, bay leaf and broth. Bring to a boil, cover, and simmer on low 20 minutes until the potatoes are tender.",
+          "Add the turkey and simmer 1–2 minutes to heat through.",
+          "Remove the thyme and bay leaf, stir in the parsley, and serve."
+        ],
+        "whyFits": "Kosher turkey, vegetables and broth. No dairy, grains or sugar. A great way to use leftover turkey or chicken.",
+        "ingredients": [
+          "2 tablespoons extra virgin olive oil",
+          "3 medium carrots (peeled and sliced)",
+          "2 celery ribs (sliced)",
+          "1 medium onion (diced)",
+          "3 garlic cloves (minced)",
+          "1 teaspoon kosher salt",
+          "½ teaspoon freshly ground black pepper",
+          "2 Yukon gold potatoes (peeled and diced)",
+          "2 sprigs fresh thyme",
+          "1 bay leaf",
+          "5 cups low-sodium chicken broth",
+          "3 cups shredded turkey meat",
+          "¼ cup roughly chopped fresh parsley"
+        ]
+      },
+      "he": {
+        "title": "מרק הודו, ירקות ותפוחי אדמה",
+        "description": "מרק ביתי ומהיר של גזר, סלרי, בצל ותפוחי אדמה בציר עוף, עם הודו מבושל מפורק ועשבי תיבול טריים.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "3 גזרים בינוניים, קלופים ופרוסים",
+          "2 גבעולי סלרי, פרוסים",
+          "בצל בינוני, קצוץ",
+          "3 שיני שום, כתושות",
+          "כפית מלח גס",
+          "½ כפית פלפל שחור גרוס",
+          "2 תפוחי אדמה צהובים, קלופים וקצוצים",
+          "2 ענפי טימין טרי",
+          "עלה דפנה",
+          "5 כוסות ציר עוף דל נתרן",
+          "3 כוסות בשר הודו מבושל ומפורק",
+          "¼ כוס פטרוזיליה קצוצה גס"
+        ],
+        "steps": [
+          "מחממים את השמן בסיר גדול על אש בינונית ומאדים גזר, סלרי ובצל 4–5 דקות. מוסיפים שום, מלח ופלפל לדקה.",
+          "מוסיפים תפוחי אדמה, טימין, עלה דפנה וציר. מביאים לרתיחה, מכסים ומבשלים על אש נמוכה 20 דקות עד שתפוחי האדמה רכים.",
+          "מוסיפים את ההודו ומבשלים 1–2 דקות עד שהוא מתחמם.",
+          "מוציאים את הטימין ועלה הדפנה, מערבבים פנימה פטרוזיליה ומגישים."
+        ],
+        "whyFits": "הודו כשר, ירקות וציר. בלי חלב, דגנים או סוכר. דרך מצוינת להשתמש בשאריות הודו או עוף."
+      }
+    },
+    {
       "id": "slow-cooker-beef-barbacoa",
       "url": "https://therealfooddietitians.com/slow-cooker-beef-barbacoa/",
       "source": "The Real Food Dietitians",
