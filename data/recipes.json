@@ -2,6 +2,458 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "three-ingredient-cashew-date-bites",
+      "url": "https://therealfooddietitians.com/nutty-cashew-bites/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2016/03/IMG_2592-e1553779658223-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 20,
+      "nutrition": {
+        "calories": 100,
+        "protein": 3
+      },
+      "en": {
+        "title": "3-Ingredient Cashew Date Bites",
+        "description": "No-bake energy bites made from just cashews, nut butter and dates. A naturally sweet snack that keeps for weeks.",
+        "steps": [
+          "Put the nuts, nut butter and dates in a food processor.",
+          "Process 3–5 minutes, scraping the sides, until the mixture holds together when pressed. Add 1–2 tbsp more nut butter if it's dry.",
+          "Press firmly into about 20 small balls.",
+          "Keep in the fridge up to 2 weeks or freeze up to 3 months."
+        ],
+        "whyFits": "Sweetened only with dates. No flour, sugar or dairy. Choose a nut butter with no added sugar or oil.",
+        "ingredients": [
+          "1½ cups raw cashews (or 1 cup cashews + ½ cup almonds)",
+          "⅓ cup natural nut butter, no added sugar",
+          "10–12 small pitted dates (or 8–10 Medjool dates)"
+        ]
+      },
+      "he": {
+        "title": "כדורי קשיו ותמרים מ-3 מצרכים",
+        "description": "כדורי אנרגיה בלי אפייה מקשיו, חמאת אגוזים ותמרים בלבד. נשנוש מתוק באופן טבעי שנשמר שבועות.",
+        "ingredients": [
+          "1½ כוסות קשיו טבעי (או כוס קשיו + ½ כוס שקדים)",
+          "⅓ כוס חמאת אגוזים טבעית, בלי סוכר",
+          "10–12 תמרים קטנים מגולענים (או 8–10 תמרי מג׳הול)"
+        ],
+        "steps": [
+          "מכניסים אגוזים, חמאת אגוזים ותמרים למעבד מזון.",
+          "טוחנים 3–5 דקות ומגרדים את הדפנות, עד שהתערובת מתגבשת כשלוחצים עליה. אם היא יבשה, מוסיפים 1–2 כפות חמאת אגוזים.",
+          "מגלגלים בלחיצה חזקה לכ-20 כדורים קטנים.",
+          "שומרים במקרר עד שבועיים או במקפיא עד 3 חודשים."
+        ],
+        "whyFits": "ממותק רק בתמרים. בלי קמח, סוכר או חלב. בוחרים חמאת אגוזים בלי תוספת סוכר או שמן."
+      }
+    },
+    {
+      "id": "flourless-almond-butter-banana-pancakes",
+      "url": "https://detoxinista.com/almond-butter-pancakes-grain-free/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2012/09/paleo-pancakes-recipe.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 6,
+      "nutrition": {
+        "calories": 163,
+        "protein": 6
+      },
+      "en": {
+        "title": "Flourless Almond Butter Pancakes",
+        "description": "Fluffy, golden pancakes made from almond butter, banana (or applesauce) and eggs, with no flour at all. Pan-fry or bake.",
+        "steps": [
+          "Whisk all the ingredients until smooth.",
+          "To pan-fry: grease a skillet over medium-low heat, pour in ¼ cup of batter at a time, flip when bubbles form, and cook until golden on both sides.",
+          "To bake: heat the oven to 175°C (350°F), scoop ¼ cups onto a parchment-lined sheet, and bake 10–12 minutes until fluffy and golden.",
+          "Serve warm with fresh fruit."
+        ],
+        "whyFits": "No flour and no added sugar. The fruit sweetens it. No dairy or grains.",
+        "ingredients": [
+          "½ cup almond butter (125 g)",
+          "½ cup unsweetened applesauce or mashed banana (122 g)",
+          "2 large eggs",
+          "½ tsp baking soda",
+          "½ tsp vanilla extract"
+        ]
+      },
+      "he": {
+        "title": "פנקייק חמאת שקדים בלי קמח",
+        "description": "פנקייקים אווריריים וזהובים מחמאת שקדים, בננה (או רסק תפוחים) וביצים, בלי קמח בכלל. במחבת או בתנור.",
+        "ingredients": [
+          "½ כוס חמאת שקדים (125 גרם)",
+          "½ כוס רסק תפוחים לא ממותק או בננה מעוכה (122 גרם)",
+          "2 ביצים גדולות",
+          "½ כפית סודה לשתייה",
+          "½ כפית תמצית וניל"
+        ],
+        "steps": [
+          "טורפים את כל המרכיבים עד שהבלילה חלקה.",
+          "במחבת: משמנים מחבת על אש בינונית-נמוכה, יוצקים ¼ כוס בלילה בכל פעם, הופכים כשמופיעות בועות ומטגנים עד הזהבה משני הצדדים.",
+          "בתנור: מחממים ל-175 מעלות, מניחים מנות של ¼ כוס על תבנית מרופדת ואופים 10–12 דקות עד שהם תפוחים וזהובים.",
+          "מגישים חם עם פירות טריים."
+        ],
+        "whyFits": "בלי קמח ובלי תוספת סוכר. הפרי ממתיק. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "almond-flour-cashew-pancakes",
+      "url": "https://www.realfoodwithjessica.com/paleo-pancakes/",
+      "source": "Real Food with Jessica",
+      "sourceLang": "en",
+      "image": "https://www.realfoodwithjessica.com/wp-content/uploads/2016/02/paleo_pancakes_square.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "totalMinutes": 20,
+      "servings": 6,
+      "nutrition": {
+        "calories": 389,
+        "protein": 15
+      },
+      "en": {
+        "title": "Almond Flour Cinnamon Pancakes",
+        "description": "Tender grain-free pancakes from cashew butter, eggs and almond flour, lightly spiced with cinnamon.",
+        "steps": [
+          "Stir the cashew butter and eggs until as smooth as possible.",
+          "Add the almond flour, cinnamon, baking soda and maple syrup and mix until smooth.",
+          "Heat a skillet over medium heat with a little coconut oil. Cook ¼ cup of batter at a time 2–3 minutes until bubbles appear, flip, and cook 2 minutes more."
+        ],
+        "whyFits": "Almond flour instead of wheat. Only 1 tbsp of maple syrup in the whole batch. No dairy or grains.",
+        "ingredients": [
+          "½ cup cashew butter",
+          "3 eggs",
+          "1 cup almond flour",
+          "1 tsp cinnamon",
+          "½ tsp baking soda",
+          "1 tbsp maple syrup",
+          "Coconut oil, for the pan"
+        ]
+      },
+      "he": {
+        "title": "פנקייק קמח שקדים וקינמון",
+        "description": "פנקייקים רכים בלי דגנים מחמאת קשיו, ביצים וקמח שקדים, בתיבול עדין של קינמון.",
+        "ingredients": [
+          "½ כוס חמאת קשיו",
+          "3 ביצים",
+          "כוס קמח שקדים",
+          "כפית קינמון",
+          "½ כפית סודה לשתייה",
+          "כף מייפל",
+          "שמן קוקוס למחבת"
+        ],
+        "steps": [
+          "מערבבים חמאת קשיו וביצים עד שהתערובת חלקה ככל האפשר.",
+          "מוסיפים קמח שקדים, קינמון, סודה ומייפל ומערבבים עד שהבלילה חלקה.",
+          "מחממים מחבת על אש בינונית עם מעט שמן קוקוס. מטגנים ¼ כוס בלילה בכל פעם 2–3 דקות עד שמופיעות בועות, הופכים ומטגנים עוד 2 דקות."
+        ],
+        "whyFits": "קמח שקדים במקום חיטה. רק כף מייפל בכל הכמות. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "vanilla-cashew-date-smoothie",
+      "url": "https://www.paleorunningmomma.com/vanilla-cheesecake-paleo-smoothie/",
+      "source": "The Paleo Running Momma",
+      "sourceLang": "en",
+      "image": "https://www.paleorunningmomma.com/wp-content/uploads/2018/05/vanilla-cheesecake-smoothie-2.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": null,
+      "totalMinutes": 5,
+      "servings": 4,
+      "nutrition": {
+        "calories": 282,
+        "protein": 5
+      },
+      "en": {
+        "title": "Vanilla 'Cheesecake' Smoothie (Cashews and Dates)",
+        "description": "A thick, creamy dessert smoothie that tastes like cheesecake, from cashews, dates, coconut milk, vanilla and lemon.",
+        "steps": [
+          "Put everything in a high-speed blender.",
+          "Blend until completely smooth and serve right away."
+        ],
+        "whyFits": "No cheese and no sugar. The cheesecake taste comes from cashews and lemon, and the sweetness from dates. The original's cookie crumbs and protein powder are left out.",
+        "ingredients": [
+          "⅔ cup raw cashews",
+          "4 Medjool dates, pitted (softened if dry)",
+          "¾ cup full-fat coconut milk",
+          "½ cup unsweetened almond milk",
+          "2 tsp pure vanilla extract",
+          "2½ tbsp fresh lemon juice (about 1 lemon)",
+          "1 handful ice"
+        ]
+      },
+      "he": {
+        "title": "שייק ״עוגת גבינה״ וניל מקשיו ותמרים",
+        "description": "שייק קינוח סמיך וקרמי עם טעם של עוגת גבינה, מקשיו, תמרים, חלב קוקוס, וניל ולימון.",
+        "ingredients": [
+          "⅔ כוס קשיו טבעי",
+          "4 תמרי מג׳הול מגולענים (מושרים אם יבשים)",
+          "¾ כוס חלב קוקוס מלא",
+          "½ כוס חלב שקדים לא ממותק",
+          "2 כפיות תמצית וניל טבעית",
+          "2½ כפות מיץ לימון טרי (לימון אחד)",
+          "חופן קרח"
+        ],
+        "steps": [
+          "מכניסים הכול לבלנדר חזק.",
+          "טוחנים עד שהשייק חלק לגמרי ומגישים מיד."
+        ],
+        "whyFits": "בלי גבינה ובלי סוכר. טעם עוגת הגבינה מגיע מקשיו ולימון, והמתיקות מתמרים. פירורי העוגיות ואבקת החלבון שבמקור הושמטו."
+      }
+    },
+    {
+      "id": "chili-lime-fruit-salad",
+      "url": "https://minimalistbaker.com/spicy-fruit-salad/",
+      "source": "Minimalist Baker",
+      "sourceLang": "en",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2015/07/Spicy-Fruit-Salad-SQUARE.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "totalMinutes": 10,
+      "servings": 6,
+      "nutrition": {
+        "calories": 112,
+        "protein": 1
+      },
+      "en": {
+        "title": "Chili-Lime Fruit Salad",
+        "description": "Mango, kiwi, strawberries and blueberries tossed in lime juice with a pinch of salt and a light dusting of chili.",
+        "steps": [
+          "Put all the fruit in a large bowl.",
+          "Whisk the lime juice with the maple syrup (if using) and gently toss it with the fruit.",
+          "Add the salt, then sprinkle in the chili powder a little at a time, folding gently. Adjust to taste.",
+          "Serve right away or chill up to 2–3 days."
+        ],
+        "whyFits": "Fresh fruit only. The maple syrup (1 tbsp for 6 servings) is optional, and the original's tequila is left out. No dairy or grains.",
+        "ingredients": [
+          "2 ripe mangoes, peeled and cubed",
+          "4 medium kiwis, peeled and sliced",
+          "1 cup sliced strawberries",
+          "1 cup blueberries",
+          "1 small lime, juiced (about 2 tbsp)",
+          "1 tbsp maple syrup (optional, only if the fruit isn't sweet)",
+          "¼ tsp chili powder",
+          "1 pinch sea salt"
+        ]
+      },
+      "he": {
+        "title": "סלט פירות בליים וצ׳ילי",
+        "description": "מנגו, קיווי, תותים ואוכמניות בתוך מיץ ליים עם קורט מלח ונגיעה קלה של צ׳ילי.",
+        "ingredients": [
+          "2 מנגו בשלים, קלופים ובקוביות",
+          "4 קיווי בינוניים, קלופים ופרוסים",
+          "כוס תותים פרוסים",
+          "כוס אוכמניות",
+          "ליים קטן (כ-2 כפות מיץ)",
+          "כף מייפל (לא חובה, רק אם הפרי לא מתוק)",
+          "¼ כפית אבקת צ׳ילי",
+          "קורט מלח ים"
+        ],
+        "steps": [
+          "מכניסים את כל הפירות לקערה גדולה.",
+          "טורפים את מיץ הליים עם המייפל (אם משתמשים) ומערבבים בעדינות עם הפירות.",
+          "מוסיפים מלח, ואז מפזרים את הצ׳ילי מעט-מעט תוך ערבוב עדין. מתקנים לפי הטעם.",
+          "מגישים מיד או מקררים עד 2–3 ימים."
+        ],
+        "whyFits": "רק פירות טריים. המייפל (כף ל-6 מנות) לא חובה, והטקילה שבמקור הושמטה. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "tahini-date-banana-shake",
+      "url": "https://www.themediterraneandish.com/tahini-date-banana-shake/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/03/tahini-date-shake-edited-13.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": null,
+      "totalMinutes": 5,
+      "servings": 3,
+      "nutrition": {
+        "calories": 295,
+        "protein": 6
+      },
+      "en": {
+        "title": "Tahini, Date and Banana Shake",
+        "description": "A thick, creamy shake of frozen banana, Medjool dates, tahini, almond milk and cinnamon. Like dessert in a glass.",
+        "steps": [
+          "Blend all the ingredients until smooth and creamy.",
+          "Pour into glasses and finish with a pinch of cinnamon."
+        ],
+        "whyFits": "Sweetened only with banana and dates. Almond milk instead of dairy and tahini for creaminess. No grains or sugar.",
+        "ingredients": [
+          "2 sliced frozen bananas",
+          "4 Medjool dates (pitted and torn)",
+          "1/4 cup tahini",
+          "1/4 cup ice",
+          "1 1/2 cups unsweetened almond milk",
+          "1 pinch ground cinnamon (plus more for garnish)"
+        ]
+      },
+      "he": {
+        "title": "שייק טחינה, תמרים ובננה",
+        "description": "שייק סמיך וקרמי של בננה קפואה, תמרי מג׳הול, טחינה, חלב שקדים וקינמון. כמו קינוח בכוס.",
+        "ingredients": [
+          "2 בננות קפואות פרוסות",
+          "4 תמרי מג׳הול, מגולענים וקרועים",
+          "¼ כוס טחינה גולמית",
+          "¼ כוס קרח",
+          "1½ כוסות חלב שקדים לא ממותק",
+          "קורט קינמון, ועוד לקישוט"
+        ],
+        "steps": [
+          "טוחנים את כל המרכיבים בבלנדר עד שהשייק חלק וקרמי.",
+          "מוזגים לכוסות ומפזרים קורט קינמון."
+        ],
+        "whyFits": "ממותק רק בבננה ובתמרים. חלב שקדים במקום חלב, וטחינה לקרמיות. בלי דגנים ובלי סוכר."
+      }
+    },
+    {
+      "id": "date-tahini-spiced-almond-milk-nog",
+      "url": "https://www.themediterraneandish.com/date-tahini-dairy-free-eggnog/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/11/TMD-Date-Tahini-Holiday-Nog-Leads-04.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "totalMinutes": 15,
+      "servings": 6,
+      "nutrition": {
+        "calories": 176,
+        "protein": 3
+      },
+      "en": {
+        "title": "Spiced Date and Tahini 'Eggnog' (Dairy-Free)",
+        "description": "A creamy, chilled holiday-style drink of dates blended with almond milk, tahini, vanilla and warm spices.",
+        "steps": [
+          "Cover the dates with boiling water for 10–15 minutes until very soft, then drain.",
+          "Blend the dates with the almond milk, tahini, vanilla, spices and salt 1–2 minutes until completely smooth.",
+          "Chill at least 2 hours (it thickens a little). Shake before serving and top with grated nutmeg."
+        ],
+        "whyFits": "No eggs, no dairy and no sugar. The sweetness comes from dates and the richness from tahini. No grains.",
+        "ingredients": [
+          "10 Medjool dates, pitted",
+          "3 cups unsweetened almond milk",
+          "3 tbsp tahini",
+          "1 tsp vanilla extract",
+          "¾ tsp ground cinnamon",
+          "½ tsp ground nutmeg, plus more to garnish",
+          "¼ tsp ground cardamom",
+          "⅛ tsp fine sea salt",
+          "Cinnamon sticks or star anise, to garnish (optional)"
+        ]
+      },
+      "he": {
+        "title": "״אגנוג״ תמרים וטחינה מתובל (בלי חלב)",
+        "description": "משקה קרמי וקר בסגנון חגיגי, מתמרים שנטחנים עם חלב שקדים, טחינה, וניל ותבלינים חמים.",
+        "ingredients": [
+          "10 תמרי מג׳הול מגולענים",
+          "3 כוסות חלב שקדים לא ממותק",
+          "3 כפות טחינה גולמית",
+          "כפית תמצית וניל",
+          "¾ כפית קינמון",
+          "½ כפית אגוז מוסקט, ועוד לקישוט",
+          "¼ כפית הל טחון",
+          "⅛ כפית מלח ים דק",
+          "מקלות קינמון או כוכבי אניס לקישוט (לא חובה)"
+        ],
+        "steps": [
+          "מכסים את התמרים במים רותחים 10–15 דקות עד שהם רכים מאוד, ומסננים.",
+          "טוחנים את התמרים עם חלב השקדים, הטחינה, הווניל, התבלינים והמלח 1–2 דקות עד שהמשקה חלק לגמרי.",
+          "מקררים לפחות שעתיים (הוא מסמיך מעט). מנערים לפני ההגשה ומגררים מעל מוסקט."
+        ],
+        "whyFits": "בלי ביצים, בלי חלב ובלי סוכר. המתיקות מתמרים והעושר מטחינה. בלי דגנים."
+      }
+    },
+    {
+      "id": "chocolate-banana-almond-flour-muffins",
+      "url": "https://www.realfoodwithjessica.com/paleo-chocolate-banana-muffins/",
+      "source": "Real Food with Jessica",
+      "sourceLang": "en",
+      "image": "https://www.realfoodwithjessica.com/wp-content/uploads/2015/08/IMG_0204.jpg",
+      "added": "2026-11-01",
+      "category": "dessert",
+      "shabbat": true,
+      "prepMinutes": 5,
+      "cookMinutes": 22,
+      "totalMinutes": 27,
+      "servings": 12,
+      "nutrition": {
+        "calories": 299,
+        "protein": 11
+      },
+      "en": {
+        "title": "Chocolate Banana Muffins (No Added Sugar)",
+        "description": "Moist, chocolatey muffins made with almond flour and cacao, sweetened only with ripe bananas.",
+        "steps": [
+          "Heat the oven to 175°C (350°F) and line a muffin tin.",
+          "Mash the bananas and stir in the coconut oil, almond milk, eggs and vanilla.",
+          "Add the almond flour, coconut flour, cacao, salt, cinnamon and baking powder and mix until there are no dry pockets.",
+          "Divide among the liners and bake 20–25 minutes, until a toothpick comes out clean."
+        ],
+        "whyFits": "Sweetened only with bananas, with no added sugar or syrup. Almond and coconut flour, no grains. Almond milk instead of dairy.",
+        "ingredients": [
+          "3 small brown bananas",
+          "2 tablespoons coconut oil",
+          "1/3 cup almond milk",
+          "3 large eggs",
+          "1 teaspoon vanilla",
+          "2 cups almond flour",
+          "2 tablespoons coconut flour",
+          "1/3 cup cacao powder",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon cinnamon",
+          "1/2 teaspoon baking powder"
+        ]
+      },
+      "he": {
+        "title": "מאפינס שוקולד ובננה (בלי תוספת סוכר)",
+        "description": "מאפינס לחים ושוקולדיים מקמח שקדים וקקאו, ממותקים רק בבננות בשלות.",
+        "ingredients": [
+          "3 בננות קטנות בשלות מאוד",
+          "2 כפות שמן קוקוס",
+          "⅓ כוס חלב שקדים",
+          "3 ביצים גדולות",
+          "כפית תמצית וניל",
+          "2 כוסות קמח שקדים",
+          "2 כפות קמח קוקוס",
+          "⅓ כוס אבקת קקאו גולמי",
+          "½ כפית מלח",
+          "½ כפית קינמון",
+          "½ כפית אבקת אפייה"
+        ],
+        "steps": [
+          "מחממים תנור ל-175 מעלות ומרפדים תבנית מאפינס.",
+          "מועכים את הבננות ומערבבים פנימה שמן קוקוס, חלב שקדים, ביצים ווניל.",
+          "מוסיפים קמח שקדים, קמח קוקוס, קקאו, מלח, קינמון ואבקת אפייה ומערבבים עד שאין כיסים יבשים.",
+          "מחלקים למנג׳טים ואופים 20–25 דקות, עד שקיסם יוצא נקי."
+        ],
+        "whyFits": "ממותקים רק בבננות, בלי תוספת סוכר או סירופ. קמח שקדים וקוקוס, בלי דגנים. חלב שקדים במקום חלב."
+      }
+    },
+    {
       "id": "sweet-potato-chickpea-hash-poached-eggs",
       "url": "https://www.themediterraneandish.com/sweet-potato-hash-recipe/",
       "source": "The Mediterranean Dish",
