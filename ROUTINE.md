@@ -27,7 +27,7 @@ For each candidate, go through **every ingredient** and **every step** against `
 - Keep a short list of what you rejected and why. Put it in the commit message body.
 
 ## 5. Write the recipe in both languages
-Add each passing recipe to the start of the `recipes` array in `data/recipes.json`, in exactly this shape:
+Collect the passing recipes in a JSON array in a scratch file outside the repo (e.g. `/tmp/new_recipes.json`), each in exactly this shape:
 
 ```json
 {
@@ -59,9 +59,16 @@ Add each passing recipe to the start of the `recipes` array in `data/recipes.jso
 - `nutrition`: use the site's values per serving. If missing, estimate and say "estimate" in `whyFits`. Use `null` for unknown times.
 - `shabbat: true` when the dish keeps well and can be made ahead or kept warm.
 - Use the direct image URL (not `i0/i1/i2.wp.com` proxies).
-- Set the top-level `"updated"` to today's date.
 
-## 6. Check and push
-- `python tools/check_data.py` must finish with **0 errors**. Look at every warning. If one is a real rule break, remove the recipe.
-- Commit with a message like `Add 10 recipes (2026-11-02)`, with the rejected list in the body, and `git push`.
+## 6. Check and push (save in batches of about 5, so nothing is lost if the run stops early)
+Other runs may push at the same time, so always add your recipes on top of the latest version:
+```
+git fetch origin && git reset --hard origin/main
+python tools/add_recipes.py /tmp/new_recipes.json   # skips anything already in the app
+python tools/check_data.py                          # must say 0 errors
+git add data/recipes.json && git commit -m "Add N recipes (YYYY-MM-DD)" && git push origin main
+```
+- If the push is rejected because someone else pushed first, repeat the whole block (fetch, reset, add, check, commit, push).
+- Look at every warning from check_data. If one is a real rule break, remove that recipe from your scratch file and repeat.
+- Put the rejected list in the commit message body. After a successful push, start a new scratch file for the next batch.
 - If fewer than 10 good recipes were found, push what you have. Never pad the batch with recipes that break the rules.

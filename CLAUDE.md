@@ -6,7 +6,7 @@ A mobile web app (it installs to the phone's home screen) that shows ~10 new hea
 - Static site with no build step and no dependencies: `index.html`, `css/style.css`, `js/app.js` (UI), `js/i18n.js` (all interface text + categories), `sw.js` (offline), `manifest.webmanifest`, `icons/`.
 - Data: `data/recipes.json`. Each recipe has both `he` and `en` text. Format and process are in `ROUTINE.md`.
 - Rules: `config/rules.md`. Sites to check: `config/sources.json`.
-- Tools (Python standard library only): `tools/latest_posts.py` (new posts from feeds), `tools/extract_recipe.py` (reads schema.org Recipe data from a page), `tools/check_data.py` (must pass before pushing), `tools/make_icons.py`.
+- Tools (Python standard library only): `tools/latest_posts.py` (new posts from feeds), `tools/extract_recipe.py` (reads schema.org Recipe data from a page), `tools/check_data.py` (must pass before pushing), `tools/add_recipes.py` (merges new recipes, skipping duplicates), `tools/make_icons.py`.
 
 ## Requirements decided with the user (keep these)
 - Rules: no dairy; **no grains at all** (user confirmed); kosher only (no pork/shellfish, fish with fins and scales); no refined sugar (dates/fruit OK); no deep frying, no white flour, no processed foods. Allowed: vegetables, fruit, legumes, kosher meat, chicken, fish, eggs, nuts and seeds. No time limit. Strict "very healthy".
