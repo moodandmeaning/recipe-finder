@@ -81,3 +81,11 @@ git add data/recipes.json && git commit -m "Add N recipes (YYYY-MM-DD)" && git p
 - Look at every warning from check_data. If one is a real rule break, remove that recipe from your scratch file and repeat.
 - Put the rejected list in the commit message body. After a successful push, start a new scratch file for the next batch.
 - If fewer than 10 good recipes were found, push what you have. Never pad the batch with recipes that break the rules.
+
+## Remembering what was already checked
+`config/reviewed_urls.txt` lists every candidate URL already reviewed (added or rejected). `tools/harvest_sitemaps.py` skips them automatically. After a search, append the URLs you reviewed (the `cand_*.seen` files in the scratch folder) to it, then sort and dedupe it, and commit.
+
+Tips from earlier searches:
+- Common reasons to reject: dried cranberries (sugared), corn, soy/teriyaki/sweet chili/coconut aminos, store-bought dressings, more than 2 tbsp honey or maple, more than about 1 tbsp oil per serving, cheese.
+- Good sources for salads: 10dakot.co.il (Hebrew, full steps), Jamie Geller (kosher), Downshiftology, Detoxinista, The Mediterranean Dish, Feel Good Foodie, Eating Bird Food, Fed & Fit.
+- Many Israeli cabbage and beet salads use sugar, so check them carefully.

@@ -58,6 +58,9 @@ def main():
     known = {normalize(r["url"]) for r in d["recipes"]}
     seen_file = Path(out).with_suffix(".seen")
     seen = set(seen_file.read_text().split()) if seen_file.exists() else set()
+    reviewed = Path(__file__).resolve().parent.parent / "config" / "reviewed_urls.txt"
+    if reviewed.exists():  # candidates already reviewed (and mostly rejected) in earlier searches
+        seen |= set(reviewed.read_text(encoding="utf-8").split())
     cands = []
     for site, maps in SITEMAPS.items():
         for m in maps:
