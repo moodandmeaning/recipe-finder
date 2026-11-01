@@ -10,7 +10,7 @@ import json
 import re
 import sys
 import urllib.request
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 UA = "RecipeFinderBot/1.0 (personal recipe app; +https://github.com/moodandmeaning/recipe-finder)"
 LD_RE = re.compile(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', re.S | re.I)
@@ -18,6 +18,7 @@ TAG_RE = re.compile(r"<[^>]+>")
 
 
 def fetch(url):
+    url = quote(url, safe=":/?&=%#+,;@!~*'()")  # Hebrew letters in the address
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "he,en;q=0.8"})
     with urllib.request.urlopen(req, timeout=30) as res:
         return res.read().decode(res.headers.get_content_charset() or "utf-8", errors="replace")

@@ -2,6 +2,1138 @@
   "updated": "2026-11-01",
   "recipes": [
     {
+      "id": "skillet-chicken-thighs-cherry-tomato-zaatar",
+      "url": "https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/08/Mediterranean-Dish-Skillet-Chicken-Thighs-LEAD-9.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 20,
+      "totalMinutes": 25,
+      "servings": 4,
+      "nutrition": {
+        "calories": 250,
+        "protein": 35
+      },
+      "en": {
+        "title": "Skillet Chicken Thighs with Cherry Tomato Sauce and Za'atar",
+        "description": "Spiced chicken thighs seared with onion, then simmered in a quick sauce of burst cherry tomatoes, lemon and za'atar.",
+        "steps": [
+          "Mix 1 tsp of the za'atar with the paprika, garlic powder and pepper flakes. Pat the chicken dry and season it with the mix, salt and pepper.",
+          "Heat about 2 tbsp olive oil in a large lidded skillet over medium-high heat. Cook the onion with a pinch of salt for 4 minutes, then add the garlic for 30 seconds.",
+          "Push the onions aside, add the chicken and sear 4–5 minutes until golden, then turn it over.",
+          "Add the cherry tomatoes, lemon juice, the rest of the za'atar, salt and pepper. Cover and cook 5–10 minutes, crushing the tomatoes into a sauce.",
+          "Off the heat, drizzle with a little olive oil and sprinkle with lemon zest and parsley."
+        ],
+        "whyFits": "Chicken, vegetables, spices and olive oil only. No dairy, no grains, no sugar. Serve it with salad or roasted vegetables instead of bread or rice.",
+        "ingredients": [
+          "2 teaspoons za’atar (divided)",
+          "1 teaspoon sweet Spanish paprika",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon red pepper flakes",
+          "6 boneless, skinless chicken thighs",
+          "Kosher salt and black pepper",
+          "Extra virgin olive oil",
+          "1 medium yellow onion (halved and thinly sliced)",
+          "2 medium garlic cloves (thinly sliced)",
+          "3 cups fresh cherry tomatoes",
+          "1 large lemon (zested and juiced)",
+          "1/4 cup chopped fresh parsley (for garnish)"
+        ]
+      },
+      "he": {
+        "title": "פרגיות במחבת ברוטב עגבניות שרי וזעתר",
+        "description": "פרגיות מתובלות צרובות עם בצל, ומבושלות ברוטב מהיר של עגבניות שרי מתפקעות, לימון וזעתר.",
+        "ingredients": [
+          "2 כפיות זעתר, מחולק",
+          "כפית פפריקה מתוקה",
+          "כפית אבקת שום",
+          "½ כפית צ׳ילי גרוס",
+          "6 פרגיות ללא עור",
+          "מלח גס ופלפל שחור",
+          "שמן זית",
+          "בצל צהוב בינוני, חצוי ופרוס דק",
+          "2 שיני שום, פרוסות דק",
+          "3 כוסות עגבניות שרי",
+          "לימון גדול (גרידה ומיץ)",
+          "¼ כוס פטרוזיליה קצוצה, לקישוט"
+        ],
+        "steps": [
+          "מערבבים כפית מהזעתר עם הפפריקה, אבקת השום והצ׳ילי. מייבשים את העוף ומתבלים בתערובת, במלח ובפלפל.",
+          "מחממים כ-2 כפות שמן זית במחבת רחבה עם מכסה על אש בינונית-גבוהה. מאדים את הבצל עם קורט מלח 4 דקות, ומוסיפים את השום לחצי דקה.",
+          "מזיזים את הבצל לצד, מניחים את הפרגיות וצורבים 4–5 דקות עד להזהבה, ואז הופכים.",
+          "מוסיפים עגבניות שרי, מיץ לימון, את שארית הזעתר, מלח ופלפל. מכסים ומבשלים 5–10 דקות, ומועכים את העגבניות לרוטב.",
+          "מורידים מהאש, מזלפים מעט שמן זית ומפזרים גרידת לימון ופטרוזיליה."
+        ],
+        "whyFits": "רק עוף, ירקות, תבלינים ושמן זית. בלי חלב, בלי דגנים ובלי סוכר. מגישים עם סלט או ירקות צלויים במקום לחם או אורז."
+      }
+    },
+    {
+      "id": "slow-cooker-coconut-tomato-chicken",
+      "url": "https://detoxinista.com/slow-cooker-butter-chicken/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2020/06/slow-cooker-butter-chicken.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 180,
+      "totalMinutes": 190,
+      "servings": 6,
+      "nutrition": {
+        "calories": 231,
+        "protein": 25
+      },
+      "en": {
+        "title": "Slow Cooker Creamy Tomato Chicken (Dairy-Free 'Butter Chicken')",
+        "description": "Tender shredded chicken in a spiced tomato sauce made creamy with coconut cream instead of butter and cream.",
+        "steps": [
+          "Soften the onion in the oil in a skillet over medium heat, about 5 minutes. Add the garlic and ginger for 1 minute.",
+          "Put the onion mixture in the slow cooker with the tomato sauce, garam masala, cumin and cayenne and stir. Lay the chicken on top and salt it.",
+          "Cook on low for 3–6 hours or on high for 1½–2½ hours, until the chicken reaches 74°C (165°F).",
+          "Shred the chicken with two forks. Stir the coconut cream and tomato paste into the sauce until smooth, return the chicken and season to taste.",
+          "Serve with cilantro. Keeps 3 days in the fridge."
+        ],
+        "whyFits": "Coconut cream replaces the butter and cream, so it's completely dairy-free. No grains or sugar. Serve over cauliflower rice instead of rice.",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 yellow onion (chopped)",
+          "4 garlic cloves (minced )",
+          "1 inch fresh ginger (minced (about 1 tablespoon)",
+          "1 (14.5 oz) can tomato sauce",
+          "1 teaspoon garam masala",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon cayenne pepper (use less for a mild version)",
+          "1.5 pounds boneless skinless chicken breasts",
+          "1 teaspoon fine sea salt (plus more to taste)",
+          "1/2 cup coconut cream (the solid part in a can of coconut milk)",
+          "1 (6 oz.) can tomato paste (no salt added)",
+          "fresh cilantro (for garnish)"
+        ]
+      },
+      "he": {
+        "title": "עוף ברוטב עגבניות קרמי בסיר בישול איטי (״באטר צ׳יקן״ בלי חלב)",
+        "description": "עוף מפורק ורך ברוטב עגבניות מתובל, שהקרמיות שלו מגיעה מקרם קוקוס במקום חמאה ושמנת.",
+        "ingredients": [
+          "כף שמן זית",
+          "בצל צהוב, קצוץ",
+          "4 שיני שום, כתושות",
+          "2.5 ס״מ ג׳ינג׳ר טרי, קצוץ (כף)",
+          "קופסת רוטב עגבניות (410 גרם)",
+          "כפית גראם מסאלה",
+          "כפית כמון טחון",
+          "½ כפית פלפל קאיין (פחות לגרסה עדינה)",
+          "680 גרם חזה עוף",
+          "כפית מלח ים דק, ועוד לפי הטעם",
+          "½ כוס קרם קוקוס (החלק המוצק מקופסת חלב קוקוס)",
+          "קופסת רסק עגבניות (170 גרם), בלי מלח",
+          "כוסברה טרייה לקישוט"
+        ],
+        "steps": [
+          "מאדים את הבצל בשמן במחבת על אש בינונית כ-5 דקות. מוסיפים שום וג׳ינג׳ר לדקה.",
+          "מעבירים לסיר הבישול האיטי עם רוטב העגבניות, הגראם מסאלה, הכמון והקאיין ומערבבים. מניחים את העוף מעל וממליחים.",
+          "מבשלים על חום נמוך 3–6 שעות או על גבוה 1½–2½ שעות, עד שהעוף מגיע ל-74 מעלות.",
+          "מפרקים את העוף בשני מזלגות. מערבבים לתוך הרוטב את קרם הקוקוס ורסק העגבניות עד שהוא חלק, מחזירים את העוף ומתקנים תיבול.",
+          "מגישים עם כוסברה. נשמר 3 ימים במקרר."
+        ],
+        "whyFits": "קרם קוקוס מחליף את החמאה והשמנת, כך שאין כאן חלב בכלל. בלי דגנים ובלי סוכר. מגישים על אורז כרובית במקום אורז."
+      }
+    },
+    {
+      "id": "sheet-pan-chicken-ratatouille",
+      "url": "https://nomnompaleo.com/sheet-pan-chicken-and-veggies",
+      "source": "Nom Nom Paleo",
+      "sourceLang": "en",
+      "image": "https://nomnompaleo.com/wp-content/uploads/2024/08/1200-Ratatouille-Chicken-DSC_1656.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "totalMinutes": 60,
+      "servings": 4,
+      "nutrition": {
+        "calories": 518,
+        "protein": 27
+      },
+      "en": {
+        "title": "Sheet-Pan Chicken Thighs with Ratatouille Vegetables",
+        "description": "Chicken thighs roasted next to neat layers of eggplant, tomato, zucchini, squash and pepper with garlic and herbs.",
+        "steps": [
+          "Heat the oven to 220°C (425°F). Brush a sheet pan with about 1 tbsp oil.",
+          "Season the chicken with salt and pepper and set it skin-side down on one side of the pan.",
+          "Next to it, layer the eggplant, half the onion, the tomatoes, the rest of the onion and the garlic, seasoning and adding half the herbs as you go.",
+          "Top with alternating rows of squash, zucchini and pepper. Season, add the remaining herbs and drizzle with 3 tbsp oil.",
+          "Roast 30 minutes, flip the chicken skin-side up and turn the pan, then roast 15–20 minutes more until the chicken is done and browned.",
+          "Drizzle the vegetables with balsamic and sprinkle with parsley."
+        ],
+        "whyFits": "Chicken and a whole garden of vegetables with olive oil, about 1 tbsp per serving. No dairy, grains or sugar. Plain salt and pepper replace the original's branded seasoning.",
+        "ingredients": [
+          "4 tbsp extra virgin olive oil, divided",
+          "4 bone-in chicken thighs",
+          "Kosher salt and black pepper",
+          "1 medium eggplant, sliced 3 mm thick",
+          "½ medium onion, sliced thin, divided",
+          "2 medium Roma tomatoes, sliced thin",
+          "4 large garlic cloves, thinly sliced",
+          "¼ cup chopped fresh basil, divided",
+          "1 tbsp chopped fresh thyme, divided",
+          "1 medium yellow squash, sliced thin",
+          "1 medium zucchini, sliced thin",
+          "1 bell pepper, cut into thin strips",
+          "2 tbsp aged balsamic vinegar",
+          "2 tbsp chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "ירכי עוף בתבנית עם ירקות רטטוי",
+        "description": "ירכי עוף צלויות ליד שכבות מסודרות של חציל, עגבנייה, זוקיני, קישוא ופלפל, עם שום ועשבי תיבול.",
+        "ingredients": [
+          "4 כפות שמן זית, מחולק",
+          "4 ירכי עוף עם עצם",
+          "מלח גס ופלפל שחור",
+          "חציל בינוני, פרוס ל-3 מ״מ",
+          "½ בצל בינוני, פרוס דק, מחולק",
+          "2 עגבניות רומא, פרוסות דק",
+          "4 שיני שום גדולות, פרוסות דק",
+          "¼ כוס בזיליקום קצוץ, מחולק",
+          "כף טימין טרי קצוץ, מחולק",
+          "קישוא צהוב בינוני, פרוס דק",
+          "זוקיני בינוני, פרוס דק",
+          "פלפל, חתוך לרצועות דקות",
+          "2 כפות חומץ בלסמי",
+          "2 כפות פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות. מברישים תבנית בכף שמן.",
+          "מתבלים את העוף במלח ופלפל ומניחים, צד העור למטה, בצד אחד של התבנית.",
+          "לידו מסדרים שכבות: חציל, חצי מהבצל, עגבניות, שאר הבצל והשום, ומתבלים ומפזרים חצי מעשבי התיבול בין השכבות.",
+          "מעל מסדרים שורות של קישוא, זוקיני ופלפל לסירוגין. מתבלים, מפזרים את שאר עשבי התיבול ומזלפים 3 כפות שמן.",
+          "צולים 30 דקות, הופכים את העוף לצד העור ומסובבים את התבנית, וצולים עוד 15–20 דקות עד שהעוף מוכן ומשחים.",
+          "מזלפים בלסמי על הירקות ומפזרים פטרוזיליה."
+        ],
+        "whyFits": "עוף והמון ירקות עם שמן זית, כף למנה בערך. בלי חלב, דגנים או סוכר. מלח ופלפל רגילים במקום תערובת התבלינים של המקור."
+      }
+    },
+    {
+      "id": "lemon-garlic-baked-drumsticks",
+      "url": "https://www.themediterraneandish.com/baked-chicken-drumsticks/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/02/baked-chicken-drumsticks-recipe-4.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "totalMinutes": 80,
+      "servings": 12,
+      "nutrition": {
+        "calories": 156,
+        "protein": 12
+      },
+      "en": {
+        "title": "Baked Chicken Drumsticks with Lemon and Garlic",
+        "description": "Drumsticks marinated in lemon, a whole head of garlic and warm spices, then baked until the skin is crisp.",
+        "steps": [
+          "Pat the chicken dry and salt it on and under the skin. If you have time, chill it uncovered for a few hours.",
+          "Put the chicken in a large bag with the spices, garlic, onion, lemon zest and juice, and olive oil. Massage to coat and marinate 30 minutes, or 2–4 hours in the fridge.",
+          "Heat the oven to 230°C (450°F).",
+          "Arrange the drumsticks in a lightly oiled baking dish with the onions and marinade, and tuck lemon slices in between.",
+          "Bake about 35 minutes, until the chicken reaches 74°C (165°F). Broil a few minutes for extra-crisp skin."
+        ],
+        "whyFits": "Chicken, garlic, lemon, spices and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "10 to 12 chicken drumsticks (bone in, skin on)",
+          "Kosher salt",
+          "1 tablespoon oregano",
+          "1 tablespoon black pepper",
+          "1 1/2 teaspoon coriander",
+          "1 teaspoon sweet paprika",
+          "1/2 teaspoon cumin",
+          "1 head garlic (about 12 garlic cloves, peeled and chopped)",
+          "1 medium yellow onion (cut into wedges)",
+          "3 lemons (Zest and juice of 2 lemons + 1 lemon sliced)",
+          "1/4 cup extra virgin olive oil"
+        ]
+      },
+      "he": {
+        "title": "שוקי עוף אפויים בלימון ושום",
+        "description": "שוקיים במרינדת לימון, ראש שום שלם ותבלינים חמים, אפויים עד שהעור פריך.",
+        "ingredients": [
+          "10–12 שוקי עוף עם עור",
+          "מלח גס",
+          "כף אורגנו",
+          "כף פלפל שחור",
+          "1½ כפית כוסברה טחונה",
+          "כפית פפריקה מתוקה",
+          "½ כפית כמון",
+          "ראש שום (כ-12 שיניים), קלוף וקצוץ",
+          "בצל צהוב בינוני, חתוך לפלחים",
+          "3 לימונים (גרידה ומיץ משניים, אחד פרוס)",
+          "¼ כוס שמן זית"
+        ],
+        "steps": [
+          "מייבשים את העוף וממליחים מעל ומתחת לעור. אם יש זמן, מצננים במקרר בלי כיסוי כמה שעות.",
+          "מכניסים לשקית גדולה עם התבלינים, השום, הבצל, גרידת ומיץ הלימון ושמן הזית. מעסים היטב ומשרים 30 דקות, או 2–4 שעות במקרר.",
+          "מחממים תנור ל-230 מעלות.",
+          "מסדרים את השוקיים בתבנית משומנת קלות עם הבצל והמרינדה, ומשלבים ביניהם פרוסות לימון.",
+          "אופים כ-35 דקות, עד שהעוף מגיע ל-74 מעלות. לעור פריך במיוחד, מעבירים לגריל לכמה דקות."
+        ],
+        "whyFits": "עוף, שום, לימון, תבלינים ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "citrus-rosemary-roast-chicken",
+      "url": "https://www.themediterraneandish.com/citrus-rosemary-chicken/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2021/09/Citrus-Rosemary-Chicken-12.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 45,
+      "totalMinutes": 55,
+      "servings": 6,
+      "nutrition": {
+        "calories": 319,
+        "protein": 25
+      },
+      "en": {
+        "title": "Citrus and Rosemary Roast Chicken",
+        "description": "A whole chicken marinated in red wine, orange, lime, tomato paste and herbs, roasted and glazed with a touch of honey.",
+        "steps": [
+          "Salt the chicken all over and under the skin (you can do this a day ahead).",
+          "Whisk the wine, orange juice and zest, lime juice, 3 tbsp olive oil, tomato paste, spices and salt, then add the garlic and onion.",
+          "Coat the chicken in the marinade, spooning some under the skin, and leave 30 minutes at room temperature or 1–2 hours in the fridge.",
+          "Heat the oven to 220°C (425°F). Roast the chicken with the marinade in a braising pan for 30 minutes, turn the pan, and roast 15 minutes more until cooked through.",
+          "Brush the top with the honey mixed with 1 tbsp olive oil and broil 3–4 minutes until golden. Finish with lime juice and orange and lime slices."
+        ],
+        "whyFits": "Only 1 tbsp of honey for the whole chicken. No dairy, no grains, nothing processed. Use a kosher dry red wine.",
+        "ingredients": [
+          "1 whole chicken (about 1.6 kg), split in half through the backbone",
+          "Kosher salt",
+          "1 cup dry red wine (kosher)",
+          "1 orange, zested and juiced, plus 1 orange sliced",
+          "1 lime, juiced, plus 1 lime sliced",
+          "Extra virgin olive oil",
+          "3 tbsp tomato paste",
+          "1½ tsp dried oregano",
+          "1 tsp dried rosemary",
+          "1 tsp sweet paprika",
+          "1 tsp Aleppo pepper",
+          "7–8 garlic cloves, minced",
+          "1 yellow onion, halved and sliced",
+          "1 tbsp honey"
+        ]
+      },
+      "he": {
+        "title": "עוף שלם צלוי בהדרים ורוזמרין",
+        "description": "עוף שלם במרינדת יין אדום, תפוז, ליים, רסק עגבניות ועשבי תיבול, צלוי ומוברש בנגיעת דבש.",
+        "ingredients": [
+          "עוף שלם (כ-1.6 ק״ג), חצוי לאורך עמוד השדרה",
+          "מלח גס",
+          "כוס יין אדום יבש (כשר)",
+          "תפוז (גרידה ומיץ), ועוד תפוז פרוס",
+          "ליים (מיץ), ועוד ליים פרוס",
+          "שמן זית",
+          "3 כפות רסק עגבניות",
+          "1½ כפית אורגנו יבש",
+          "כפית רוזמרין יבש",
+          "כפית פפריקה מתוקה",
+          "כפית פלפל אלפו גרוס",
+          "7–8 שיני שום כתושות",
+          "בצל צהוב, חצוי ופרוס",
+          "כף דבש"
+        ],
+        "steps": [
+          "ממליחים את העוף מכל הצדדים ומתחת לעור (אפשר יום מראש).",
+          "טורפים יין, מיץ וגרידת תפוז, מיץ ליים, 3 כפות שמן זית, רסק עגבניות, תבלינים ומלח, ומוסיפים שום ובצל.",
+          "מצפים את העוף במרינדה, גם מתחת לעור, ומשאירים 30 דקות בטמפרטורת החדר או 1–2 שעות במקרר.",
+          "מחממים תנור ל-220 מעלות. צולים את העוף עם המרינדה בתבנית 30 דקות, מסובבים את התבנית וצולים עוד 15 דקות עד שהעוף מוכן.",
+          "מברישים את העוף בדבש מעורבב עם כף שמן זית ומעבירים לגריל ל-3–4 דקות להזהבה. מסיימים במיץ ליים ופרוסות תפוז וליים."
+        ],
+        "whyFits": "רק כף דבש לעוף שלם. בלי חלב, בלי דגנים ובלי מוצרים מעובדים. משתמשים ביין אדום יבש כשר."
+      }
+    },
+    {
+      "id": "20-minute-grilled-lemon-chicken",
+      "url": "https://www.themediterraneandish.com/easy-lemon-chicken/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2026/06/Mediterranean-Dish-Lemon-Chicken-LEAD-2.jpg",
+      "added": "2026-11-01",
+      "category": "chicken",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 12,
+      "totalMinutes": 22,
+      "servings": 6,
+      "nutrition": {
+        "calories": 243,
+        "protein": 23
+      },
+      "en": {
+        "title": "20-Minute Grilled Lemon Chicken",
+        "description": "Chicken thighs in a lemony garlic marinade with coriander, cumin and nutmeg, cooked fast on a grill pan.",
+        "steps": [
+          "Mix the oregano, coriander, cumin and nutmeg. Separately mix the lemon juice, olive oil and garlic.",
+          "Season the chicken with salt, pepper and the spice mix, add the onion and the marinade, and toss well. Marinate while the pan heats (or 2–8 hours in the fridge).",
+          "Heat a grill pan over medium-high heat. Grill the lemon halves cut-side down briefly and set aside.",
+          "Brush the pan with a little oil and cook the chicken about 6 minutes per side, until it reaches 74°C (165°F). Discard any leftover marinade.",
+          "Serve with the grilled lemons and parsley."
+        ],
+        "whyFits": "Chicken, lemon, garlic, spices and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 teaspoons dried oregano",
+          "1 1/2 teaspoons ground coriander",
+          "1 1/2 teaspoons ground cumin",
+          "3/4 teaspoon ground nutmeg",
+          "1/3 cup lemon juice",
+          "1/4 cup extra virgin olive oil,",
+          "2 to 3 teaspoons minced garlic",
+          "1 1/2 pounds (6 to 7 pieces) boneless skinless chicken thighs (you can use chicken breast (see notes) )",
+          "Kosher salt",
+          "black pepper",
+          "1 large onion (diced)",
+          "2 lemons (halved)",
+          "Extra virgin olive oil",
+          "Fresh parsley for garnish"
+        ]
+      },
+      "he": {
+        "title": "עוף לימוני על הפלנצ׳ה ב-20 דקות",
+        "description": "פרגיות במרינדת לימון ושום עם כוסברה, כמון ומוסקט, צלויות במהירות במחבת פסים.",
+        "ingredients": [
+          "2 כפיות אורגנו יבש",
+          "1½ כפית כוסברה טחונה",
+          "1½ כפית כמון טחון",
+          "¾ כפית אגוז מוסקט",
+          "⅓ כוס מיץ לימון",
+          "¼ כוס שמן זית",
+          "2–3 כפיות שום כתוש",
+          "680 גרם פרגיות (6–7 יחידות)",
+          "מלח גס",
+          "פלפל שחור",
+          "בצל גדול, קצוץ",
+          "2 לימונים, חצויים",
+          "שמן זית למחבת",
+          "פטרוזיליה טרייה לקישוט"
+        ],
+        "steps": [
+          "מערבבים אורגנו, כוסברה, כמון ומוסקט. בקערה נפרדת מערבבים מיץ לימון, שמן זית ושום.",
+          "מתבלים את העוף במלח, פלפל ותערובת התבלינים, מוסיפים בצל ומרינדה ומערבבים היטב. משרים בזמן שהמחבת מתחממת (או 2–8 שעות במקרר).",
+          "מחממים מחבת פסים על אש בינונית-גבוהה. צולים את חצאי הלימון על הצד החתוך לרגע ומניחים בצד.",
+          "מברישים את המחבת במעט שמן וצולים את העוף כ-6 דקות מכל צד, עד 74 מעלות בפנים. את שארית המרינדה זורקים.",
+          "מגישים עם הלימונים הצלויים ופטרוזיליה."
+        ],
+        "whyFits": "עוף, לימון, שום, תבלינים ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "baked-lemon-garlic-salmon-foil",
+      "url": "https://www.themediterraneandish.com/lemon-garlic-salmon-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/09/TMD-Baked-Lemon-Garlic-Salmon-Leads-03-Vertical.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 18,
+      "totalMinutes": 28,
+      "servings": 6,
+      "nutrition": {
+        "calories": 299,
+        "protein": 31
+      },
+      "en": {
+        "title": "Baked Lemon Garlic Salmon in Foil",
+        "description": "A whole salmon fillet baked in a foil tent with a lemon, garlic, oregano and paprika sauce, then broiled for a golden top.",
+        "steps": [
+          "Heat the oven to 190°C (375°F). Line a sheet pan with a long piece of foil and brush it with oil.",
+          "Whisk the zest of 1 lemon and the juice of 2 with the olive oil, garlic, oregano, paprika and pepper.",
+          "Salt the salmon, lay it skin-side down on the foil and pour the sauce over it. Top with slices from the remaining lemon.",
+          "Fold the foil over into a loose tent and seal it. Bake 15–20 minutes, until almost cooked through.",
+          "Open the foil and broil about 3 minutes until lightly browned. Sprinkle with parsley and serve with lemon wedges."
+        ],
+        "whyFits": "Salmon (a kosher fish), lemon, garlic, herbs and 3 tbsp oil for 6 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 pounds salmon fillet",
+          "Kosher salt",
+          "1 large lemon",
+          "Chopped parsley (for garnish)",
+          "2 large lemons",
+          "3 tablespoons extra virgin olive oil",
+          "5 garlic cloves (chopped)",
+          "2 teaspoon dried oregano",
+          "1 teaspoon sweet paprika",
+          "1/2 teaspoon black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלמון אפוי בנייר כסף עם לימון ושום",
+        "description": "פילה סלמון שלם אפוי באוהל נייר כסף ברוטב לימון, שום, אורגנו ופפריקה, ומוזהב בסוף בגריל.",
+        "ingredients": [
+          "900 גרם פילה סלמון",
+          "מלח גס",
+          "לימון גדול (לפרוסות ולפלחים)",
+          "פטרוזיליה קצוצה לקישוט",
+          "2 לימונים גדולים (לרוטב)",
+          "3 כפות שמן זית",
+          "5 שיני שום, קצוצות",
+          "2 כפיות אורגנו יבש",
+          "כפית פפריקה מתוקה",
+          "½ כפית פלפל שחור"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות. מרפדים תבנית ביריעה ארוכה של נייר כסף ומברישים בשמן.",
+          "טורפים גרידה מלימון אחד ומיץ משני לימונים עם שמן הזית, השום, האורגנו, הפפריקה והפלפל.",
+          "ממליחים את הסלמון, מניחים על נייר הכסף כשהעור למטה ויוצקים מעליו את הרוטב. מניחים מעל פרוסות מהלימון הנותר.",
+          "מקפלים את נייר הכסף לאוהל רפוי וסוגרים היטב. אופים 15–20 דקות, עד שהדג כמעט מוכן.",
+          "פותחים את נייר הכסף ומעבירים לגריל לכ-3 דקות להזהבה. מפזרים פטרוזיליה ומגישים עם פלחי לימון."
+        ],
+        "whyFits": "סלמון (דג כשר), לימון, שום, עשבי תיבול ו-3 כפות שמן ל-6 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "sheet-pan-salmon-sweet-potato-green-beans",
+      "url": "https://therealfooddietitians.com/one-pan-salmon-and-veggie-bake/",
+      "source": "The Real Food Dietitians",
+      "sourceLang": "en",
+      "image": "https://therealfooddietitians.com/wp-content/uploads/2017/02/Sheet-Pan-Baked-Salmon-and-Vegetables-plated-no-fork-e1612493885736-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 365,
+        "protein": 31
+      },
+      "en": {
+        "title": "Sheet-Pan Salmon with Sweet Potato and Green Beans",
+        "description": "Dill and lemon marinated salmon roasted on one pan with thin sweet potato slices, green beans and red onion.",
+        "steps": [
+          "Heat the oven to 220°C (425°F) and line a large rimmed baking sheet with parchment.",
+          "Whisk the oil, lemon juice, garlic, dill, salt and pepper. Set aside 2 tbsp, pour half of the rest over the salmon and refrigerate it.",
+          "Toss the sweet potato slices with the other half of the marinade, spread them on the pan and bake 10 minutes.",
+          "Push the sweet potatoes aside, add the green beans and onion tossed with the reserved 2 tbsp, and bake 5 minutes.",
+          "Make room in the middle for the salmon, top it with lemon slices, season, and bake 10–15 minutes until it flakes easily."
+        ],
+        "whyFits": "Fish and vegetables with 3 tbsp oil for 4 servings. No dairy, grains or sugar.",
+        "ingredients": [
+          "3 tablespoons avocado oil or olive oil",
+          "Juice of 1 medium lemon (about ¼ cup)",
+          "2 garlic cloves, finely minced",
+          "1 tablespoon fresh dill (or ½ teaspoon dried dill)",
+          "½ teaspoon fine salt",
+          "¼ teaspoon black pepper",
+          "1 ¼ pound salmon fillets",
+          "1 pound sweet potato (1 large or 2 small), thinly sliced",
+          "12 ounces fresh green beans, trimmed",
+          "½ small red onion, thinly sliced",
+          "½ lemon, thinly sliced"
+        ]
+      },
+      "he": {
+        "title": "סלמון בתבנית עם בטטה ושעועית ירוקה",
+        "description": "סלמון במרינדת שמיר ולימון, צלוי בתבנית אחת עם פרוסות בטטה דקות, שעועית ירוקה ובצל סגול.",
+        "ingredients": [
+          "3 כפות שמן אבוקדו או שמן זית",
+          "מיץ מלימון בינוני (כ-¼ כוס)",
+          "2 שיני שום, קצוצות דק",
+          "כף שמיר טרי (או ½ כפית יבש)",
+          "½ כפית מלח דק",
+          "¼ כפית פלפל שחור",
+          "560 גרם פילה סלמון",
+          "450 גרם בטטה, פרוסה דק",
+          "340 גרם שעועית ירוקה, קצוות חתוכים",
+          "½ בצל סגול קטן, פרוס דק",
+          "½ לימון, פרוס דק"
+        ],
+        "steps": [
+          "מחממים תנור ל-220 מעלות ומרפדים תבנית גדולה בנייר אפייה.",
+          "טורפים שמן, מיץ לימון, שום, שמיר, מלח ופלפל. שומרים בצד 2 כפות, יוצקים חצי מהשאר על הסלמון ומכניסים אותו למקרר.",
+          "מערבבים את פרוסות הבטטה עם החצי השני של המרינדה, מפזרים בתבנית ואופים 10 דקות.",
+          "מזיזים את הבטטה לצד, מוסיפים את השעועית והבצל מעורבבים עם 2 הכפות ששמרנו, ואופים 5 דקות.",
+          "מפנים מקום באמצע לסלמון, מניחים עליו פרוסות לימון, מתבלים ואופים 10–15 דקות עד שהוא מתפרק בקלות."
+        ],
+        "whyFits": "דג וירקות עם 3 כפות שמן ל-4 מנות. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "moroccan-cod-chickpeas",
+      "url": "https://www.themediterraneandish.com/moroccan-fish-recipe/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2019/09/Moroccan-Fish-Recipe-5-225x225.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40,
+      "servings": 6,
+      "nutrition": {
+        "calories": 463,
+        "protein": 24
+      },
+      "en": {
+        "title": "Moroccan Fish with Chickpeas and Peppers",
+        "description": "Spiced cod simmered on a saucy bed of tomatoes, red pepper, chickpeas, garlic and cilantro.",
+        "steps": [
+          "Heat 2 tbsp olive oil in a large lidded pan over medium heat. Add the minced garlic briefly, then the tomato paste, tomatoes and pepper, and cook 3–4 minutes.",
+          "Add the chickpeas, water, cilantro, sliced garlic, salt, pepper and ½ tsp ras el hanout. Bring to a boil, then partly cover and simmer about 20 minutes.",
+          "Mix the remaining ras el hanout with the cumin and paprika. Season the fish with salt, pepper and the spice mix and coat it with a drizzle of oil.",
+          "Nestle the fish into the sauce, spoon some over the top, and add the lemon juice and slices. Cook 10–15 minutes over medium-low until the fish flakes.",
+          "Garnish with more cilantro."
+        ],
+        "whyFits": "Kosher fish, legumes and vegetables in olive oil. No dairy, grains or sugar. Serve it on its own, without the bread or rice the original suggests. A classic Shabbat-style fish.",
+        "ingredients": [
+          "Extra virgin olive oil",
+          "8 garlic cloves (4 minced, 4 sliced)",
+          "2 tbsp tomato paste",
+          "2 medium tomatoes, diced",
+          "1 red bell pepper, sliced",
+          "1 can (400 g) chickpeas, drained and rinsed",
+          "1½ cups water",
+          "1 large handful fresh cilantro (about 1 cup)",
+          "Kosher salt and black pepper",
+          "1½ tsp ras el hanout, divided",
+          "680 g cod fillet pieces (about 1 cm thick)",
+          "¾ tsp paprika",
+          "½ tsp cumin",
+          "Juice of ½ lemon",
+          "½ lemon, thinly sliced"
+        ]
+      },
+      "he": {
+        "title": "דג מרוקאי עם חומוס ופלפלים",
+        "description": "פילה בקלה מתובל שמתבשל על מצע עסיסי של עגבניות, פלפל אדום, גרגירי חומוס, שום וכוסברה.",
+        "ingredients": [
+          "שמן זית",
+          "8 שיני שום (4 כתושות, 4 פרוסות)",
+          "2 כפות רסק עגבניות",
+          "2 עגבניות בינוניות, קצוצות",
+          "פלפל אדום, פרוס",
+          "קופסת גרגירי חומוס (400 גרם), מסוננים ושטופים",
+          "1½ כוסות מים",
+          "חופן גדול כוסברה טרייה (כוס)",
+          "מלח גס ופלפל שחור",
+          "1½ כפית ראס אל חנות, מחולק",
+          "680 גרם נתחי פילה בקלה (בעובי כ-1 ס״מ)",
+          "¾ כפית פפריקה",
+          "½ כפית כמון",
+          "מיץ מחצי לימון",
+          "½ לימון, פרוס דק"
+        ],
+        "steps": [
+          "מחממים 2 כפות שמן זית במחבת רחבה עם מכסה על אש בינונית. מוסיפים את השום הכתוש לרגע, ואז רסק, עגבניות ופלפל, ומבשלים 3–4 דקות.",
+          "מוסיפים חומוס, מים, כוסברה, השום הפרוס, מלח, פלפל ו-½ כפית ראס אל חנות. מביאים לרתיחה, מכסים חלקית ומבשלים כ-20 דקות.",
+          "מערבבים את שאר הראס אל חנות עם הכמון והפפריקה. מתבלים את הדג במלח, פלפל ותערובת התבלינים ומצפים בזילוף שמן.",
+          "משקיעים את הדג ברוטב, יוצקים מעט רוטב מעליו, ומוסיפים מיץ ופרוסות לימון. מבשלים 10–15 דקות על אש בינונית-נמוכה עד שהדג מתפרק.",
+          "מקשטים בעוד כוסברה."
+        ],
+        "whyFits": "דג כשר, קטניות וירקות בשמן זית. בלי חלב, דגנים או סוכר. מגישים לבד, בלי הלחם או האורז שהמקור מציע. דג בסגנון שבת קלאסי."
+      }
+    },
+    {
+      "id": "slow-roasted-salmon-herb-potatoes",
+      "url": "https://www.themediterraneandish.com/slow-roasted-salmon/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/09/TMD-Slow-Roasted-Salmon-Leads-04.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 40,
+      "totalMinutes": 50,
+      "servings": 4,
+      "nutrition": {
+        "calories": 254,
+        "protein": 25
+      },
+      "en": {
+        "title": "Slow-Roasted Salmon with Herb Potatoes",
+        "description": "Baby potatoes roasted hot with thyme, rosemary and garlic, then salmon slow-roasted beside them so it stays silky.",
+        "steps": [
+          "Heat the oven to 230°C (450°F). Toss the potatoes with 1 tsp thyme, 1 tsp rosemary, salt, pepper, 2 tsp garlic and 2 tbsp oil.",
+          "Roast the potatoes cut-side down for 25 minutes. Meanwhile, season the salmon and let it sit at room temperature.",
+          "Take out the pan and lower the oven to 120°C (250°F). Push the potatoes aside, oil the pan and add the salmon. Drizzle it with 3–4 tbsp oil and spread the remaining herbs and garlic on top.",
+          "Return to the oven for 15–18 minutes for medium-rare, or up to 25 minutes for medium.",
+          "Squeeze lemon over the salmon and serve."
+        ],
+        "whyFits": "Salmon and potatoes with herbs and olive oil, about 1 tbsp per serving. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 pound baby potatoes (scrubbed and halved)",
+          "4 teaspoons fresh thyme leaves (divided)",
+          "2 teaspoons dried rosemary (divided)",
+          "Kosher salt",
+          "Black pepper",
+          "5 garlic cloves (minced (divided)",
+          "Extra virgin olive oil",
+          "1 pound salmon fillet",
+          "1 lemon (halved)"
+        ]
+      },
+      "he": {
+        "title": "סלמון בצלייה איטית עם תפוחי אדמה ועשבי תיבול",
+        "description": "תפוחי אדמה קטנים צלויים בחום גבוה עם טימין, רוזמרין ושום, וסלמון שנצלה לידם לאט ונשאר רך וחלק.",
+        "ingredients": [
+          "450 גרם תפוחי אדמה קטנים, חצויים",
+          "4 כפיות עלי טימין טרי, מחולק",
+          "2 כפיות רוזמרין יבש, מחולק",
+          "מלח גס",
+          "פלפל שחור",
+          "5 שיני שום כתושות, מחולק",
+          "שמן זית",
+          "450 גרם פילה סלמון",
+          "לימון, חצוי"
+        ],
+        "steps": [
+          "מחממים תנור ל-230 מעלות. מערבבים את תפוחי האדמה עם כפית טימין, כפית רוזמרין, מלח, פלפל, 2 כפיות שום ו-2 כפות שמן.",
+          "צולים את תפוחי האדמה על הצד החתוך 25 דקות. בינתיים מתבלים את הסלמון ומשאירים בטמפרטורת החדר.",
+          "מוציאים את התבנית ומורידים את התנור ל-120 מעלות. דוחפים את תפוחי האדמה לצד, משמנים ומניחים את הסלמון. מזלפים עליו 3–4 כפות שמן ומורחים מעל את שאר העשבים והשום.",
+          "מחזירים לתנור ל-15–18 דקות לעשייה בינונית-נא, או עד 25 דקות לעשייה בינונית.",
+          "סוחטים לימון על הסלמון ומגישים."
+        ],
+        "whyFits": "סלמון ותפוחי אדמה עם עשבי תיבול ושמן זית, כף למנה בערך. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "10-minute-air-fryer-salmon",
+      "url": "https://detoxinista.com/air-fryer-salmon/",
+      "source": "Detoxinista",
+      "sourceLang": "en",
+      "image": "https://detoxinista.com/wp-content/uploads/2021/02/air-fryer-salmon-filet-in-air-fryer.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 7,
+      "totalMinutes": 12,
+      "servings": 2,
+      "nutrition": {
+        "calories": 281,
+        "protein": 34
+      },
+      "en": {
+        "title": "10-Minute Air Fryer Salmon",
+        "description": "Salmon fillets brushed with lemon, garlic and olive oil and cooked in the air fryer in minutes.",
+        "steps": [
+          "Heat the air fryer to 200°C (400°F) if yours needs preheating. Mix the oil, lemon juice and garlic and spoon it over the fish.",
+          "Season each fillet generously with salt and pepper and place them 2–3 cm apart in the basket.",
+          "Cook about 7 minutes, until the thickest part reaches 60°C (140°F) and flakes easily. Cook a little longer if needed.",
+          "Rest briefly and serve. Keeps 3 days in the fridge."
+        ],
+        "whyFits": "Just salmon, lemon, garlic and 2 tsp of oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 (6-ounce) salmon fillets (about 1 1/2-inches thick)",
+          "2 teaspoons extra-virgin olive oil",
+          "1 tablespoon lemon juice",
+          "1 garlic clove (minced )",
+          "½ teaspoon fine sea salt",
+          "¼ teaspoon black pepper"
+        ]
+      },
+      "he": {
+        "title": "סלמון בסיר טיגון באוויר ב-10 דקות",
+        "description": "פילה סלמון מוברש בלימון, שום ושמן זית, מוכן בסיר טיגון באוויר תוך דקות.",
+        "ingredients": [
+          "2 פילה סלמון (170 גרם כל אחד, בעובי כ-4 ס״מ)",
+          "2 כפיות שמן זית",
+          "כף מיץ לימון",
+          "שן שום, כתושה",
+          "½ כפית מלח ים דק",
+          "¼ כפית פלפל שחור"
+        ],
+        "steps": [
+          "מחממים את הסיר ל-200 מעלות אם הוא דורש חימום מוקדם. מערבבים שמן, מיץ לימון ושום ומורחים על הדג.",
+          "מתבלים כל פילה בנדיבות במלח ופלפל ומניחים בסל במרחק 2–3 ס״מ זה מזה.",
+          "מבשלים כ-7 דקות, עד שהחלק העבה מגיע ל-60 מעלות ומתפרק בקלות. אם צריך, מוסיפים עוד דקה-שתיים.",
+          "נותנים לנוח רגע ומגישים. נשמר 3 ימים במקרר."
+        ],
+        "whyFits": "רק סלמון, לימון, שום ו-2 כפיות שמן. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "pistachio-crusted-salmon",
+      "url": "https://downshiftology.com/recipes/pistachio-crusted-salmon/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2023/08/Pistachio-Crusted-Salmon-main.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "totalMinutes": 30,
+      "servings": 4,
+      "nutrition": {
+        "calories": 356,
+        "protein": 33
+      },
+      "en": {
+        "title": "Pistachio-Crusted Salmon",
+        "description": "Salmon fillets topped with a crunchy crust of pistachios, Dijon, lemon and garlic, bound with a little maple or honey.",
+        "steps": [
+          "Heat the oven to 190°C (375°F). Let the salmon sit 15 minutes at room temperature, then pat it dry, place it on a lined tray and season.",
+          "Mix the maple syrup (or honey), mustard, lemon juice, garlic and pistachios.",
+          "Press the pistachio mixture evenly on top of each fillet.",
+          "Bake 12–15 minutes, until cooked through."
+        ],
+        "whyFits": "Only 1½ tbsp of maple syrup or honey for 4 servings. Nuts give the crunch instead of breadcrumbs. No dairy or grains.",
+        "ingredients": [
+          "4 (6-ounce) salmon fillets",
+          "kosher salt and freshly ground black pepper (to taste)",
+          "1 ½ tablespoons maple syrup or honey",
+          "1 tablespoon Dijon mustard",
+          "1 tablespoon lemon juice",
+          "2 garlic cloves (minced)",
+          "¾ cup finely chopped pistachios"
+        ]
+      },
+      "he": {
+        "title": "סלמון בקרום פיסטוקים",
+        "description": "פילה סלמון עם קרום פריך של פיסטוקים, חרדל דיז׳ון, לימון ושום, מחוברים במעט מייפל או דבש.",
+        "ingredients": [
+          "4 פילה סלמון (170 גרם כל אחד)",
+          "מלח ופלפל שחור לפי הטעם",
+          "1½ כפות מייפל או דבש",
+          "כף חרדל דיז׳ון",
+          "כף מיץ לימון",
+          "2 שיני שום, כתושות",
+          "¾ כוס פיסטוקים קצוצים דק"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות. משאירים את הסלמון 15 דקות בטמפרטורת החדר, מייבשים, מניחים בתבנית מרופדת ומתבלים.",
+          "מערבבים מייפל (או דבש), חרדל, מיץ לימון, שום ופיסטוקים.",
+          "מחלקים את תערובת הפיסטוקים על הפילטים ומהדקים בגב כף.",
+          "אופים 12–15 דקות, עד שהדג מוכן."
+        ],
+        "whyFits": "רק 1½ כפות מייפל או דבש ל-4 מנות. אגוזים נותנים את הפריכות במקום פירורי לחם. בלי חלב ובלי דגנים."
+      }
+    },
+    {
+      "id": "blackened-salmon",
+      "url": "https://downshiftology.com/recipes/blackened-salmon/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2024/02/Blackened-Salmon-main-2.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 10,
+      "totalMinutes": 15,
+      "servings": 4,
+      "nutrition": {
+        "calories": 339,
+        "protein": 34
+      },
+      "en": {
+        "title": "Blackened Salmon",
+        "description": "Salmon rubbed with a smoky, spicy paprika blend and seared hard in a hot skillet. Ready in 15 minutes.",
+        "steps": [
+          "Mix the paprika, salt, garlic powder, onion powder, oregano, thyme, cayenne and black pepper.",
+          "Rub the salmon with 1 tbsp of the oil, then rub the spice mix all over it.",
+          "Heat the remaining 2 tbsp oil in a large skillet over medium-high heat. Cook the salmon top-side down 2–3 minutes until blackened, flip and cook 2–3 minutes more.",
+          "Finish with a squeeze of lemon or lime."
+        ],
+        "whyFits": "Salmon, spices and olive oil. No dairy, grains or sugar.",
+        "ingredients": [
+          "1 teaspoon sweet paprika",
+          "½ teaspoon kosher salt",
+          "½ teaspoon garlic powder",
+          "¼ teaspoon onion powder",
+          "¼ teaspoon dried oregano",
+          "¼ teaspoon dried thyme",
+          "¼ teaspoon cayenne pepper",
+          "¼ teaspoon freshly ground black pepper",
+          "4 (6-ounce) salmon filets",
+          "3 tablespoons extra-virgin olive oil"
+        ]
+      },
+      "he": {
+        "title": "סלמון ״מושחר״ בתבלינים",
+        "description": "סלמון משופשף בתערובת פפריקה מעושנת וחריפה, צרוב חזק במחבת לוהטת. מוכן תוך רבע שעה.",
+        "ingredients": [
+          "כפית פפריקה מתוקה",
+          "½ כפית מלח גס",
+          "½ כפית אבקת שום",
+          "¼ כפית אבקת בצל",
+          "¼ כפית אורגנו יבש",
+          "¼ כפית טימין יבש",
+          "¼ כפית פלפל קאיין",
+          "¼ כפית פלפל שחור גרוס",
+          "4 פילה סלמון (170 גרם כל אחד)",
+          "3 כפות שמן זית"
+        ],
+        "steps": [
+          "מערבבים פפריקה, מלח, אבקת שום, אבקת בצל, אורגנו, טימין, קאיין ופלפל שחור.",
+          "משפשפים את הסלמון בכף מהשמן, ואז מכסים אותו בתערובת התבלינים.",
+          "מחממים את 2 כפות השמן הנותרות במחבת גדולה על אש בינונית-גבוהה. צורבים את הסלמון, הצד העליון למטה, 2–3 דקות עד שהוא משחים, הופכים ומבשלים עוד 2–3 דקות.",
+          "מסיימים בסחיטת לימון או ליים."
+        ],
+        "whyFits": "סלמון, תבלינים ושמן זית. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "grilled-salmon-mango-salsa",
+      "url": "https://downshiftology.com/recipes/grilled-salmon-with-mango-salsa/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2025/08/Grilled-Salmon-with-Mango-Salsa-main.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 20,
+      "cookMinutes": 6,
+      "totalMinutes": 26,
+      "servings": 4,
+      "nutrition": {
+        "calories": 396,
+        "protein": 36
+      },
+      "en": {
+        "title": "Grilled Salmon with Mango Salsa",
+        "description": "Quickly grilled salmon topped with a fresh salsa of mango, cucumber, red onion, jalapeño, cilantro and lime.",
+        "steps": [
+          "Mix the mango, red onion, cucumber, jalapeño, cilantro, lime juice and salt into a salsa.",
+          "Pat the salmon dry, coat it with oil, and season with garlic powder, salt and pepper.",
+          "Heat a grill or grill pan on high and oil it. Cook the salmon flesh-side down 3 minutes, flip carefully, and cook about 3 minutes more until done.",
+          "Rest 2–3 minutes, squeeze lemon over it, and top with the mango salsa."
+        ],
+        "whyFits": "Fish, fresh fruit and vegetables. Sweetness comes only from the mango. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 ripe mangoes (peeled, pitted, and diced)",
+          "½ small red onion (diced)",
+          "1 medium cucumber (sliced and diced)",
+          "1 jalapeno pepper (seeded, and finely diced)",
+          "¼ cup finely chopped cilantro leaves",
+          "1 lime (juiced (about 2 tablespoons juice)",
+          "¼ teaspoon kosher salt",
+          "4 salmon filets",
+          "2 tablespoons avocado oil (plus more to oil the grates/pan)",
+          "1 teaspoon garlic powder",
+          "kosher salt and ground black pepper (to taste)",
+          "1 lemon (cut into wedges)"
+        ]
+      },
+      "he": {
+        "title": "סלמון על הגריל עם סלסת מנגו",
+        "description": "סלמון צלוי במהירות, עם סלסה טרייה של מנגו, מלפפון, בצל סגול, חלפיניו, כוסברה וליים.",
+        "ingredients": [
+          "2 מנגו בשלים, קלופים וקצוצים",
+          "½ בצל סגול קטן, קצוץ",
+          "מלפפון בינוני, קצוץ",
+          "פלפל חלפיניו, בלי גרעינים, קצוץ דק",
+          "¼ כוס כוסברה קצוצה דק",
+          "ליים (כ-2 כפות מיץ)",
+          "¼ כפית מלח גס",
+          "4 פילה סלמון",
+          "2 כפות שמן אבוקדו (ועוד לשימון)",
+          "כפית אבקת שום",
+          "מלח ופלפל שחור לפי הטעם",
+          "לימון, חתוך לפלחים"
+        ],
+        "steps": [
+          "מערבבים מנגו, בצל סגול, מלפפון, חלפיניו, כוסברה, מיץ ליים ומלח לסלסה.",
+          "מייבשים את הסלמון, מצפים בשמן ומתבלים באבקת שום, מלח ופלפל.",
+          "מחממים גריל או מחבת פסים על חום גבוה ומשמנים. צולים את הסלמון על צד הבשר 3 דקות, הופכים בעדינות וצולים עוד כ-3 דקות עד שהוא מוכן.",
+          "נותנים לנוח 2–3 דקות, סוחטים לימון ומגישים עם סלסת המנגו מעל."
+        ],
+        "whyFits": "דג, פרי וירקות טריים. המתיקות רק מהמנגו. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "cod-poached-tomato-pepper-sauce",
+      "url": "https://www.themediterraneandish.com/poached-cod-in-tomatoes-and-peppers-bacalao-a-la-riojana/",
+      "source": "The Mediterranean Dish",
+      "sourceLang": "en",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/12/Mediterranean-Dish-Bacalao-a-la-Riojana-LEAD-5.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": true,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "totalMinutes": 45,
+      "servings": 4,
+      "nutrition": {
+        "calories": 218,
+        "protein": 31
+      },
+      "en": {
+        "title": "Cod Poached in Tomato and Roasted Pepper Sauce",
+        "description": "A Spanish-style dish of cod gently simmered in a smoky sauce of tomatoes, roasted red peppers, onion and garlic.",
+        "steps": [
+          "Heat the oil in a large skillet and cook the onion about 5 minutes until soft and lightly golden. Add the garlic for 1 minute, then the sliced peppers for 5 minutes.",
+          "Add the tomatoes, smoked paprika, salt, pepper and bay leaf. Simmer on low for 15 minutes until slightly thickened.",
+          "Nestle the cod into the sauce skin-side up and cook 5–6 minutes. Flip and simmer 5–6 minutes more, until it flakes easily.",
+          "Serve the cod with plenty of sauce and sprinkle with parsley."
+        ],
+        "whyFits": "Kosher fish in a vegetable sauce with 2 tbsp oil for 4 servings. Plain canned tomatoes and jarred roasted peppers are allowed. No dairy, grains or sugar.",
+        "ingredients": [
+          "2 tablespoons extra virgin olive oil",
+          "1 onion (thinly sliced)",
+          "3 cloves garlic (minced)",
+          "1 (14-ounce) can or jar roasted piquillo or red peppers (drained and thinly sliced)",
+          "1 (28-ounce) can crushed tomatoes",
+          "1 teaspoon smoked Spanish paprika",
+          "1 teaspoon kosher salt",
+          "1/4 teaspoon freshly ground black pepper",
+          "1 bay leaf",
+          "1 1/2 pounds cod fillet (cut into four portions)",
+          "1 tablespoon minced flat-leaf parsley"
+        ]
+      },
+      "he": {
+        "title": "בקלה מבושל ברוטב עגבניות ופלפלים קלויים",
+        "description": "מנה ספרדית של בקלה שמתבשל בעדינות ברוטב מעושן של עגבניות, פלפלים אדומים קלויים, בצל ושום.",
+        "ingredients": [
+          "2 כפות שמן זית",
+          "בצל, פרוס דק",
+          "3 שיני שום, כתושות",
+          "צנצנת או קופסת פלפלים אדומים קלויים (400 גרם), מסוננים ופרוסים דק",
+          "קופסת עגבניות מרוסקות (800 גרם)",
+          "כפית פפריקה מעושנת",
+          "כפית מלח גס",
+          "¼ כפית פלפל שחור",
+          "עלה דפנה",
+          "680 גרם פילה בקלה, חתוך ל-4 מנות",
+          "כף פטרוזיליה קצוצה"
+        ],
+        "steps": [
+          "מחממים שמן במחבת רחבה ומאדים את הבצל כ-5 דקות, עד שהוא רך ומעט מוזהב. מוסיפים שום לדקה, ואז את הפלפלים ל-5 דקות.",
+          "מוסיפים עגבניות, פפריקה מעושנת, מלח, פלפל ועלה דפנה. מבשלים על אש נמוכה 15 דקות עד שהרוטב מסמיך מעט.",
+          "משקיעים את הבקלה ברוטב, העור למעלה, ומבשלים 5–6 דקות. הופכים ומבשלים עוד 5–6 דקות, עד שהדג מתפרק בקלות.",
+          "מגישים את הדג עם הרבה רוטב ומפזרים פטרוזיליה."
+        ],
+        "whyFits": "דג כשר ברוטב ירקות, 2 כפות שמן ל-4 מנות. עגבניות משומרות ופלפלים קלויים מצנצנת מותרים. בלי חלב, דגנים או סוכר."
+      }
+    },
+    {
+      "id": "easy-poached-salmon-white-wine",
+      "url": "https://downshiftology.com/recipes/poached-salmon/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2023/08/Poached-Salmon-main.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 10,
+      "cookMinutes": 10,
+      "totalMinutes": 20,
+      "servings": 4,
+      "nutrition": {
+        "calories": 268,
+        "protein": 35
+      },
+      "en": {
+        "title": "Easy Poached Salmon with Lemon and Herbs",
+        "description": "Salmon poached in a light broth of white wine, lemon, shallot and fresh herbs. Ready in 20 minutes.",
+        "steps": [
+          "Put the sliced lemon, shallot, herbs, wine and water in a large skillet and bring to a simmer over medium heat.",
+          "Add the salmon skin-side down, season with salt and pepper, cover, and poach 5–7 minutes depending on thickness.",
+          "Garnish with fresh herbs and a squeeze of lemon."
+        ],
+        "whyFits": "Salmon poached in wine and water, with no added fat. No dairy, grains or sugar. Skip the hollandaise the original mentions.",
+        "ingredients": [
+          "2 lemons (one thinly sliced for poaching and the other quartered for squeezing on top)",
+          "1 small shallot (thinly sliced)",
+          "3 to 4 sprigs tender fresh herbs (dill, parsley, cilantro, tarragon, etc)",
+          "½ cup white wine",
+          "½ cup water",
+          "4 (6-ounce) salmon filets",
+          "kosher salt and freshly ground black pepper (to taste)"
+        ]
+      },
+      "he": {
+        "title": "סלמון חלוט ביין לבן, לימון ועשבי תיבול",
+        "description": "סלמון שמתבשל בציר קליל של יין לבן, לימון, שאלוט ועשבי תיבול טריים. מוכן תוך 20 דקות.",
+        "ingredients": [
+          "2 לימונים (אחד פרוס דק לבישול, אחד לפלחים להגשה)",
+          "שאלוט קטן, פרוס דק",
+          "3–4 ענפי עשבי תיבול רכים (שמיר, פטרוזיליה, כוסברה, טרגון)",
+          "½ כוס יין לבן",
+          "½ כוס מים",
+          "4 פילה סלמון (170 גרם כל אחד)",
+          "מלח ופלפל שחור לפי הטעם"
+        ],
+        "steps": [
+          "מכניסים למחבת רחבה את פרוסות הלימון, השאלוט, עשבי התיבול, היין והמים ומביאים לבעבוע עדין על אש בינונית.",
+          "מניחים את הסלמון כשהעור למטה, מתבלים במלח ופלפל, מכסים ומבשלים 5–7 דקות לפי העובי.",
+          "מקשטים בעשבי תיבול טריים ובסחיטת לימון."
+        ],
+        "whyFits": "סלמון שמתבשל ביין ובמים, בלי תוספת שומן. בלי חלב, דגנים או סוכר. מוותרים על רוטב ההולנדייז שהמקור מזכיר."
+      }
+    },
+    {
+      "id": "chili-lime-baked-trout",
+      "url": "https://downshiftology.com/recipes/chili-lime-baked-trout/",
+      "source": "Downshiftology",
+      "sourceLang": "en",
+      "image": "https://downshiftology.com/wp-content/uploads/2022/09/Chili-Lime-Trout-main-4.jpg",
+      "added": "2026-11-01",
+      "category": "fish",
+      "shabbat": false,
+      "prepMinutes": 5,
+      "cookMinutes": 20,
+      "totalMinutes": 25,
+      "servings": 4,
+      "nutrition": {
+        "calories": 241,
+        "protein": 30
+      },
+      "en": {
+        "title": "Chili-Lime Baked Trout",
+        "description": "Trout fillets brushed with a zesty glaze of lime, chili powder and a little honey, baked in under 20 minutes.",
+        "steps": [
+          "Heat the oven to 190°C (375°F) and line a baking sheet with parchment. Mix the lime zest and juice, honey, oil, chili powder and salt.",
+          "Place the trout on the sheet and brush it with the chili-lime mixture.",
+          "Bake 16–18 minutes, until the trout flakes easily. Garnish with parsley and lime wedges if you like."
+        ],
+        "whyFits": "Trout is a kosher fish. Only 1 tbsp of honey for 4 servings and 1 tsp of oil. No dairy or grains.",
+        "ingredients": [
+          "1 ¼ pound Steelhead trout",
+          "1 lime (zested + 1 teaspoon of juice)",
+          "1 tablespoon honey",
+          "1 teaspoon olive oil",
+          "1 teaspoon chili powder",
+          "½ teaspoon kosher salt",
+          "Optional: additional lime wedges for squeezing on top and freshly chopped parsley"
+        ]
+      },
+      "he": {
+        "title": "טרוטה אפויה בצ׳ילי וליים",
+        "description": "פילה טרוטה מוברש בזיגוג רענן של ליים, אבקת צ׳ילי ומעט דבש, אפוי בפחות מ-20 דקות.",
+        "ingredients": [
+          "560 גרם פילה טרוטה (פורל)",
+          "ליים (גרידה וכפית מיץ)",
+          "כף דבש",
+          "כפית שמן זית",
+          "כפית אבקת צ׳ילי",
+          "½ כפית מלח גס",
+          "לא חובה: פלחי ליים ופטרוזיליה קצוצה להגשה"
+        ],
+        "steps": [
+          "מחממים תנור ל-190 מעלות ומרפדים תבנית בנייר אפייה. מערבבים גרידת ליים, מיץ, דבש, שמן, אבקת צ׳ילי ומלח.",
+          "מניחים את הטרוטה בתבנית ומברישים בתערובת.",
+          "אופים 16–18 דקות, עד שהדג מתפרק בקלות. אפשר לקשט בפטרוזיליה ופלחי ליים."
+        ],
+        "whyFits": "טרוטה היא דג כשר. רק כף דבש ל-4 מנות וכפית שמן. בלי חלב ובלי דגנים."
+      }
+    },
+    {
       "id": "sheet-pan-chicken-date-mustard-sauce",
       "url": "https://www.paleorunningmomma.com/sheet-pan-chicken-veggies-paleo-whole30/",
       "source": "The Paleo Running Momma",
@@ -14,7 +1146,10 @@
       "cookMinutes": 30,
       "totalMinutes": 35,
       "servings": 6,
-      "nutrition": { "calories": 301, "protein": 27 },
+      "nutrition": {
+        "calories": 301,
+        "protein": 27
+      },
       "en": {
         "title": "Sheet-Pan Chicken Thighs with Vegetables and Date-Mustard Sauce",
         "description": "Chicken thighs in a sweet-savory sauce made from dates and mustard, roasted on one pan with sweet potato, pepper, onion and broccoli.",
@@ -93,7 +1228,10 @@
       "cookMinutes": 35,
       "totalMinutes": 50,
       "servings": 4,
-      "nutrition": { "calories": 450, "protein": 35 },
+      "nutrition": {
+        "calories": 450,
+        "protein": 35
+      },
       "en": {
         "title": "One-Pan Roasted Chicken Thighs with Carrots, Green Beans and Potatoes",
         "description": "A simple, classic tray of chicken thighs roasted on a bed of vegetables with rosemary, thyme and garlic.",
@@ -156,7 +1294,10 @@
       "cookMinutes": 35,
       "totalMinutes": 45,
       "servings": 4,
-      "nutrition": { "calories": 590, "protein": 33 },
+      "nutrition": {
+        "calories": 590,
+        "protein": 33
+      },
       "en": {
         "title": "Sheet-Pan Tandoori Chicken with Cauliflower",
         "description": "Indian-spiced chicken thighs and cauliflower in a coconut-milk tandoori marinade, roasted together on one pan.",
@@ -223,7 +1364,10 @@
       "cookMinutes": 15,
       "totalMinutes": 30,
       "servings": 6,
-      "nutrition": { "calories": 300, "protein": 25 },
+      "nutrition": {
+        "calories": 300,
+        "protein": 25
+      },
       "en": {
         "title": "Baked Salmon with Dairy-Free Walnut Pesto and Cherry Tomatoes",
         "description": "Salmon fillets covered in a 5-minute basil-walnut pesto (no cheese) and baked with cherry tomatoes. Ready in under 30 minutes.",
@@ -288,7 +1432,10 @@
       "cookMinutes": 40,
       "totalMinutes": 55,
       "servings": 6,
-      "nutrition": { "calories": 363, "protein": 23 },
+      "nutrition": {
+        "calories": 363,
+        "protein": 23
+      },
       "en": {
         "title": "Salmon Niçoise Salad",
         "description": "A hearty main-course salad of greens, baked salmon, jammy eggs, potatoes, green beans and olives, with an anchovy-mustard-lemon dressing.",
@@ -365,7 +1512,10 @@
       "cookMinutes": 20,
       "totalMinutes": 30,
       "servings": 6,
-      "nutrition": { "calories": 146, "protein": 7 },
+      "nutrition": {
+        "calories": 146,
+        "protein": 7
+      },
       "en": {
         "title": "Classic Shakshuka",
         "description": "Eggs gently poached in a spiced tomato and red pepper sauce, finished with fresh cilantro and parsley.",
@@ -432,7 +1582,10 @@
       "cookMinutes": 30,
       "totalMinutes": 45,
       "servings": 4,
-      "nutrition": { "calories": 420, "protein": 18 },
+      "nutrition": {
+        "calories": 420,
+        "protein": 18
+      },
       "en": {
         "title": "Mediterranean Lentil Soup with Kale",
         "description": "A hearty, cozy lentil soup with tomatoes, vegetables and Mediterranean herbs, brightened with lemon at the end.",
@@ -507,7 +1660,10 @@
       "cookMinutes": 30,
       "totalMinutes": 40,
       "servings": 6,
-      "nutrition": { "calories": 271, "protein": 20 },
+      "nutrition": {
+        "calories": 271,
+        "protein": 20
+      },
       "en": {
         "title": "One-Pot Tuscan Beef and Lentil Soup",
         "description": "A comforting tomato soup with ground beef, lentils and kale, all made in one pot.",
@@ -578,7 +1734,10 @@
       "cookMinutes": 25,
       "totalMinutes": 30,
       "servings": 4,
-      "nutrition": { "calories": 268, "protein": 9 },
+      "nutrition": {
+        "calories": 268,
+        "protein": 9
+      },
       "en": {
         "title": "Golden Curry Red Lentil Soup",
         "description": "Red lentils and carrots simmered in vegetable broth and light coconut milk with ginger and curry. Ready in 30 minutes.",
@@ -647,7 +1806,10 @@
       "cookMinutes": 25,
       "totalMinutes": 30,
       "servings": 5,
-      "nutrition": { "calories": 150, "protein": 6 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 6
+      },
       "he": {
         "title": "סלט עדשים שחורות, אפרסמון וסלרי",
         "description": "סלט קליל ומזין של עדשים שחורות עם אפרסמון מתוק, סלרי פריך ובצל סגול, בתיבול שמן זית ולימון.",
@@ -700,7 +1862,10 @@
       "cookMinutes": 13,
       "totalMinutes": 23,
       "servings": 20,
-      "nutrition": { "calories": 59, "protein": 2 },
+      "nutrition": {
+        "calories": 59,
+        "protein": 2
+      },
       "en": {
         "title": "Date-Sweetened Flourless Brownie Bites",
         "description": "Fudgy two-bite brownies made from Medjool dates, almond butter, flax and cacao. Sweetened only with fruit.",
@@ -761,7 +1926,10 @@
       "cookMinutes": 60,
       "totalMinutes": 70,
       "servings": 10,
-      "nutrition": { "calories": 248, "protein": 6 },
+      "nutrition": {
+        "calories": 248,
+        "protein": 6
+      },
       "en": {
         "title": "Almond Flour Banana Bread with No Added Sugar",
         "description": "A moist, tender banana loaf made with almond flour and sweetened only by very ripe bananas.",
